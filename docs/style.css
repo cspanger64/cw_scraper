@@ -1,0 +1,122 @@
+:root {
+  --cell-size: 44px;
+  --gap: 4px;
+  --bg: #f7f7f9;
+  --fg: #222;
+  --accent: #0a66ff;
+  --muted: #bbb;
+  --ok: #2e7d32;
+  --bad: #c62828;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  color: var(--fg);
+  background: var(--bg);
+}
+header, footer {
+  padding: 16px 20px;
+  background: white;
+  border-bottom: 1px solid #e7e7ea;
+}
+header h1 {
+  margin: 0 0 8px 0;
+  font-size: 20px;
+}
+.controls button {
+  margin-right: 8px;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+controls button:focus, .controls button:hover { border-color: var(--accent); }
+
+main {
+  display: grid;
+  grid-template-columns: auto minmax(260px, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+#grid {
+  display: grid; /* template set dynamically */
+  gap: var(--gap);
+  background: #e7e7ea;
+  padding: var(--gap);
+  width: max-content;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.08);
+  background-clip: padding-box;
+}
+
+.cell {
+  width: var(--cell-size);
+  height: var(--cell-size);
+  position: relative;
+  background: #fff;
+  border-radius: 6px;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border: 1px solid #eee;
+}
+
+.cell.black {
+  background: #111;
+  border: 1px solid #111;
+}
+
+.cell input {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  outline: none;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  background: transparent;
+}
+
+.cell .num {
+  position: absolute;
+  top: 2px;
+  left: 4px;
+  font-size: 10px;
+  color: #666;
+}
+
+.cell.active {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+.cell.highlight {
+  background: #eaf1ff;
+}
+
+#clues {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+#clues h2 { margin: 0 0 8px 0; font-size: 16px; }
+#clues ol {
+  margin: 0;
+  padding-left: 18px;
+}
+#clues li {
+  margin: 6px 0;
+  cursor: pointer;
+}
+#clues li.active {
+  background: #eef3ff;
+  border-left: 3px solid var(--accent);
+  padding-left: 6px;
+}
+.feedback-ok { color: var(--ok); }
+.feedback-bad { color: var(--bad); }
