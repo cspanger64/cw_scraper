@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily Mini Crossword</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header>
+    <h1>Daily Mini Crossword</h1>
+    <div class="controls">
+      <button id="check">Check</button>
+      <button id="reveal">Reveal</button>
+      <button id="clear">Clear</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="grid"></section>
+    <section id="clues">
+      <div>
+        <h2>Across</h2>
+        <ol id="across"></ol>
+      </div>
+      <div>
+        <h2>Down</h2>
+        <ol id="down"></ol>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <small>Auto-updated daily from <code>docs/puzzle.json</code>.</small>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
