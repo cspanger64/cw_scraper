@@ -1,2 +1,2 @@
 # cw_scraper
-i want to play the nyt mini
+if you see this no you didnt :)
