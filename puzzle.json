@@ -1,0 +1,119 @@
+{
+  "size": [
+    5,
+    5
+  ],
+  "grid": [
+    [
+      "T",
+      "O",
+      "N",
+      "Y",
+      "S"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "G",
+      "E",
+      "C",
+      "K",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "K",
+      "E",
+      "W"
+    ],
+    [
+      null,
+      null,
+      "S",
+      "L",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "clue": "\"Hamilton\" was nominated for 16 of them in '16",
+        "answer": "TONYS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Vegetable you might wear cooking goggles to cut",
+        "answer": "ONION",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Lizard that can detach its own tail",
+        "answer": "GECKO",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Slightly off, as a picture frame",
+        "answer": "ASKEW",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Cunning",
+        "answer": "SLY",
+        "row": 4,
+        "col": 2
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Wrap on filming \"300\"?",
+        "answer": "TOGA",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Tip jar bills",
+        "answer": "ONES",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Tiny shaving cuts",
+        "answer": "NICKS",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Country bumpkin",
+        "answer": "YOKEL",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Adjective that can precede \"owl\" or \"egret\"",
+        "answer": "SNOWY",
+        "row": 0,
+        "col": 4
+      }
+    ]
+  }
+}
