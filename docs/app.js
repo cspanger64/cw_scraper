@@ -296,10 +296,13 @@ function buildUI(puzzle) {
         }
       }
     }
-    const msg = correct === total
-      ? "All correct!"
-      : `Correct: ${correct}/${total}`;
-    alert(msg);
+    if (correct === total) {
+  stopTimer();
+  const finalTime = document.getElementById("timer").textContent;
+  alert(`All correct! 🎉\nTime: ${finalTime}`);
+} else {
+  alert(`Correct: ${correct}/${total}`);
+}
   };
 
   document.getElementById('reveal').onclick = () => {
@@ -322,6 +325,8 @@ function buildUI(puzzle) {
       inp.parentElement.style.outline = "";
     });
   };
+  document.getElementById("start-btn").addEventListener("click", startTimer);
+
 
   // Initial focus
   setActive('across', 0);
@@ -333,4 +338,5 @@ loadPuzzle()
     document.getElementById('grid').textContent = 'Failed to load puzzle.';
     console.error(err);
   });
+
 
