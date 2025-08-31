@@ -1,3 +1,26 @@
+let timerInterval;
+let startTime;
+let timerRunning = false;
+
+function startTimer() {
+  if (timerRunning) return; // prevent double starts
+  startTime = Date.now();
+  timerRunning = true;
+
+  timerInterval = setInterval(() => {
+    const elapsed = Date.now() - startTime;
+    const minutes = Math.floor(elapsed / 60000);
+    const seconds = Math.floor((elapsed % 60000) / 1000);
+    document.getElementById("timer").textContent =
+      `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+  }, 1000);
+}
+
+function stopTimer() {
+  clearInterval(timerInterval);
+  timerRunning = false;
+}
+
 async function loadPuzzle() {
   const res = await fetch('./puzzle.json', { cache: 'no-store' });
   if (!res.ok) throw new Error('Failed to load puzzle.json');
@@ -310,3 +333,4 @@ loadPuzzle()
     document.getElementById('grid').textContent = 'Failed to load puzzle.';
     console.error(err);
   });
+
