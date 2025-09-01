@@ -25,7 +25,7 @@ def make_cnet_url(date=None):
         12: "dec",
     }
 
-    today = datetime.today()  # you can change to .today() if you want local time
+    today = datetime.today() - timedelta(1) # you can change to .today() if you want local time
     month_str = MONTHS[today.month]
     day = today.day
     weekday = today.strftime("%A").lower()  # monday, tuesday, etc.
