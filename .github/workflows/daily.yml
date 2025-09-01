@@ -1,0 +1,47 @@
+name: Daily Crossword
+
+on:
+  schedule:
+    # Runs every day at 07:05 UTC. Change as you like.
+    - cron: "5 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate puzzle.json
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python -m scraper.run
+
+      - name: Commit updated puzzle if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- docs/puzzle.json; then
+            git add docs/puzzle.json
+            git commit -m "Update daily puzzle: $(date -u +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to puzzle.json"
+          fi
