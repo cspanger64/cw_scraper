@@ -9,7 +9,7 @@ def make_cnet_url(date=None):
     If no date is passed, defaults to today.
     """
     if date is None:
-        date = datetime.today() - timedelta(days = 1)
+        date = datetime.today() #- timedelta(days = 1)
     
     weekday = date.strftime("%A").lower()      # e.g. "saturday"
     month_abbrev = date.strftime("%b").lower() # e.g. "aug"
