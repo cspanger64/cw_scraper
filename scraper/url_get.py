@@ -8,15 +8,29 @@ def make_cnet_url(date=None):
     Builds the CNET crossword answer URL for a given date.
     If no date is passed, defaults to today.
     """
-    if date is None:
-        date = datetime.today() #- timedelta(days = 1)
-    
-    weekday = date.strftime("%A").lower()      # e.g. "saturday"
-    month_abbrev = date.strftime("%b").lower() # e.g. "aug"
-    day = str(int(date.strftime("%d")))        # remove leading 0
+    from datetime import datetime
 
-    url = f"https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-{weekday}-{month_abbrev}-{day}/"
-    return url
+    MONTHS = {
+        1: "jan",
+        2: "feb",
+        3: "march",
+        4: "april",
+        5: "may",
+        6: "june",
+        7: "july",
+        8: "aug",
+        9: "sept",   # 👈 CNET uses "sept", not "sep"
+        10: "oct",
+        11: "nov",
+        12: "dec",
+    }
+
+    today = datetime.today()  # you can change to .today() if you want local time
+    month_str = MONTHS[today.month]
+    day = today.day
+    weekday = today.strftime("%A").lower()  # monday, tuesday, etc.
+
+    return f"https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-{weekday}-{month_str}-{day}/"
 
 if __name__ == "__main__":
     # If you pass a date as YYYY-MM-DD, use that, otherwise default to today
