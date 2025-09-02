@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "T",
-      "O",
-      "N",
-      "Y",
-      "S"
-    ],
-    [
-      "O",
-      "N",
-      "I",
-      "O",
-      "N"
-    ],
-    [
-      "G",
-      "E",
+      null,
+      null,
       "C",
-      "K",
-      "O"
+      "H",
+      "E"
     ],
     [
+      null,
+      "T",
+      "H",
+      "U",
+      "D"
+    ],
+    [
+      "B",
+      "O",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "R",
       "A",
-      "S",
-      "K",
-      "E",
-      "W"
+      "N",
+      "G",
+      "E"
     ],
     [
-      null,
-      null,
+      "R",
+      "D",
       "S",
-      "L",
-      "Y"
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "\"Hamilton\" was nominated for 16 of them in '16",
-        "answer": "TONYS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Vegetable you might wear cooking goggles to cut",
-        "answer": "ONION",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Lizard that can detach its own tail",
-        "answer": "GECKO",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Slightly off, as a picture frame",
-        "answer": "ASKEW",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Cunning",
-        "answer": "SLY",
-        "row": 4,
-        "col": 2
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Wrap on filming \"300\"?",
-        "answer": "TOGA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Tip jar bills",
-        "answer": "ONES",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Tiny shaving cuts",
-        "answer": "NICKS",
+        "clue": "Icon of the Cuban Revolution",
+        "answer": "CHE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Country bumpkin",
-        "answer": "YOKEL",
+        "clue": "Sound of a fall",
+        "answer": "THUD",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Sound of a spring",
+        "answer": "BOING",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "How far an electric vehicle can go before recharging",
+        "answer": "RANGE",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "GPS lines: Abbr.",
+        "answer": "RDS",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Goatees grow on them",
+        "answer": "CHINS",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Like a deadlocked jury",
+        "answer": "HUNG",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Adjective that can precede \"owl\" or \"egret\"",
-        "answer": "SNOWY",
+        "num": 3,
+        "clue": "Slight advantage",
+        "answer": "EDGE",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Mushroom-headed character of the Mario games",
+        "answer": "TOAD",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Sound of winter",
+        "answer": "BRR",
+        "row": 2,
+        "col": 0
       }
     ]
   }
