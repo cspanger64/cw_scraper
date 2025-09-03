@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "C",
-      "H",
-      "E"
+      "S",
+      "O",
+      "A",
+      "P",
+      null
     ],
     [
-      null,
-      "T",
+      "C",
       "H",
-      "U",
-      "D"
+      "R",
+      "I",
+      "S"
+    ],
+    [
+      "A",
+      "B",
+      "O",
+      "V",
+      "E"
     ],
     [
       "B",
       "O",
-      "I",
-      "N",
-      "G"
-    ],
-    [
-      "R",
-      "A",
-      "N",
-      "G",
-      "E"
-    ],
-    [
-      "R",
-      "D",
       "S",
+      "O",
+      "M"
+    ],
+    [
       null,
-      null
+      "Y",
+      "E",
+      "T",
+      "I"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Icon of the Cuban Revolution",
-        "answer": "CHE",
+        "clue": "Product that Wrigley manufactured before entering the chewing gum industry",
+        "answer": "SOAP",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Sound of a fall",
-        "answer": "THUD",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Sound of a spring",
-        "answer": "BOING",
-        "row": 2,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "How far an electric vehicle can go before recharging",
-        "answer": "RANGE",
-        "row": 3,
+        "num": 5,
+        "clue": "Hemsworth or Pratt",
+        "answer": "CHRIS",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "GPS lines: Abbr.",
-        "answer": "RDS",
-        "row": 4,
+        "clue": "Superior to",
+        "answer": "ABOVE",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "___ buddies (close pals)",
+        "answer": "BOSOM",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Abominable Snowman",
+        "answer": "YETI",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Goatees grow on them",
-        "answer": "CHINS",
+        "clue": "Souvenir\" from a scrape",
+        "answer": "SCAB",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Here we go again ...",
+        "answer": "OHBOY",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Suddenly came up, as an issue",
+        "answer": "AROSE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Like a deadlocked jury",
-        "answer": "HUNG",
+        "num": 4,
+        "clue": "Bit of basketball footwork",
+        "answer": "PIVOT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Slight advantage",
-        "answer": "EDGE",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Mushroom-headed character of the Mario games",
-        "answer": "TOAD",
+        "num": 6,
+        "clue": "Vehicle that might frustrate highway drivers when it moves into the passing lane",
+        "answer": "SEMI",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Sound of winter",
-        "answer": "BRR",
-        "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }
