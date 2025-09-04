@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "S",
-      "O",
-      "A",
-      "P",
+      "H",
+      "E",
+      "R",
+      "E",
       null
     ],
     [
-      "C",
-      "H",
-      "R",
-      "I",
-      "S"
-    ],
-    [
+      "E",
+      "Q",
+      "U",
       "A",
-      "B",
-      "O",
-      "V",
-      "E"
+      "L"
     ],
     [
+      "F",
+      "U",
+      "N",
+      "G",
+      "I"
+    ],
+    [
+      "T",
+      "I",
       "B",
-      "O",
-      "S",
-      "O",
-      "M"
+      "E",
+      "T"
     ],
     [
       null,
+      "P",
       "Y",
-      "E",
-      "T",
-      "I"
+      "R",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Product that Wrigley manufactured before entering the chewing gum industry",
-        "answer": "SOAP",
+        "clue": "On this spot",
+        "answer": "HERE",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Hemsworth or Pratt",
-        "answer": "CHRIS",
+        "clue": "=",
+        "answer": "EQUAL",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Superior to",
-        "answer": "ABOVE",
+        "clue": "Organisms that sound like someone you'd enjoy hanging out with",
+        "answer": "FUNGI",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "___ buddies (close pals)",
-        "answer": "BOSOM",
+        "clue": "Where the North Base Camp for Mount Everest can be found",
+        "answer": "TIBET",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Abominable Snowman",
-        "answer": "YETI",
+        "clue": "Combustible funeral structure",
+        "answer": "PYRE",
         "row": 4,
         "col": 1
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Souvenir\" from a scrape",
-        "answer": "SCAB",
+        "clue": "Serious weight",
+        "answer": "HEFT",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Here we go again ...",
-        "answer": "OHBOY",
+        "clue": "Furnish with supplies",
+        "answer": "EQUIP",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Suddenly came up, as an issue",
-        "answer": "AROSE",
+        "clue": "Bring up to in order to get a quick opinion",
+        "answer": "RUNBY",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Bit of basketball footwork",
-        "answer": "PIVOT",
+        "clue": "Like the proverbial beaver",
+        "answer": "EAGER",
         "row": 0,
         "col": 3
       },
       {
         "num": 6,
-        "clue": "Vehicle that might frustrate highway drivers when it moves into the passing lane",
-        "answer": "SEMI",
+        "clue": "Miller ___ (beer)",
+        "answer": "LITE",
         "row": 1,
         "col": 4
       }
