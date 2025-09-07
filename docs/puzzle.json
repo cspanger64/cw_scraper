@@ -1,118 +1,202 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "H",
-      "E",
+      "F",
+      "D",
       "R",
-      "E",
-      null
+      null,
+      "H",
+      "I",
+      "E"
     ],
     [
+      "I",
+      "R",
       "E",
-      "Q",
+      "L",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "B",
+      "A",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I"
+    ],
+    [
+      null,
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "B"
+    ],
+    [
+      "S",
       "U",
+      "N",
+      "D",
+      "I",
       "A",
       "L"
     ],
     [
-      "F",
-      "U",
-      "N",
-      "G",
-      "I"
-    ],
-    [
+      "A",
+      "L",
       "T",
-      "I",
-      "B",
-      "E",
-      "T"
+      null,
+      "N",
+      "N",
+      "E"
     ],
     [
+      "W",
+      "A",
+      "S",
       null,
-      "P",
-      "Y",
-      "R",
-      "E"
+      "G",
+      "A",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "On this spot",
-        "answer": "HERE",
+        "clue": "U.S. prez who served four terms",
+        "answer": "FDR",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "=",
-        "answer": "EQUAL",
+        "num": 4,
+        "clue": "Hurry, in Shakespearean English",
+        "answer": "HIE",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 7,
+        "clue": "Only country to have a musical instrument (the harp) as its national emblem",
+        "answer": "IRELAND",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Organisms that sound like someone you'd enjoy hanging out with",
-        "answer": "FUNGI",
+        "num": 9,
+        "clue": "Big name in rum",
+        "answer": "BACARDI",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Where the North Base Camp for Mount Everest can be found",
-        "answer": "TIBET",
+        "num": 10,
+        "clue": "She holds the record for most #1 Billboard hits by a female rapper (5)",
+        "answer": "CARDIB",
         "row": 3,
+        "col": 1
+      },
+      {
+        "num": 11,
+        "clue": "Ancient time-tracking device",
+        "answer": "SUNDIAL",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Combustible funeral structure",
-        "answer": "PYRE",
-        "row": 4,
-        "col": 1
+        "num": 12,
+        "clue": "Ctrl-___-Del",
+        "answer": "ALT",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Opposite of SSW",
+        "answer": "NNE",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "Used to be",
+        "answer": "WAS",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Jupiter or Saturn, primarily",
+        "answer": "GAS",
+        "row": 6,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Serious weight",
-        "answer": "HEFT",
+        "clue": "Small lie",
+        "answer": "FIB",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Furnish with supplies",
-        "answer": "EQUIP",
+        "clue": "Whom Count von Count of \"Sesame Street\" is a parody of",
+        "answer": "DRACULA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Bring up to in order to get a quick opinion",
-        "answer": "RUNBY",
+        "clue": "Takes back, as testimony",
+        "answer": "RECANTS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Like the proverbial beaver",
-        "answer": "EAGER",
+        "clue": "1920s U.S. president",
+        "answer": "HARDING",
         "row": 0,
-        "col": 3
+        "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Home to the W.N.B.A.'s Fever",
+        "answer": "INDIANA",
+        "row": 0,
+        "col": 5
       },
       {
         "num": 6,
-        "clue": "Miller ___ (beer)",
-        "answer": "LITE",
+        "clue": "Weed gummies",
+        "answer": "EDIBLES",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 8,
+        "clue": "Cooking grease",
+        "answer": "LARD",
         "row": 1,
-        "col": 4
+        "col": 3
+      },
+      {
+        "num": 11,
+        "clue": "Observed",
+        "answer": "SAW",
+        "row": 4,
+        "col": 0
       }
     ]
   }
