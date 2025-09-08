@@ -1,201 +1,117 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "F",
-      "D",
-      "R",
       null,
-      "H",
+      "R",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "J",
+      "O",
+      "L",
       "I",
       "E"
     ],
     [
-      "I",
-      "R",
-      "E",
+      "A",
       "L",
-      "A",
-      "N",
-      "D"
-    ],
-    [
-      "B",
-      "A",
-      "C",
-      "A",
-      "R",
-      "D",
-      "I"
-    ],
-    [
-      null,
-      "C",
-      "A",
-      "R",
-      "D",
       "I",
-      "B"
+      "V",
+      "E"
     ],
     [
-      "S",
-      "U",
-      "N",
       "D",
+      "E",
+      "V",
       "I",
-      "A",
       "L"
     ],
     [
-      "A",
-      "L",
-      "T",
-      null,
-      "N",
-      "N",
-      "E"
-    ],
-    [
-      "W",
-      "A",
-      "S",
-      null,
-      "G",
-      "A",
-      "S"
+      "E",
+      "X",
+      "E",
+      "C",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "U.S. prez who served four terms",
-        "answer": "FDR",
+        "clue": "Winner over scissors, loser to paper",
+        "answer": "ROCK",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Hurry, in Shakespearean English",
-        "answer": "HIE",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 7,
-        "clue": "Only country to have a musical instrument (the harp) as its national emblem",
-        "answer": "IRELAND",
+        "num": 5,
+        "clue": "Angelina of \"Mr. & Mrs. Smith",
+        "answer": "JOLIE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Big name in rum",
-        "answer": "BACARDI",
+        "num": 6,
+        "clue": "What a time to be ___!",
+        "answer": "ALIVE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "She holds the record for most #1 Billboard hits by a female rapper (5)",
-        "answer": "CARDIB",
+        "num": 7,
+        "clue": "Halloween costume with red horns",
+        "answer": "DEVIL",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 11,
-        "clue": "Ancient time-tracking device",
-        "answer": "SUNDIAL",
+        "num": 8,
+        "clue": "Member of the C-suite",
+        "answer": "EXEC",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Ctrl-___-Del",
-        "answer": "ALT",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Opposite of SSW",
-        "answer": "NNE",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 14,
-        "clue": "Used to be",
-        "answer": "WAS",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Jupiter or Saturn, primarily",
-        "answer": "GAS",
-        "row": 6,
-        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Small lie",
-        "answer": "FIB",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Whom Count von Count of \"Sesame Street\" is a parody of",
-        "answer": "DRACULA",
+        "clue": "Watch brand with the slogan \"A Crown for Every Achievement",
+        "answer": "ROLEX",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Takes back, as testimony",
-        "answer": "RECANTS",
+        "num": 2,
+        "clue": "Martini garnish",
+        "answer": "OLIVE",
         "row": 0,
         "col": 2
       },
       {
+        "num": 3,
+        "clue": "Honda model with a palindromic name",
+        "answer": "CIVIC",
+        "row": 0,
+        "col": 3
+      },
+      {
         "num": 4,
-        "clue": "1920s U.S. president",
-        "answer": "HARDING",
+        "clue": "Boat's bottom",
+        "answer": "KEEL",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Home to the W.N.B.A.'s Fever",
-        "answer": "INDIANA",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Weed gummies",
-        "answer": "EDIBLES",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 8,
-        "clue": "Cooking grease",
-        "answer": "LARD",
+        "clue": "Green gemstone",
+        "answer": "JADE",
         "row": 1,
-        "col": 3
-      },
-      {
-        "num": 11,
-        "clue": "Observed",
-        "answer": "SAW",
-        "row": 4,
         "col": 0
       }
     ]
