@@ -3,7 +3,7 @@ let startTime;
 let timerRunning = false;
 
 function startTimer() {
-  if (timerRunning) return; // prevent double starts
+  clearInterval(timerInterval);
   startTime = Date.now();
   timerRunning = true;
 
@@ -337,6 +337,8 @@ loadPuzzle()
   .catch(err => {
     document.getElementById('grid').textContent = 'Failed to load puzzle.';
     console.error(err);
+    startTimer();
   });
+
 
 
