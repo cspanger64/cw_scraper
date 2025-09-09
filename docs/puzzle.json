@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "R",
-      "O",
       "C",
-      "K"
+      "D",
+      "S",
+      null
     ],
     [
-      "J",
-      "O",
+      "C",
       "L",
-      "I",
-      "E"
+      "O",
+      "T",
+      "H"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "R",
+      "Y"
     ],
     [
       "A",
-      "L",
-      "I",
-      "V",
+      "S",
+      "K",
+      "U",
+      "P"
+    ],
+    [
+      "R",
+      "H",
+      "Y",
+      "M",
       "E"
-    ],
-    [
-      "D",
-      "E",
-      "V",
-      "I",
-      "L"
-    ],
-    [
-      "E",
-      "X",
-      "E",
-      "C",
-      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Winner over scissors, loser to paper",
-        "answer": "ROCK",
+        "clue": "Music purchases of the '90s and early 2000s",
+        "answer": "CDS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Angelina of \"Mr. & Mrs. Smith",
-        "answer": "JOLIE",
+        "num": 4,
+        "clue": "Eco-conscious diaper option",
+        "answer": "CLOTH",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "What a time to be ___!",
-        "answer": "ALIVE",
+        "clue": "Styles of singing?",
+        "answer": "HARRY",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Halloween costume with red horns",
-        "answer": "DEVIL",
+        "clue": "Invite to one's loft, say",
+        "answer": "ASKUP",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Member of the C-suite",
-        "answer": "EXEC",
+        "clue": "What \"yellow\" and \"mellow\" do",
+        "answer": "RHYME",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Watch brand with the slogan \"A Crown for Every Achievement",
-        "answer": "ROLEX",
+        "clue": "What yellow and purple do, some say",
+        "answer": "CLASH",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Martini garnish",
-        "answer": "OLIVE",
+        "clue": "Like many an endearing goofball",
+        "answer": "DORKY",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Honda model with a palindromic name",
-        "answer": "CIVIC",
+        "clue": "Play, as a guitar",
+        "answer": "STRUM",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Boat's bottom",
-        "answer": "KEEL",
-        "row": 0,
-        "col": 4
+        "clue": "Burn slightly",
+        "answer": "CHAR",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Green gemstone",
-        "answer": "JADE",
+        "clue": "Overblown promotion",
+        "answer": "HYPE",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
