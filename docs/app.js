@@ -334,11 +334,12 @@ function buildUI(puzzle) {
 
 loadPuzzle()
   .then(buildUI)
+  startTimer();
   .catch(err => {
     document.getElementById('grid').textContent = 'Failed to load puzzle.';
     console.error(err);
-    startTimer();
   });
+
 
 
 
