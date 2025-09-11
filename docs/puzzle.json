@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      null,
-      "C",
-      "D",
+      "J",
+      "K",
+      "Q",
+      "X",
+      "Z"
+    ],
+    [
+      "O",
+      "H",
+      "A",
+      "R",
+      "E"
+    ],
+    [
       "S",
+      "A",
+      "T",
+      "A",
+      "N"
+    ],
+    [
+      null,
+      "K",
+      "A",
+      "Y",
       null
     ],
     [
-      "C",
-      "L",
-      "O",
-      "T",
-      "H"
-    ],
-    [
-      "H",
-      "A",
+      null,
+      "I",
       "R",
-      "R",
-      "Y"
-    ],
-    [
-      "A",
       "S",
-      "K",
-      "U",
-      "P"
-    ],
-    [
-      "R",
-      "H",
-      "Y",
-      "M",
-      "E"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Music purchases of the '90s and early 2000s",
-        "answer": "CDS",
+        "clue": "In alphabetical order, the five letters each worth at least five points in Scrabble",
+        "answer": "JKQXZ",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "Eco-conscious diaper option",
-        "answer": "CLOTH",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Styles of singing?",
-        "answer": "HARRY",
-        "row": 2,
+        "clue": "Largest airport in the Midwest",
+        "answer": "OHARE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Invite to one's loft, say",
-        "answer": "ASKUP",
-        "row": 3,
+        "clue": "The Devil",
+        "answer": "SATAN",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "What \"yellow\" and \"mellow\" do",
-        "answer": "RHYME",
+        "clue": "Every Kiss Begins With ___\" (longtime jewelry slogan)",
+        "answer": "KAY",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 9,
+        "clue": "Busy org. on April 15th",
+        "answer": "IRS",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "What yellow and purple do, some say",
-        "answer": "CLASH",
+        "clue": "__ A. Bank (menswear retailer)",
+        "answer": "JOS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Yellowish-brown pants material",
+        "answer": "KHAKI",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Like many an endearing goofball",
-        "answer": "DORKY",
+        "num": 3,
+        "clue": "Tiny neighbor of Saudi Arabia",
+        "answer": "QATAR",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Play, as a guitar",
-        "answer": "STRUM",
+        "num": 4,
+        "clue": "Pictures of fractures, perhaps",
+        "answer": "XRAYS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Burn slightly",
-        "answer": "CHAR",
-        "row": 1,
-        "col": 0
-      },
-      {
         "num": 5,
-        "clue": "Overblown promotion",
-        "answer": "HYPE",
-        "row": 1,
+        "clue": "In a chill state of mind",
+        "answer": "ZEN",
+        "row": 0,
         "col": 4
       }
     ]
