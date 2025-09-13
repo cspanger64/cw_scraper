@@ -333,12 +333,15 @@ function buildUI(puzzle) {
 }
 
 loadPuzzle()
-  .then(buildUI)
-  startTimer();
+  .then(puzzle => {
+    buildUI(puzzle);
+    startTimer(); // start after UI is built
+  })
   .catch(err => {
     document.getElementById('grid').textContent = 'Failed to load puzzle.';
     console.error(err);
   });
+
 
 
 
