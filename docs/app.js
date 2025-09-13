@@ -299,22 +299,43 @@ function buildUI(puzzle) {
 
   // move forward within active slot
   function moveNext() {
-    const activeEl = document.activeElement;
-    if (!activeEl || activeEl.tagName !== "INPUT") return;
-    const r = Number(activeEl.dataset.r);
-    const c = Number(activeEl.dataset.c);
+  const activeEl = document.activeElement;
+  if (!activeEl || activeEl.tagName !== "INPUT") return;
+  const r = Number(activeEl.dataset.r);
+  const c = Number(activeEl.dataset.c);
 
-    const slots = active.dir === 'across' ? slotsA : slotsD;
-    const slot = slots[active.index];
-    if (!slot) return;
+  const slots = active.dir === 'across' ? slotsA : slotsD;
+  const slot = slots[active.index];
+  if (!slot) return;
 
-    const idx = slot.coords.findIndex(([rr, cc]) => rr === r && cc === c);
-    if (idx >= 0 && idx < slot.coords.length - 1) {
-      const [nr, nc] = slot.coords[idx + 1];
-      const nextInp = inputs.get(coordsKey(nr, nc));
-      if (nextInp) nextInp.focus();
+  const idx = slot.coords.findIndex(([rr, cc]) => rr === r && cc === c);
+
+  if (idx >= 0 && idx < slot.coords.length - 1) {
+    // normal move within the slot
+    const [nr, nc] = slot.coords[idx + 1];
+    const nextInp = inputs.get(coordsKey(nr, nc));
+    if (nextInp) nextInp.focus();
+  } else if (idx === slot.coords.length - 1) {
+    // reached end of word
+    const otherDir = active.dir === 'across' ? 'down' : 'across';
+    const otherSlots = otherDir === 'across' ? slotsA : slotsD;
+
+    // try to find crossing word at this final cell
+    const crossing = otherSlots.find(s =>
+      s.coords.some(([rr, cc]) => rr === r && cc === c)
+    );
+
+    if (crossing) {
+      // switch to crossing word
+      focusSlot(crossing);
+    } else {
+      // otherwise, just move to next word in same direction
+      const nextIndex = (active.index + 1) % slots.length;
+      setActive(active.dir, nextIndex);
     }
   }
+}
+
 
   // backspace behavior - moves back within active slot (if not handled by keydown)
   function movePrev() {
@@ -439,3 +460,4 @@ loadPuzzle()
     if (el) el.textContent = 'Failed to load puzzle.';
     console.error("Failed to load puzzle.json:", err);
   });
+
