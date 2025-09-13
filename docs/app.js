@@ -93,6 +93,7 @@ function buildUI(puzzle) {
       inp.addEventListener('input', (e) => {
         e.target.value = e.target.value.toUpperCase().replace(/[^A-Z]/g, '').slice(0,1);
         moveNext();
+        validatePuzzle(puzzle, inputs); // auto-check after each keystroke
       });
       inp.addEventListener('keydown', onKey);
       inputs.set(coordsKey(r, c), inp);
@@ -328,6 +329,38 @@ function buildUI(puzzle) {
   document.getElementById("start-btn").addEventListener("click", startTimer);
 
 
+  function validatePuzzle(puzzle, inputs) {
+  const { size: [R, C], grid } = puzzle;
+  let correct = 0, total = 0, filled = true;
+
+  for (let r = 0; r < R; r++) {
+    for (let c = 0; c < C; c++) {
+      if (!isWhite(grid[r][c])) continue;
+      total++;
+      const key = coordsKey(r, c);
+      const inp = inputs.get(key);
+      const want = (grid[r][c] || '').toUpperCase();
+      const val = (inp.value || '').toUpperCase();
+
+      if (val === "") filled = false; // still empty
+
+      if (val === want) {
+        correct++;
+      }
+    }
+  }
+
+  if (filled) {
+    if (correct === total) {
+      stopTimer();
+      const finalTime = document.getElementById("timer").textContent;
+      alert(`All correct! 🎉\nTime: ${finalTime}`);
+    } else {
+      alert("Sorry, something is still wrong.");
+    }
+  }
+}
+
   // Initial focus
   setActive('across', 0);
 }
@@ -341,6 +374,7 @@ loadPuzzle()
     document.getElementById('grid').textContent = 'Failed to load puzzle.';
     console.error(err);
   });
+
 
 
 
