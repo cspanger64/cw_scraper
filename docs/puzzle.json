@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "J",
-      "K",
+      "S",
       "Q",
-      "X",
-      "Z"
+      "U",
+      "I",
+      "D"
     ],
     [
-      "O",
-      "H",
-      "A",
+      "P",
+      "U",
       "R",
+      "S",
       "E"
     ],
     [
-      "S",
-      "A",
-      "T",
+      "L",
+      "O",
+      "G",
       "A",
       "N"
     ],
     [
-      null,
-      "K",
       "A",
-      "Y",
-      null
+      "T",
+      "E",
+      "I",
+      "N"
     ],
     [
-      null,
-      "I",
-      "R",
-      "S",
-      null
+      "T",
+      "E",
+      "D",
+      "D",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "In alphabetical order, the five letters each worth at least five points in Scrabble",
-        "answer": "JKQXZ",
+        "clue": "Ink-squirting creature",
+        "answer": "SQUID",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Largest airport in the Midwest",
-        "answer": "OHARE",
+        "clue": "Handbag",
+        "answer": "PURSE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "The Devil",
-        "answer": "SATAN",
+        "clue": "Wolverine's alias in \"X-Men",
+        "answer": "LOGAN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Every Kiss Begins With ___\" (longtime jewelry slogan)",
-        "answer": "KAY",
+        "clue": "Enjoyed dinner at home, say",
+        "answer": "ATEIN",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Busy org. on April 15th",
-        "answer": "IRS",
+        "clue": "Stuffed animal named after the 26th president of the United States",
+        "answer": "TEDDY",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "__ A. Bank (menswear retailer)",
-        "answer": "JOS",
+        "clue": "Sound of a cupcake hitting the floor, frosting-first",
+        "answer": "SPLAT",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Yellowish-brown pants material",
-        "answer": "KHAKI",
+        "clue": "Common feature of a news article",
+        "answer": "QUOTE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Tiny neighbor of Saudi Arabia",
-        "answer": "QATAR",
+        "clue": "Tried to convince",
+        "answer": "URGED",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Pictures of fractures, perhaps",
-        "answer": "XRAYS",
+        "clue": "Since you didn't hear me the first time ...",
+        "answer": "ISAID",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "In a chill state of mind",
-        "answer": "ZEN",
+        "clue": "Name in a breakfast restaurant chain",
+        "answer": "DENNY",
         "row": 0,
         "col": 4
       }
