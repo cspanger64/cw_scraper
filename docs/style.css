@@ -150,3 +150,14 @@ header {
   background: #0056b3;
 }
 
+
+/* word highlight */
+.cell.highlight {
+  background-color: #e6f0ff;
+}
+
+/* active square */
+input.active-cell {
+  outline: 3px solid blue;
+}
+
