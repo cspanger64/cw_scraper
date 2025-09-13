@@ -65,9 +65,7 @@ function buildUI(puzzle) {
 
   const numbering = buildNumbering(puzzle);
 
-  // Build cells
   const inputs = new Map(); // key -> input
-  let lastClicked = null;   // track last clicked square
   for (let r = 0; r < R; r++) {
     for (let c = 0; c < C; c++) {
       const cell = document.createElement('div');
@@ -94,32 +92,16 @@ function buildUI(puzzle) {
       inp.addEventListener('input', (e) => {
         e.target.value = e.target.value.toUpperCase().replace(/[^A-Z]/g, '').slice(0,1);
         moveNext();
+        autoCheck(); // run check after each input
       });
       inp.addEventListener('keydown', onKey);
-
-      // NEW: toggle across/down when clicking same square
-      inp.addEventListener("click", () => {
-        const rr = Number(inp.dataset.r);
-        const cc = Number(inp.dataset.c);
-        const key = coordsKey(rr, cc);
-
-        if (lastClicked === key) {
-          active.dir = active.dir === "across" ? "down" : "across";
-        }
-        lastClicked = key;
-
-        const slots = active.dir === "across" ? slotsA : slotsD;
-        const match = slots.findIndex(s => s.coords.some(([r2, c2]) => r2 === rr && c2 === cc));
-        if (match >= 0) setActive(active.dir, match);
-      });
-
       inputs.set(coordsKey(r, c), inp);
+
       cell.appendChild(inp);
       gridEl.appendChild(cell);
     }
   }
 
-  // Build clue lists
   const acrossList = document.getElementById('across');
   const downList   = document.getElementById('down');
   acrossList.innerHTML = '';
@@ -160,241 +142,3 @@ function buildUI(puzzle) {
             length++; r++;
           }
           out.push({ num, r: startR, c, length, coords, dir: 'down' });
-        } else {
-          r++;
-        }
-      }
-    }
-    return out;
-  }
-
-  const slotsA = slotsAcross();
-  const slotsD = slotsDown();
-
-  // Map clues by number to text
-  const textA = new Map(clues.across.map(x => [x.num, x]));
-  const textD = new Map(clues.down.map(x => [x.num, x]));
-
-  function renderClue(li, slot, clueText) {
-    li.textContent = `${slot.num}. ${clueText?.clue ?? ''}`;
-    li.dataset.num = slot.num;
-    li.dataset.dir = slot.dir;
-    li.addEventListener('click', () => focusSlot(slot));
-  }
-
-  for (const s of slotsA) {
-    const li = document.createElement('li');
-    renderClue(li, s, textA.get(s.num));
-    acrossList.appendChild(li);
-  }
-  for (const s of slotsD) {
-    const li = document.createElement('li');
-    renderClue(li, s, textD.get(s.num));
-    downList.appendChild(li);
-  }
-
-  // State for navigation
-  let active = { dir: 'across', index: 0 };
-
-  function setActive(dir, index) {
-    active = { dir, index };
-    document.querySelectorAll('.cell').forEach(el => el.classList.remove('highlight'));
-    document.querySelectorAll('#clues li').forEach(el => el.classList.remove('active'));
-
-    const slots = dir === 'across' ? slotsA : slotsD;
-    const listEl = dir === 'across' ? acrossList : downList;
-
-    const slot = slots[index];
-    for (const [r, c] of slot.coords) {
-      const key = coordsKey(r, c);
-      const inp = inputs.get(key);
-      if (inp) inp.parentElement.classList.add('highlight');
-    }
-
-    [...listEl.children].forEach(li => {
-      if (Number(li.dataset.num) === slot.num) li.classList.add('active');
-    });
-
-    const firstEmpty = slot.coords.find(([r, c]) => (inputs.get(coordsKey(r, c))?.value ?? '') === '');
-    const target = firstEmpty ?? slot.coords[0];
-    const inp = inputs.get(coordsKey(target[0], target[1]));
-    if (inp) {
-      inp.focus();
-      inp.parentElement.classList.add('active');
-    }
-  }
-
-  function focusSlot(slot) {
-    const arr = slot.dir === 'across' ? slotsA : slotsD;
-    const idx = arr.findIndex(s => s.num === slot.num);
-    if (idx >= 0) setActive(slot.dir, idx);
-  }
-
-  // Initial focus
-  setActive('across', 0);
-}
-
-
-  function onKey(e) {
-    const r = Number(e.target.dataset.r);
-    const c = Number(e.target.dataset.c);
-
-    if (e.key === 'ArrowRight') { move(r, c + 1); e.preventDefault(); }
-    else if (e.key === 'ArrowLeft') { move(r, c - 1); e.preventDefault(); }
-    else if (e.key === 'ArrowDown') { move(r + 1, c); e.preventDefault(); }
-    else if (e.key === 'ArrowUp') { move(r - 1, c); e.preventDefault(); }
-    else if (e.key === 'Backspace' && e.target.value === '') {
-      movePrev();
-    } else if (e.key === ' ') {
-      // toggle direction
-      const slots = active.dir === 'across' ? slotsA : slotsD;
-      const slot = slots[active.index];
-      const otherDir = active.dir === 'across' ? 'down' : 'across';
-      const otherSlots = otherDir === 'across' ? slotsA : slotsD;
-      const match = otherSlots.find(s => s.coords.some(([rr, cc]) => rr === r && cc === c));
-      if (match) focusSlot(match);
-      e.preventDefault();
-    }
-  }
-
-  function moveNext() {
-    const slots = active.dir === 'across' ? slotsA : slotsD;
-    const slot = slots[active.index];
-    // try next empty in slot
-    for (const [r, c] of slot.coords) {
-      const inp = inputs.get(coordsKey(r, c));
-      if (inp && inp.value === '') { inp.focus(); return; }
-    }
-    // if slot filled, move to next slot
-    const nextIndex = (active.index + 1) % slots.length;
-    setActive(active.dir, nextIndex);
-  }
-
-  function movePrev() {
-    const slots = active.dir === 'across' ? slotsA : slotsD;
-    const slot = slots[active.index];
-    for (let i = slot.coords.length - 1; i >= 0; i--) {
-      const [r, c] = slot.coords[i];
-      const inp = inputs.get(coordsKey(r, c));
-      if (inp && inp.value !== '') { inp.value = ''; inp.focus(); return; }
-    }
-  }
-
-  function move(r, c) {
-    const key = coordsKey(r, c);
-    const inp = inputs.get(key);
-    if (inp) {
-      document.querySelectorAll('.cell').forEach(el => el.classList.remove('active'));
-      inp.focus();
-      inp.parentElement.classList.add('active');
-    }
-  }
-
-  // Buttons
-  document.getElementById('check').onclick = () => {
-    // compare against solution letters in puzzle.grid
-    let correct = 0, total = 0;
-    for (let r = 0; r < R; r++) {
-      for (let c = 0; c < C; c++) {
-        if (!isWhite(grid[r][c])) continue;
-        total++;
-        const key = coordsKey(r, c);
-        const inp = inputs.get(key);
-        const want = (grid[r][c] || '').toUpperCase();
-        if ((inp.value || '').toUpperCase() === want) {
-          inp.style.color = "";
-          inp.parentElement.style.outline = "2px solid rgba(46,125,50,0.4)";
-          correct++;
-        } else if (inp.value) {
-          inp.style.color = "var(--bad)";
-          inp.parentElement.style.outline = "2px solid rgba(198,40,40,0.4)";
-        } else {
-          inp.style.color = "";
-          inp.parentElement.style.outline = "";
-        }
-      }
-    }
-    if (correct === total) {
-  stopTimer();
-  const finalTime = document.getElementById("timer").textContent;
-  alert(`All correct! 🎉\nTime: ${finalTime}`);
-} else {
-  alert(`Correct: ${correct}/${total}`);
-}
-  };
-
-  document.getElementById('reveal').onclick = () => {
-    for (let r = 0; r < R; r++) {
-      for (let c = 0; c < C; c++) {
-        if (!isWhite(grid[r][c])) continue;
-        const key = coordsKey(r, c);
-        const inp = inputs.get(key);
-        inp.value = (grid[r][c] || '').toUpperCase();
-        inp.style.color = "";
-        inp.parentElement.style.outline = "";
-      }
-    }
-  };
-
-  document.getElementById('clear').onclick = () => {
-    document.querySelectorAll('#grid input').forEach(inp => {
-      inp.value = "";
-      inp.style.color = "";
-      inp.parentElement.style.outline = "";
-    });
-  };
-  document.getElementById("start-btn").addEventListener("click", startTimer);
-
-
-  function validatePuzzle(puzzle, inputs) {
-  const { size: [R, C], grid } = puzzle;
-  let correct = 0, total = 0, filled = true;
-
-  for (let r = 0; r < R; r++) {
-    for (let c = 0; c < C; c++) {
-      if (!isWhite(grid[r][c])) continue;
-      total++;
-      const key = coordsKey(r, c);
-      const inp = inputs.get(key);
-      const want = (grid[r][c] || '').toUpperCase();
-      const val = (inp.value || '').toUpperCase();
-
-      if (val === "") filled = false; // still empty
-
-      if (val === want) {
-        correct++;
-      }
-    }
-  }
-
-  if (filled) {
-    if (correct === total) {
-      stopTimer();
-      const finalTime = document.getElementById("timer").textContent;
-      alert(`All correct! 🎉\nTime: ${finalTime}`);
-    } else {
-      alert("Sorry, something is still wrong.");
-    }
-  }
-}
-
-  // Initial focus
-  setActive('across', 0);
-}
-
-loadPuzzle()
-  .then(puzzle => {
-    buildUI(puzzle);
-    startTimer(); // start after UI is built
-  })
-  .catch(err => {
-    document.getElementById('grid').textContent = 'Failed to load puzzle.';
-    console.error(err);
-  });
-
-
-
-
-
-
-
