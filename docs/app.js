@@ -168,11 +168,29 @@ function buildUI(puzzle) {
       inp.value = '';
 
       // input handler: upper-case + move + auto-check
-      inp.addEventListener('input', (e) => {
-        e.target.value = (e.target.value || '').toUpperCase().replace(/[^A-Z]/g, '').slice(0,1);
-        moveNext();
-        autoCheck();
-      });
+     inp.addEventListener("keydown", (e) => {
+  if (e.key.length === 1 && /^[a-zA-Z]$/.test(e.key)) {
+    e.preventDefault(); 
+    inp.value = e.key.toUpperCase(); // always replace
+    moveNext(); // go to the next square
+    checkCompletion(); // optional: check if puzzle is done
+  } else if (e.key === "Backspace") {
+    e.preventDefault();
+    inp.value = "";
+    // move back one square if not at start
+    const r = Number(inp.dataset.r);
+    const c = Number(inp.dataset.c);
+    const slots = active.dir === 'across' ? slotsA : slotsD;
+    const slot = slots[active.index];
+    const idx = slot.coords.findIndex(([rr, cc]) => rr === r && cc === c);
+    if (idx > 0) {
+      const [pr, pc] = slot.coords[idx - 1];
+      const prevInp = inputs.get(coordsKey(pr, pc));
+      if (prevInp) prevInp.focus();
+    }
+  }
+});
+
 
       // keyboard handler (arrows, backspace, space toggle)
       inp.addEventListener('keydown', (e) => onKey(e, inp));
@@ -220,36 +238,37 @@ function buildUI(puzzle) {
 
   // Navigation/state helpers
   function setActive(dir, index) {
-    active = { dir, index };
-    document.querySelectorAll('.cell').forEach(el => el.classList.remove('highlight', 'active'));
-    document.querySelectorAll('#clues li').forEach(el => el.classList.remove('active'));
+  active = { dir, index };
+  document.querySelectorAll('.cell').forEach(el => el.classList.remove('highlight', 'active'));
+  document.querySelectorAll('#clues li').forEach(el => el.classList.remove('active'));
 
-    const slots = dir === 'across' ? slotsA : slotsD;
-    const listEl = dir === 'across' ? acrossList : downList;
-    const slot = slots[index];
-    if (!slot) return;
+  const slots = dir === 'across' ? slotsA : slotsD;
+  const listEl = dir === 'across' ? acrossList : downList;
+  const slot = slots[index];
+  if (!slot) return;
 
-    // highlight cells in the slot
-    for (const [r, c] of slot.coords) {
-      const key = coordsKey(r, c);
-      const inp = inputs.get(key);
-      if (inp) inp.parentElement.classList.add('highlight');
-    }
-
-    // highlight clue
-    [...listEl.children].forEach(li => {
-      if (Number(li.dataset.num) === slot.num) li.classList.add('active');
-    });
-
-    // focus first empty or first cell
-    const firstEmpty = slot.coords.find(([r, c]) => (inputs.get(coordsKey(r, c))?.value ?? '') === '');
-    const target = firstEmpty ?? slot.coords[0];
-    const inp = inputs.get(coordsKey(target[0], target[1]));
-    if (inp) {
-      inp.focus();
-      inp.parentElement.classList.add('active');
-    }
+  // highlight all cells in the word
+  for (const [r, c] of slot.coords) {
+    const inp = inputs.get(coordsKey(r, c));
+    if (inp) inp.parentElement.classList.add('highlight');
   }
+
+  // highlight the clue
+  [...listEl.children].forEach(li => {
+    if (Number(li.dataset.num) === slot.num) li.classList.add('active');
+  });
+
+  // focus first empty cell in slot, or first cell if filled
+  const firstEmpty = slot.coords.find(([r, c]) => (inputs.get(coordsKey(r, c))?.value ?? '') === '');
+  const target = firstEmpty ?? slot.coords[0];
+  const inp = inputs.get(coordsKey(target[0], target[1]));
+  if (inp) {
+    inp.focus();
+    inp.parentElement.classList.add('active');     // strong highlight
+    inp.classList.add('active-cell');              // new: active cell class
+  }
+}
+
 
   function focusSlot(slot) {
     const arr = slot.dir === 'across' ? slotsA : slotsD;
@@ -473,5 +492,6 @@ loadPuzzle()
     if (el) el.textContent = 'Failed to load puzzle.';
     console.error("Failed to load puzzle.json:", err);
   });
+
 
 
