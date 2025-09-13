@@ -67,6 +67,7 @@ function buildUI(puzzle) {
 
   // Build cells
   const inputs = new Map(); // key -> input
+  let lastClicked = null;   // track last clicked square
   for (let r = 0; r < R; r++) {
     for (let c = 0; c < C; c++) {
       const cell = document.createElement('div');
@@ -93,17 +94,32 @@ function buildUI(puzzle) {
       inp.addEventListener('input', (e) => {
         e.target.value = e.target.value.toUpperCase().replace(/[^A-Z]/g, '').slice(0,1);
         moveNext();
-        validatePuzzle(puzzle, inputs); // auto-check after each keystroke
       });
       inp.addEventListener('keydown', onKey);
-      inputs.set(coordsKey(r, c), inp);
 
+      // NEW: toggle across/down when clicking same square
+      inp.addEventListener("click", () => {
+        const rr = Number(inp.dataset.r);
+        const cc = Number(inp.dataset.c);
+        const key = coordsKey(rr, cc);
+
+        if (lastClicked === key) {
+          active.dir = active.dir === "across" ? "down" : "across";
+        }
+        lastClicked = key;
+
+        const slots = active.dir === "across" ? slotsA : slotsD;
+        const match = slots.findIndex(s => s.coords.some(([r2, c2]) => r2 === rr && c2 === cc));
+        if (match >= 0) setActive(active.dir, match);
+      });
+
+      inputs.set(coordsKey(r, c), inp);
       cell.appendChild(inp);
       gridEl.appendChild(cell);
     }
   }
 
-  // Build clue lists; derive across/down slots from grid
+  // Build clue lists
   const acrossList = document.getElementById('across');
   const downList   = document.getElementById('down');
   acrossList.innerHTML = '';
@@ -115,7 +131,6 @@ function buildUI(puzzle) {
       let c = 0;
       while (c < C) {
         if (isWhite(grid[r][c]) && (c === 0 || !isWhite(grid[r][c - 1]))) {
-          // start
           const startC = c;
           const num = numbering[r][c];
           let length = 0, coords = [];
@@ -156,11 +171,10 @@ function buildUI(puzzle) {
   const slotsA = slotsAcross();
   const slotsD = slotsDown();
 
-  // Map clues by number to text (from JSON)
+  // Map clues by number to text
   const textA = new Map(clues.across.map(x => [x.num, x]));
   const textD = new Map(clues.down.map(x => [x.num, x]));
 
-  // Render clues
   function renderClue(li, slot, clueText) {
     li.textContent = `${slot.num}. ${clueText?.clue ?? ''}`;
     li.dataset.num = slot.num;
@@ -180,7 +194,7 @@ function buildUI(puzzle) {
   }
 
   // State for navigation
-  let active = { dir: 'across', index: 0 }; // index into slotsA/slotsD
+  let active = { dir: 'across', index: 0 };
 
   function setActive(dir, index) {
     active = { dir, index };
@@ -191,18 +205,16 @@ function buildUI(puzzle) {
     const listEl = dir === 'across' ? acrossList : downList;
 
     const slot = slots[index];
-    // highlight cells
     for (const [r, c] of slot.coords) {
       const key = coordsKey(r, c);
       const inp = inputs.get(key);
       if (inp) inp.parentElement.classList.add('highlight');
     }
-    // highlight clue
+
     [...listEl.children].forEach(li => {
       if (Number(li.dataset.num) === slot.num) li.classList.add('active');
     });
 
-    // focus first empty in slot or first cell
     const firstEmpty = slot.coords.find(([r, c]) => (inputs.get(coordsKey(r, c))?.value ?? '') === '');
     const target = firstEmpty ?? slot.coords[0];
     const inp = inputs.get(coordsKey(target[0], target[1]));
@@ -217,6 +229,11 @@ function buildUI(puzzle) {
     const idx = arr.findIndex(s => s.num === slot.num);
     if (idx >= 0) setActive(slot.dir, idx);
   }
+
+  // Initial focus
+  setActive('across', 0);
+}
+
 
   function onKey(e) {
     const r = Number(e.target.dataset.r);
@@ -374,6 +391,7 @@ loadPuzzle()
     document.getElementById('grid').textContent = 'Failed to load puzzle.';
     console.error(err);
   });
+
 
 
 
