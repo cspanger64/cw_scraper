@@ -297,7 +297,6 @@ function buildUI(puzzle) {
     }
   }
 
-  // move forward within active slot
   function moveNext() {
   const activeEl = document.activeElement;
   if (!activeEl || activeEl.tagName !== "INPUT") return;
@@ -311,30 +310,44 @@ function buildUI(puzzle) {
   const idx = slot.coords.findIndex(([rr, cc]) => rr === r && cc === c);
 
   if (idx >= 0 && idx < slot.coords.length - 1) {
-    // normal move within the slot
+    // move to the next square in the current word
     const [nr, nc] = slot.coords[idx + 1];
     const nextInp = inputs.get(coordsKey(nr, nc));
     if (nextInp) nextInp.focus();
   } else if (idx === slot.coords.length - 1) {
-    // reached end of word
-    const otherDir = active.dir === 'across' ? 'down' : 'across';
-    const otherSlots = otherDir === 'across' ? slotsA : slotsD;
+    // finished current word
+    let nextIndex, nextDir, nextSlots;
 
-    // try to find crossing word at this final cell
-    const crossing = otherSlots.find(s =>
-      s.coords.some(([rr, cc]) => rr === r && cc === c)
-    );
-
-    if (crossing) {
-      // switch to crossing word
-      focusSlot(crossing);
+    if (active.dir === 'across') {
+      if (active.index < slotsA.length - 1) {
+        // go to next across word
+        nextDir = 'across';
+        nextIndex = active.index + 1;
+        nextSlots = slotsA;
+      } else {
+        // finished last across, go to first down
+        nextDir = 'down';
+        nextIndex = 0;
+        nextSlots = slotsD;
+      }
     } else {
-      // otherwise, just move to next word in same direction
-      const nextIndex = (active.index + 1) % slots.length;
-      setActive(active.dir, nextIndex);
+      if (active.index < slotsD.length - 1) {
+        // go to next down word
+        nextDir = 'down';
+        nextIndex = active.index + 1;
+        nextSlots = slotsD;
+      } else {
+        // finished last down, loop back to first across
+        nextDir = 'across';
+        nextIndex = 0;
+        nextSlots = slotsA;
+      }
     }
+
+    setActive(nextDir, nextIndex);
   }
 }
+
 
 
   // backspace behavior - moves back within active slot (if not handled by keydown)
@@ -460,4 +473,5 @@ loadPuzzle()
     if (el) el.textContent = 'Failed to load puzzle.';
     console.error("Failed to load puzzle.json:", err);
   });
+
 
