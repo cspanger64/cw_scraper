@@ -42,7 +42,8 @@ main {
 }
 
 #grid {
-  display: grid; /* template set dynamically */
+  display: grid;
+  grid-template-columns: repeat(var(--cols, 7), var(--cell-size)); /* 👈 fix */
   gap: var(--gap);
   background: #e7e7ea;
   padding: var(--gap);
@@ -160,4 +161,5 @@ header {
 input.active-cell {
   outline: 3px solid blue;
 }
+
 
