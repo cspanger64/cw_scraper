@@ -172,7 +172,7 @@ function buildUI(puzzle) {
     e.preventDefault(); 
     inp.value = e.key.toUpperCase(); // always replace
     moveNext(); // go to the next square
-    checkCompletion(); // optional: check if puzzle is done
+    autoCheck(); // <-- FIX: call autoCheck instead of checkCompletion
   } else if (e.key === "Backspace") {
     e.preventDefault();
     inp.value = "";
@@ -491,5 +491,6 @@ loadPuzzle()
     if (el) el.textContent = 'Failed to load puzzle.';
     console.error("Failed to load puzzle.json:", err);
   });
+
 
 
