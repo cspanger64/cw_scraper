@@ -9,20 +9,24 @@ function coordsKey(r, c) {
   return `${r},${c}`;
 }
 
+async function loadPuzzle() {
+  const resp = await fetch("./puzzle.json");
+  const puzzle = await resp.json();
+  buildUIFromPuzzle(puzzle);
+}
+
 function buildUIFromPuzzle(puzzle) {
   gridData = puzzle.grid;
   R = puzzle.size?.[0] ?? gridData.length;
   C = puzzle.size?.[1] ?? (gridData[0] || []).length;
 
-  // numbering + slots
   const numbering = buildNumbering(gridData);
   const slots = buildSlotsFromGrid(gridData, numbering);
   slotsA = slots.across;
   slotsD = slots.down;
 
-  // grid container
   const gridEl = document.getElementById("grid");
-  gridEl.style.setProperty("--cols", C); // 👈 set dynamic columns
+  gridEl.style.setProperty("--cols", C); // 👈 fix: use CSS var
   gridEl.innerHTML = "";
   inputs.clear();
 
@@ -55,7 +59,6 @@ function buildUIFromPuzzle(puzzle) {
     }
   }
 
-  // render clues
   renderClues("across", slotsA, document.querySelector("#clues-acc"));
   renderClues("down", slotsD, document.querySelector("#clues-down"));
 
@@ -88,7 +91,7 @@ function setActive(dir, index) {
   const slot = slots[index];
   if (!slot) return;
 
-  // highlight cells in word
+  // highlight cells
   for (const [r, c] of slot.coords) {
     const inp = inputs.get(coordsKey(r, c));
     if (inp) inp.parentElement.classList.add("highlight");
@@ -99,7 +102,7 @@ function setActive(dir, index) {
     if (Number(li.dataset.index) === index) li.classList.add("active");
   });
 
-  // focus first empty or first cell
+  // focus
   const firstEmpty = slot.coords.find(([r, c]) => (inputs.get(coordsKey(r, c))?.value ?? "") === "");
   const target = firstEmpty ?? slot.coords[0];
   const inp = inputs.get(coordsKey(target[0], target[1]));
@@ -111,16 +114,14 @@ function setActive(dir, index) {
 
 function handleInput(e) {
   const inp = e.target;
-  const val = inp.value.toUpperCase();
-  inp.value = val.slice(-1); // replace letter
+  inp.value = inp.value.toUpperCase().slice(-1); // replace letter
 
   const r = Number(inp.dataset.r);
   const c = Number(inp.dataset.c);
-
   const slot = getActiveSlot();
   if (!slot) return;
 
-  // move to next cell in slot
+  // move forward
   for (let i = 0; i < slot.coords.length; i++) {
     const [rr, cc] = slot.coords[i];
     if (rr === r && cc === c) {
@@ -186,6 +187,26 @@ function checkCompletion() {
   }
 }
 
+// ✅ Manual check button
+document.getElementById("check").addEventListener("click", () => {
+  checkCompletion();
+});
+
+// ✅ Reveal button
+document.getElementById("reveal").addEventListener("click", () => {
+  for (let [key, inp] of inputs) {
+    const [r, c] = key.split(",").map(Number);
+    inp.value = gridData[r][c].toUpperCase();
+  }
+});
+
+// ✅ Clear button
+document.getElementById("clear").addEventListener("click", () => {
+  for (let inp of inputs.values()) {
+    inp.value = "";
+  }
+});
+
 // timer
 function startTimer() {
   if (timerInterval) clearInterval(timerInterval);
@@ -205,20 +226,5 @@ document.getElementById("start-btn").addEventListener("click", () => {
   startTimer();
 });
 
-// dummy puzzle for demo
-const demoPuzzle = {
-  size: [5, 5],
-  grid: [
-    ["C","A","T","#","S"],
-    ["#","R","A","T","S"],
-    ["D","O","G","#","E"],
-    ["#","P","I","G","S"],
-    ["F","O","X","#","Y"]
-  ],
-  clues: {
-    across: ["1. Feline", "5. Plural of rodent", "7. Canine", "9. Farm animal", "11. Cunning animal"],
-    down: ["1. Pet that purrs", "2. Opposite of up", "3. Male pig", "4. Yes (slang)", "6. Not out"]
-  }
-};
-
-buildUIFromPuzzle(demoPuzzle);
+// 🔹 load puzzle.json when page opens
+loadPuzzle();
