@@ -9,11 +9,15 @@ function coordsKey(r, c) {
   return `${r},${c}`;
 }
 
+// --------------------- PUZZLE LOADING ---------------------
+
 async function loadPuzzle() {
-  const resp = await fetch("./puzzle.json");
+  const resp = await fetch("./puzzle.json", { cache: "no-store" });
   const puzzle = await resp.json();
   buildUIFromPuzzle(puzzle);
 }
+
+// --------------------- BUILDING ---------------------
 
 function buildUIFromPuzzle(puzzle) {
   gridData = puzzle.grid;
@@ -21,12 +25,12 @@ function buildUIFromPuzzle(puzzle) {
   C = puzzle.size?.[1] ?? (gridData[0] || []).length;
 
   const numbering = buildNumbering(gridData);
-  const slots = buildSlotsFromGrid(gridData, numbering);
+  const slots = buildSlotsFromGrid(gridData, numbering, puzzle.clues);
   slotsA = slots.across;
   slotsD = slots.down;
 
   const gridEl = document.getElementById("grid");
-  gridEl.style.setProperty("--cols", C); // 👈 fix: use CSS var
+  gridEl.style.gridTemplateColumns = `repeat(${C}, var(--cell-size))`; // ✅ fix
   gridEl.innerHTML = "";
   inputs.clear();
 
@@ -36,7 +40,7 @@ function buildUIFromPuzzle(puzzle) {
       const ch = gridData[r][c];
       const cell = document.createElement("div");
       cell.className = "cell";
-      if (ch === "#") {
+      if (ch === "#" || ch === null) {
         cell.classList.add("black");
       } else {
         const inp = document.createElement("input");
@@ -59,26 +63,94 @@ function buildUIFromPuzzle(puzzle) {
     }
   }
 
-  renderClues("across", slotsA, document.querySelector("#clues-acc"));
-  renderClues("down", slotsD, document.querySelector("#clues-down"));
+  renderClues("across", slotsA, document.querySelector("#across"));
+  renderClues("down", slotsD, document.querySelector("#down"));
 
   setActive("across", 0);
 }
 
+// --------------------- NUMBERING + SLOTS ---------------------
+
+function buildNumbering(grid) {
+  const startNums = Array.from({ length: R }, () => Array(C).fill(null));
+  let n = 1;
+  for (let r = 0; r < R; r++) {
+    for (let c = 0; c < C; c++) {
+      if (!isWhite(grid[r][c])) continue;
+      const startsAcross = (c === 0 || !isWhite(grid[r][c - 1]));
+      const startsDown = (r === 0 || !isWhite(grid[r - 1][c]));
+      if (startsAcross || startsDown) {
+        startNums[r][c] = n++;
+      }
+    }
+  }
+  return startNums;
+}
+
+function isWhite(cell) {
+  return cell !== "#" && cell !== null;
+}
+
+function buildSlotsFromGrid(grid, numbering, clues) {
+  const across = [];
+  const down = [];
+
+  // across
+  for (let r = 0; r < R; r++) {
+    let c = 0;
+    while (c < C) {
+      if (isWhite(grid[r][c]) && (c === 0 || !isWhite(grid[r][c - 1]))) {
+        const num = numbering[r][c];
+        const coords = [];
+        while (c < C && isWhite(grid[r][c])) {
+          coords.push([r, c]);
+          c++;
+        }
+        across.push({ num, coords, dir: "across", clue: findClue(clues?.across, num) });
+      } else {
+        c++;
+      }
+    }
+  }
+
+  // down
+  for (let c = 0; c < C; c++) {
+    let r = 0;
+    while (r < R) {
+      if (isWhite(grid[r][c]) && (r === 0 || !isWhite(grid[r - 1][c]))) {
+        const num = numbering[r][c];
+        const coords = [];
+        while (r < R && isWhite(grid[r][c])) {
+          coords.push([r, c]);
+          r++;
+        }
+        down.push({ num, coords, dir: "down", clue: findClue(clues?.down, num) });
+      } else {
+        r++;
+      }
+    }
+  }
+
+  return { across, down };
+}
+
+function findClue(clues, num) {
+  if (!clues) return "";
+  const entry = clues.find(c => c.num === num);
+  return entry ? entry.clue : "";
+}
+
+// --------------------- CLUES + ACTIVE ---------------------
+
 function renderClues(dir, slots, container) {
   container.innerHTML = "";
-  const h2 = document.createElement("h2");
-  h2.textContent = dir[0].toUpperCase() + dir.slice(1);
-  const ol = document.createElement("ol");
   for (let i = 0; i < slots.length; i++) {
     const li = document.createElement("li");
     li.textContent = slots[i].num + ". " + slots[i].clue;
     li.dataset.index = i;
     li.addEventListener("click", () => setActive(dir, i));
-    ol.appendChild(li);
+    container.appendChild(li);
   }
-  container.appendChild(h2);
-  container.appendChild(ol);
 }
 
 function setActive(dir, index) {
@@ -87,7 +159,7 @@ function setActive(dir, index) {
   document.querySelectorAll("#clues li").forEach(el => el.classList.remove("active"));
 
   const slots = dir === "across" ? slotsA : slotsD;
-  const listEl = dir === "across" ? document.querySelector("#clues-acc ol") : document.querySelector("#clues-down ol");
+  const listEl = dir === "across" ? document.querySelector("#across") : document.querySelector("#down");
   const slot = slots[index];
   if (!slot) return;
 
@@ -112,6 +184,14 @@ function setActive(dir, index) {
   }
 }
 
+function getActiveSlot() {
+  if (!active) return null;
+  const slots = active.dir === "across" ? slotsA : slotsD;
+  return { ...slots[active.index], dir: active.dir };
+}
+
+// --------------------- INPUT + NAVIGATION ---------------------
+
 function handleInput(e) {
   const inp = e.target;
   inp.value = inp.value.toUpperCase().slice(-1); // replace letter
@@ -134,8 +214,6 @@ function handleInput(e) {
       break;
     }
   }
-
-  checkCompletion();
 }
 
 function handleKey(e) {
@@ -152,6 +230,14 @@ function handleKey(e) {
         break;
       }
     }
+  } else if (e.key === " ") {
+    e.preventDefault();
+    const newDir = active.dir === "across" ? "down" : "across";
+    const r = Number(e.target.dataset.r);
+    const c = Number(e.target.dataset.c);
+    const slots = newDir === "across" ? slotsA : slotsD;
+    const idx = slots.findIndex(s => s.coords.some(([rr, cc]) => rr === r && cc === c));
+    if (idx >= 0) setActive(newDir, idx);
   }
 }
 
@@ -161,14 +247,12 @@ function moveToNextWord(dir, index) {
     setActive(dir, index + 1);
   } else if (dir === "across") {
     setActive("down", 0);
+  } else {
+    setActive("across", 0);
   }
 }
 
-function getActiveSlot() {
-  if (!active) return null;
-  const slots = active.dir === "across" ? slotsA : slotsD;
-  return { ...slots[active.index], dir: active.dir };
-}
+// --------------------- CHECKING ---------------------
 
 function checkCompletion() {
   const filled = [...inputs.values()].every(inp => inp.value !== "");
@@ -187,12 +271,10 @@ function checkCompletion() {
   }
 }
 
-// ✅ Manual check button
-document.getElementById("check").addEventListener("click", () => {
-  checkCompletion();
-});
+// --------------------- BUTTONS ---------------------
 
-// ✅ Reveal button
+document.getElementById("check").addEventListener("click", () => checkCompletion());
+
 document.getElementById("reveal").addEventListener("click", () => {
   for (let [key, inp] of inputs) {
     const [r, c] = key.split(",").map(Number);
@@ -200,18 +282,17 @@ document.getElementById("reveal").addEventListener("click", () => {
   }
 });
 
-// ✅ Clear button
 document.getElementById("clear").addEventListener("click", () => {
-  for (let inp of inputs.values()) {
-    inp.value = "";
-  }
+  for (let inp of inputs.values()) inp.value = "";
 });
 
-// timer
+// --------------------- TIMER ---------------------
+
 function startTimer() {
   if (timerInterval) clearInterval(timerInterval);
   startTime = Date.now();
   timerInterval = setInterval(updateTimer, 1000);
+  updateTimer();
 }
 
 function updateTimer() {
@@ -222,9 +303,8 @@ function updateTimer() {
   document.getElementById("timer").textContent = `${mins}:${secs}`;
 }
 
-document.getElementById("start-btn").addEventListener("click", () => {
-  startTimer();
-});
+document.getElementById("start-btn").addEventListener("click", startTimer);
 
-// 🔹 load puzzle.json when page opens
+// --------------------- INIT ---------------------
+
 loadPuzzle();
