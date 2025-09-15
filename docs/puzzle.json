@@ -1,70 +1,42 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
-      null,
-      null,
-      "B",
-      "L",
+      "F",
       "A",
-      "B"
+      "N",
+      null
     ],
     [
-      null,
-      null,
+      "V",
+      "E",
       "G",
-      "R",
       "A",
-      "D",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "I",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "V",
       "E"
     ],
     [
       null,
       "S",
-      "H",
-      "O",
-      "N",
-      "D",
-      "A"
-    ],
-    [
-      "S",
-      "P",
-      "O",
-      "N",
-      "C",
-      "O",
-      "N"
-    ],
-    [
-      "L",
-      "I",
-      "S",
-      "T",
       "E",
-      "N",
-      null
-    ],
-    [
-      "A",
-      "C",
-      "T",
       "E",
-      "D",
-      null,
-      null
-    ],
-    [
-      "M",
-      "E",
-      "S",
-      "S",
-      null,
-      null,
       null
     ]
   ],
@@ -72,103 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Give away a secret",
-        "answer": "BLAB",
+        "clue": "Tailgate attendee",
+        "answer": "FAN",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "A, B, C or D, but not E",
-        "answer": "GRADE",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "Rhimes who created Grey's Anatomy and Scandal",
-        "answer": "SHONDA",
-        "row": 2,
         "col": 1
       },
       {
+        "num": 4,
+        "clue": "Sin City",
+        "answer": "VEGAS",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Seine city",
+        "answer": "PARIS",
+        "row": 2,
+        "col": 0
+      },
+      {
         "num": 7,
-        "clue": "Many posts by Instagram influencers, informally",
-        "answer": "SPONCON",
+        "clue": "Fashion designer Madden",
+        "answer": "STEVE",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Look, here's the thing ...",
-        "answer": "LISTEN",
+        "clue": "You get what I'm saying?",
+        "answer": "SEE",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Performed in a play",
-        "answer": "ACTED",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Clutter",
-        "answer": "MESS",
-        "row": 6,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Literary sisters behind Jane Eyre and Wuthering Heights",
-        "answer": "BRONTES",
+        "clue": "Major accomplishments",
+        "answer": "FEATS",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Side (with)",
+        "answer": "AGREE",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 3,
+        "clue": "Likely to buy an obvious lie",
+        "answer": "NAIVE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "Poked with a knight's weapon",
-        "answer": "LANCED",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 3,
-        "clue": "Extra feature",
-        "answer": "ADDON",
-        "row": 0,
-        "col": 5
-      },
-      {
         "num": 4,
-        "clue": "Edamame or chickpea",
-        "answer": "BEAN",
-        "row": 0,
-        "col": 6
+        "clue": "Elected officials who ride in Air Force Two: Abbr.",
+        "answer": "VPS",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Abruptly stops texting",
-        "answer": "GHOSTS",
+        "clue": "Opposite of NNW",
+        "answer": "SSE",
         "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "Valuable substance in the Dune universe",
-        "answer": "SPICE",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Word after grand, body or poetry",
-        "answer": "SLAM",
-        "row": 3,
-        "col": 0
+        "col": 4
       }
     ]
   }
