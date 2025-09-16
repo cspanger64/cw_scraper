@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "F",
-      "A",
-      "N",
-      null
-    ],
-    [
-      "V",
-      "E",
-      "G",
-      "A",
-      "S"
-    ],
-    [
-      "P",
-      "A",
-      "R",
+      "D",
       "I",
-      "S"
+      "R",
+      "T"
     ],
     [
-      "S",
-      "T",
+      "G",
       "E",
-      "V",
+      "N",
+      "A",
+      "I"
+    ],
+    [
+      "O",
+      "L",
+      "D",
+      "I",
       "E"
     ],
     [
+      "A",
+      "V",
+      "I",
+      "D",
+      null
+    ],
+    [
+      "T",
+      "E",
+      "A",
       null,
-      "S",
-      "E",
-      "E",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Tailgate attendee",
-        "answer": "FAN",
+        "clue": "Gossip that's \"dished",
+        "answer": "DIRT",
         "row": 0,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "Sin City",
-        "answer": "VEGAS",
+        "num": 5,
+        "clue": "It might be prompted to make funny images online, for short",
+        "answer": "GENAI",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Seine city",
-        "answer": "PARIS",
+        "clue": "It's an ___ but a goodie!",
+        "answer": "OLDIE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Fashion designer Madden",
-        "answer": "STEVE",
+        "clue": "Enthusiastic, as a fan",
+        "answer": "AVID",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "You get what I'm saying?",
-        "answer": "SEE",
+        "clue": "Gossip that's \"spilled",
+        "answer": "TEA",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Major accomplishments",
-        "answer": "FEATS",
+        "clue": "Dig (into)",
+        "answer": "DELVE",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Side (with)",
-        "answer": "AGREE",
+        "clue": "World's most populous country since 2023",
+        "answer": "INDIA",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Likely to buy an obvious lie",
-        "answer": "NAIVE",
+        "clue": "Brand in the pest control aisle",
+        "answer": "RAID",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Elected officials who ride in Air Force Two: Abbr.",
-        "answer": "VPS",
-        "row": 1,
-        "col": 0
+        "clue": "Matching item for a groomsman",
+        "answer": "TIE",
+        "row": 0,
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Opposite of NNW",
-        "answer": "SSE",
+        "clue": "Billy or nanny",
+        "answer": "GOAT",
         "row": 1,
-        "col": 4
+        "col": 0
       }
     ]
   }
