@@ -5,37 +5,37 @@
   ],
   "grid": [
     [
-      null,
-      "D",
+      "H",
       "I",
-      "R",
-      "T"
+      "T",
+      "C",
+      "H"
     ],
     [
-      "G",
-      "E",
-      "N",
+      "I",
+      "D",
       "A",
-      "I"
-    ],
-    [
-      "O",
-      "L",
-      "D",
-      "I",
-      "E"
-    ],
-    [
-      "A",
-      "V",
-      "I",
-      "D",
-      null
+      "H",
+      "O"
     ],
     [
       "T",
       "E",
+      "X",
       "A",
+      "S"
+    ],
+    [
+      "M",
+      "A",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "L",
+      "S",
       null,
       null
     ]
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Gossip that's \"dished",
-        "answer": "DIRT",
+        "clue": "Catch, as a ride",
+        "answer": "HITCH",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "It might be prompted to make funny images online, for short",
-        "answer": "GENAI",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "It's an ___ but a goodie!",
-        "answer": "OLDIE",
-        "row": 2,
+        "clue": "Where Moscow (pop. 25,435) can be found in the U.S.",
+        "answer": "IDAHO",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Enthusiastic, as a fan",
-        "answer": "AVID",
-        "row": 3,
+        "clue": "Where Paris (pop. 24,476) can be found in the U.S.",
+        "answer": "TEXAS",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Gossip that's \"spilled",
-        "answer": "TEA",
+        "clue": "Where Belgrade (pop. 3,250) and Stockholm (pop. 250) can be found in the U.S.",
+        "answer": "MAINE",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Letters after kays",
+        "answer": "ELS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Dig (into)",
-        "answer": "DELVE",
+        "clue": "I'll have another card,\" in blackjack",
+        "answer": "HITME",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Optimal",
+        "answer": "IDEAL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "World's most populous country since 2023",
-        "answer": "INDIA",
+        "num": 3,
+        "clue": "Some rides from the airport",
+        "answer": "TAXIS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Brand in the pest control aisle",
-        "answer": "RAID",
+        "num": 4,
+        "clue": "Jackie of martial arts films",
+        "answer": "CHAN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Matching item for a groomsman",
-        "answer": "TIE",
+        "num": 5,
+        "clue": "Garden watering aid",
+        "answer": "HOSE",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Billy or nanny",
-        "answer": "GOAT",
-        "row": 1,
-        "col": 0
       }
     ]
   }
