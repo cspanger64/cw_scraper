@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "H",
-      "I",
-      "T",
-      "C",
-      "H"
-    ],
-    [
-      "I",
-      "D",
-      "A",
-      "H",
+      null,
+      "S",
+      "O",
+      "S",
       "O"
     ],
     [
+      null,
+      "H",
+      "U",
+      "N",
+      "K"
+    ],
+    [
+      "D",
+      "A",
       "T",
       "E",
-      "X",
-      "A",
       "S"
     ],
     [
-      "M",
-      "A",
       "I",
-      "N",
-      "E"
+      "K",
+      "E",
+      "A",
+      null
     ],
     [
+      "P",
       "E",
-      "L",
-      "S",
-      null,
+      "R",
+      "K",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Catch, as a ride",
-        "answer": "HITCH",
+        "clue": "Middling",
+        "answer": "SOSO",
         "row": 0,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Attractive, muscular guy",
+        "answer": "HUNK",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Where Moscow (pop. 25,435) can be found in the U.S.",
-        "answer": "IDAHO",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Where Paris (pop. 24,476) can be found in the U.S.",
-        "answer": "TEXAS",
+        "clue": "1/23/45 and 6/7/89",
+        "answer": "DATES",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Where Belgrade (pop. 3,250) and Stockholm (pop. 250) can be found in the U.S.",
-        "answer": "MAINE",
+        "num": 7,
+        "clue": "Big name in flat-pack furniture",
+        "answer": "IKEA",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Letters after kays",
-        "answer": "ELS",
+        "num": 8,
+        "clue": "Job benefit",
+        "answer": "PERK",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "I'll have another card,\" in blackjack",
-        "answer": "HITME",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Optimal",
-        "answer": "IDEAL",
+        "clue": "Ice cream drink",
+        "answer": "SHAKE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Some rides from the airport",
-        "answer": "TAXIS",
+        "num": 2,
+        "clue": "Word with space or Banks",
+        "answer": "OUTER",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Jackie of martial arts films",
-        "answer": "CHAN",
+        "num": 3,
+        "clue": "Quarterback running play",
+        "answer": "SNEAK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Garden watering aid",
-        "answer": "HOSE",
+        "num": 4,
+        "clue": "Signs off on",
+        "answer": "OKS",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Buy the ___ (investing strategy)",
+        "answer": "DIP",
+        "row": 2,
+        "col": 0
       }
     ]
   }
