@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "S",
-      "O",
-      "S",
-      "O"
-    ],
-    [
-      null,
+      "C",
       "H",
-      "U",
-      "N",
-      "K"
-    ],
-    [
-      "D",
-      "A",
-      "T",
-      "E",
-      "S"
-    ],
-    [
       "I",
-      "K",
-      "E",
-      "A",
+      null,
       null
     ],
     [
-      "P",
-      "E",
-      "R",
-      "K",
+      "T",
+      "O",
+      "W",
+      "N",
       null
+    ],
+    [
+      "O",
+      "R",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "S",
+      "A"
+    ],
+    [
+      null,
+      "S",
+      "L",
+      "E",
+      "W"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Middling",
-        "answer": "SOSO",
+        "clue": "With 4-Across, another nickname for the Windy City",
+        "answer": "CHI",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "Attractive, muscular guy",
-        "answer": "HUNK",
+        "num": 4,
+        "clue": "See 1-Across",
+        "answer": "TOWN",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "1/23/45 and 6/7/89",
-        "answer": "DATES",
+        "clue": "Constellation known for the three stars across its middle",
+        "answer": "ORION",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Big name in flat-pack furniture",
-        "answer": "IKEA",
+        "num": 8,
+        "clue": "Burrito bowl topping",
+        "answer": "SALSA",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Job benefit",
-        "answer": "PERK",
+        "num": 9,
+        "clue": "Whole bunch (of)",
+        "answer": "SLEW",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Ice cream drink",
-        "answer": "SHAKE",
+        "clue": "Some Silicon Valley execs, for short",
+        "answer": "CTOS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Dances that involve lifting a married couple in chairs",
+        "answer": "HORAS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Word with space or Banks",
-        "answer": "OUTER",
+        "num": 3,
+        "clue": "You can count on me",
+        "answer": "IWILL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Quarterback running play",
-        "answer": "SNEAK",
-        "row": 0,
+        "num": 5,
+        "clue": "Front part of an airplane",
+        "answer": "NOSE",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Signs off on",
-        "answer": "OKS",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Buy the ___ (investing strategy)",
-        "answer": "DIP",
+        "num": 7,
+        "clue": "Heck ___!",
+        "answer": "NAW",
         "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }
