@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "C",
-      "H",
-      "I",
-      null,
-      null
-    ],
-    [
-      "T",
-      "O",
-      "W",
-      "N",
-      null
-    ],
-    [
-      "O",
-      "R",
-      "I",
-      "O",
-      "N"
-    ],
-    [
-      "S",
+      "F",
+      "L",
       "A",
-      "L",
-      "S",
-      "A"
+      "K",
+      "E"
     ],
     [
-      null,
-      "S",
       "L",
+      "I",
+      "L",
+      "A",
+      "C"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "I",
+      "B",
       "E",
-      "W"
+      "T",
+      null
+    ],
+    [
+      "R",
+      "O",
+      "N",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "With 4-Across, another nickname for the Windy City",
-        "answer": "CHI",
+        "clue": "Cancel on plans at the last moment",
+        "answer": "FLAKE",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "See 1-Across",
-        "answer": "TOWN",
+        "num": 6,
+        "clue": "Shade of light purple",
+        "answer": "LILAC",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Constellation known for the three stars across its middle",
-        "answer": "ORION",
+        "num": 7,
+        "clue": "___ acid (protein builder)",
+        "answer": "AMINO",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Burrito bowl topping",
-        "answer": "SALSA",
+        "clue": "Sarcastic \"Yeah, sure",
+        "answer": "IBET",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Whole bunch (of)",
-        "answer": "SLEW",
+        "clue": "Sardonic boss on \"Parks and Recreation",
+        "answer": "RON",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Some Silicon Valley execs, for short",
-        "answer": "CTOS",
+        "clue": "Stylish panache",
+        "answer": "FLAIR",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Dances that involve lifting a married couple in chairs",
-        "answer": "HORAS",
+        "clue": "Party game that tests how low you can go",
+        "answer": "LIMBO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "You can count on me",
-        "answer": "IWILL",
+        "clue": "Visitor from outer space",
+        "answer": "ALIEN",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Front part of an airplane",
-        "answer": "NOSE",
-        "row": 1,
+        "num": 4,
+        "clue": "Philosopher who posed the question \"What can I know?",
+        "answer": "KANT",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Heck ___!",
-        "answer": "NAW",
-        "row": 2,
+        "num": 5,
+        "clue": "Environmentally friendly prefix",
+        "answer": "ECO",
+        "row": 0,
         "col": 4
       }
     ]
