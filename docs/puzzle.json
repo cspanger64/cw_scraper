@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "F",
-      "L",
-      "A",
-      "K",
-      "E"
-    ],
-    [
-      "L",
-      "I",
-      "L",
-      "A",
-      "C"
-    ],
-    [
-      "A",
-      "M",
-      "I",
-      "N",
-      "O"
-    ],
-    [
-      "I",
       "B",
-      "E",
-      "T",
-      null
-    ],
-    [
-      "R",
       "O",
-      "N",
+      "B",
       null,
       null
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "A",
+      null
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      null,
+      "B",
+      "E",
+      "E",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Cancel on plans at the last moment",
-        "answer": "FLAKE",
+        "clue": "Barker who hosted \"The Price Is Right\"",
+        "answer": "BOB",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Shade of light purple",
-        "answer": "LILAC",
+        "num": 4,
+        "clue": "(Base x height) / 2, for a triangle",
+        "answer": "AREA",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "___ acid (protein builder)",
-        "answer": "AMINO",
+        "num": 6,
+        "clue": "Bouncy toys in a playroom",
+        "answer": "BALLS",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Sarcastic \"Yeah, sure",
-        "answer": "IBET",
+        "clue": "Budget for",
+        "answer": "ALLOT",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Sardonic boss on \"Parks and Recreation",
-        "answer": "RON",
+        "clue": "Busy buzzers ... and letters found at the start of every clue in this puzzle",
+        "answer": "BEES",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Stylish panache",
-        "answer": "FLAIR",
+        "clue": "Baked dessert soaked in rum",
+        "answer": "BABA",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Party game that tests how low you can go",
-        "answer": "LIMBO",
+        "clue": "Big name in dental products",
+        "answer": "ORALB",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Visitor from outer space",
-        "answer": "ALIEN",
+        "clue": "Beauty and the Beast protagonist",
+        "answer": "BELLE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Philosopher who posed the question \"What can I know?",
-        "answer": "KANT",
-        "row": 0,
+        "num": 5,
+        "clue": "Balm ingredient with soothing properties",
+        "answer": "ALOE",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Environmentally friendly prefix",
-        "answer": "ECO",
-        "row": 0,
+        "num": 7,
+        "clue": "Bourbon and Beale: Abbr.",
+        "answer": "STS",
+        "row": 2,
         "col": 4
       }
     ]
