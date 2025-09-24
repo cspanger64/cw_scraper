@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "B",
+      "P",
+      "I",
+      "Z",
+      "Z",
+      "A"
+    ],
+    [
+      "I",
+      "D",
+      "I",
       "O",
-      "B",
-      null,
-      null
+      "M"
     ],
     [
-      "A",
-      "R",
+      "P",
       "E",
-      "A",
-      null
+      "N",
+      "N",
+      "Y"
     ],
     [
-      "B",
+      "S",
       "A",
-      "L",
-      "L",
+      "G",
+      "E",
       "S"
     ],
     [
-      "A",
-      "L",
-      "L",
-      "O",
-      "T"
-    ],
-    [
       null,
-      "B",
-      "E",
-      "E",
-      "S"
+      "L",
+      "S",
+      "D",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Barker who hosted \"The Price Is Right\"",
-        "answer": "BOB",
+        "clue": "The \"Hawaiian\" version of this food was invented in Canada",
+        "answer": "PIZZA",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "(Base x height) / 2, for a triangle",
-        "answer": "AREA",
+        "num": 6,
+        "clue": "Unintuitive phrase for a language learner",
+        "answer": "IDIOM",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Bouncy toys in a playroom",
-        "answer": "BALLS",
+        "num": 7,
+        "clue": "Tiny bit of change",
+        "answer": "PENNY",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Budget for",
-        "answer": "ALLOT",
+        "clue": "Wise ones",
+        "answer": "SAGES",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Busy buzzers ... and letters found at the start of every clue in this puzzle",
-        "answer": "BEES",
+        "clue": "Drug that supposedly influenced the Beatles on \"Sgt. Pepper's Lonely Hearts Club Band\"",
+        "answer": "LSD",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Baked dessert soaked in rum",
-        "answer": "BABA",
+        "clue": "Black dots on dominoes",
+        "answer": "PIPS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Big name in dental products",
-        "answer": "ORALB",
+        "clue": "In an ___ world ...",
+        "answer": "IDEAL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Beauty and the Beast protagonist",
-        "answer": "BELLE",
+        "clue": "Witty insults",
+        "answer": "ZINGS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Balm ingredient with soothing properties",
-        "answer": "ALOE",
-        "row": 1,
+        "num": 4,
+        "clue": "Spaced (out)",
+        "answer": "ZONED",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Bourbon and Beale: Abbr.",
-        "answer": "STS",
-        "row": 2,
+        "num": 5,
+        "clue": "Vegetarian foods brand",
+        "answer": "AMYS",
+        "row": 0,
         "col": 4
       }
     ]
