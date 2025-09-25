@@ -1,42 +1,52 @@
 {
   "size": [
     5,
-    5
+    7
   ],
   "grid": [
     [
-      "P",
-      "I",
-      "Z",
-      "Z",
-      "A"
+      "S",
+      "C",
+      "U",
+      "M",
+      null,
+      null,
+      null
     ],
     [
-      "I",
-      "D",
-      "I",
+      "A",
+      "L",
+      "L",
+      "Y",
       "O",
-      "M"
+      "U",
+      null
     ],
     [
-      "P",
+      "C",
+      "A",
+      "N",
       "E",
-      "N",
-      "N",
-      "Y"
+      "A",
+      "T",
+      null
     ],
     [
       "S",
+      "P",
       "A",
-      "G",
-      "E",
-      "S"
+      "R",
+      "T",
+      "A",
+      null
     ],
     [
       null,
-      "L",
+      null,
+      null,
       "S",
-      "D",
+      "H",
+      "H",
       null
     ]
   ],
@@ -44,75 +54,82 @@
     "across": [
       {
         "num": 1,
-        "clue": "The \"Hawaiian\" version of this food was invented in Canada",
-        "answer": "PIZZA",
+        "clue": "Pond gunk",
+        "answer": "SCUM",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Unintuitive phrase for a language learner",
-        "answer": "IDIOM",
+        "num": 5,
+        "clue": "With 8-Across, like an unlimited buffet",
+        "answer": "ALLYOU",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Tiny bit of change",
-        "answer": "PENNY",
+        "num": 8,
+        "clue": "See 5-Across",
+        "answer": "CANEAT",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Wise ones",
-        "answer": "SAGES",
+        "num": 9,
+        "clue": "Opponent of Athens in the Peloponnesian War",
+        "answer": "SPARTA",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Drug that supposedly influenced the Beatles on \"Sgt. Pepper's Lonely Hearts Club Band\"",
-        "answer": "LSD",
+        "num": 10,
+        "clue": "Keep it down!",
+        "answer": "SHH",
         "row": 4,
-        "col": 1
+        "col": 3
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Black dots on dominoes",
-        "answer": "PIPS",
+        "clue": "Outs that advance the runner, in baseball lingo",
+        "answer": "SACS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "In an ___ world ...",
-        "answer": "IDEAL",
+        "clue": "Put your hands together",
+        "answer": "CLAP",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Witty insults",
-        "answer": "ZINGS",
+        "clue": "Bone on the same side of the arm as the pinky",
+        "answer": "ULNA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Spaced (out)",
-        "answer": "ZONED",
+        "clue": "Mike who voiced Shrek",
+        "answer": "MYERS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Vegetarian foods brand",
-        "answer": "AMYS",
-        "row": 0,
+        "num": 6,
+        "clue": "Hippocratic ___ (doctor's pledge)",
+        "answer": "OATH",
+        "row": 1,
         "col": 4
+      },
+      {
+        "num": 7,
+        "clue": "State with license plates that read \"Greatest Snow on Earth",
+        "answer": "UTAH",
+        "row": 1,
+        "col": 5
       }
     ]
   }
