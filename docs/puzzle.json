@@ -1,52 +1,42 @@
 {
   "size": [
     5,
-    7
+    5
   ],
   "grid": [
     [
-      "S",
+      null,
       "C",
-      "U",
-      "M",
-      null,
-      null,
-      null
-    ],
-    [
-      "A",
-      "L",
-      "L",
-      "Y",
       "O",
-      "U",
-      null
+      "I",
+      "N"
     ],
     [
-      "C",
+      "D",
       "A",
       "N",
-      "E",
-      "A",
-      "T",
-      null
+      "C",
+      "E"
     ],
     [
-      "S",
-      "P",
       "A",
       "R",
-      "T",
-      "A",
-      null
+      "R",
+      "O",
+      "W"
     ],
     [
-      null,
-      null,
-      null,
+      "T",
+      "E",
+      "E",
+      "N",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "D",
       "S",
-      "H",
-      "H",
       null
     ]
   ],
@@ -54,82 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Pond gunk",
-        "answer": "SCUM",
+        "clue": "Item found behind someone's ear in a classic magic trick",
+        "answer": "COIN",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "With 8-Across, like an unlimited buffet",
-        "answer": "ALLYOU",
+        "clue": "Do the Floss or the Griddy",
+        "answer": "DANCE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "See 5-Across",
-        "answer": "CANEAT",
+        "num": 6,
+        "clue": "Helpful pointer",
+        "answer": "ARROW",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Opponent of Athens in the Peloponnesian War",
-        "answer": "SPARTA",
+        "num": 7,
+        "clue": "Moody sorts, often",
+        "answer": "TEENS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Keep it down!",
-        "answer": "SHH",
+        "num": 8,
+        "clue": "Sums up",
+        "answer": "ADDS",
         "row": 4,
-        "col": 3
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Outs that advance the runner, in baseball lingo",
-        "answer": "SACS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Put your hands together",
-        "answer": "CLAP",
+        "clue": "Gave a hoot",
+        "answer": "CARED",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Bone on the same side of the arm as the pinky",
-        "answer": "ULNA",
+        "num": 2,
+        "clue": "No Turn ___\" (street sign)",
+        "answer": "ONRED",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Mike who voiced Shrek",
-        "answer": "MYERS",
+        "num": 3,
+        "clue": "App images",
+        "answer": "ICONS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Hippocratic ___ (doctor's pledge)",
-        "answer": "OATH",
-        "row": 1,
+        "num": 4,
+        "clue": "One \"N\" of CNN",
+        "answer": "NEWS",
+        "row": 0,
         "col": 4
       },
       {
-        "num": 7,
-        "clue": "State with license plates that read \"Greatest Snow on Earth",
-        "answer": "UTAH",
+        "num": 5,
+        "clue": "Numbers to crunch",
+        "answer": "DATA",
         "row": 1,
-        "col": 5
+        "col": 0
       }
     ]
   }
