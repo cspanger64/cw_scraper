@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "C",
+      "B",
       "O",
-      "I",
-      "N"
-    ],
-    [
+      "L",
       "D",
-      "A",
-      "N",
+      null
+    ],
+    [
       "C",
-      "E"
+      "R",
+      "E",
+      "W",
+      null
     ],
     [
+      "C",
       "A",
-      "R",
-      "R",
-      "O",
-      "W"
-    ],
-    [
-      "T",
+      "F",
       "E",
-      "E",
-      "N",
       "S"
     ],
     [
-      "A",
-      "D",
-      "D",
-      "S",
-      null
+      null,
+      "L",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      null,
+      "B",
+      "U",
+      "T",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Item found behind someone's ear in a classic magic trick",
-        "answer": "COIN",
+        "clue": "What this clue is in",
+        "answer": "BOLD",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Do the Floss or the Griddy",
-        "answer": "DANCE",
+        "clue": "Rowing sport",
+        "answer": "CREW",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Helpful pointer",
-        "answer": "ARROW",
+        "clue": "Businesses where the tongue-twisted might order a 1-Across/5-Across?",
+        "answer": "CAFES",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Moody sorts, often",
-        "answer": "TEENS",
+        "num": 8,
+        "clue": "___ Bunny, \"Space Jam\" character",
+        "answer": "LOLA",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Sums up",
-        "answer": "ADDS",
+        "num": 9,
+        "clue": "End of a cigarette",
+        "answer": "BUTT",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Gave a hoot",
-        "answer": "CARED",
+        "clue": "Include secretly, as on an email",
+        "answer": "BCC",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Toothbrush brand",
+        "answer": "ORALB",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "No Turn ___\" (street sign)",
-        "answer": "ONRED",
+        "num": 3,
+        "clue": "Gaston's sidekick in \"Beauty and the Beast\" (French for \"the fool\")",
+        "answer": "LEFOU",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "App images",
-        "answer": "ICONS",
+        "num": 4,
+        "clue": "Resided (in)",
+        "answer": "DWELT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "One \"N\" of CNN",
-        "answer": "NEWS",
-        "row": 0,
+        "num": 7,
+        "clue": "Took a chair",
+        "answer": "SAT",
+        "row": 2,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Numbers to crunch",
-        "answer": "DATA",
-        "row": 1,
-        "col": 0
       }
     ]
   }
