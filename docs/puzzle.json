@@ -1,118 +1,188 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
+      null,
+      null,
       "B",
-      "O",
-      "L",
-      "D",
-      null
-    ],
-    [
-      "C",
       "R",
-      "E",
-      "W",
-      null
+      "O",
+      "A",
+      "D"
     ],
     [
-      "C",
-      "A",
+      null,
       "F",
+      "R",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "N",
       "E",
+      "T",
       "S"
     ],
     [
+      "R",
+      "A",
+      "V",
       null,
-      "L",
+      "W",
       "O",
-      "L",
-      "A"
+      "K"
     ],
     [
-      null,
-      "B",
-      "U",
+      "A",
+      "V",
+      "A",
       "T",
-      "T"
+      "A",
+      "R",
+      null
+    ],
+    [
+      "T",
+      "O",
+      "D",
+      "A",
+      "Y",
+      null,
+      null
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "Y",
+      null,
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "What this clue is in",
-        "answer": "BOLD",
+        "clue": "Wide-ranging",
+        "answer": "BROAD",
         "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Rowing sport",
-        "answer": "CREW",
-        "row": 1,
-        "col": 0
+        "col": 2
       },
       {
         "num": 6,
-        "clue": "Businesses where the tongue-twisted might order a 1-Across/5-Across?",
-        "answer": "CAFES",
+        "clue": "Country that produces Comte and Camembert",
+        "answer": "FRANCE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Nonet that became an octet in 2006",
+        "answer": "PLANETS",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "___ Bunny, \"Space Jam\" character",
-        "answer": "LOLA",
+        "clue": "Toyota's ___4",
+        "answer": "RAV",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "End of a cigarette",
-        "answer": "BUTT",
+        "clue": "Bowl-shaped pan",
+        "answer": "WOK",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Highest-grossing film of all time",
+        "answer": "AVATAR",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "First word of Oasis's \"Wonderwall",
+        "answer": "TODAY",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Helen of ___ (mythical beauty)",
+        "answer": "TROY",
+        "row": 6,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Include secretly, as on an email",
-        "answer": "BCC",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Toothbrush brand",
-        "answer": "ORALB",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Gaston's sidekick in \"Beauty and the Beast\" (French for \"the fool\")",
-        "answer": "LEFOU",
+        "clue": "Swagger",
+        "answer": "BRAVADO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Resided (in)",
-        "answer": "DWELT",
+        "num": 2,
+        "clue": "Competed in a marathon",
+        "answer": "RAN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Took a chair",
-        "answer": "SAT",
-        "row": 2,
+        "num": 3,
+        "clue": "Street sign with an arrow",
+        "answer": "ONEWAY",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Jon Hamm or Kevin Bacon",
+        "answer": "ACTOR",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "Office furniture",
+        "answer": "DESK",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "Ice cream option",
+        "answer": "FLAVOR",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Chris of \"Guardians of the Galaxy",
+        "answer": "PRATT",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "When doubled, nickname for pop star Swift",
+        "answer": "TAY",
+        "row": 4,
+        "col": 3
       }
     ]
   }
