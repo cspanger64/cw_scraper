@@ -1,188 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      null,
-      null,
-      "B",
-      "R",
-      "O",
-      "A",
-      "D"
-    ],
-    [
-      null,
-      "F",
-      "R",
-      "A",
-      "N",
+      "S",
       "C",
+      "A",
+      "R",
       "E"
     ],
     [
-      "P",
       "L",
       "A",
-      "N",
+      "T",
       "E",
+      "X"
+    ],
+    [
+      "A",
+      "R",
+      "U",
+      "B",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "U",
+      "M"
+    ],
+    [
+      "H",
+      "I",
+      "N",
       "T",
       "S"
-    ],
-    [
-      "R",
-      "A",
-      "V",
-      null,
-      "W",
-      "O",
-      "K"
-    ],
-    [
-      "A",
-      "V",
-      "A",
-      "T",
-      "A",
-      "R",
-      null
-    ],
-    [
-      "T",
-      "O",
-      "D",
-      "A",
-      "Y",
-      null,
-      null
-    ],
-    [
-      "T",
-      "R",
-      "O",
-      "Y",
-      null,
-      null,
-      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Wide-ranging",
-        "answer": "BROAD",
+        "clue": "Make chicken?",
+        "answer": "SCARE",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Country that produces Comte and Camembert",
-        "answer": "FRANCE",
+        "clue": "Stretchy glove material",
+        "answer": "LATEX",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Nonet that became an octet in 2006",
-        "answer": "PLANETS",
+        "clue": "Island that's the \"A\" of the so-called ABC Islands",
+        "answer": "ARUBA",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Toyota's ___4",
-        "answer": "RAV",
+        "clue": "Gently play, as a guitar",
+        "answer": "STRUM",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Bowl-shaped pan",
-        "answer": "WOK",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 10,
-        "clue": "Highest-grossing film of all time",
-        "answer": "AVATAR",
+        "clue": "Helpful link for a daily spelling bee solver",
+        "answer": "HINTS",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "First word of Oasis's \"Wonderwall",
-        "answer": "TODAY",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Helen of ___ (mythical beauty)",
-        "answer": "TROY",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Swagger",
-        "answer": "BRAVADO",
+        "clue": "What's typed instead of a question mark if you forget to press shift",
+        "answer": "SLASH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Rapper Playboi ___",
+        "answer": "CARTI",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Take ___ for the worse",
+        "answer": "ATURN",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Competed in a marathon",
-        "answer": "RAN",
+        "num": 4,
+        "clue": "Make a counterargument against",
+        "answer": "REBUT",
         "row": 0,
         "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Street sign with an arrow",
-        "answer": "ONEWAY",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Jon Hamm or Kevin Bacon",
-        "answer": "ACTOR",
-        "row": 0,
-        "col": 5
       },
       {
         "num": 5,
-        "clue": "Office furniture",
-        "answer": "DESK",
+        "clue": "Midterms and finals",
+        "answer": "EXAMS",
         "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "Ice cream option",
-        "answer": "FLAVOR",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Chris of \"Guardians of the Galaxy",
-        "answer": "PRATT",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "When doubled, nickname for pop star Swift",
-        "answer": "TAY",
-        "row": 4,
-        "col": 3
+        "col": 4
       }
     ]
   }
