@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "S",
-      "C",
-      "A",
+      null,
+      "B",
       "R",
+      "R",
+      null
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "Y",
+      "O",
+      "U",
+      "V",
       "E"
     ],
     [
-      "L",
-      "A",
-      "T",
-      "E",
-      "X"
-    ],
-    [
-      "A",
-      "R",
+      "M",
+      "I",
+      "N",
       "U",
-      "B",
-      "A"
+      "S"
     ],
     [
       "S",
-      "T",
-      "R",
-      "U",
-      "M"
-    ],
-    [
-      "H",
-      "I",
-      "N",
-      "T",
-      "S"
+      "L",
+      "E",
+      "P",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Make chicken?",
-        "answer": "SCARE",
+        "clue": "Exclamation made with a shiver",
+        "answer": "BRR",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Stretchy glove material",
-        "answer": "LATEX",
+        "num": 4,
+        "clue": "Putt 'er there!",
+        "answer": "GREEN",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Island that's the \"A\" of the so-called ABC Islands",
-        "answer": "ARUBA",
+        "num": 6,
+        "clue": "___ gotta be kidding me!",
+        "answer": "YOUVE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Gently play, as a guitar",
-        "answer": "STRUM",
+        "num": 7,
+        "clue": "Negative attribute, so to speak",
+        "answer": "MINUS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Helpful link for a daily spelling bee solver",
-        "answer": "HINTS",
+        "num": 8,
+        "clue": "Got some shut-eye",
+        "answer": "SLEPT",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "What's typed instead of a question mark if you forget to press shift",
-        "answer": "SLASH",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Rapper Playboi ___",
-        "answer": "CARTI",
+        "clue": "Oven button with a \"high\" or \"low\" setting",
+        "answer": "BROIL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Take ___ for the worse",
-        "answer": "ATURN",
+        "num": 2,
+        "clue": "Get together again, like alumni",
+        "answer": "REUNE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Make a counterargument against",
-        "answer": "REBUT",
+        "num": 3,
+        "clue": "Make go \"Vroom!",
+        "answer": "REVUP",
         "row": 0,
         "col": 3
       },
       {
+        "num": 4,
+        "clue": "Spots where you might spot some spotters",
+        "answer": "GYMS",
+        "row": 1,
+        "col": 0
+      },
+      {
         "num": 5,
-        "clue": "Midterms and finals",
-        "answer": "EXAMS",
-        "row": 0,
+        "clue": "Egg container",
+        "answer": "NEST",
+        "row": 1,
         "col": 4
       }
     ]
