@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "B",
+      "W",
       "R",
-      "R",
-      null
+      "A",
+      "P"
     ],
     [
-      "G",
-      "R",
-      "E",
-      "E",
-      "N"
-    ],
-    [
-      "Y",
-      "O",
-      "U",
-      "V",
-      "E"
-    ],
-    [
-      "M",
+      "C",
+      "A",
       "I",
-      "N",
-      "U",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "H",
+      "Y",
+      "E",
       "S"
     ],
     [
+      "R",
+      "O",
+      "A",
       "S",
-      "L",
-      "E",
-      "P",
       "T"
+    ],
+    [
+      "B",
+      "O",
+      "L",
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Exclamation made with a shiver",
-        "answer": "BRR",
+        "clue": "Finish filming",
+        "answer": "WRAP",
         "row": 0,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "Putt 'er there!",
-        "answer": "GREEN",
+        "num": 5,
+        "clue": "Capital city with a view of pyramids",
+        "answer": "CAIRO",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "___ gotta be kidding me!",
-        "answer": "YOUVE",
+        "clue": "Now that you mention it, of course!",
+        "answer": "AHYES",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Negative attribute, so to speak",
-        "answer": "MINUS",
+        "clue": "Make fun of mercilessly",
+        "answer": "ROAST",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Got some shut-eye",
-        "answer": "SLEPT",
+        "clue": "Symbol on an L.A. Chargers helmet",
+        "answer": "BOLT",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Oven button with a \"high\" or \"low\" setting",
-        "answer": "BROIL",
+        "clue": "Yay!",
+        "answer": "WAHOO",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Get together again, like alumni",
-        "answer": "REUNE",
+        "clue": "Saudi currency",
+        "answer": "RIYAL",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Make go \"Vroom!",
-        "answer": "REVUP",
+        "clue": "Give it ___!",
+        "answer": "AREST",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Spots where you might spot some spotters",
-        "answer": "GYMS",
-        "row": 1,
-        "col": 0
+        "clue": "Write on social media",
+        "answer": "POST",
+        "row": 0,
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Egg container",
-        "answer": "NEST",
+        "clue": "Pasta or bread, informally",
+        "answer": "CARB",
         "row": 1,
-        "col": 4
+        "col": 0
       }
     ]
   }
