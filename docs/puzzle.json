@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
+      "N",
+      "U",
+      "N",
       null,
-      "W",
-      "R",
-      "A",
-      "P"
+      null
     ],
     [
-      "C",
       "A",
-      "I",
-      "R",
+      "T",
+      "O",
+      "P",
+      null
+    ],
+    [
+      "M",
+      "A",
+      "D",
+      "A",
+      "M"
+    ],
+    [
+      null,
+      "H",
+      "U",
+      "G",
       "O"
     ],
     [
-      "A",
+      null,
+      null,
       "H",
-      "Y",
       "E",
-      "S"
-    ],
-    [
-      "R",
-      "O",
-      "A",
-      "S",
-      "T"
-    ],
-    [
-      "B",
-      "O",
-      "L",
-      "T",
-      null
+      "M"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Finish filming",
-        "answer": "WRAP",
+        "clue": "Whoopi in \"Sister Act,\" either way you look at it",
+        "answer": "NUN",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "Capital city with a view of pyramids",
-        "answer": "CAIRO",
+        "num": 4,
+        "clue": "Resting on",
+        "answer": "ATOP",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Now that you mention it, of course!",
-        "answer": "AHYES",
+        "clue": "Nancy Pelosi's title from 2019 to '23, either way you look at it",
+        "answer": "MADAM",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Make fun of mercilessly",
-        "answer": "ROAST",
+        "num": 8,
+        "clue": "Science fiction award won by N.K. Jemisin three years in a row",
+        "answer": "HUGO",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Symbol on an L.A. Chargers helmet",
-        "answer": "BOLT",
+        "num": 9,
+        "clue": "Tailor's edge",
+        "answer": "HEM",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Yay!",
-        "answer": "WAHOO",
+        "clue": "Setting for the war novels \"The Sympathizer\" and \"The Women,\" informally",
+        "answer": "NAM",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Six-sided state",
+        "answer": "UTAH",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Saudi currency",
-        "answer": "RIYAL",
+        "num": 3,
+        "clue": "Obviously!",
+        "answer": "NODUH",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Give it ___!",
-        "answer": "AREST",
-        "row": 0,
+        "num": 5,
+        "clue": "Website part",
+        "answer": "PAGE",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Write on social media",
-        "answer": "POST",
-        "row": 0,
+        "num": 7,
+        "clue": "Lorelai Gilmore on \"Gilmore Girls,\" either way you look at it",
+        "answer": "MOM",
+        "row": 2,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Pasta or bread, informally",
-        "answer": "CARB",
-        "row": 1,
-        "col": 0
       }
     ]
   }
