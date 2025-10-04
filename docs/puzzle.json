@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "N",
-      "U",
-      "N",
       null,
-      null
-    ],
-    [
-      "A",
-      "T",
-      "O",
-      "P",
-      null
-    ],
-    [
-      "M",
-      "A",
-      "D",
-      "A",
-      "M"
-    ],
-    [
       null,
-      "H",
-      "U",
       "G",
-      "O"
+      "P",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "L",
+      "A"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "L",
+      "U",
+      "S",
+      "T",
+      "S"
     ],
     [
       null,
-      null,
-      "H",
+      "B",
       "E",
-      "M"
+      "E",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Whoopi in \"Sister Act,\" either way you look at it",
-        "answer": "NUN",
+        "clue": "The fitting missing letters in _OOGLE MA_ _",
+        "answer": "GPS",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
         "num": 4,
-        "clue": "Resting on",
-        "answer": "ATOP",
+        "clue": "Amtrak express train",
+        "answer": "ACELA",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Nancy Pelosi's title from 2019 to '23, either way you look at it",
-        "answer": "MADAM",
+        "clue": "With 2- and 5-Down, distinction for kids who finish their whole dinner",
+        "answer": "CLEAN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Science fiction award won by N.K. Jemisin three years in a row",
-        "answer": "HUGO",
+        "num": 7,
+        "clue": "Desires, with \"after",
+        "answer": "LUSTS",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Tailor's edge",
-        "answer": "HEM",
+        "num": 8,
+        "clue": "Honey Nut Cheerios mascot",
+        "answer": "BEE",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Setting for the war novels \"The Sympathizer\" and \"The Women,\" informally",
-        "answer": "NAM",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Six-sided state",
-        "answer": "UTAH",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Obviously!",
-        "answer": "NODUH",
+        "clue": "Silly\" birds",
+        "answer": "GEESE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Website part",
-        "answer": "PAGE",
-        "row": 1,
+        "num": 2,
+        "clue": "See 6-Across",
+        "answer": "PLATE",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Lorelai Gilmore on \"Gilmore Girls,\" either way you look at it",
-        "answer": "MOM",
-        "row": 2,
+        "num": 3,
+        "clue": "Without",
+        "answer": "SANS",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Knee tissue that's prone to tearing, for short",
+        "answer": "ACL",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "See 6-Across",
+        "answer": "CLUB",
+        "row": 1,
+        "col": 1
       }
     ]
   }
