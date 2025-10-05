@@ -1,118 +1,202 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      null,
-      null,
-      "G",
       "P",
+      "A",
+      "G",
+      "O",
+      "D",
+      "A",
       "S"
     ],
     [
-      "A",
-      "C",
       "E",
+      "G",
+      "O",
+      "T",
+      "R",
+      "I",
+      "P"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "T",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      null,
+      null,
+      "D",
+      "E",
+      "A",
       "L",
-      "A"
+      null
     ],
     [
       "C",
-      "L",
-      "E",
+      "H",
       "A",
+      "R",
+      "M",
+      "I",
       "N"
     ],
     [
-      "L",
-      "U",
+      "P",
+      "E",
+      "R",
       "S",
-      "T",
-      "S"
+      "O",
+      "N",
+      "A"
     ],
     [
+      "A",
+      "R",
+      "K",
       null,
-      "B",
+      "N",
       "E",
-      "E",
-      null
+      "W"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "The fitting missing letters in _OOGLE MA_ _",
-        "answer": "GPS",
+        "clue": "Tiered temples",
+        "answer": "PAGODAS",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Amtrak express train",
-        "answer": "ACELA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "With 2- and 5-Down, distinction for kids who finish their whole dinner",
-        "answer": "CLEAN",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Desires, with \"after",
-        "answer": "LUSTS",
-        "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Honey Nut Cheerios mascot",
-        "answer": "BEE",
+        "clue": "Journey\" that a narcissist goes on",
+        "answer": "EGOTRIP",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "What might have a glazed look?",
+        "answer": "POTTERY",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "We have an agreement",
+        "answer": "DEAL",
+        "row": 3,
+        "col": 2
+      },
+      {
+        "num": 11,
+        "clue": "Bathroom brand with bears in its commercials",
+        "answer": "CHARMIN",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Public image",
+        "answer": "PERSONA",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Boat boarded by beasts",
+        "answer": "ARK",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Still sealed in the container",
+        "answer": "NEW",
+        "row": 6,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Silly\" birds",
-        "answer": "GEESE",
+        "clue": "Lively spirit",
+        "answer": "PEP",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Once upon a time, a few mistakes ___ ...\" (Taylor Swift lyric)",
+        "answer": "AGO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Turned to night",
+        "answer": "GOTDARK",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "See 6-Across",
-        "answer": "PLATE",
+        "num": 4,
+        "clue": "Playful river swimmers",
+        "answer": "OTTERS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Without",
-        "answer": "SANS",
+        "num": 5,
+        "clue": "Like THAT will ever happen!",
+        "answer": "DREAMON",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Knee tissue that's prone to tearing, for short",
-        "answer": "ACL",
-        "row": 1,
+        "num": 6,
+        "clue": "Southwest, e.g.",
+        "answer": "AIRLINE",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "Someone using a hidden camera or signal jammer",
+        "answer": "SPY",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Tax filing pro, for short",
+        "answer": "CPA",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "See 6-Across",
-        "answer": "CLUB",
-        "row": 1,
+        "num": 12,
+        "clue": "She/___",
+        "answer": "HER",
+        "row": 4,
         "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Folksy thumbs-down",
+        "answer": "NAW",
+        "row": 4,
+        "col": 6
       }
     ]
   }
