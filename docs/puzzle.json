@@ -1,202 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "P",
-      "A",
-      "G",
-      "O",
-      "D",
-      "A",
-      "S"
-    ],
-    [
-      "E",
-      "G",
-      "O",
-      "T",
-      "R",
-      "I",
-      "P"
-    ],
-    [
-      "P",
-      "O",
-      "T",
-      "T",
-      "E",
-      "R",
-      "Y"
-    ],
-    [
-      null,
-      null,
-      "D",
-      "E",
-      "A",
-      "L",
-      null
-    ],
-    [
-      "C",
-      "H",
-      "A",
-      "R",
-      "M",
-      "I",
-      "N"
-    ],
-    [
-      "P",
-      "E",
-      "R",
       "S",
-      "O",
+      "T",
+      "U",
+      "F",
+      "F"
+    ],
+    [
+      "P",
+      "E",
       "N",
+      "A",
+      "L"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "I",
       "A"
     ],
     [
-      "A",
+      "F",
+      "O",
+      "U",
+      "L",
+      "S"
+    ],
+    [
+      "F",
       "R",
-      "K",
-      null,
-      "N",
       "E",
-      "W"
+      "S",
+      "H"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Tiered temples",
-        "answer": "PAGODAS",
+        "clue": "Vague assortment of things",
+        "answer": "STUFF",
         "row": 0,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Journey\" that a narcissist goes on",
-        "answer": "EGOTRIP",
+        "num": 6,
+        "clue": "Prison-related",
+        "answer": "PENAL",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "What might have a glazed look?",
-        "answer": "POTTERY",
+        "num": 7,
+        "clue": "Country that's home to the majority of the world's wild tigers",
+        "answer": "INDIA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "We have an agreement",
-        "answer": "DEAL",
+        "num": 8,
+        "clue": "Basketball offenses",
+        "answer": "FOULS",
         "row": 3,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 11,
-        "clue": "Bathroom brand with bears in its commercials",
-        "answer": "CHARMIN",
+        "num": 9,
+        "clue": "Recently picked from the garden, say",
+        "answer": "FRESH",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "Public image",
-        "answer": "PERSONA",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Boat boarded by beasts",
-        "answer": "ARK",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Still sealed in the container",
-        "answer": "NEW",
-        "row": 6,
-        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Lively spirit",
-        "answer": "PEP",
+        "clue": "Improve in appearance, with \"up",
+        "answer": "SPIFF",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Once upon a time, a few mistakes ___ ...\" (Taylor Swift lyric)",
-        "answer": "AGO",
+        "clue": "Second-lowest voice in many choirs",
+        "answer": "TENOR",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Turned to night",
-        "answer": "GOTDARK",
+        "clue": "Excessive",
+        "answer": "UNDUE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Playful river swimmers",
-        "answer": "OTTERS",
+        "clue": "Gets an F",
+        "answer": "FAILS",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Like THAT will ever happen!",
-        "answer": "DREAMON",
+        "clue": "Necessity for photographing in the dark",
+        "answer": "FLASH",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Southwest, e.g.",
-        "answer": "AIRLINE",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "Someone using a hidden camera or signal jammer",
-        "answer": "SPY",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Tax filing pro, for short",
-        "answer": "CPA",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "She/___",
-        "answer": "HER",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "Folksy thumbs-down",
-        "answer": "NAW",
-        "row": 4,
-        "col": 6
       }
     ]
   }
