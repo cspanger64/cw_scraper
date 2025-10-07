@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
+      null,
+      "F",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "S",
+      "O",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "G",
+      "U",
+      "E"
+    ],
+    [
       "S",
       "T",
-      "U",
-      "F",
-      "F"
-    ],
-    [
-      "P",
-      "E",
-      "N",
       "A",
-      "L"
-    ],
-    [
-      "I",
-      "N",
-      "D",
-      "I",
-      "A"
-    ],
-    [
-      "F",
-      "O",
-      "U",
       "L",
-      "S"
+      "K"
     ],
     [
-      "F",
-      "R",
-      "E",
       "S",
-      "H"
+      "E",
+      "E",
+      "K",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Vague assortment of things",
-        "answer": "STUFF",
+        "clue": "Word announced before sharing a bit of trivia",
+        "answer": "FACT",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Prison-related",
-        "answer": "PENAL",
+        "num": 5,
+        "clue": "Renewable energy option",
+        "answer": "SOLAR",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Country that's home to the majority of the world's wild tigers",
-        "answer": "INDIA",
+        "num": 6,
+        "clue": "Make a case (for)",
+        "answer": "ARGUE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Basketball offenses",
-        "answer": "FOULS",
+        "num": 7,
+        "clue": "Edible part of rhubarb",
+        "answer": "STALK",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Recently picked from the garden, say",
-        "answer": "FRESH",
+        "num": 8,
+        "clue": "Look for hiders",
+        "answer": "SEEK",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Improve in appearance, with \"up",
-        "answer": "SPIFF",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Second-lowest voice in many choirs",
-        "answer": "TENOR",
+        "clue": "Actor Will of \"The Four Seasons\" and \"MacGruber\"",
+        "answer": "FORTE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Excessive",
-        "answer": "UNDUE",
+        "num": 2,
+        "clue": "Scummy stuff",
+        "answer": "ALGAE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Gets an F",
-        "answer": "FAILS",
+        "num": 3,
+        "clue": "Waterproof window sealant",
+        "answer": "CAULK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Necessity for photographing in the dark",
-        "answer": "FLASH",
+        "num": 4,
+        "clue": "Arduous journey",
+        "answer": "TREK",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Don't ___ me! (\"Watch your attitude!\")",
+        "answer": "SASS",
+        "row": 1,
+        "col": 0
       }
     ]
   }
