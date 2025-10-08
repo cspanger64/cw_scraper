@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
+      null,
+      "J",
       "F",
-      "A",
-      "C",
-      "T"
-    ],
-    [
-      "S",
-      "O",
-      "L",
-      "A",
-      "R"
-    ],
-    [
-      "A",
-      "R",
-      "G",
-      "U",
-      "E"
-    ],
-    [
-      "S",
-      "T",
-      "A",
-      "L",
       "K"
     ],
     [
-      "S",
-      "E",
-      "E",
-      "K",
+      null,
+      "G",
+      "A",
+      "I",
+      "A"
+    ],
+    [
+      "B",
+      "U",
+      "Z",
+      "Z",
+      "Y"
+    ],
+    [
+      "R",
+      "A",
+      "Z",
+      "Z",
+      null
+    ],
+    [
+      "A",
+      "M",
+      "Y",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Word announced before sharing a bit of trivia",
-        "answer": "FACT",
+        "clue": "Airport in Queens, familiarly",
+        "answer": "JFK",
         "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Greek goddess of the earth",
+        "answer": "GAIA",
+        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Renewable energy option",
-        "answer": "SOLAR",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Make a case (for)",
-        "answer": "ARGUE",
+        "clue": "Lively and exciting",
+        "answer": "BUZZY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Edible part of rhubarb",
-        "answer": "STALK",
+        "num": 6,
+        "clue": "Tease playfully",
+        "answer": "RAZZ",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Look for hiders",
-        "answer": "SEEK",
+        "num": 7,
+        "clue": "Minnesota senator Klobuchar",
+        "answer": "AMY",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Actor Will of \"The Four Seasons\" and \"MacGruber\"",
-        "answer": "FORTE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Scummy stuff",
-        "answer": "ALGAE",
+        "clue": "D.J. ___ Jeff, onetime musical partner of Will Smith",
+        "answer": "JAZZY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Waterproof window sealant",
-        "answer": "CAULK",
+        "num": 2,
+        "clue": "Emit bubbles",
+        "answer": "FIZZ",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Arduous journey",
-        "answer": "TREK",
+        "num": 3,
+        "clue": "Sure,\" slangily",
+        "answer": "KAY",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Don't ___ me! (\"Watch your attitude!\")",
-        "answer": "SASS",
+        "num": 4,
+        "clue": "Westernmost territory of the U.S.",
+        "answer": "GUAM",
         "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Undergarment item",
+        "answer": "BRA",
+        "row": 2,
         "col": 0
       }
     ]
