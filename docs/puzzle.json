@@ -1,41 +1,69 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
-      null,
-      "J",
-      "F",
-      "K"
-    ],
-    [
-      null,
-      "G",
-      "A",
-      "I",
-      "A"
-    ],
-    [
-      "B",
+      "C",
       "U",
-      "Z",
-      "Z",
-      "Y"
-    ],
-    [
-      "R",
-      "A",
-      "Z",
-      "Z",
+      "L",
+      "T",
+      null,
       null
     ],
     [
-      "A",
+      "G",
+      "E",
+      "N",
+      "I",
+      "U",
+      "S",
+      null
+    ],
+    [
+      "E",
+      "D",
+      "I",
+      "B",
+      "L",
+      "E",
+      null
+    ],
+    [
       "M",
-      "Y",
+      "A",
+      "T",
+      "R",
+      "I",
+      "X",
+      null
+    ],
+    [
+      null,
+      "R",
+      "E",
+      "A",
+      "P",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
       null,
       null
     ]
@@ -44,75 +72,82 @@
     "across": [
       {
         "num": 1,
-        "clue": "Airport in Queens, familiarly",
-        "answer": "JFK",
+        "clue": "__ of personality",
+        "answer": "CULT",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Greek goddess of the earth",
-        "answer": "GAIA",
-        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Lively and exciting",
-        "answer": "BUZZY",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Tease playfully",
-        "answer": "RAZZ",
-        "row": 3,
+        "clue": "Spelling Bee rank achieved by getting 70% of total points",
+        "answer": "GENIUS",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Minnesota senator Klobuchar",
-        "answer": "AMY",
-        "row": 4,
+        "clue": "THC-infused gummy, e.g.",
+        "answer": "EDIBLE",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Grid with numbers",
+        "answer": "MATRIX",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Harvest",
+        "answer": "REAP",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "D.J. ___ Jeff, onetime musical partner of Will Smith",
-        "answer": "JAZZY",
+        "clue": "Moth-repellent wood",
+        "answer": "CEDAR",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Join together",
+        "answer": "UNITE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Emit bubbles",
-        "answer": "FIZZ",
+        "num": 3,
+        "clue": "Zodiac sign before Scorpio",
+        "answer": "LIBRA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Sure,\" slangily",
-        "answer": "KAY",
+        "num": 4,
+        "clue": "Flower that caused the world's first economic bubble in the 1630s",
+        "answer": "TULIP",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Westernmost territory of the U.S.",
-        "answer": "GUAM",
+        "num": 5,
+        "clue": "Rock on a band",
+        "answer": "GEM",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "Undergarment item",
-        "answer": "BRA",
-        "row": 2,
-        "col": 0
+        "num": 6,
+        "clue": "It sells, in an old maxim",
+        "answer": "SEX",
+        "row": 1,
+        "col": 5
       }
     ]
   }
