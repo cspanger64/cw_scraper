@@ -1,153 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
-      "C",
-      "U",
-      "L",
-      "T",
-      null,
-      null
-    ],
-    [
-      "G",
-      "E",
-      "N",
-      "I",
-      "U",
-      "S",
-      null
-    ],
-    [
-      "E",
-      "D",
-      "I",
       "B",
-      "L",
-      "E",
+      "F",
+      "G",
       null
     ],
     [
       "M",
-      "A",
-      "T",
-      "R",
       "I",
-      "X",
-      null
+      "L",
+      "E",
+      "S"
     ],
     [
-      null,
+      "A",
+      "L",
+      "O",
+      "N",
+      "E"
+    ],
+    [
       "R",
       "E",
+      "S",
+      "I",
+      "N"
+    ],
+    [
       "A",
-      "P",
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "S",
+      "S",
+      "E",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "__ of personality",
-        "answer": "CULT",
+        "clue": "1982 Roald Dahl novel, with \"The",
+        "answer": "BFG",
         "row": 0,
         "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Spelling Bee rank achieved by getting 70% of total points",
-        "answer": "GENIUS",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "THC-infused gummy, e.g.",
-        "answer": "EDIBLE",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Grid with numbers",
-        "answer": "MATRIX",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Harvest",
-        "answer": "REAP",
-        "row": 4,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Moth-repellent wood",
-        "answer": "CEDAR",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Join together",
-        "answer": "UNITE",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 3,
-        "clue": "Zodiac sign before Scorpio",
-        "answer": "LIBRA",
-        "row": 0,
-        "col": 3
       },
       {
         "num": 4,
-        "clue": "Flower that caused the world's first economic bubble in the 1630s",
-        "answer": "TULIP",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Rock on a band",
-        "answer": "GEM",
+        "clue": "One way to pay for an airline flight",
+        "answer": "MILES",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "It sells, in an old maxim",
-        "answer": "SEX",
+        "clue": "Without help",
+        "answer": "ALONE",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Sticky secretion from a pine tree",
+        "answer": "RESIN",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Positive quality",
+        "answer": "ASSET",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Olympic gymnast with five moves named after her",
+        "answer": "BILES",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Dentist's often-unheeded advice",
+        "answer": "FLOSS",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 3,
+        "clue": "Aladdin\" comic relief",
+        "answer": "GENIE",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 4,
+        "clue": "Actress Rooney",
+        "answer": "MARA",
         "row": 1,
-        "col": 5
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Email folder",
+        "answer": "SENT",
+        "row": 1,
+        "col": 4
       }
     ]
   }
