@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "B",
-      "F",
       "G",
-      null
-    ],
-    [
-      "M",
-      "I",
-      "L",
-      "E",
-      "S"
-    ],
-    [
-      "A",
-      "L",
-      "O",
-      "N",
-      "E"
-    ],
-    [
       "R",
-      "E",
-      "S",
       "I",
-      "N"
+      "D"
     ],
     [
+      null,
+      "R",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "C",
+      "O",
+      "P",
       "A",
-      "S",
-      "S",
-      "E",
-      "T"
+      "Y"
+    ],
+    [
+      "P",
+      "A",
+      "U",
+      "L",
+      "O"
+    ],
+    [
+      "U",
+      "N",
+      "P",
+      "L",
+      "U"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "1982 Roald Dahl novel, with \"The",
-        "answer": "BFG",
+        "clue": "Go off the ___ ... like the last letter of 8-Across?",
+        "answer": "GRID",
         "row": 0,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "One way to pay for an airline flight",
-        "answer": "MILES",
+        "num": 5,
+        "clue": "The \"R\" of P.R., on a map",
+        "answer": "RICO",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Without help",
-        "answer": "ALONE",
+        "clue": "Patient's share of the cost",
+        "answer": "COPAY",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Sticky secretion from a pine tree",
-        "answer": "RESIN",
+        "clue": "S\u0000e3o ___, Brazil",
+        "answer": "PAULO",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Positive quality",
-        "answer": "ASSET",
+        "clue": "Totally disconnect and enjoy nature",
+        "answer": "UNPLU",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Olympic gymnast with five moves named after her",
-        "answer": "BILES",
+        "clue": "Rhyming partner of moan",
+        "answer": "GROAN",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Dentist's often-unheeded advice",
-        "answer": "FLOSS",
+        "clue": "Tear to pieces",
+        "answer": "RIPUP",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Aladdin\" comic relief",
-        "answer": "GENIE",
+        "clue": "Daring response to \"All in",
+        "answer": "ICALL",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Actress Rooney",
-        "answer": "MARA",
-        "row": 1,
-        "col": 0
+        "clue": "___ get my drift?",
+        "answer": "DOYOU",
+        "row": 0,
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Email folder",
-        "answer": "SENT",
-        "row": 1,
-        "col": 4
+        "clue": "Computer's \"brain,\" for short",
+        "answer": "CPU",
+        "row": 2,
+        "col": 0
       }
     ]
   }
