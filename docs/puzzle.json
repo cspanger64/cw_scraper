@@ -1,118 +1,181 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
+      "A",
+      "S",
+      "L",
       null,
-      "G",
-      "R",
+      "B",
+      "O",
+      "O"
+    ],
+    [
       "I",
+      "C",
+      "E",
+      "C",
+      "O",
+      "L",
       "D"
     ],
     [
-      null,
+      "R",
+      "O",
+      "N",
+      "A",
+      "L",
+      "D",
+      "O"
+    ],
+    [
+      "P",
       "R",
       "I",
-      "C",
-      "O"
+      "N",
+      "T",
+      "E",
+      "R"
     ],
     [
-      "C",
       "O",
       "P",
-      "A",
-      "Y"
-    ],
-    [
-      "P",
-      "A",
-      "U",
-      "L",
-      "O"
-    ],
-    [
-      "U",
+      "E",
       "N",
-      "P",
-      "L",
-      "U"
+      "E",
+      "R",
+      null
+    ],
+    [
+      "D",
+      "I",
+      "N",
+      "E",
+      "D",
+      null,
+      null
+    ],
+    [
+      "S",
+      "O",
+      "T",
+      "S",
+      null,
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Go off the ___ ... like the last letter of 8-Across?",
-        "answer": "GRID",
+        "clue": "Deaf communication method, for short",
+        "answer": "ASL",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "The \"R\" of P.R., on a map",
-        "answer": "RICO",
+        "num": 4,
+        "clue": "Sound from a fan that's been turned off?",
+        "answer": "BOO",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 7,
+        "clue": "Freezing",
+        "answer": "ICECOLD",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 6,
-        "clue": "Patient's share of the cost",
-        "answer": "COPAY",
+        "num": 9,
+        "clue": "Cristiano ___, soccer star with the most career goals (946)",
+        "answer": "RONALDO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "S\u0000e3o ___, Brazil",
-        "answer": "PAULO",
+        "num": 10,
+        "clue": "Brother product",
+        "answer": "PRINTER",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Totally disconnect and enjoy nature",
-        "answer": "UNPLU",
+        "num": 11,
+        "clue": "Word after \"bottle\" or \"eye",
+        "answer": "OPENER",
         "row": 4,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Had a fancy meal",
+        "answer": "DINED",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Drunkards",
+        "answer": "SOTS",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Rhyming partner of moan",
-        "answer": "GROAN",
+        "clue": "Earbuds introduced in 2016",
+        "answer": "AIRPODS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Zodiac arachnid",
+        "answer": "SCORPIO",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Tear to pieces",
-        "answer": "RIPUP",
+        "num": 3,
+        "clue": "Not strict with rules",
+        "answer": "LENIENT",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Daring response to \"All in",
-        "answer": "ICALL",
-        "row": 0,
-        "col": 3
-      },
-      {
         "num": 4,
-        "clue": "___ get my drift?",
-        "answer": "DOYOU",
+        "clue": "Ran like the wind",
+        "answer": "BOLTED",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Computer's \"brain,\" for short",
-        "answer": "CPU",
-        "row": 2,
-        "col": 0
+        "clue": "Like the Triassic period, vis-\u0000e0-vis the Jurassic",
+        "answer": "OLDER",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Stench",
+        "answer": "ODOR",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 8,
+        "clue": "French city with a famous film festival",
+        "answer": "CANNES",
+        "row": 1,
+        "col": 3
       }
     ]
   }
