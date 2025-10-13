@@ -1,181 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "A",
-      "S",
-      "L",
       null,
-      "B",
-      "O",
-      "O"
-    ],
-    [
-      "I",
       "C",
-      "E",
-      "C",
-      "O",
-      "L",
+      "A",
+      "R",
       "D"
     ],
     [
-      "R",
+      "J",
       "O",
-      "N",
-      "A",
-      "L",
-      "D",
-      "O"
-    ],
-    [
-      "P",
-      "R",
-      "I",
-      "N",
-      "T",
+      "K",
       "E",
       "R"
     ],
     [
       "O",
-      "P",
-      "E",
-      "N",
-      "E",
-      "R",
-      null
-    ],
-    [
-      "D",
+      "L",
       "I",
-      "N",
-      "E",
-      "D",
-      null,
-      null
+      "V",
+      "E"
     ],
     [
-      "S",
+      "L",
       "O",
       "T",
-      "S",
-      null,
-      null,
-      null
+      "U",
+      "S"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "P",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Deaf communication method, for short",
-        "answer": "ASL",
+        "clue": "A 5-Across might be a wild one",
+        "answer": "CARD",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Sound from a fan that's been turned off?",
-        "answer": "BOO",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 7,
-        "clue": "Freezing",
-        "answer": "ICECOLD",
+        "num": 5,
+        "clue": "One of two in a standard deck",
+        "answer": "JOKER",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Cristiano ___, soccer star with the most career goals (946)",
-        "answer": "RONALDO",
+        "num": 6,
+        "clue": "Homer called its oil \"liquid gold",
+        "answer": "OLIVE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Brother product",
-        "answer": "PRINTER",
+        "num": 7,
+        "clue": "Symbolic flower in Buddhism",
+        "answer": "LOTUS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Word after \"bottle\" or \"eye",
-        "answer": "OPENER",
+        "num": 8,
+        "clue": "Bunkers on a golf course",
+        "answer": "TRAPS",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Had a fancy meal",
-        "answer": "DINED",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Drunkards",
-        "answer": "SOTS",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Earbuds introduced in 2016",
-        "answer": "AIRPODS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Zodiac arachnid",
-        "answer": "SCORPIO",
+        "clue": "Use crayons, for example",
+        "answer": "COLOR",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Not strict with rules",
-        "answer": "LENIENT",
+        "num": 2,
+        "clue": "Japanese dog breed",
+        "answer": "AKITA",
         "row": 0,
         "col": 2
       },
       {
+        "num": 3,
+        "clue": "Really energize",
+        "answer": "REVUP",
+        "row": 0,
+        "col": 3
+      },
+      {
         "num": 4,
-        "clue": "Ran like the wind",
-        "answer": "BOLTED",
+        "clue": "Garment that may be strapless",
+        "answer": "DRESS",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Like the Triassic period, vis-\u0000e0-vis the Jurassic",
-        "answer": "OLDER",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Stench",
-        "answer": "ODOR",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 8,
-        "clue": "French city with a famous film festival",
-        "answer": "CANNES",
+        "clue": "Sudden shock",
+        "answer": "JOLT",
         "row": 1,
-        "col": 3
+        "col": 0
       }
     ]
   }
