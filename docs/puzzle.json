@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "C",
-      "A",
-      "R",
-      "D"
-    ],
-    [
-      "J",
-      "O",
       "K",
-      "E",
-      "R"
+      "N",
+      "O",
+      "B"
     ],
     [
+      null,
+      "N",
       "O",
-      "L",
+      "N",
+      "O"
+    ],
+    [
+      "D",
       "I",
-      "V",
-      "E"
-    ],
-    [
-      "L",
-      "O",
-      "T",
-      "U",
-      "S"
-    ],
-    [
-      "T",
       "R",
-      "A",
+      "T",
+      "Y"
+    ],
+    [
+      "I",
+      "F",
+      "S",
+      "O",
+      null
+    ],
+    [
+      "D",
+      "E",
+      "E",
       "P",
-      "S"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "A 5-Across might be a wild one",
-        "answer": "CARD",
+        "clue": "Door handle",
+        "answer": "KNOB",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "One of two in a standard deck",
-        "answer": "JOKER",
+        "clue": "Talking about your ex on a first date, e.g.",
+        "answer": "NONO",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Homer called its oil \"liquid gold",
-        "answer": "OLIVE",
+        "clue": "Like some minds, martinis and money",
+        "answer": "DIRTY",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Symbolic flower in Buddhism",
-        "answer": "LOTUS",
+        "clue": "Should that be the case ...",
+        "answer": "IFSO",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Bunkers on a golf course",
-        "answer": "TRAPS",
+        "clue": "Profound",
+        "answer": "DEEP",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Use crayons, for example",
-        "answer": "COLOR",
+        "clue": "Butter ___",
+        "answer": "KNIFE",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Japanese dog breed",
-        "answer": "AKITA",
+        "clue": "Like the god Tyr, for whom Tuesday is named",
+        "answer": "NORSE",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Really energize",
-        "answer": "REVUP",
+        "clue": "Winning",
+        "answer": "ONTOP",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Garment that may be strapless",
-        "answer": "DRESS",
+        "clue": "Reason for blue decorations at a baby shower, perhaps",
+        "answer": "BOY",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Sudden shock",
-        "answer": "JOLT",
-        "row": 1,
+        "num": 6,
+        "clue": "Accomplished",
+        "answer": "DID",
+        "row": 2,
         "col": 0
       }
     ]
