@@ -1,118 +1,119 @@
 {
   "size": [
-    5,
-    5
+    6,
+    4
   ],
   "grid": [
     [
-      null,
-      "K",
-      "N",
-      "O",
-      "B"
-    ],
-    [
-      null,
-      "N",
-      "O",
-      "N",
-      "O"
-    ],
-    [
-      "D",
+      "C",
       "I",
+      "G",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "W"
+    ],
+    [
       "R",
-      "T",
-      "Y"
+      "A",
+      "C",
+      "E"
     ],
     [
-      "I",
-      "F",
+      "B",
+      "R",
+      "A",
+      "D"
+    ],
+    [
       "S",
-      "O",
-      null
+      "U",
+      "R",
+      "E"
     ],
     [
-      "D",
-      "E",
-      "E",
-      "P",
-      null
+      null,
+      "S",
+      "T",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Door handle",
-        "answer": "KNOB",
+        "clue": "Smokes, informally",
+        "answer": "CIGS",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Talking about your ex on a first date, e.g.",
-        "answer": "NONO",
+        "clue": "Don't have ___, man!\" (Bart Simpson catchphrase)",
+        "answer": "ACOW",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Like some minds, martinis and money",
-        "answer": "DIRTY",
+        "clue": "What the vehicle in \"lane one\" of this crossword is winning?",
+        "answer": "RACE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Should that be the case ...",
-        "answer": "IFSO",
+        "clue": "Pitt of Hollywood",
+        "answer": "BRAD",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Profound",
-        "answer": "DEEP",
+        "clue": "Yeah, whatever",
+        "answer": "SURE",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Rd. crossers",
+        "answer": "STS",
+        "row": 5,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Butter ___",
-        "answer": "KNIFE",
+        "clue": "Things to \"load\" before a marathon",
+        "answer": "CARBS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Mythical figure who inspired the idiom \"fly too close to the sun",
+        "answer": "ICARUS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Like the god Tyr, for whom Tuesday is named",
-        "answer": "NORSE",
+        "num": 3,
+        "clue": "Zoomer around a small track",
+        "answer": "GOCART",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Winning",
-        "answer": "ONTOP",
+        "num": 4,
+        "clue": "Neighbors of Norwegians",
+        "answer": "SWEDES",
         "row": 0,
         "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Reason for blue decorations at a baby shower, perhaps",
-        "answer": "BOY",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Accomplished",
-        "answer": "DID",
-        "row": 2,
-        "col": 0
       }
     ]
   }
