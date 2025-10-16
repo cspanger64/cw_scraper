@@ -1,119 +1,118 @@
 {
   "size": [
-    6,
-    4
+    5,
+    5
   ],
   "grid": [
     [
+      null,
+      "P",
       "C",
-      "I",
-      "G",
-      "S"
+      "S",
+      null
     ],
     [
+      "W",
       "A",
-      "C",
+      "H",
       "O",
-      "W"
-    ],
-    [
-      "R",
-      "A",
-      "C",
-      "E"
-    ],
-    [
-      "B",
-      "R",
-      "A",
-      "D"
+      "O"
     ],
     [
       "S",
+      "P",
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "J",
       "U",
-      "R",
-      "E"
+      "L",
+      "I",
+      "A"
     ],
     [
       null,
-      "S",
-      "T",
-      "S"
+      "A",
+      "D",
+      "D",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Smokes, informally",
-        "answer": "CIGS",
+        "clue": "Chromebooks, but not MacBooks",
+        "answer": "PCS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 5,
-        "clue": "Don't have ___, man!\" (Bart Simpson catchphrase)",
-        "answer": "ACOW",
+        "num": 4,
+        "clue": "Yippee!",
+        "answer": "WAHOO",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "What the vehicle in \"lane one\" of this crossword is winning?",
-        "answer": "RACE",
+        "clue": "Reveal, as juicy gossip",
+        "answer": "SPILL",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Pitt of Hollywood",
-        "answer": "BRAD",
+        "clue": "With 2-Down, chef who helped popularize chicken cordon bleu in the U.S.",
+        "answer": "JULIA",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Yeah, whatever",
-        "answer": "SURE",
+        "clue": "Toss in",
+        "answer": "ADD",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Rd. crossers",
-        "answer": "STS",
-        "row": 5,
         "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Things to \"load\" before a marathon",
-        "answer": "CARBS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Mythical figure who inspired the idiom \"fly too close to the sun",
-        "answer": "ICARUS",
+        "clue": "Toss in",
+        "answer": "PAPUA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Zoomer around a small track",
-        "answer": "GOCART",
+        "num": 2,
+        "clue": "See 7-Across",
+        "answer": "CHILD",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Neighbors of Norwegians",
-        "answer": "SWEDES",
+        "num": 3,
+        "clue": "State of matter for most elements at room temperature",
+        "answer": "SOLID",
         "row": 0,
         "col": 3
+      },
+      {
+        "num": 4,
+        "clue": "Business-focused newspaper, for short",
+        "answer": "WSJ",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Hello, in Portuguese",
+        "answer": "OLA",
+        "row": 1,
+        "col": 4
       }
     ]
   }
