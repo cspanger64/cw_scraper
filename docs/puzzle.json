@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "P",
-      "C",
-      "S",
-      null
-    ],
-    [
       "W",
-      "A",
-      "H",
-      "O",
-      "O"
+      "I",
+      "N",
+      "E"
     ],
     [
       "S",
-      "P",
-      "I",
-      "L",
-      "L"
-    ],
-    [
-      "J",
-      "U",
-      "L",
-      "I",
+      "A",
+      "M",
+      "O",
       "A"
     ],
     [
-      null,
+      "K",
+      "N",
+      "O",
+      "T",
+      "S"
+    ],
+    [
+      "I",
+      "N",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "P",
       "A",
       "D",
-      "D",
+      "S",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Chromebooks, but not MacBooks",
-        "answer": "PCS",
+        "clue": "Red or white, but not blue",
+        "answer": "WINE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "Yippee!",
-        "answer": "WAHOO",
+        "num": 5,
+        "clue": "Island country whose culture inspired much of \"Moana\"",
+        "answer": "SAMOA",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Reveal, as juicy gossip",
-        "answer": "SPILL",
+        "clue": "Garlic ___ (pizzeria appetizer)",
+        "answer": "KNOTS",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "With 2-Down, chef who helped popularize chicken cordon bleu in the U.S.",
-        "answer": "JULIA",
+        "clue": "Small coastal waterway",
+        "answer": "INLET",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Toss in",
-        "answer": "ADD",
+        "clue": "Protective football gear",
+        "answer": "PADS",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Toss in",
-        "answer": "PAPUA",
+        "clue": "___ bet?",
+        "answer": "WANNA",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "See 7-Across",
-        "answer": "CHILD",
+        "clue": "Remark after not getting a modern reference",
+        "answer": "IMOLD",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "State of matter for most elements at room temperature",
-        "answer": "SOLID",
+        "clue": "Movie studio's feedback for a director",
+        "answer": "NOTES",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Business-focused newspaper, for short",
-        "answer": "WSJ",
-        "row": 1,
-        "col": 0
+        "clue": "3 o'clock, directionally",
+        "answer": "EAST",
+        "row": 0,
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Hello, in Portuguese",
-        "answer": "OLA",
+        "clue": "Button pressed to escape a YouTube ad",
+        "answer": "SKIP",
         "row": 1,
-        "col": 4
+        "col": 0
       }
     ]
   }
