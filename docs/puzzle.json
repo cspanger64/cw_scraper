@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "W",
-      "I",
-      "N",
-      "E"
-    ],
-    [
       "S",
-      "A",
-      "M",
+      "P",
       "O",
-      "A"
-    ],
-    [
-      "K",
-      "N",
       "O",
-      "T",
-      "S"
-    ],
-    [
-      "I",
-      "N",
-      "L",
-      "E",
-      "T"
+      "F"
     ],
     [
       "P",
-      "A",
+      "I",
+      "X",
+      "I",
+      "E"
+    ],
+    [
+      "E",
+      "X",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "C",
+      "E",
       "D",
+      "E",
+      "D"
+    ],
+    [
       "S",
-      null
+      "L",
+      "E",
+      "D",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Red or white, but not blue",
-        "answer": "WINE",
+        "clue": "\"The Naked Gun\" or \"Scary Movie\"",
+        "answer": "SPOOF",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Island country whose culture inspired much of \"Moana\"",
-        "answer": "SAMOA",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Garlic ___ (pizzeria appetizer)",
-        "answer": "KNOTS",
-        "row": 2,
+        "clue": "___ cut (short hairstyle)",
+        "answer": "PIXIE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Small coastal waterway",
-        "answer": "INLET",
-        "row": 3,
+        "clue": "Napoleon's punishment after the Battle of Waterloo",
+        "answer": "EXILE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Protective football gear",
-        "answer": "PADS",
+        "clue": "Surrendered",
+        "answer": "CEDED",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "They travel up and down snow-covered hills",
+        "answer": "SLEDS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "___ bet?",
-        "answer": "WANNA",
+        "clue": "Glasses, informally",
+        "answer": "SPECS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Dot on a computer screen",
+        "answer": "PIXEL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Remark after not getting a modern reference",
-        "answer": "IMOLD",
+        "num": 3,
+        "clue": "Nitrous ___ (laughing gas)",
+        "answer": "OXIDE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Movie studio's feedback for a director",
-        "answer": "NOTES",
+        "num": 4,
+        "clue": "De-squeaked, as a bike chain",
+        "answer": "OILED",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "3 o'clock, directionally",
-        "answer": "EAST",
+        "num": 5,
+        "clue": "Scrollable features of social media",
+        "answer": "FEEDS",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Button pressed to escape a YouTube ad",
-        "answer": "SKIP",
-        "row": 1,
-        "col": 0
       }
     ]
   }
