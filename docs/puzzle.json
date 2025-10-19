@@ -1,118 +1,195 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "S",
-      "P",
-      "O",
-      "O",
-      "F"
-    ],
-    [
-      "P",
-      "I",
-      "X",
-      "I",
-      "E"
-    ],
-    [
-      "E",
-      "X",
-      "I",
-      "L",
-      "E"
-    ],
-    [
       "C",
-      "E",
-      "D",
-      "E",
-      "D"
+      "P",
+      "R",
+      null,
+      "U",
+      "G",
+      "G"
     ],
     [
+      "O",
+      "R",
+      "E",
+      null,
+      "P",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "I",
+      null,
+      "D",
+      "A",
+      "N"
+    ],
+    [
+      "B",
+      "T",
+      "S",
+      "A",
+      "R",
+      "M",
+      "Y"
+    ],
+    [
+      null,
+      "I",
       "S",
       "L",
+      "A",
+      "M",
+      null
+    ],
+    [
+      null,
+      "P",
+      "U",
+      "F",
+      "F",
+      "Y",
+      null
+    ],
+    [
+      null,
+      "S",
       "E",
-      "D",
-      "S"
+      "A",
+      "T",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "\"The Naked Gun\" or \"Scary Movie\"",
-        "answer": "SPOOF",
+        "clue": "Class for dummies?",
+        "answer": "CPR",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "___ cut (short hairstyle)",
-        "answer": "PIXIE",
+        "num": 4,
+        "clue": "Fuzzy boot brand",
+        "answer": "UGG",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 7,
+        "clue": "Metal sought by a miner",
+        "answer": "ORE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Napoleon's punishment after the Battle of Waterloo",
-        "answer": "EXILE",
+        "num": 8,
+        "clue": "T.S.A. ___Check",
+        "answer": "PRE",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 9,
+        "clue": "Me, in Marseilles",
+        "answer": "MOI",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Surrendered",
-        "answer": "CEDED",
+        "num": 10,
+        "clue": "The Da Vinci Code\" author Brown",
+        "answer": "DAN",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 11,
+        "clue": "Fan base of a major K-pop supergroup",
+        "answer": "BTSARMY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "They travel up and down snow-covered hills",
-        "answer": "SLEDS",
+        "num": 13,
+        "clue": "The world's fastest-growing religion, with nearly 350 million new observers in the past decade",
+        "answer": "ISLAM",
         "row": 4,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 14,
+        "clue": "Like a thick winter jacket, say",
+        "answer": "PUFFY",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 15,
+        "clue": "Ticketmaster purchases",
+        "answer": "SEATS",
+        "row": 6,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Glasses, informally",
-        "answer": "SPECS",
+        "clue": "Tool in a grooming kit",
+        "answer": "COMB",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Dot on a computer screen",
-        "answer": "PIXEL",
+        "clue": "Helpful nuggets from experts",
+        "answer": "PROTIPS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Nitrous ___ (laughing gas)",
-        "answer": "OXIDE",
+        "clue": "Publish again, as a magazine edition",
+        "answer": "REISSUE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "De-squeaked, as a bike chain",
-        "answer": "OILED",
+        "clue": "Skyward gust of air",
+        "answer": "UPDRAFT",
         "row": 0,
-        "col": 3
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Scrollable features of social media",
-        "answer": "FEEDS",
+        "clue": "Record of the Year and Best New Artist",
+        "answer": "GRAMMYS",
         "row": 0,
-        "col": 4
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Millennials' cohort, informally",
+        "answer": "GENY",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 12,
+        "clue": "__ Romeo (sporty Italian car)",
+        "answer": "ALFA",
+        "row": 3,
+        "col": 3
       }
     ]
   }
