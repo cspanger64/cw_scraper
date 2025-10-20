@@ -1,195 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "C",
-      "P",
-      "R",
-      null,
-      "U",
       "G",
-      "G"
-    ],
-    [
-      "O",
-      "R",
-      "E",
-      null,
-      "P",
-      "R",
-      "E"
-    ],
-    [
-      "M",
-      "O",
-      "I",
-      null,
-      "D",
       "A",
-      "N"
-    ],
-    [
-      "B",
-      "T",
-      "S",
-      "A",
-      "R",
-      "M",
-      "Y"
-    ],
-    [
+      "G",
       null,
-      "I",
-      "S",
-      "L",
-      "A",
-      "M",
       null
     ],
     [
-      null,
-      "P",
       "U",
-      "F",
-      "F",
-      "Y",
-      null
+      "S",
+      "E",
+      "U",
+      "P"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "G",
+      "O"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "L",
+      "L"
     ],
     [
       null,
-      "S",
+      null,
       "E",
-      "A",
-      "T",
-      "S",
-      null
+      "Y",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Class for dummies?",
-        "answer": "CPR",
+        "clue": "[Gross!]",
+        "answer": "GAG",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "Fuzzy boot brand",
-        "answer": "UGG",
-        "row": 0,
-        "col": 4
+        "clue": "Finish off, as a tube of toothpaste",
+        "answer": "USEUP",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Metal sought by a miner",
-        "answer": "ORE",
-        "row": 1,
+        "clue": "Argentine dance style",
+        "answer": "TANGO",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "T.S.A. ___Check",
-        "answer": "PRE",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 9,
-        "clue": "Me, in Marseilles",
-        "answer": "MOI",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "The Da Vinci Code\" author Brown",
-        "answer": "DAN",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 11,
-        "clue": "Fan base of a major K-pop supergroup",
-        "answer": "BTSARMY",
+        "clue": "Dish : dirt :: ___ : tea",
+        "answer": "SPILL",
         "row": 3,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "The world's fastest-growing religion, with nearly 350 million new observers in the past decade",
-        "answer": "ISLAM",
+        "num": 9,
+        "clue": "The \"E\" of REM",
+        "answer": "EYE",
         "row": 4,
-        "col": 1
-      },
-      {
-        "num": 14,
-        "clue": "Like a thick winter jacket, say",
-        "answer": "PUFFY",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 15,
-        "clue": "Ticketmaster purchases",
-        "answer": "SEATS",
-        "row": 6,
-        "col": 1
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Tool in a grooming kit",
-        "answer": "COMB",
+        "clue": "2023 Olivia Rodrigo album with the hit single \"Bad Idea Right?",
+        "answer": "GUTS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Helpful nuggets from experts",
-        "answer": "PROTIPS",
+        "clue": "Right away.",
+        "answer": "ASAP",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Publish again, as a magazine edition",
-        "answer": "REISSUE",
+        "clue": "Disney role for Robin Williams or Will Smith",
+        "answer": "GENIE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Skyward gust of air",
-        "answer": "UPDRAFT",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 5,
-        "clue": "Record of the Year and Best New Artist",
-        "answer": "GRAMMYS",
-        "row": 0,
-        "col": 5
+        "clue": "Like a Christmas sweater, perhaps",
+        "answer": "UGLY",
+        "row": 1,
+        "col": 3
       },
       {
         "num": 6,
-        "clue": "Millennials' cohort, informally",
-        "answer": "GENY",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 12,
-        "clue": "__ Romeo (sporty Italian car)",
-        "answer": "ALFA",
-        "row": 3,
-        "col": 3
+        "clue": "Festivus centerpiece",
+        "answer": "POLE",
+        "row": 1,
+        "col": 4
       }
     ]
   }
