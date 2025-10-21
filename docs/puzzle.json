@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "G",
-      "A",
-      "G",
-      null,
-      null
-    ],
-    [
-      "U",
-      "S",
-      "E",
-      "U",
-      "P"
-    ],
-    [
-      "T",
-      "A",
-      "N",
-      "G",
-      "O"
-    ],
-    [
-      "S",
-      "P",
-      "I",
+      "C",
       "L",
-      "L"
+      "I",
+      "C",
+      "K"
+    ],
+    [
+      "H",
+      "Y",
+      "D",
+      "R",
+      "A"
+    ],
+    [
+      "O",
+      "C",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "C",
+      "E"
     ],
     [
       null,
-      null,
       "E",
-      "Y",
-      "E"
+      "L",
+      "K",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "[Gross!]",
-        "answer": "GAG",
+        "clue": "Sound from a mouse",
+        "answer": "CLICK",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Finish off, as a tube of toothpaste",
-        "answer": "USEUP",
+        "num": 6,
+        "clue": "Many-headed serpent killed by Hercules",
+        "answer": "HYDRA",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Argentine dance style",
-        "answer": "TANGO",
+        "clue": "View from a cruise ship window",
+        "answer": "OCEAN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Dish : dirt :: ___ : tea",
-        "answer": "SPILL",
+        "clue": "See ya later!",
+        "answer": "PEACE",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "The \"E\" of REM",
-        "answer": "EYE",
+        "clue": "Animal whose antlers can grow up to an inch per day",
+        "answer": "ELK",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "2023 Olivia Rodrigo album with the hit single \"Bad Idea Right?",
-        "answer": "GUTS",
+        "clue": "Dice, e.g.",
+        "answer": "CHOP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Right away.",
-        "answer": "ASAP",
+        "clue": "French for \"high school",
+        "answer": "LYCEE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Disney role for Robin Williams or Will Smith",
-        "answer": "GENIE",
+        "clue": "10 out of 10",
+        "answer": "IDEAL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Like a Christmas sweater, perhaps",
-        "answer": "UGLY",
-        "row": 1,
+        "num": 4,
+        "clue": "Sound from a bat",
+        "answer": "CRACK",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Festivus centerpiece",
-        "answer": "POLE",
-        "row": 1,
+        "num": 5,
+        "clue": "Citizen ___",
+        "answer": "KANE",
+        "row": 0,
         "col": 4
       }
     ]
