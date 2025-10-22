@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "C",
-      "L",
-      "I",
-      "C",
-      "K"
-    ],
-    [
-      "H",
-      "Y",
-      "D",
-      "R",
-      "A"
-    ],
-    [
-      "O",
-      "C",
-      "E",
+      null,
+      null,
+      "J",
       "A",
-      "N"
-    ],
-    [
-      "P",
-      "E",
-      "A",
-      "C",
-      "E"
+      "W"
     ],
     [
       null,
+      "J",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "J",
+      "U",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      "O",
+      "N",
       "E",
-      "L",
-      "K",
+      "U",
+      "P"
+    ],
+    [
+      "G",
+      "O",
+      "D",
+      "S",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Sound from a mouse",
-        "answer": "CLICK",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Many-headed serpent killed by Hercules",
-        "answer": "HYDRA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "View from a cruise ship window",
-        "answer": "OCEAN",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "See ya later!",
-        "answer": "PEACE",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Animal whose antlers can grow up to an inch per day",
-        "answer": "ELK",
-        "row": 4,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Dice, e.g.",
-        "answer": "CHOP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "French for \"high school",
-        "answer": "LYCEE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "10 out of 10",
-        "answer": "IDEAL",
+        "clue": "Bone that can be \"dropped",
+        "answer": "JAW",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Sound from a bat",
-        "answer": "CRACK",
+        "clue": "Late scientist Goodall",
+        "answer": "JANE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Make critical assumptions about",
+        "answer": "JUDGE",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Best by a little",
+        "answer": "ONEUP",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Mercury, Jupiter, Saturn, etc.",
+        "answer": "GODS",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Just kind of over it",
+        "answer": "JADED",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Beef cattle breed",
+        "answer": "ANGUS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Citizen ___",
-        "answer": "KANE",
+        "num": 3,
+        "clue": "Shed tears",
+        "answer": "WEEP",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "2007 comedy-drama starring Elliot Page and Michael Cera",
+        "answer": "JUNO",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Refresh, as one's memory",
+        "answer": "JOG",
+        "row": 2,
+        "col": 0
       }
     ]
   }
