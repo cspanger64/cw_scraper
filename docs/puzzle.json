@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "J",
+      "C",
+      "L",
       "A",
-      "W"
+      "S",
+      "S"
     ],
     [
-      null,
-      "J",
-      "A",
-      "N",
-      "E"
-    ],
-    [
-      "J",
+      "L",
       "U",
-      "D",
-      "G",
-      "E"
+      "N",
+      "C",
+      "H"
     ],
     [
-      "O",
+      "I",
+      "N",
       "N",
       "E",
-      "U",
-      "P"
+      "R"
     ],
     [
-      "G",
-      "O",
-      "D",
-      "S",
-      null
+      "M",
+      "A",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "B",
+      "R",
+      "E",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Bone that can be \"dropped",
-        "answer": "JAW",
+        "clue": "Roomful of students",
+        "answer": "CLASS",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Late scientist Goodall",
-        "answer": "JANE",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Make critical assumptions about",
-        "answer": "JUDGE",
-        "row": 2,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Best by a little",
-        "answer": "ONEUP",
-        "row": 3,
+        "clue": "Something to bring in a brown paper bag",
+        "answer": "LUNCH",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Mercury, Jupiter, Saturn, etc.",
-        "answer": "GODS",
+        "clue": "__ Harbor, sightseeing area of Baltimore",
+        "answer": "INNER",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Where many Stephen King novels are set",
+        "answer": "MAINE",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Beagle or bulldog",
+        "answer": "BREED",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Just kind of over it",
-        "answer": "JADED",
+        "clue": "Go bouldering, e.g.",
+        "answer": "CLIMB",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "___ New Year",
+        "answer": "LUNAR",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Redhead of musical/movie fame",
+        "answer": "ANNIE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Beef cattle breed",
-        "answer": "ANGUS",
+        "num": 4,
+        "clue": "Something an actor might steal",
+        "answer": "SCENE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Shed tears",
-        "answer": "WEEP",
+        "num": 5,
+        "clue": "Tear to pieces",
+        "answer": "SHRED",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "2007 comedy-drama starring Elliot Page and Michael Cera",
-        "answer": "JUNO",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Refresh, as one's memory",
-        "answer": "JOG",
-        "row": 2,
-        "col": 0
       }
     ]
   }
