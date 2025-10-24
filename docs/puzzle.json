@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "C",
-      "L",
+      "H",
       "A",
-      "S",
-      "S"
+      "Z",
+      "Y",
+      null
     ],
     [
-      "L",
-      "U",
-      "N",
-      "C",
-      "H"
-    ],
-    [
+      "A",
+      "X",
       "I",
+      "O",
+      "M"
+    ],
+    [
+      "H",
+      "O",
       "N",
+      "D",
+      "A"
+    ],
+    [
+      "A",
       "N",
+      "G",
       "E",
       "R"
     ],
     [
-      "M",
-      "A",
-      "I",
-      "N",
-      "E"
-    ],
-    [
-      "B",
-      "R",
-      "E",
-      "E",
-      "D"
+      null,
+      null,
+      "S",
+      "L",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Roomful of students",
-        "answer": "CLASS",
+        "clue": "Like some weather, memories and I.P.A.s",
+        "answer": "HAZY",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Something to bring in a brown paper bag",
-        "answer": "LUNCH",
+        "num": 5,
+        "clue": "Statement that's self-evidently true",
+        "answer": "AXIOM",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "__ Harbor, sightseeing area of Baltimore",
-        "answer": "INNER",
+        "clue": "Civic automaker",
+        "answer": "HONDA",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Where many Stephen King novels are set",
-        "answer": "MAINE",
+        "clue": "What fear leads to, as Yoda told a young Anakin",
+        "answer": "ANGER",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Beagle or bulldog",
-        "answer": "BREED",
+        "clue": "Foxlike",
+        "answer": "SLY",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Go bouldering, e.g.",
-        "answer": "CLIMB",
+        "clue": "Verbal \"lol\"",
+        "answer": "HAHA",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "___ New Year",
-        "answer": "LUNAR",
+        "clue": "Brain signal transmitter",
+        "answer": "AXON",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Redhead of musical/movie fame",
-        "answer": "ANNIE",
+        "clue": "Hits with a witty comeback",
+        "answer": "ZINGS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Something an actor might steal",
-        "answer": "SCENE",
+        "clue": "Sing at the top of a mountain, maybe",
+        "answer": "YODEL",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Tear to pieces",
-        "answer": "SHRED",
-        "row": 0,
+        "num": 6,
+        "clue": "Name of the famous \"Queen of Scots\"",
+        "answer": "MARY",
+        "row": 1,
         "col": 4
       }
     ]
