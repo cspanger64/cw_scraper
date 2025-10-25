@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "H",
-      "A",
-      "Z",
-      "Y",
+      null,
+      "C",
+      "O",
+      "O",
       null
     ],
     [
-      "A",
-      "X",
-      "I",
-      "O",
-      "M"
-    ],
-    [
-      "H",
-      "O",
-      "N",
-      "D",
-      "A"
-    ],
-    [
-      "A",
-      "N",
-      "G",
-      "E",
-      "R"
-    ],
-    [
-      null,
-      null,
-      "S",
+      "B",
       "L",
-      "Y"
+      "U",
+      "R",
+      "B"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "I",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "O",
+      "W"
+    ],
+    [
+      null,
+      "K",
+      "E",
+      "N",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Like some weather, memories and I.P.A.s",
-        "answer": "HAZY",
+        "clue": "Dove's soft call",
+        "answer": "COO",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 5,
-        "clue": "Statement that's self-evidently true",
-        "answer": "AXIOM",
+        "num": 4,
+        "clue": "Write-up on a book jacket",
+        "answer": "BLURB",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Civic automaker",
-        "answer": "HONDA",
+        "num": 6,
+        "clue": "Two to one, for one",
+        "answer": "RATIO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "What fear leads to, as Yoda told a young Anakin",
-        "answer": "ANGER",
+        "num": 7,
+        "clue": "Cupid's weaponry, along with 5-Down",
+        "answer": "ARROW",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Foxlike",
-        "answer": "SLY",
+        "num": 8,
+        "clue": "Jennings of \"Jeopardy!\"",
+        "answer": "KEN",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Verbal \"lol\"",
-        "answer": "HAHA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Brain signal transmitter",
-        "answer": "AXON",
+        "clue": "N.B.A. star Caitlin",
+        "answer": "CLARK",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Hits with a witty comeback",
-        "answer": "ZINGS",
+        "num": 2,
+        "clue": "Beyond bizarre, from the French",
+        "answer": "OUTRE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Sing at the top of a mountain, maybe",
-        "answer": "YODEL",
+        "num": 3,
+        "clue": "What has a \"belt\" seen only at night",
+        "answer": "ORION",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Name of the famous \"Queen of Scots\"",
-        "answer": "MARY",
+        "num": 4,
+        "clue": "Supportive undergarment",
+        "answer": "BRA",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "See 7-Across",
+        "answer": "BOW",
         "row": 1,
         "col": 4
       }
