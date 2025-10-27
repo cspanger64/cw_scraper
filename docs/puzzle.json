@@ -1,195 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "S",
+      "B",
+      "A",
+      "T",
       "H",
-      "I",
-      "E",
-      "L",
-      "D",
       null
     ],
     [
-      "G",
       "E",
-      "R",
-      "M",
-      "A",
-      "N",
-      null
-    ],
-    [
-      "T",
-      "R",
-      "E",
-      "E",
-      "S",
-      "A",
-      "P"
-    ],
-    [
-      null,
-      null,
-      null,
-      "R",
-      "A",
-      "T",
-      "E"
-    ],
-    [
-      "F",
+      "U",
       "R",
       "O",
-      "G",
-      "G",
-      "E",
-      "R"
+      null
     ],
     [
+      "G",
+      "R",
+      "O",
       "W",
-      "O",
-      "M",
-      "E",
-      "N",
-      "S",
-      null
+      "L"
     ],
     [
-      "D",
-      "O",
-      "G",
-      "S",
+      null,
       "A",
-      "T",
-      null
+      "L",
+      "S",
+      "O"
+    ],
+    [
+      null,
+      "S",
+      "L",
+      "O",
+      "W"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sword go-with",
-        "answer": "SHIELD",
+        "clue": "Rubber ducky's \"habitat",
+        "answer": "BATH",
         "row": 0,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Hamburger or Frankfurter, for example",
-        "answer": "GERMAN",
+        "num": 5,
+        "clue": "Coin in Cannes",
+        "answer": "EURO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Sticky stuff on bark",
-        "answer": "TREESAP",
+        "num": 6,
+        "clue": "Go \"Grrrr ...",
+        "answer": "GROWL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Hotel room pricing",
-        "answer": "RATE",
+        "num": 8,
+        "clue": "The other thing I wanted to say ...",
+        "answer": "ALSO",
         "row": 3,
-        "col": 3
+        "col": 1
       },
       {
-        "num": 11,
-        "clue": "Classic arcade game of hopping between obstacles",
-        "answer": "FROGGER",
+        "num": 9,
+        "clue": "Street sign in a school zone",
+        "answer": "SLOW",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "The \"W\" of the W.N.B.A.",
-        "answer": "WOMENS",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Looked after a pup",
-        "answer": "DOGSAT",
-        "row": 6,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Drill instructor's rank: Abbr.",
-        "answer": "SGT",
+        "clue": "Plead",
+        "answer": "BEG",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "___ Loss\" (#1 album for Drake and 21 Savage)",
-        "answer": "HER",
+        "clue": "Vibes, in Gen Z speak",
+        "answer": "AURAS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Fury",
-        "answer": "IRE",
+        "clue": "Social media menace",
+        "answer": "TROLL",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Appears on the scene",
-        "answer": "EMERGES",
+        "clue": "Oh, yeah? Explain that to me",
+        "answer": "HOWSO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Dish layered like this: sheet of noodles, sauce, cheese, repeat",
-        "answer": "LASAGNA",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Genetic screening procedure",
-        "answer": "DNATEST",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 9,
-        "clue": "As ___ my last email ...",
-        "answer": "PER",
+        "num": 7,
+        "clue": "Like a phone battery under 20%",
+        "answer": "LOW",
         "row": 2,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Subject line abbreviation",
-        "answer": "FWD",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Aussie marsupial, for short",
-        "answer": "ROO",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "No wayyyy!",
-        "answer": "OMG",
-        "row": 4,
-        "col": 2
+        "col": 4
       }
     ]
   }
