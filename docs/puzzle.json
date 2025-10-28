@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "B",
-      "A",
-      "T",
-      "H",
-      null
-    ],
-    [
-      "E",
-      "U",
-      "R",
-      "O",
-      null
-    ],
-    [
-      "G",
-      "R",
-      "O",
-      "W",
-      "L"
-    ],
-    [
       null,
       "A",
-      "L",
+      "W",
       "S",
+      null
+    ],
+    [
+      "S",
+      "L",
+      "E",
+      "E",
+      "P"
+    ],
+    [
+      "C",
+      "A",
+      "I",
+      "R",
       "O"
     ],
     [
-      null,
-      "S",
-      "L",
-      "O",
-      "W"
+      "A",
+      "R",
+      "G",
+      "U",
+      "E"
+    ],
+    [
+      "M",
+      "M",
+      "H",
+      "M",
+      "M"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Rubber ducky's \"habitat",
-        "answer": "BATH",
+        "clue": "Soooo cute!\\\" reactions",
+        "answer": "AWS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 5,
-        "clue": "Coin in Cannes",
-        "answer": "EURO",
+        "num": 4,
+        "clue": "___ mode (battery-saving state)",
+        "answer": "SLEEP",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Go \"Grrrr ...",
-        "answer": "GROWL",
+        "clue": "Afica's largest capital city",
+        "answer": "CAIRO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "The other thing I wanted to say ...",
-        "answer": "ALSO",
+        "num": 7,
+        "clue": "Bicker, bicker, bicker",
+        "answer": "ARGUE",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Street sign in a school zone",
-        "answer": "SLOW",
+        "num": 8,
+        "clue": "Close-mouthed sound of agreement",
+        "answer": "MMHMM",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Plead",
-        "answer": "BEG",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Vibes, in Gen Z speak",
-        "answer": "AURAS",
+        "clue": "Reason to suddenly bolt awake",
+        "answer": "ALARM",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Social media menace",
-        "answer": "TROLL",
+        "num": 2,
+        "clue": "Put on a scale",
+        "answer": "WEIGH",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Oh, yeah? Explain that to me",
-        "answer": "HOWSO",
+        "num": 3,
+        "clue": "Skin-care product dispensed with a dropper",
+        "answer": "SERUM",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Like a phone battery under 20%",
-        "answer": "LOW",
-        "row": 2,
+        "num": 4,
+        "clue": "Total rip-off",
+        "answer": "SCAM",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "The Raven\\\" or \\\"The Road Not Taken",
+        "answer": "POEM",
+        "row": 1,
         "col": 4
       }
     ]
