@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "A",
-      "W",
       "S",
-      null
+      "U",
+      "N",
+      "S"
     ],
     [
-      "S",
-      "L",
-      "E",
-      "E",
+      null,
+      "K",
+      "P",
+      "O",
       "P"
     ],
     [
-      "C",
+      "T",
       "A",
+      "S",
+      "T",
+      "Y"
+    ],
+    [
       "I",
-      "R",
-      "O"
+      "T",
+      "E",
+      "M",
+      null
     ],
     [
-      "A",
-      "R",
-      "G",
-      "U",
-      "E"
-    ],
-    [
-      "M",
-      "M",
-      "H",
-      "M",
-      "M"
+      "P",
+      "E",
+      "T",
+      "E",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Soooo cute!\\\" reactions",
-        "answer": "AWS",
+        "clue": "N.B.A. team with purple and orange jerseys",
+        "answer": "SUNS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "___ mode (battery-saving state)",
-        "answer": "SLEEP",
+        "num": 5,
+        "clue": "___ Demon Hunters\" (hit 2025 movie)",
+        "answer": "KPOP",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Afica's largest capital city",
-        "answer": "CAIRO",
+        "clue": "Scrumptious",
+        "answer": "TASTY",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Bicker, bicker, bicker",
-        "answer": "ARGUE",
+        "clue": "Next ___ on the agenda ...",
+        "answer": "ITEM",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Close-mouthed sound of agreement",
-        "answer": "MMHMM",
+        "clue": "Politician Buttigieg",
+        "answer": "PETE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Reason to suddenly bolt awake",
-        "answer": "ALARM",
+        "clue": "Rink rental",
+        "answer": "SKATE",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Put on a scale",
-        "answer": "WEIGH",
+        "clue": "Ticked off",
+        "answer": "UPSET",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Skin-care product dispensed with a dropper",
-        "answer": "SERUM",
+        "clue": "Blame-shifting words",
+        "answer": "NOTME",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Total rip-off",
-        "answer": "SCAM",
-        "row": 1,
-        "col": 0
+        "clue": "Fittingly, the outside letters of \"snoopy",
+        "answer": "SPY",
+        "row": 0,
+        "col": 4
       },
       {
-        "num": 5,
-        "clue": "The Raven\\\" or \\\"The Road Not Taken",
-        "answer": "POEM",
-        "row": 1,
-        "col": 4
+        "num": 6,
+        "clue": "What might be requested after spinning around an iPad",
+        "answer": "TIP",
+        "row": 2,
+        "col": 0
       }
     ]
   }
