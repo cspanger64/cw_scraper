@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
+      "C",
+      "P",
+      "R",
       null,
-      "S",
-      "U",
-      "N",
-      "S"
+      null
     ],
     [
-      null,
-      "K",
-      "P",
-      "O",
-      "P"
+      "H",
+      "E",
+      "A",
+      "D",
+      null
+    ],
+    [
+      "U",
+      "N",
+      "F",
+      "E",
+      "D"
     ],
     [
       "T",
       "A",
-      "S",
-      "T",
+      "F",
+      "F",
       "Y"
     ],
     [
+      "E",
+      "L",
       "I",
       "T",
-      "E",
-      "M",
-      null
-    ],
-    [
-      "P",
-      "E",
-      "T",
-      "E",
-      null
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "N.B.A. team with purple and orange jerseys",
-        "answer": "SUNS",
+        "clue": "Skill taught at lifeguard training, for short",
+        "answer": "CPR",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "___ Demon Hunters\" (hit 2025 movie)",
-        "answer": "KPOP",
+        "num": 4,
+        "clue": "Bop it!",
+        "answer": "HEAD",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Scrumptious",
-        "answer": "TASTY",
+        "clue": "Not given anything to eat",
+        "answer": "UNFED",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Next ___ on the agenda ...",
-        "answer": "ITEM",
+        "num": 8,
+        "clue": "Twist it! Pull it!",
+        "answer": "TAFFY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Politician Buttigieg",
-        "answer": "PETE",
+        "num": 9,
+        "clue": "Best of the best",
+        "answer": "ELITE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Rink rental",
-        "answer": "SKATE",
+        "clue": "Means of getting trash to a basement dumpster",
+        "answer": "CHUTE",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Word that can precede \"code\" or \"colony\"",
+        "answer": "PENAL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Ticked off",
-        "answer": "UPSET",
+        "num": 3,
+        "clue": "Baby Beluga\" musician",
+        "answer": "RAFFI",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Blame-shifting words",
-        "answer": "NOTME",
-        "row": 0,
+        "num": 5,
+        "clue": "Neatly skillful",
+        "answer": "DEFT",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Fittingly, the outside letters of \"snoopy",
-        "answer": "SPY",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "What might be requested after spinning around an iPad",
-        "answer": "TIP",
+        "num": 7,
+        "clue": "Change the color of, as hair",
+        "answer": "DYE",
         "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }
