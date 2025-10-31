@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "C",
-      "P",
-      "R",
-      null,
-      null
-    ],
-    [
-      "H",
-      "E",
-      "A",
-      "D",
-      null
-    ],
-    [
-      "U",
-      "N",
-      "F",
-      "E",
-      "D"
-    ],
-    [
-      "T",
-      "A",
-      "F",
-      "F",
-      "Y"
-    ],
-    [
-      "E",
-      "L",
       "I",
       "T",
-      "E"
+      "I",
+      "S",
+      null
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "T",
+      "S"
+    ],
+    [
+      "A",
+      "U",
+      "D",
+      "I",
+      "O"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "F",
+      "F"
+    ],
+    [
+      null,
+      "T",
+      "A",
+      "F",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Skill taught at lifeguard training, for short",
-        "answer": "CPR",
+        "clue": "Words on either side of \"___ what ___",
+        "answer": "ITIS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Bop it!",
-        "answer": "HEAD",
+        "num": 5,
+        "clue": "Breathes like a dog",
+        "answer": "PANTS",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Not given anything to eat",
-        "answer": "UNFED",
+        "num": 7,
+        "clue": "Podcast's medium",
+        "answer": "AUDIO",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Twist it! Pull it!",
-        "answer": "TAFFY",
+        "clue": "Test with one's nose",
+        "answer": "SNIFF",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Best of the best",
-        "answer": "ELITE",
+        "clue": "President after Teddy Roosevelt",
+        "answer": "TAFT",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Means of getting trash to a basement dumpster",
-        "answer": "CHUTE",
+        "clue": "Hoppy beers, for short",
+        "answer": "IPAS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Word that can precede \"code\" or \"colony\"",
-        "answer": "PENAL",
+        "clue": "Talk trash to",
+        "answer": "TAUNT",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Baby Beluga\" musician",
-        "answer": "RAFFI",
+        "clue": "The \"I\" of 1-Down",
+        "answer": "INDIA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Neatly skillful",
-        "answer": "DEFT",
-        "row": 1,
+        "num": 4,
+        "clue": "How you might feel after a long car ride",
+        "answer": "STIFF",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Change the color of, as hair",
-        "answer": "DYE",
-        "row": 2,
+        "num": 6,
+        "clue": "Pillowy",
+        "answer": "SOFT",
+        "row": 1,
         "col": 4
       }
     ]
