@@ -5,113 +5,120 @@
   ],
   "grid": [
     [
-      "I",
-      "T",
-      "I",
       "S",
-      null
+      "A",
+      "B",
+      "R",
+      "E"
     ],
     [
-      "P",
-      "A",
-      "N",
-      "T",
-      "S"
-    ],
-    [
-      "A",
       "U",
-      "D",
-      "I",
-      "O"
-    ],
-    [
       "S",
-      "N",
-      "I",
-      "F",
-      "F"
+      "U",
+      "A",
+      "L"
     ],
     [
-      null,
-      "T",
+      "M",
       "A",
-      "F",
+      "G",
+      "M",
+      "A"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "P",
       "T"
+    ],
+    [
+      "C",
+      "A",
+      null,
+      "S",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Words on either side of \"___ what ___",
-        "answer": "ITIS",
+        "clue": "Buffalo hockey player",
+        "answer": "SABRE",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Breathes like a dog",
-        "answer": "PANTS",
+        "num": 6,
+        "clue": "I'll have the ___\" (frequent customer's order)",
+        "answer": "USUAL",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Podcast's medium",
-        "answer": "AUDIO",
+        "clue": "Contents of a volcano",
+        "answer": "MAGMA",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Test with one's nose",
-        "answer": "SNIFF",
+        "clue": "Adjust to a new environment",
+        "answer": "ADAPT",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "President after Teddy Roosevelt",
-        "answer": "TAFT",
+        "clue": "With 10-Across, last car on a train",
+        "answer": "CA",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "See 9-Across",
+        "answer": "SE",
+        "row": 4,
+        "col": 3
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Hoppy beers, for short",
-        "answer": "IPAS",
+        "clue": "Poison\" shrub",
+        "answer": "SUMAC",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Talk trash to",
-        "answer": "TAUNT",
+        "clue": "Carne ___",
+        "answer": "ASADA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "The \"I\" of 1-Down",
-        "answer": "INDIA",
+        "clue": "Imaginary cause of fear",
+        "answer": "BUGA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "How you might feel after a long car ride",
-        "answer": "STIFF",
+        "clue": "Accessible alternatives to staircases",
+        "answer": "RAMPS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Pillowy",
-        "answer": "SOFT",
-        "row": 1,
+        "num": 5,
+        "clue": "Make extremely happy",
+        "answer": "ELATE",
+        "row": 0,
         "col": 4
       }
     ]
