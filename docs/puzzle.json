@@ -1,125 +1,223 @@
 {
   "size": [
-    5,
-    5
+    7,
+    8
   ],
   "grid": [
     [
-      "S",
+      "C",
       "A",
-      "B",
+      "G",
+      "E",
+      "F",
       "R",
+      "E",
       "E"
     ],
     [
-      "U",
+      "I",
+      "R",
+      "A",
+      "N",
+      "I",
+      "A",
+      "N",
+      "S"
+    ],
+    [
       "S",
-      "U",
-      "A",
-      "L"
+      "K",
+      "Y",
+      "W",
+      "R",
+      "I",
+      "T",
+      "E"
     ],
     [
-      "M",
-      "A",
-      "G",
-      "M",
-      "A"
-    ],
-    [
-      "A",
-      "D",
-      "A",
-      "P",
-      "T"
+      null,
+      null,
+      null,
+      "R",
+      "E",
+      "N",
+      null,
+      null
     ],
     [
       "C",
       "A",
-      null,
-      "S",
+      "V",
+      "A",
+      "L",
+      "I",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "P",
+      "I",
+      "E",
+      "C",
       "E"
+    ],
+    [
+      "M",
+      "A",
+      "E",
+      "S",
+      "T",
+      "R",
+      "O",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Buffalo hockey player",
-        "answer": "SABRE",
+        "clue": "Ethically sourced, as some egg",
+        "answer": "CAGEFREE",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "I'll have the ___\" (frequent customer's order)",
-        "answer": "USUAL",
+        "num": 9,
+        "clue": "Residents of Tehran",
+        "answer": "IRANIANS",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Contents of a volcano",
-        "answer": "MAGMA",
+        "num": 10,
+        "clue": "Air sign?",
+        "answer": "SKYWRITE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Adjust to a new environment",
-        "answer": "ADAPT",
+        "num": 11,
+        "clue": "___ Faire (medieval-themed festival, informally)",
+        "answer": "REN",
         "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "With 10-Across, last car on a train",
-        "answer": "CA",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "See 9-Across",
-        "answer": "SE",
-        "row": 4,
         "col": 3
+      },
+      {
+        "num": 12,
+        "clue": "Athlete from Cleveland or the University of Virginia",
+        "answer": "CAVALIER",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 17,
+        "clue": "Kind of bathing suit",
+        "answer": "ONEPIECE",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 18,
+        "clue": "Musical whizzes",
+        "answer": "MAESTROS",
+        "row": 6,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Poison\" shrub",
-        "answer": "SUMAC",
+        "clue": "Certain gender identity",
+        "answer": "CIS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Carne ___",
-        "answer": "ASADA",
+        "clue": "Holy object sought in the first \"Indiana Jones\" movie",
+        "answer": "ARK",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Imaginary cause of fear",
-        "answer": "BUGA",
+        "clue": "___ pride",
+        "answer": "GAY",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Accessible alternatives to staircases",
-        "answer": "RAMPS",
+        "clue": "Completely surrounds",
+        "answer": "ENWRAPS",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Make extremely happy",
-        "answer": "ELATE",
+        "clue": "Like a cozy campsite on a cool autumn night, say",
+        "answer": "FIRELIT",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Washington's Mount ___, the highest peak in the Cascades",
+        "answer": "RAINIER",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "Sinus-treating doctor, for short",
+        "answer": "ENT",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 8,
+        "clue": "Opposite of WNW",
+        "answer": "ESE",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 12,
+        "clue": "_ _ _mon URL ending",
+        "answer": "COM",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "De Armas who starred in 2025's \"Ballerina",
+        "answer": "ANA",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 14,
+        "clue": "Shape of flying geese",
+        "answer": "VEE",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 15,
+        "clue": "Prefix with friendly",
+        "answer": "ECO",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 16,
+        "clue": "Restaurant booking, informally",
+        "answer": "RES",
+        "row": 4,
+        "col": 7
       }
     ]
   }
