@@ -1,223 +1,118 @@
 {
   "size": [
-    7,
-    8
+    5,
+    5
   ],
   "grid": [
     [
-      "C",
-      "A",
-      "G",
-      "E",
-      "F",
-      "R",
-      "E",
-      "E"
-    ],
-    [
       "I",
-      "R",
-      "A",
-      "N",
-      "I",
-      "A",
-      "N",
-      "S"
-    ],
-    [
-      "S",
-      "K",
-      "Y",
+      "O",
       "W",
-      "R",
-      "I",
-      "T",
-      "E"
-    ],
-    [
-      null,
-      null,
-      null,
-      "R",
-      "E",
-      "N",
-      null,
+      "A",
       null
     ],
     [
-      "C",
-      "A",
-      "V",
-      "A",
-      "L",
+      "Q",
+      "U",
       "I",
-      "E",
-      "R"
+      "Z",
+      null
     ],
     [
-      "O",
-      "N",
-      "E",
-      "P",
-      "I",
-      "E",
-      "C",
-      "E"
-    ],
-    [
-      "M",
-      "A",
-      "E",
       "S",
-      "T",
-      "R",
-      "O",
+      "I",
+      "N",
+      "U",
       "S"
+    ],
+    [
+      null,
+      "J",
+      "E",
+      "R",
+      "K"
+    ],
+    [
+      null,
+      "A",
+      "S",
+      "E",
+      "A"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Ethically sourced, as some egg",
-        "answer": "CAGEFREE",
+        "clue": "State with more pigs than people",
+        "answer": "IOWA",
         "row": 0,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Residents of Tehran",
-        "answer": "IRANIANS",
+        "num": 5,
+        "clue": "Sporcle offering",
+        "answer": "QUIZ",
         "row": 1,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Air sign?",
-        "answer": "SKYWRITE",
+        "num": 6,
+        "clue": "Facial cavity that can become congested",
+        "answer": "SINUS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "___ Faire (medieval-themed festival, informally)",
-        "answer": "REN",
+        "num": 7,
+        "clue": "Jamaican style of preparing chicken",
+        "answer": "JERK",
         "row": 3,
-        "col": 3
+        "col": 1
       },
       {
-        "num": 12,
-        "clue": "Athlete from Cleveland or the University of Virginia",
-        "answer": "CAVALIER",
+        "num": 9,
+        "clue": "On the ocean",
+        "answer": "ASEA",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "Kind of bathing suit",
-        "answer": "ONEPIECE",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 18,
-        "clue": "Musical whizzes",
-        "answer": "MAESTROS",
-        "row": 6,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Certain gender identity",
-        "answer": "CIS",
+        "clue": "Geniuses have high ones",
+        "answer": "IQS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Holy object sought in the first \"Indiana Jones\" movie",
-        "answer": "ARK",
+        "clue": "Kind of board whose name is trademarked by Hasbro",
+        "answer": "OUIJA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "___ pride",
-        "answer": "GAY",
+        "clue": "Drinks kept in a cellar",
+        "answer": "WINES",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Completely surrounds",
-        "answer": "ENWRAPS",
+        "clue": "Sky-blue",
+        "answer": "AZURE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Like a cozy campsite on a cool autumn night, say",
-        "answer": "FIRELIT",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Washington's Mount ___, the highest peak in the Cascades",
-        "answer": "RAINIER",
-        "row": 0,
-        "col": 5
-      },
-      {
         "num": 7,
-        "clue": "Sinus-treating doctor, for short",
-        "answer": "ENT",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 8,
-        "clue": "Opposite of WNW",
-        "answer": "ESE",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 12,
-        "clue": "_ _ _mon URL ending",
-        "answer": "COM",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "De Armas who starred in 2025's \"Ballerina",
-        "answer": "ANA",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 14,
-        "clue": "Shape of flying geese",
-        "answer": "VEE",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 15,
-        "clue": "Prefix with friendly",
-        "answer": "ECO",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 16,
-        "clue": "Restaurant booking, informally",
-        "answer": "RES",
-        "row": 4,
-        "col": 7
+        "clue": "Reggae relative",
+        "answer": "SKA",
+        "row": 2,
+        "col": 4
       }
     ]
   }
