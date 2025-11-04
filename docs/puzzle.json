@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "I",
-      "O",
-      "W",
       "A",
-      null
-    ],
-    [
-      "Q",
-      "U",
-      "I",
-      "Z",
-      null
-    ],
-    [
+      "P",
+      "P",
       "S",
-      "I",
-      "N",
-      "U",
-      "S"
+      null
     ],
     [
-      null,
-      "J",
+      "B",
+      "L",
+      "U",
       "E",
+      null
+    ],
+    [
+      "C",
+      "A",
       "R",
-      "K"
+      "V",
+      "E"
     ],
     [
       null,
-      "A",
-      "S",
+      "N",
       "E",
-      "A"
+      "E",
+      "D"
+    ],
+    [
+      null,
+      "T",
+      "E",
+      "N",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "State with more pigs than people",
-        "answer": "IOWA",
+        "clue": "On the ___ (using Tinder or Bumble)",
+        "answer": "APPS",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Sporcle offering",
-        "answer": "QUIZ",
+        "clue": "Color of the second-hardest Connections category",
+        "answer": "BLUE",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Facial cavity that can become congested",
-        "answer": "SINUS",
+        "clue": "Prepare, as a Thanksgiving turkey",
+        "answer": "CARVE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Jamaican style of preparing chicken",
-        "answer": "JERK",
+        "num": 8,
+        "clue": "Have to have",
+        "answer": "NEED",
         "row": 3,
         "col": 1
       },
       {
         "num": 9,
-        "clue": "On the ocean",
-        "answer": "ASEA",
+        "clue": "Camper's construction",
+        "answer": "TENT",
         "row": 4,
         "col": 1
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Geniuses have high ones",
-        "answer": "IQS",
+        "clue": "Kimmel's channel",
+        "answer": "ABC",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Kind of board whose name is trademarked by Hasbro",
-        "answer": "OUIJA",
+        "clue": "Audience member who's in on the magic trick",
+        "answer": "PLANT",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Drinks kept in a cellar",
-        "answer": "WINES",
+        "clue": "Many a baby food",
+        "answer": "PUREE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Sky-blue",
-        "answer": "AZURE",
+        "clue": "Typical number of objects that humans can hold in working memory, hence phone numbers",
+        "answer": "SEVEN",
         "row": 0,
         "col": 3
       },
       {
         "num": 7,
-        "clue": "Reggae relative",
-        "answer": "SKA",
+        "clue": "Summer hrs. in N.Y.C.",
+        "answer": "EDT",
         "row": 2,
         "col": 4
       }
