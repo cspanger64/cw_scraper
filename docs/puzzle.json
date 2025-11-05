@@ -5,36 +5,36 @@
   ],
   "grid": [
     [
-      "A",
-      "P",
-      "P",
-      "S",
-      null
-    ],
-    [
-      "B",
-      "L",
-      "U",
-      "E",
-      null
-    ],
-    [
       "C",
-      "A",
       "R",
-      "V",
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "O",
+      "U",
+      "N",
+      "C",
       "E"
     ],
     [
-      null,
+      "I",
       "N",
-      "E",
-      "E",
-      "D"
+      "D",
+      "I",
+      "A"
     ],
     [
-      null,
-      "T",
+      "F",
+      "U",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "S",
+      "P",
       "E",
       "N",
       "T"
@@ -44,74 +44,74 @@
     "across": [
       {
         "num": 1,
-        "clue": "On the ___ (using Tinder or Bumble)",
-        "answer": "APPS",
+        "clue": "Quickly fall asleep after a long day",
+        "answer": "CRASH",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Color of the second-hardest Connections category",
-        "answer": "BLUE",
+        "num": 6,
+        "clue": "1/16 of a pound",
+        "answer": "OUNCE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Prepare, as a Thanksgiving turkey",
-        "answer": "CARVE",
+        "num": 7,
+        "clue": "Where chess, shampoo and the number zero were invented",
+        "answer": "INDIA",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Have to have",
-        "answer": "NEED",
+        "clue": "Uproar",
+        "answer": "FUROR",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Camper's construction",
-        "answer": "TENT",
+        "clue": "Opposite of saved",
+        "answer": "SPENT",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Kimmel's channel",
-        "answer": "ABC",
+        "clue": "Fancy hairdos",
+        "answer": "COIFS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Audience member who's in on the magic trick",
-        "answer": "PLANT",
+        "clue": "Period preceding a big event",
+        "answer": "RUNUP",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Many a baby food",
-        "answer": "PUREE",
+        "clue": "Tennis great Agassi",
+        "answer": "ANDRE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Typical number of objects that humans can hold in working memory, hence phone numbers",
-        "answer": "SEVEN",
+        "clue": "Descendant of a wealthy family",
+        "answer": "SCION",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Summer hrs. in N.Y.C.",
-        "answer": "EDT",
-        "row": 2,
+        "num": 5,
+        "clue": "Symbol for \"like\" on Instagram",
+        "answer": "HEART",
+        "row": 0,
         "col": 4
       }
     ]
