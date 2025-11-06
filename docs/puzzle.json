@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "C",
-      "R",
+      "B",
       "A",
       "S",
-      "H"
-    ],
-    [
-      "O",
-      "U",
-      "N",
-      "C",
-      "E"
-    ],
-    [
       "I",
-      "N",
-      "D",
-      "I",
-      "A"
+      "L"
     ],
     [
       "F",
+      "L",
       "U",
-      "R",
-      "O",
-      "R"
+      "M",
+      "E"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "E",
+      "T"
     ],
     [
       "S",
-      "P",
+      "O",
+      "D",
+      "A",
+      "S"
+    ],
+    [
+      null,
+      "K",
       "E",
       "N",
-      "T"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Quickly fall asleep after a long day",
-        "answer": "CRASH",
+        "clue": "Fresh addition to a pasta sauce, perhaps",
+        "answer": "BASIL",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "1/16 of a pound",
-        "answer": "OUNCE",
+        "clue": "Log ___ (water park ride)",
+        "answer": "FLUME",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Where chess, shampoo and the number zero were invented",
-        "answer": "INDIA",
+        "clue": "Group of ships",
+        "answer": "FLEET",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Uproar",
-        "answer": "FUROR",
+        "clue": "Some drinks from \"streams",
+        "answer": "SODAS",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Opposite of saved",
-        "answer": "SPENT",
+        "clue": "Documentarian Burns",
+        "answer": "KEN",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Fancy hairdos",
-        "answer": "COIFS",
+        "clue": "Closest pals, for short",
+        "answer": "BFFS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Period preceding a big event",
-        "answer": "RUNUP",
+        "clue": "No problems here!",
+        "answer": "ALLOK",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Tennis great Agassi",
-        "answer": "ANDRE",
+        "clue": "Shoe material in an Elvis hit",
+        "answer": "SUEDE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Descendant of a wealthy family",
-        "answer": "SCION",
+        "clue": "That is to say \u000b\u000b",
+        "answer": "IMEAN",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Symbol for \"like\" on Instagram",
-        "answer": "HEART",
+        "clue": "Tennis do-overs",
+        "answer": "LETS",
         "row": 0,
         "col": 4
       }
