@@ -1,118 +1,115 @@
 {
   "size": [
-    5,
-    5
+    4,
+    6
   ],
   "grid": [
     [
-      "B",
-      "A",
-      "S",
-      "I",
-      "L"
-    ],
-    [
-      "F",
       "L",
-      "U",
-      "M",
-      "E"
-    ],
-    [
-      "F",
-      "L",
-      "E",
-      "E",
-      "T"
-    ],
-    [
-      "S",
       "O",
-      "D",
-      "A",
-      "S"
+      "W",
+      "K",
+      "E",
+      "Y"
     ],
     [
-      null,
+      "O",
+      "R",
+      "E",
+      "I",
+      "D",
+      "A"
+    ],
+    [
       "K",
       "E",
       "N",
-      null
+      "K",
+      "E",
+      "N"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "I",
+      "N",
+      "K"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Fresh addition to a pasta sauce, perhaps",
-        "answer": "BASIL",
+        "clue": "On the chill side ... or a homophone of 1-Down",
+        "answer": "LOWKEY",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Log ___ (water park ride)",
-        "answer": "FLUME",
+        "num": 7,
+        "clue": "Big brand of tater tots",
+        "answer": "OREIDA",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Group of ships",
-        "answer": "FLEET",
+        "num": 8,
+        "clue": "Numbers puzzle with a repetitive name",
+        "answer": "KENKEN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Some drinks from \"streams",
-        "answer": "SODAS",
+        "num": 9,
+        "clue": "Oof, not my best showing!",
+        "answer": "ISTINK",
         "row": 3,
         "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Documentarian Burns",
-        "answer": "KEN",
-        "row": 4,
-        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Closest pals, for short",
-        "answer": "BFFS",
+        "clue": "Thor's mischievous brother ... or a homophone of 1-Across",
+        "answer": "LOKI",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "No problems here!",
-        "answer": "ALLOK",
+        "clue": "Materials mined in Minecraft",
+        "answer": "ORES",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Shoe material in an Elvis hit",
-        "answer": "SUEDE",
+        "clue": "Played one's turn",
+        "answer": "WENT",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "That is to say \u000b\u000b",
-        "answer": "IMEAN",
+        "clue": "Don't Go Breaking My Heart\" singer ___ Dee",
+        "answer": "KIKI",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Tennis do-overs",
-        "answer": "LETS",
+        "clue": "Biblical garden",
+        "answer": "EDEN",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Sharply tug",
+        "answer": "YANK",
+        "row": 0,
+        "col": 5
       }
     ]
   }
