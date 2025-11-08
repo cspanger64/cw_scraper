@@ -1,115 +1,118 @@
 {
   "size": [
-    4,
-    6
+    5,
+    5
   ],
   "grid": [
     [
-      "L",
-      "O",
+      null,
+      null,
       "W",
-      "K",
-      "E",
+      "H",
       "Y"
     ],
     [
+      "A",
+      "C",
+      "H",
       "O",
-      "R",
-      "E",
-      "I",
-      "D",
-      "A"
+      "O"
     ],
     [
-      "K",
-      "E",
-      "N",
-      "K",
-      "E",
-      "N"
-    ],
-    [
-      "I",
       "S",
-      "T",
+      "L",
       "I",
       "N",
       "K"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "K",
+      "O"
+    ],
+    [
+      "S",
+      "P",
+      "Y",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "On the chill side ... or a homophone of 1-Down",
-        "answer": "LOWKEY",
+        "clue": "Toddler's go-to question",
+        "answer": "WHY",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 7,
-        "clue": "Big brand of tater tots",
-        "answer": "OREIDA",
+        "num": 4,
+        "clue": "Sound heard during cold season",
+        "answer": "ACHOO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Numbers puzzle with a repetitive name",
-        "answer": "KENKEN",
+        "num": 6,
+        "clue": "Move stealthily, like a cat",
+        "answer": "SLINK",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Oof, not my best showing!",
-        "answer": "ISTINK",
+        "num": 7,
+        "clue": "Breadcrumb coating in Japanese cuisine",
+        "answer": "PANKO",
         "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Conduct surveillance",
+        "answer": "SPY",
+        "row": 4,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Thor's mischievous brother ... or a homophone of 1-Across",
-        "answer": "LOKI",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Materials mined in Minecraft",
-        "answer": "ORES",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Played one's turn",
-        "answer": "WENT",
+        "clue": "Prone to complaining",
+        "answer": "WHINY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Don't Go Breaking My Heart\" singer ___ Dee",
-        "answer": "KIKI",
+        "num": 2,
+        "clue": "Sound heard during cold season",
+        "answer": "HONK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Biblical garden",
-        "answer": "EDEN",
+        "num": 3,
+        "clue": "Artist/musician Ono",
+        "answer": "YOKO",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "Sharply tug",
-        "answer": "YANK",
-        "row": 0,
-        "col": 5
+        "num": 4,
+        "clue": "Egyptian vipers",
+        "answer": "ASPS",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Show appreciation for a performance",
+        "answer": "CLAP",
+        "row": 1,
+        "col": 1
       }
     ]
   }
