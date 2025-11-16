@@ -1,41 +1,69 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
       null,
-      "W",
-      "H",
-      "Y"
-    ],
-    [
-      "A",
-      "C",
-      "H",
-      "O",
-      "O"
-    ],
-    [
-      "S",
-      "L",
-      "I",
-      "N",
-      "K"
-    ],
-    [
+      null,
       "P",
       "A",
+      "R",
+      "T"
+    ],
+    [
+      null,
+      null,
+      "H",
+      "A",
+      "N",
+      "O",
+      "I"
+    ],
+    [
+      null,
+      "C",
+      "A",
+      "T",
+      "D",
+      "A",
+      "D"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "R",
+      "Y",
+      "M",
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "D",
+      "I",
+      "E",
+      "S",
+      null
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "C",
+      "T",
+      null,
+      null
+    ],
+    [
+      "T",
+      "E",
       "N",
       "K",
-      "O"
-    ],
-    [
-      "S",
-      "P",
-      "Y",
+      null,
       null,
       null
     ]
@@ -44,75 +72,103 @@
     "across": [
       {
         "num": 1,
-        "clue": "Toddler's go-to question",
-        "answer": "WHY",
+        "clue": "Theatrical role",
+        "answer": "PART",
         "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Capital of Vietnam",
+        "answer": "HANOI",
+        "row": 1,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Sound heard during cold season",
-        "answer": "ACHOO",
-        "row": 1,
-        "col": 0
-      },
-      {
         "num": 6,
-        "clue": "Move stealthily, like a cat",
-        "answer": "SLINK",
+        "clue": "Father of a \"fur baby",
+        "answer": "CATDAD",
         "row": 2,
-        "col": 0
+        "col": 1
       },
       {
         "num": 7,
-        "clue": "Breadcrumb coating in Japanese cuisine",
-        "answer": "PANKO",
+        "clue": "Words often accompanied by a ring",
+        "answer": "MARRYME",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Conduct surveillance",
-        "answer": "SPY",
+        "clue": "Whirling currents",
+        "answer": "EDDIES",
         "row": 4,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Put up, as a statue",
+        "answer": "ERECT",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Race about half the length of a half-marathon",
+        "answer": "TENK",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Prone to complaining",
-        "answer": "WHINY",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 2,
-        "clue": "Sound heard during cold season",
-        "answer": "HONK",
+        "clue": "SpongeBob's starfish friend",
+        "answer": "PATRICK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Artist/musician Ono",
-        "answer": "YOKO",
+        "num": 2,
+        "clue": "Despite it all...",
+        "answer": "ANDYET",
         "row": 0,
         "col": 4
       },
       {
+        "num": 3,
+        "clue": "Wanders here and there",
+        "answer": "ROAMS",
+        "row": 0,
+        "col": 5
+      },
+      {
         "num": 4,
-        "clue": "Egyptian vipers",
-        "answer": "ASPS",
-        "row": 1,
-        "col": 0
+        "clue": "Company with a \"To Go\" stain remover",
+        "answer": "TIDE",
+        "row": 0,
+        "col": 6
       },
       {
         "num": 5,
-        "clue": "Show appreciation for a performance",
-        "answer": "CLAP",
+        "clue": "Become firm",
+        "answer": "HARDEN",
         "row": 1,
+        "col": 2
+      },
+      {
+        "num": 6,
+        "clue": "Small group of soldiers",
+        "answer": "CADRE",
+        "row": 2,
         "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "What parallel lines never do",
+        "answer": "MEET",
+        "row": 3,
+        "col": 0
       }
     ]
   }
