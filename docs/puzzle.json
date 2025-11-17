@@ -1,69 +1,46 @@
 {
   "size": [
-    7,
-    7
+    5,
+    6
   ],
   "grid": [
     [
-      null,
-      null,
-      null,
-      "P",
-      "A",
-      "R",
-      "T"
-    ],
-    [
-      null,
-      null,
-      "H",
-      "A",
-      "N",
-      "O",
-      "I"
-    ],
-    [
-      null,
-      "C",
-      "A",
       "T",
-      "D",
+      "E",
+      "S",
+      "L",
       "A",
-      "D"
+      "S"
     ],
     [
-      "M",
-      "A",
-      "R",
-      "R",
+      "O",
+      "N",
+      "L",
+      "I",
+      "N",
+      "E"
+    ],
+    [
       "Y",
-      "M",
+      "E",
+      "O",
+      "L",
+      "D",
       "E"
     ],
     [
       "E",
+      "M",
+      "P",
+      "T",
+      "Y",
+      null
+    ],
+    [
       "D",
-      "D",
-      "I",
+      "Y",
       "E",
       "S",
-      null
-    ],
-    [
-      "E",
-      "R",
-      "E",
-      "C",
-      "T",
-      null,
-      null
-    ],
-    [
-      "T",
-      "E",
-      "N",
-      "K",
-      null,
       null,
       null
     ]
@@ -72,103 +49,82 @@
     "across": [
       {
         "num": 1,
-        "clue": "Theatrical role",
-        "answer": "PART",
+        "clue": "Cars that stop at Supercharger stations",
+        "answer": "TESLAS",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Capital of Vietnam",
-        "answer": "HANOI",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "Father of a \"fur baby",
-        "answer": "CATDAD",
-        "row": 2,
-        "col": 1
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Words often accompanied by a ring",
-        "answer": "MARRYME",
-        "row": 3,
+        "clue": "What \"e-\" can mean",
+        "answer": "ONLINE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Whirling currents",
-        "answer": "EDDIES",
-        "row": 4,
+        "clue": "Words that might begin the name of a quaint English inn",
+        "answer": "YEOLDE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Put up, as a statue",
-        "answer": "ERECT",
-        "row": 5,
+        "clue": "What \"E\" can mean",
+        "answer": "EMPTY",
+        "row": 3,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Race about half the length of a half-marathon",
-        "answer": "TENK",
-        "row": 6,
+        "clue": "Easter egg colorings",
+        "answer": "DYES",
+        "row": 4,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "SpongeBob's starfish friend",
-        "answer": "PATRICK",
+        "clue": "Messed (with)",
+        "answer": "TOYED",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Ally's opposite",
+        "answer": "ENEMY",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "What \"m\" stands for in the equation \"y = mx + b",
+        "answer": "SLOPE",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Musical cadences of speech",
+        "answer": "LILTS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "Despite it all...",
-        "answer": "ANDYET",
+        "num": 5,
+        "clue": "Samberg of \"Brooklyn Nine-Nine",
+        "answer": "ANDY",
         "row": 0,
         "col": 4
       },
       {
-        "num": 3,
-        "clue": "Wanders here and there",
-        "answer": "ROAMS",
+        "num": 6,
+        "clue": "___ what I did there?",
+        "answer": "SEE",
         "row": 0,
         "col": 5
-      },
-      {
-        "num": 4,
-        "clue": "Company with a \"To Go\" stain remover",
-        "answer": "TIDE",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 5,
-        "clue": "Become firm",
-        "answer": "HARDEN",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "Small group of soldiers",
-        "answer": "CADRE",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "What parallel lines never do",
-        "answer": "MEET",
-        "row": 3,
-        "col": 0
       }
     ]
   }
