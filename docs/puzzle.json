@@ -1,130 +1,118 @@
 {
   "size": [
     5,
-    6
+    5
   ],
   "grid": [
     [
-      "T",
       "E",
-      "S",
-      "L",
+      "R",
       "A",
+      "S",
+      null
+    ],
+    [
+      "L",
+      "O",
+      "S",
+      "T",
+      null
+    ],
+    [
+      "F",
+      "O",
+      "C",
+      "U",
       "S"
     ],
     [
-      "O",
-      "N",
-      "L",
-      "I",
-      "N",
-      "E"
-    ],
-    [
-      "Y",
-      "E",
-      "O",
-      "L",
-      "D",
-      "E"
-    ],
-    [
-      "E",
+      null,
       "M",
-      "P",
+      "O",
+      "D",
+      "I"
+    ],
+    [
+      null,
+      "S",
       "T",
       "Y",
-      null
-    ],
-    [
-      "D",
-      "Y",
-      "E",
-      "S",
-      null,
-      null
+      "X"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Cars that stop at Supercharger stations",
-        "answer": "TESLAS",
+        "clue": "Taylor Swift's ___ Tour",
+        "answer": "ERAS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "What \"e-\" can mean",
-        "answer": "ONLINE",
+        "num": 5,
+        "clue": "Counterpart of \"found",
+        "answer": "LOST",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Words that might begin the name of a quaint English inn",
-        "answer": "YEOLDE",
+        "num": 6,
+        "clue": "Difficult thing to achieve in a noisy office",
+        "answer": "FOCUS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "What \"E\" can mean",
-        "answer": "EMPTY",
+        "num": 8,
+        "clue": "India's prime minister since 2014",
+        "answer": "MODI",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 10,
-        "clue": "Easter egg colorings",
-        "answer": "DYES",
+        "num": 9,
+        "clue": "River of the underworld, in Greek myth",
+        "answer": "STYX",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Messed (with)",
-        "answer": "TOYED",
+        "clue": "Will Ferrell holiday movie",
+        "answer": "ELF",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Ally's opposite",
-        "answer": "ENEMY",
+        "clue": "Buckingham Palace has 775 of these",
+        "answer": "ROOMS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "What \"m\" stands for in the equation \"y = mx + b",
-        "answer": "SLOPE",
+        "clue": "Fancy necktie",
+        "answer": "ASCOT",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Musical cadences of speech",
-        "answer": "LILTS",
+        "clue": "What's found next to the Hall and Library on a Clue board",
+        "answer": "STUDY",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Samberg of \"Brooklyn Nine-Nine",
-        "answer": "ANDY",
-        "row": 0,
+        "clue": "Carbon's atomic number",
+        "answer": "SIX",
+        "row": 2,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "___ what I did there?",
-        "answer": "SEE",
-        "row": 0,
-        "col": 5
       }
     ]
   }
