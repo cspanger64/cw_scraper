@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crossword-compiler xsi:noNamespaceSchemaLocation="http://www.crossword-compiler.com/compilerschema.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <rectangular-puzzle>
+    <crossword>
+      <grid width="5" height="5">
+        <cell x="1" y="1" solution="E"/>
+        <cell x="2" y="1" solution="R"/>
+        <cell x="3" y="1" solution="A"/>
+        <cell x="4" y="1" solution="S"/>
+        <cell x="5" y="1" type="block"/>
+
+        <cell x="1" y="2" solution="L"/>
+        <cell x="2" y="2" solution="O"/>
+        <cell x="3" y="2" solution="S"/>
+        <cell x="4" y="2" solution="T"/>
+        <cell x="5" y="2" type="block"/>
+
+        <cell x="1" y="3" solution="F"/>
+        <cell x="2" y="3" solution="O"/>
+        <cell x="3" y="3" solution="C"/>
+        <cell x="4" y="3" solution="U"/>
+        <cell x="5" y="3" solution="S"/>
+
+        <cell x="1" y="4" type="block"/>
+        <cell x="2" y="4" solution="M"/>
+        <cell x="3" y="4" solution="O"/>
+        <cell x="4" y="4" solution="D"/>
+        <cell x="5" y="4" solution="I"/>
+
+        <cell x="1" y="5" type="block"/>
+        <cell x="2" y="5" solution="S"/>
+        <cell x="3" y="5" solution="T"/>
+        <cell x="4" y="5" solution="Y"/>
+        <cell x="5" y="5" solution="X"/>
+      </grid>
+
+      <clues ordering="normal">
+        <title>Acros
