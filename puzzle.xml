@@ -1,0 +1,32 @@
+<Crossword>
+  <Title>Mini Puzzle</Title>
+  <Author></Author>
+  <Copyright></Copyright>
+
+  <Size width="5" height="5"/>
+
+  <Grid>
+    ERAS#
+    LOST#
+    FOCUS
+    #MODI
+    #STYX
+  </Grid>
+
+  <Clues>
+    <Across>
+      <Clue number="1">Taylor Swift's ___ Tour</Clue>
+      <Clue number="5">Counterpart of "found</Clue>
+      <Clue number="6">Difficult thing to achieve in a noisy office</Clue>
+      <Clue number="8">India's prime minister since 2014</Clue>
+      <Clue number="9">River of the underworld, in Greek myth</Clue>
+    </Across>
+    <Down>
+      <Clue number="1">Will Ferrell holiday movie</Clue>
+      <Clue number="2">Buckingham Palace has 775 of these</Clue>
+      <Clue number="3">Fancy necktie</Clue>
+      <Clue number="4">What's found next to the Hall and Library on a Clue board</Clue>
+      <Clue number="5">Carbon's atomic number</Clue>
+    </Down>
+  </Clues>
+</Crossword>
