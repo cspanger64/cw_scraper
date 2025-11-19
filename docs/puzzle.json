@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
+      "T",
+      "W",
       "E",
+      "E",
+      "D"
+    ],
+    [
+      "W",
+      "I",
+      "L",
+      "C",
+      "O"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "R",
+      "E"
+    ],
+    [
+      null,
       "R",
       "A",
-      "S",
-      null
-    ],
-    [
-      "L",
-      "O",
-      "S",
-      "T",
-      null
-    ],
-    [
-      "F",
-      "O",
-      "C",
-      "U",
-      "S"
-    ],
-    [
-      null,
-      "M",
-      "O",
       "D",
-      "I"
-    ],
-    [
-      null,
-      "S",
-      "T",
-      "Y",
-      "X"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Taylor Swift's ___ Tour",
-        "answer": "ERAS",
+        "clue": "Coarse, woolen fabric often used to make jackets",
+        "answer": "TWEED",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Counterpart of \"found",
-        "answer": "LOST",
+        "num": 6,
+        "clue": "Alternative rock band with the album \"Yankee Hotel Foxtrot",
+        "answer": "WILCO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Difficult thing to achieve in a noisy office",
-        "answer": "FOCUS",
+        "num": 7,
+        "clue": "Perfect",
+        "answer": "IDEAL",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "India's prime minister since 2014",
-        "answer": "MODI",
+        "clue": "Americana or country",
+        "answer": "GENRE",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "River of the underworld, in Greek myth",
-        "answer": "STYX",
+        "clue": "Wicked cool, man!",
+        "answer": "RAD",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Will Ferrell holiday movie",
-        "answer": "ELF",
+        "clue": "Tiny bit of kindling",
+        "answer": "TWIG",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Buckingham Palace has 775 of these",
-        "answer": "ROOMS",
+        "clue": "More extensive",
+        "answer": "WIDER",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Fancy necktie",
-        "answer": "ASCOT",
+        "clue": "Kagan on the Supreme Court",
+        "answer": "ELENA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "What's found next to the Hall and Library on a Clue board",
-        "answer": "STUDY",
+        "clue": "Birthday greeting that doesn't require an envelope",
+        "answer": "ECARD",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Carbon's atomic number",
-        "answer": "SIX",
-        "row": 2,
+        "clue": "Fruit company that once owned the entire island of Lanai",
+        "answer": "DOLE",
+        "row": 0,
         "col": 4
       }
     ]
