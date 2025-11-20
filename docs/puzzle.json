@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "T",
-      "W",
-      "E",
-      "E",
-      "D"
-    ],
-    [
-      "W",
-      "I",
-      "L",
-      "C",
-      "O"
-    ],
-    [
-      "I",
-      "D",
-      "E",
-      "A",
-      "L"
-    ],
-    [
-      "G",
-      "E",
-      "N",
-      "R",
-      "E"
-    ],
-    [
       null,
+      "S",
+      "N",
+      "O",
+      "W"
+    ],
+    [
+      "T",
+      "O",
+      "O",
+      "T",
+      "H"
+    ],
+    [
+      "H",
+      "U",
       "R",
+      "R",
+      "Y"
+    ],
+    [
       "A",
-      "D",
+      "L",
+      "T",
+      "O",
+      null
+    ],
+    [
+      "I",
+      "S",
+      "H",
+      null,
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Coarse, woolen fabric often used to make jackets",
-        "answer": "TWEED",
+        "clue": "___ angel",
+        "answer": "SNOW",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Alternative rock band with the album \"Yankee Hotel Foxtrot",
-        "answer": "WILCO",
+        "num": 5,
+        "clue": "___ fairy",
+        "answer": "TOOTH",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Perfect",
-        "answer": "IDEAL",
+        "num": 6,
+        "clue": "Go, go, go!",
+        "answer": "HURRY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Americana or country",
-        "answer": "GENRE",
+        "num": 7,
+        "clue": "Voice between soprano and tenor",
+        "answer": "ALTO",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Wicked cool, man!",
-        "answer": "RAD",
+        "num": 8,
+        "clue": "Sorta\" suffix",
+        "answer": "ISH",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Tiny bit of kindling",
-        "answer": "TWIG",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "More extensive",
-        "answer": "WIDER",
+        "clue": "Spiritual selves",
+        "answer": "SOULS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Kagan on the Supreme Court",
-        "answer": "ELENA",
+        "num": 2,
+        "clue": "Word in two U.S. state names and two country names (can you name them all?)",
+        "answer": "NORTH",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Birthday greeting that doesn't require an envelope",
-        "answer": "ECARD",
+        "num": 3,
+        "clue": "Spanish for \\\"other",
+        "answer": "OTRO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Fruit company that once owned the entire island of Lanai",
-        "answer": "DOLE",
+        "num": 4,
+        "clue": "For what reason?",
+        "answer": "WHY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Cuisine with massaman curry",
+        "answer": "THAI",
+        "row": 1,
+        "col": 0
       }
     ]
   }
