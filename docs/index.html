@@ -9,35 +9,45 @@
 <body>
   <header>
     <h1>Daily Mini Crossword</h1>
-    <div id="timer">00:00</div>
-    <button id="start-btn">Start</button>
-    <div class="controls">
-      <button id="check">Check</button>
-      <button id="reveal">Reveal</button>
-      <button id="clear">Clear</button>
+
+    <div class="top-controls">
+      <div id="timer">00:00</div>
+      <div class="buttons">
+        <button id="start-btn" aria-label="Start">Start</button>
+        <button id="check-btn" aria-label="Check">Check</button>
+        <button id="reveal" aria-label="Reveal">Reveal</button>
+        <button id="clear" aria-label="Clear">Clear</button>
+      </div>
     </div>
   </header>
-  
 
   <main>
-    <section id="grid"></section>
-    <section id="clues">
-      <div>
+    <div id="play-area">
+      <div id="grid-wrapper">
+        <div id="grid" aria-label="Crossword grid"></div>
+      </div>
+
+      <!-- mobile clue bar (NYT-like) -->
+      <div id="mobile-clue-bar" class="hidden-mobile">
+        <button id="clue-prev" class="clue-nav" aria-label="Previous clue">◀</button>
+        <div id="clue-text" role="status" aria-live="polite">Loading clue…</div>
+        <button id="clue-next" class="clue-nav" aria-label="Next clue">▶</button>
+      </div>
+    </div>
+
+    <!-- Clues panel (desktop) -->
+    <aside id="clues">
+      <section>
         <h2>Across</h2>
         <ol id="across"></ol>
-      </div>
-      <div>
+      </section>
+      <section>
         <h2>Down</h2>
         <ol id="down"></ol>
-      </div>
-    </section>
+      </section>
+    </aside>
   </main>
-
-  <footer>
-    <small>Auto-updated daily from <code>docs/puzzle.json</code>.</small>
-  </footer>
 
   <script src="./app.js"></script>
 </body>
 </html>
-
