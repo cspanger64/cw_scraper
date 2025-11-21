@@ -2,52 +2,62 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <title>Daily Mini Crossword</title>
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
   <header>
-    <h1>Daily Mini Crossword</h1>
-
-    <div class="top-controls">
+    <div class="header-left">
+      <h1>Daily Mini Crossword</h1>
       <div id="timer">00:00</div>
-      <div class="buttons">
-        <button id="start-btn" aria-label="Start">Start</button>
-        <button id="check-btn" aria-label="Check">Check</button>
-        <button id="reveal" aria-label="Reveal">Reveal</button>
-        <button id="clear" aria-label="Clear">Clear</button>
-      </div>
+    </div>
+
+    <div class="header-controls">
+      <button id="start-btn">Start</button>
+      <button id="check">Check</button>
+      <button id="reveal">Reveal</button>
+      <button id="clear">Clear</button>
     </div>
   </header>
 
   <main>
-    <div id="play-area">
-      <div id="grid-wrapper">
-        <div id="grid" aria-label="Crossword grid"></div>
+    <section class="puzzle-area">
+      <div id="grid" aria-label="Crossword grid" role="application"></div>
+      <div id="clue-bar">
+        <div id="clue-text">Tap a word to show its clue</div>
+        <div id="clue-controls">
+          <button id="prev-clue" aria-label="Previous clue">&lt;</button>
+          <button id="next-clue" aria-label="Next clue">&gt;</button>
+        </div>
       </div>
+    </section>
 
-      <!-- mobile clue bar (NYT-like) -->
-      <div id="mobile-clue-bar" class="hidden-mobile">
-        <button id="clue-prev" class="clue-nav" aria-label="Previous clue">◀</button>
-        <div id="clue-text" role="status" aria-live="polite">Loading clue…</div>
-        <button id="clue-next" class="clue-nav" aria-label="Next clue">▶</button>
-      </div>
-    </div>
-
-    <!-- Clues panel (desktop) -->
-    <aside id="clues">
-      <section>
+    <aside class="clues-list" id="clues">
+      <div>
         <h2>Across</h2>
         <ol id="across"></ol>
-      </section>
-      <section>
+      </div>
+      <div>
         <h2>Down</h2>
         <ol id="down"></ol>
-      </section>
+      </div>
     </aside>
   </main>
 
-  <script src="./app.js"></script>
+  <nav id="keyboard" aria-label="Crossword keyboard">
+    <div id="keyboard-rows">
+      <div class="row">Q W E R T Y U I O P</div>
+      <div class="row">A S D F G H J K L</div>
+      <div class="row">Z X C V B N M</div>
+    </div>
+    <div id="keyboard-controls">
+      <button id="kb-backspace">⌫</button>
+      <button id="kb-left">◀</button>
+      <button id="kb-right">▶</button>
+    </div>
+  </nav>
+
+  <script type="module" src="./app.js"></script>
 </body>
 </html>
