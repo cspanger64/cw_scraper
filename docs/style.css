@@ -8,119 +8,170 @@
   --ok: #2e7d32;
   --bad: #c62828;
 }
-
 *{box-sizing:border-box}
 body{
   margin:0;
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  color:var(--fg);
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;
   background:var(--bg);
+  color:var(--fg);
+  -webkit-font-smoothing:antialiased;
 }
 
-/* header */
 header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:12px 14px;
   background:#fff;
   border-bottom:1px solid #e7e7ea;
-  padding:12px 16px;
+  position:sticky;
+  top:0;
+  z-index:40;
 }
-header h1{margin:0 0 8px 0;font-size:18px}
-.top-controls{
-  display:flex;align-items:center;gap:16px;flex-wrap:wrap;
-}
-#timer{
-  font-weight:700;font-size:1.25rem;min-width:64px;text-align:left;
-}
-.buttons{display:flex;gap:8px;align-items:center}
-.buttons button{
-  padding:8px 10px;border-radius:8px;border:0;background:var(--accent);color:white;
-  cursor:pointer;font-size:0.95rem;
-}
-.buttons button:hover{opacity:0.95}
 
-/* layout */
+.header-left { display:flex; align-items:center; gap:16px; }
+header h1{ margin:0; font-size:18px; }
+#timer { font-weight:700; min-width:64px; text-align:center; }
+
+.header-controls button{
+  margin-left:8px;
+  padding:8px 10px;
+  border:none;
+  background:var(--accent);
+  color:#fff;
+  border-radius:8px;
+}
+
 main{
-  display:grid;
-  grid-template-columns: minmax(260px, 1fr) 320px;
-  gap:20px;
-  padding:20px;
+  display:flex;
+  gap:16px;
+  padding:12px;
+  align-items:flex-start;
+}
+
+/* puzzle area (left on desktop, top on mobile) */
+.puzzle-area{
+  width:100%;
+  max-width:720px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:12px;
 }
 
 /* grid */
-#grid-wrapper{
-  display:flex;justify-content:center;
-}
 #grid{
-  display:grid; /* columns set dynamically */
+  display:grid;
   gap:var(--gap);
-  background:#e7e7ea;
   padding:var(--gap);
-  border-radius:12px;
-  box-shadow:0 1px 3px rgba(0,0,0,.06);
+  background:#e7e7ea;
+  border-radius:10px;
   width:max-content;
+  box-shadow:0 1px 3px rgba(0,0,0,0.06);
 }
 
 .cell{
   width:var(--cell-size);
   height:var(--cell-size);
-  position:relative;
   background:#fff;
   border-radius:8px;
-  display:grid;
-  place-items:center;
-  overflow:hidden;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  position:relative;
   border:1px solid #eee;
+  font-weight:700;
+  font-size:20px;
+  user-select:none;
+  -webkit-user-select:none;
 }
 
 .cell.black{
-  background:#111;border:1px solid #111;
-}
-
-.cell input{
-  width:100%;height:100%;border:0;outline:none;text-align:center;
-  font-weight:700;font-size:20px;background:transparent;
+  background:#111;
+  border:1px solid #111;
 }
 
 .cell .num{
-  position:absolute;top:4px;left:6px;font-size:11px;color:#666;
+  position:absolute;
+  top:3px;
+  left:4px;
+  font-size:10px;
+  color:var(--muted);
 }
 
-/* active cell & highlight */
-.cell.active{outline:3px solid var(--accent);outline-offset:-3px}
-.cell.highlight{background:#eaf1ff}
+/* highlights */
+.cell.highlight { background:#eaf1ff; }
+.cell.active { outline:2px solid var(--accent); outline-offset:-2px; }
+.cell.incorrect { background:#ffecec; }
+.cell.correct { background:#eaffef; }
 
-/* wrong highlighted by check (red border) */
-.cell.wrong input{color:var(--bad)}
-.cell.correct input{color:var(--ok)}
-
-/* clue lists (desktop) */
-#clues{padding:8px 6px}
-#clues h2{margin:6px 0;font-size:14px}
-#clues ol{padding-left:18px;margin:0}
-#clues li{padding:6px 8px;border-radius:6px;cursor:pointer}
-#clues li.active{background:#eef3ff;border-left:3px solid var(--accent);padding-left:6px}
-
-/* mobile clue bar (NYT style) - visible on narrow screens */
-#mobile-clue-bar{
-  display:flex;align-items:center;gap:12px;margin-top:12px;padding:10px 12px;border-radius:8px;
-  background:#eaf3ff;color:#084;
+/* clues list (desktop) */
+.clues-list{
+  width:320px;
+  padding:8px 0;
 }
-#mobile-clue-bar #clue-text{flex:1;text-align:center;font-weight:500}
-.clue-nav{border:0;background:transparent;font-size:18px;cursor:pointer}
+.clues-list h2{ margin:0 0 8px 0; font-size:16px; }
+.clues-list ol{ margin:0 0 12px 18px; padding:0; }
+.clues-list li{ margin:6px 0; cursor:pointer; font-size:14px; }
+.clues-list li.active{ background:#eef3ff; padding-left:6px; border-left:3px solid var(--accent); }
 
-/* small screens: hide the clue lists, show mobile bar */
-@media (max-width: 700px){
-  main{grid-template-columns: 1fr}
-  #clues{display:none}
-  #mobile-clue-bar{display:flex}
-  :root{--cell-size:54px} /* make cells comfortably tappable */
-  /* ensure grid is centered and not too wide on mobile */
-  #grid{margin:0 8px}
+/* clue bar above keyboard */
+#clue-bar{
+  width:100%;
+  max-width:720px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:10px 14px;
+  background:#fff;
+  border-radius:8px;
+  border:1px solid #eee;
+}
+#clue-text{ font-size:16px; flex:1; padding-right:12px; }
+#clue-controls button{ background:transparent; border:1px solid #ddd; padding:6px 8px; border-radius:6px; }
+
+/* keyboard */
+#keyboard{
+  position:fixed;
+  left:0;
+  right:0;
+  bottom:0;
+  background:#fff;
+  z-index:60;
+  border-top:1px solid #ddd;
+  padding:8px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+#keyboard-rows .row{
+  display:flex;
+  gap:8px;
+  justify-content:center;
+  font-weight:700;
+}
+#keyboard-rows .row button{
+  padding:12px 10px;
+  min-width:34px;
+  border-radius:8px;
+  border:1px solid #ddd;
+  background:#f7f8fb;
+  cursor:pointer;
+  font-weight:700;
+}
+#keyboard-controls{ display:flex; gap:8px; justify-content:center; }
+#keyboard-controls button{
+  padding:10px 18px;
+  border-radius:8px;
+  border:1px solid #ddd;
+  background:#fff;
+  cursor:pointer;
 }
 
-/* helper for keyboard visible area: keep the clue bar fixed near bottom of play area */
-#play-area{display:flex;flex-direction:column;align-items:center}
-.hidden-mobile{display:none}
-@media (max-width:700px){ .hidden-mobile{display:flex;width:100%} }
-
-/* active input visible highlight */
-input.active-cell{outline:3px solid rgba(0, 108, 255, 0.85);outline-offset:-3px}
+/* responsive layout for mobile: clues become below and compact */
+@media (max-width:900px){
+  main{ flex-direction:column; align-items:stretch; padding-bottom:140px; }
+  .clues-list{ order:2; width:100%; max-width:720px; }
+  .puzzle-area{ order:1; width:100%; align-items:center; padding-bottom:6px; }
+  :root { --cell-size:46px; --gap:4px; }
+}
