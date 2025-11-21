@@ -2,62 +2,68 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Daily Mini Crossword</title>
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
-  <header>
-    <div class="header-left">
+  <header class="topbar">
+    <div class="left-controls">
       <h1>Daily Mini Crossword</h1>
-      <div id="timer">00:00</div>
     </div>
 
-    <div class="header-controls">
-      <button id="start-btn">Start</button>
-      <button id="check">Check</button>
-      <button id="reveal">Reveal</button>
-      <button id="clear">Clear</button>
+    <div class="controls-right">
+      <div id="timer">00:00</div>
+      <button id="start-btn" class="primary">Start</button>
+      <button id="check" class="secondary">Check</button>
+      <button id="reveal" class="secondary">Reveal</button>
+      <button id="clear" class="secondary">Clear</button>
     </div>
   </header>
 
   <main>
-    <section class="puzzle-area">
-      <div id="grid" aria-label="Crossword grid" role="application"></div>
-      <div id="clue-bar">
-        <div id="clue-text">Tap a word to show its clue</div>
-        <div id="clue-controls">
-          <button id="prev-clue" aria-label="Previous clue">&lt;</button>
-          <button id="next-clue" aria-label="Next clue">&gt;</button>
-        </div>
+    <section id="board-area">
+      <div id="grid-wrap">
+        <div id="grid" aria-label="Crossword grid"></div>
       </div>
     </section>
 
-    <aside class="clues-list" id="clues">
-      <div>
-        <h2>Across</h2>
-        <ol id="across"></ol>
-      </div>
-      <div>
-        <h2>Down</h2>
-        <ol id="down"></ol>
+    <aside id="clues-area">
+      <div id="clues">
+        <div>
+          <h2>Across</h2>
+          <ol id="across" class="clue-list"></ol>
+        </div>
+        <div>
+          <h2>Down</h2>
+          <ol id="down" class="clue-list"></ol>
+        </div>
       </div>
     </aside>
   </main>
 
-  <nav id="keyboard" aria-label="Crossword keyboard">
-    <div id="keyboard-rows">
-      <div class="row">Q W E R T Y U I O P</div>
-      <div class="row">A S D F G H J K L</div>
-      <div class="row">Z X C V B N M</div>
-    </div>
-    <div id="keyboard-controls">
-      <button id="kb-backspace">⌫</button>
-      <button id="kb-left">◀</button>
-      <button id="kb-right">▶</button>
-    </div>
-  </nav>
+  <!-- mobile / tablet clue-bar that sits above the keyboard -->
+  <div id="mobile-clue-bar" class="mobile-clue-bar hidden">
+    <button id="prev-clue" class="nav-arrow">&lt;</button>
+    <div id="mobile-clue-text" class="mobile-clue-text">Select a word</div>
+    <button id="next-clue" class="nav-arrow">&gt;</button>
+  </div>
 
-  <script type="module" src="./app.js"></script>
+  <!-- On-screen keyboard -->
+  <div id="osk" class="osk">
+    <div class="osk-row">
+      <button class="key">Q</button><button class="key">W</button><button class="key">E</button><button class="key">R</button><button class="key">T</button><button class="key">Y</button><button class="key">U</button><button class="key">I</button><button class="key">O</button><button class="key">P</button>
+    </div>
+    <div class="osk-row">
+      <button class="key">A</button><button class="key">S</button><button class="key">D</button><button class="key">F</button><button class="key">G</button><button class="key">H</button><button class="key">J</button><button class="key">K</button><button class="key">L</button>
+    </div>
+    <div class="osk-row">
+      <button class="action-key" id="osk-back">⌫</button>
+      <button class="key">Z</button><button class="key">X</button><button class="key">C</button><button class="key">V</button><button class="key">B</button><button class="key">N</button><button class="key">M</button>
+      <button class="action-key" id="osk-space">␣</button>
+    </div>
+  </div>
+
+  <script src="./app.js"></script>
 </body>
 </html>
