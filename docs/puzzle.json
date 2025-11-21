@@ -7,36 +7,36 @@
     [
       null,
       "S",
-      "N",
-      "O",
-      "W"
+      "K",
+      "I",
+      "P"
     ],
     [
+      null,
       "T",
-      "O",
-      "O",
-      "T",
-      "H"
+      "E",
+      "M",
+      "U"
     ],
     [
-      "H",
-      "U",
-      "R",
-      "R",
-      "Y"
+      "C",
+      "O",
+      "V",
+      "E",
+      "T"
     ],
     [
       "A",
-      "L",
-      "T",
-      "O",
+      "R",
+      "I",
+      "A",
       null
     ],
     [
-      "I",
-      "S",
-      "H",
-      null,
+      "P",
+      "E",
+      "N",
+      "N",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "___ angel",
-        "answer": "SNOW",
+        "clue": "Song on an album that you always avoid, colloquially",
+        "answer": "SKIP",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "___ fairy",
-        "answer": "TOOTH",
+        "clue": "Low-budget Chinese shopping site",
+        "answer": "TEMU",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Go, go, go!",
-        "answer": "HURRY",
+        "clue": "Strongly desire",
+        "answer": "COVET",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Voice between soprano and tenor",
-        "answer": "ALTO",
+        "clue": "Opera solo",
+        "answer": "ARIA",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Sorta\" suffix",
-        "answer": "ISH",
+        "clue": "Ivy League school with a statue of Ben Franklin",
+        "answer": "PENN",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Spiritual selves",
-        "answer": "SOULS",
+        "clue": "Walmart or Walgreens",
+        "answer": "STORE",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Word in two U.S. state names and two country names (can you name them all?)",
-        "answer": "NORTH",
+        "clue": "Home Alone\" boy",
+        "answer": "KEVIN",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Spanish for \\\"other",
-        "answer": "OTRO",
+        "clue": "Let me rephrase that ...",
+        "answer": "IMEAN",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "For what reason?",
-        "answer": "WHY",
+        "clue": "Set (down)",
+        "answer": "PUT",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Cuisine with massaman curry",
-        "answer": "THAI",
-        "row": 1,
+        "num": 6,
+        "clue": "Toothpaste tube topper",
+        "answer": "CAP",
+        "row": 2,
         "col": 0
       }
     ]
