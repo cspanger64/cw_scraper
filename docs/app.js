@@ -1,5 +1,4 @@
-// app.js (replace entire file)
-
+// app.js - full standalone
 let timerInterval;
 let startTime;
 let timerRunning = false;
@@ -25,46 +24,50 @@ function stopTimer() {
   timerRunning = false;
 }
 
-// load puzzle.json
 async function loadPuzzle() {
   const res = await fetch('./puzzle.json', { cache: 'no-store' });
   if (!res.ok) throw new Error('Failed to load puzzle.json');
   return res.json();
 }
 
-function isWhite(cell) { return cell !== null; }
-function coordsKey(r,c){ return `${r},${c}`; }
+function makeGridEl(rows, cols) {
+  const grid = document.getElementById('grid');
+  if (!grid) throw new Error("No #grid element found in DOM");
+  grid.style.gridTemplateColumns = `repeat(${cols}, var(--cell-size))`;
+  return grid;
+}
 
-// Build numbering based on white squares
+function isWhite(cell) {
+  return cell !== null;
+}
+
 function buildNumbering(puzzle) {
   const { size: [R, C], grid } = puzzle;
   const startNums = Array.from({ length: R }, () => Array(C).fill(null));
   let n = 1;
-  for (let r = 0; r < R; r++){
-    for (let c = 0; c < C; c++){
+  for (let r = 0; r < R; r++) {
+    for (let c = 0; c < C; c++) {
       if (!isWhite(grid[r][c])) continue;
-      const startsAcross = (c === 0 || !isWhite(grid[r][c-1]));
-      const startsDown   = (r === 0 || !isWhite(grid[r-1][c]));
-      if (startsAcross || startsDown) startNums[r][c] = n++;
+      const startsAcross = (c === 0 || !isWhite(grid[r][c - 1]));
+      const startsDown   = (r === 0 || !isWhite(grid[r - 1][c]));
+      if (startsAcross || startsDown) {
+        startNums[r][c] = n++;
+      }
     }
   }
   return startNums;
 }
 
-function makeGridEl(rows, cols) {
-  const grid = document.getElementById('grid');
-  if (!grid) throw new Error("No #grid element");
-  grid.style.gridTemplateColumns = `repeat(${cols}, var(--cell-size))`;
-  return grid;
-}
+function coordsKey(r, c) { return `${r},${c}`; }
 
-// MAIN UI builder
 function buildUI(puzzle) {
   const { size: [R, C], grid, clues } = puzzle;
+
   const gridEl = makeGridEl(R, C);
   const acrossList = document.getElementById('across');
-  const downList = document.getElementById('down');
-  const clueTextEl = document.getElementById('clue-text');
+  const downList   = document.getElementById('down');
+  const mobileClueBar = document.getElementById('mobile-clue-bar');
+  const mobileClueText = document.getElementById('mobile-clue-text');
   const prevClueBtn = document.getElementById('prev-clue');
   const nextClueBtn = document.getElementById('next-clue');
 
@@ -74,33 +77,41 @@ function buildUI(puzzle) {
 
   const numbering = buildNumbering(puzzle);
 
-  // compute slots
   function slotsAcross() {
     const out = [];
-    for (let r=0;r<R;r++){
-      let c=0;
-      while(c<C){
-        if (isWhite(grid[r][c]) && (c===0 || !isWhite(grid[r][c-1]))){
-          const startC = c, num = numbering[r][c];
-          const coords=[];
-          while(c<C && isWhite(grid[r][c])){ coords.push([r,c]); c++; }
-          out.push({ num, r, c: startC, coords, dir:'across' });
-        } else c++;
+    for (let r = 0; r < R; r++) {
+      let c = 0;
+      while (c < C) {
+        if (isWhite(grid[r][c]) && (c === 0 || !isWhite(grid[r][c - 1]))) {
+          const startC = c;
+          const num = numbering[r][c];
+          let length = 0, coords = [];
+          while (c < C && isWhite(grid[r][c])) {
+            coords.push([r, c]);
+            length++; c++;
+          }
+          out.push({ num, r, c: startC, length, coords, dir: 'across' });
+        } else { c++; }
       }
     }
     return out;
   }
-  function slotsDown(){
-    const out=[];
-    for (let c=0;c<C;c++){
-      let r=0;
-      while(r<R){
-        if (isWhite(grid[r][c]) && (r===0 || !isWhite(grid[r-1][c]))){
-          const startR=r, num=numbering[r][c];
-          const coords=[];
-          while(r<R && isWhite(grid[r][c])){ coords.push([r,c]); r++; }
-          out.push({ num, r: startR, c, coords, dir:'down' });
-        } else r++;
+
+  function slotsDown() {
+    const out = [];
+    for (let c = 0; c < C; c++) {
+      let r = 0;
+      while (r < R) {
+        if (isWhite(grid[r][c]) && (r === 0 || !isWhite(grid[r - 1][c]))) {
+          const startR = r;
+          const num = numbering[r][c];
+          let length = 0, coords = [];
+          while (r < R && isWhite(grid[r][c])) {
+            coords.push([r, c]);
+            length++; r++;
+          }
+          out.push({ num, r: startR, c, length, coords, dir: 'down' });
+        } else { r++; }
       }
     }
     return out;
@@ -109,53 +120,51 @@ function buildUI(puzzle) {
   const slotsA = slotsAcross();
   const slotsD = slotsDown();
 
-  const textA = new Map((clues?.across||[]).map(x=>[x.num,x]));
-  const textD = new Map((clues?.down||[]).map(x=>[x.num,x]));
+  const textA = new Map((clues?.across || []).map(x => [x.num, x]));
+  const textD = new Map((clues?.down || []).map(x => [x.num, x]));
 
-  // create cells (WE USE readonly inputs so mobile keyboard never appears)
   const inputs = new Map();
   let lastClicked = null;
   let active = { dir: 'across', index: 0 };
   let solved = false;
   let alreadyShownIncorrect = false;
 
-  for (let r=0;r<R;r++){
-    for (let c=0;c<C;c++){
+  for (let r = 0; r < R; r++) {
+    for (let c = 0; c < C; c++) {
       const cell = document.createElement('div');
       cell.className = 'cell';
-      if (!isWhite(grid[r][c])) { cell.classList.add('black'); gridEl.appendChild(cell); continue; }
+      if (!isWhite(grid[r][c])) {
+        cell.classList.add('black');
+        gridEl.appendChild(cell);
+        continue;
+      }
       const num = numbering[r][c];
-      if (num){
+      if (num) {
         const numEl = document.createElement('div');
         numEl.className = 'num';
         numEl.textContent = num;
         cell.appendChild(numEl);
       }
-      // readonly input to avoid mobile keyboard; we'll fill via custom keyboard
+
       const inp = document.createElement('input');
-      inp.type = 'text';
-      inp.readOnly = true;
-      inp.maxLength = 1;
+      inp.setAttribute('maxlength','1');
+      inp.setAttribute('inputmode','none'); // disable device suggestions; we'll use our on-screen keyboard
       inp.dataset.r = r;
       inp.dataset.c = c;
       inp.value = '';
 
-      // clicking focuses the exact cell; second click toggles direction but stays on this cell
+      // Handle clicks: focus this square. double click toggles direction (same square)
       inp.addEventListener('click', () => {
         const rr = Number(inp.dataset.r), cc = Number(inp.dataset.c);
-        const key = coordsKey(rr,cc);
+        const key = coordsKey(rr, cc);
         if (lastClicked === key) {
-          // toggle direction
           active.dir = active.dir === 'across' ? 'down' : 'across';
-        } else {
-          // do not change direction on first click; keep current active.dir
         }
         lastClicked = key;
-
-        // find slot containing this cell for current direction
+        // find slot for this direction that contains this square
         const slots = active.dir === 'across' ? slotsA : slotsD;
-        const match = slots.findIndex(s => s.coords.some(([rr2,cc2])=> rr2===rr && cc2===cc));
-        if (match>=0) setActive(active.dir, match, [rr,cc]);
+        const idx = slots.findIndex(s => s.coords.some(([a,b]) => a===rr && b===cc));
+        if (idx >= 0) setActive(active.dir, idx, [rr,cc]);
       });
 
       inputs.set(coordsKey(r,c), inp);
@@ -164,60 +173,71 @@ function buildUI(puzzle) {
     }
   }
 
-  // render clue lists (desktop)
   function renderClue(li, slot, clueText) {
     li.textContent = `${slot.num}. ${clueText?.clue ?? ''}`;
     li.dataset.num = slot.num;
     li.dataset.dir = slot.dir;
     li.addEventListener('click', () => focusSlot(slot));
   }
-  for (const s of slotsA){
+  for (const s of slotsA) {
     const li = document.createElement('li');
     renderClue(li, s, textA.get(s.num));
     acrossList.appendChild(li);
   }
-  for (const s of slotsD){
+  for (const s of slotsD) {
     const li = document.createElement('li');
     renderClue(li, s, textD.get(s.num));
     downList.appendChild(li);
   }
 
-  // setActive: highlight slot, optionally prefer given cell if provided
-  function setActive(dir, index, preferCell=null) {
+  function setActive(dir, index, keepPos=null) {
     active = { dir, index };
-    document.querySelectorAll('.cell').forEach(el => el.classList.remove('highlight','active','incorrect','correct'));
+    document.querySelectorAll('.cell').forEach(el => el.classList.remove('highlight','active'));
     document.querySelectorAll('#clues li').forEach(el => el.classList.remove('active'));
+
     const slots = dir === 'across' ? slotsA : slotsD;
     const listEl = dir === 'across' ? acrossList : downList;
     const slot = slots[index];
     if (!slot) return;
 
-    // highlight cells in slot
-    for (const [r,c] of slot.coords){
+    // highlight slot cells
+    for (const [r,c] of slot.coords) {
       const inp = inputs.get(coordsKey(r,c));
       if (inp) inp.parentElement.classList.add('highlight');
     }
+    // highlight clue
+    [...listEl.children].forEach(li => {
+      if (Number(li.dataset.num) === slot.num) li.classList.add('active');
+    });
 
-    // highlight clue in list (desktop)
-    [...listEl.children].forEach(li => { if (Number(li.dataset.num) === slot.num) li.classList.add('active'); });
-
-    // show clue text in clue bar
-    const clueObj = (dir === 'across' ? textA.get(slot.num) : textD.get(slot.num));
-    clueTextEl.textContent = clueObj?.clue ?? '';
-
-    // choose focus cell: prefer preferCell if within slot, else first empty, else first cell
-    let target;
-    if (preferCell){
-      const found = slot.coords.find(([rr,cc])=> rr===preferCell[0] && cc===preferCell[1]);
-      if (found) target = found;
+    // mobile clue bar update
+    const clueObj = (dir==='across' ? textA.get(slot.num) : textD.get(slot.num));
+    if (clueObj) {
+      mobileClueText.textContent = `${slot.num}. ${clueObj.clue}`;
+      mobileClueBar.classList.remove('hidden');
+    } else {
+      mobileClueText.textContent = 'No clue';
+      mobileClueBar.classList.remove('hidden');
     }
-    if (!target) target = slot.coords.find(([rr,cc])=> (inputs.get(coordsKey(rr,cc)).value||'') === '') ?? slot.coords[0];
-    const inp = inputs.get(coordsKey(target[0], target[1]));
+
+    // focus: prefer keepPos (clicked square) if provided and belongs to slot
+    let targetCoord = null;
+    if (keepPos) {
+      const found = slot.coords.some(([rr,cc]) => rr === keepPos[0] && cc === keepPos[1]);
+      if (found) targetCoord = keepPos;
+    }
+    // else first empty cell in slot, else first cell
+    if (!targetCoord) {
+      const firstEmpty = slot.coords.find(([r,c]) => (inputs.get(coordsKey(r,c)).value || '') === '');
+      targetCoord = firstEmpty ?? slot.coords[0];
+    }
+
+    // set focus on the chosen target
+    const inp = inputs.get(coordsKey(targetCoord[0], targetCoord[1]));
     if (inp) {
-      // visually mark active
       document.querySelectorAll('.cell').forEach(el => el.classList.remove('active'));
+      inp.focus();
       inp.parentElement.classList.add('active');
-      inp.focus(); // readonly focus used for styling, not for keyboard
     }
   }
 
@@ -227,31 +247,122 @@ function buildUI(puzzle) {
     if (idx >= 0) setActive(slot.dir, idx);
   }
 
-  // movement helpers
-  function moveTo(r,c){
-    const inp = inputs.get(coordsKey(r,c));
-    if (inp) {
-      document.querySelectorAll('.cell').forEach(el => el.classList.remove('active'));
-      inp.parentElement.classList.add('active');
-      inp.focus();
+  // keyboard handling (on-screen keyboard)
+  const osk = document.getElementById('osk');
+  osk.querySelectorAll('.key').forEach(k => {
+    k.addEventListener('click', () => {
+      const ch = k.textContent.trim();
+      handleKeyChar(ch);
+    });
+  });
+  document.getElementById('osk-back').addEventListener('click', () => {
+    handleBackspace();
+  });
+  document.getElementById('osk-space').addEventListener('click', () => {
+    handleKeyChar(' ');
+  });
+
+  function handleKeyChar(ch) {
+    const activeEl = document.activeElement;
+    if (!activeEl || activeEl.tagName !== 'INPUT') {
+      // focus first input in active slot
+      const slots = active.dir === 'across' ? slotsA : slotsD;
+      const slot = slots[active.index];
+      if (slot && slot.coords.length) {
+        const [r,c] = slot.coords[0];
+        const inp = inputs.get(coordsKey(r,c));
+        if (inp) { inp.focus(); }
+      }
+      return;
     }
+    if (ch === ' ') return; // ignore spaces for letters
+    const letter = ch.toUpperCase();
+    activeEl.value = letter;
+    moveNext();
+    autoCheck();
   }
 
-  function moveNext() {
-    // after typing, advance within current slot; if last, advance to next slot in same pattern as you requested
+  function handleBackspace() {
     const activeEl = document.activeElement;
     if (!activeEl || activeEl.tagName !== 'INPUT') return;
+    if (activeEl.value !== '') {
+      activeEl.value = '';
+      return;
+    }
+    // move back one square in active slot
     const r = Number(activeEl.dataset.r), c = Number(activeEl.dataset.c);
     const slots = active.dir === 'across' ? slotsA : slotsD;
     const slot = slots[active.index];
     if (!slot) return;
-    const idx = slot.coords.findIndex(([rr,cc])=> rr===r && cc===c);
-    if (idx >=0 && idx < slot.coords.length - 1){
+    const idx = slot.coords.findIndex(([rr,cc]) => rr===r && cc===c);
+    if (idx > 0) {
+      const [pr,pc] = slot.coords[idx-1];
+      const prev = inputs.get(coordsKey(pr,pc));
+      if (prev) { prev.value=''; prev.focus(); }
+    }
+  }
+
+  // arrow and space handling for desktop keyboard
+  document.addEventListener('keydown', (e) => {
+    // allow arrows and backspace from physical keyboard too
+    if (e.key === 'ArrowRight' || e.key === 'ArrowLeft' || e.key === 'ArrowDown' || e.key === 'ArrowUp' || e.key === 'Backspace' || /^[a-zA-Z]$/.test(e.key)) {
+      const activeEl = document.activeElement;
+      if (activeEl && activeEl.tagName === 'INPUT') {
+        e.preventDefault();
+      }
+    }
+    if (/^[a-zA-Z]$/.test(e.key)) {
+      // typed letter from physical keyboard
+      const activeEl = document.activeElement;
+      if (activeEl && activeEl.tagName === 'INPUT') {
+        activeEl.value = e.key.toUpperCase();
+        moveNext();
+        autoCheck();
+      }
+    } else if (e.key === 'Backspace') {
+      handleBackspace();
+    } else if (e.key === ' ') {
+      // toggle
+      const activeEl = document.activeElement;
+      if (activeEl && activeEl.tagName === 'INPUT') {
+        active.dir = active.dir === 'across' ? 'down' : 'across';
+        const r = Number(activeEl.dataset.r), c = Number(activeEl.dataset.c);
+        const slots = active.dir==='across' ? slotsA : slotsD;
+        const idx = slots.findIndex(s => s.coords.some(([a,b]) => a===r && b===c));
+        if (idx>=0) setActive(active.dir, idx, [r,c]);
+      }
+    } else if (e.key === 'ArrowRight') moveRelative(0,1);
+    else if (e.key === 'ArrowLeft') moveRelative(0,-1);
+    else if (e.key === 'ArrowDown') moveRelative(1,0);
+    else if (e.key === 'ArrowUp') moveRelative(-1,0);
+  });
+
+  function moveRelative(dr, dc) {
+    const activeEl = document.activeElement;
+    if (!activeEl || activeEl.tagName !== 'INPUT') return;
+    const r = Number(activeEl.dataset.r), c = Number(activeEl.dataset.c);
+    const nr = r + dr, nc = c + dc;
+    const next = inputs.get(coordsKey(nr,nc));
+    if (next) next.focus();
+  }
+
+  function moveNext() {
+    const activeEl = document.activeElement;
+    if (!activeEl || activeEl.tagName !== 'INPUT') return;
+    const r = Number(activeEl.dataset.r), c = Number(activeEl.dataset.c);
+
+    const slots = active.dir === 'across' ? slotsA : slotsD;
+    const slot = slots[active.index];
+    if (!slot) return;
+
+    const idx = slot.coords.findIndex(([rr,cc]) => rr===r && cc===c);
+    if (idx >= 0 && idx < slot.coords.length -1) {
       const [nr,nc] = slot.coords[idx+1];
-      moveTo(nr,nc);
-    } else if (idx === slot.coords.length -1){
-      // finished current word -> next word rule
-      if (active.dir === 'across'){
+      const next = inputs.get(coordsKey(nr,nc));
+      if (next) next.focus();
+    } else if (idx === slot.coords.length -1) {
+      // finished current word -> next in same direction, wrap to other direction at end
+      if (active.dir === 'across') {
         if (active.index < slotsA.length -1) setActive('across', active.index+1);
         else setActive('down', 0);
       } else {
@@ -266,188 +377,116 @@ function buildUI(puzzle) {
     if (!activeEl || activeEl.tagName !== 'INPUT') return;
     const r = Number(activeEl.dataset.r), c = Number(activeEl.dataset.c);
     const slots = active.dir === 'across' ? slotsA : slotsD;
-    const slot = slots[active.index];
-    if (!slot) return;
-    const idx = slot.coords.findIndex(([rr,cc])=> rr===r && cc===c);
-    if (idx > 0){ const [pr,pc] = slot.coords[idx-1]; moveTo(pr,pc); }
+    const slot = slots[active.index]; if (!slot) return;
+    for (let i = slot.coords.length-1;i>=0;i--){
+      const [rr,cc]=slot.coords[i];
+      const inp = inputs.get(coordsKey(rr,cc));
+      if (inp && inp.value!=='') { inp.value=''; inp.focus(); return; }
+    }
   }
 
-  // check current slot (used by "Check" button): mark incorrect letters in slot red
-  function checkCurrentSlot() {
+  // check function: highlight wrong letters in the currently active clue
+  document.getElementById('check').addEventListener('click', () => {
     const slots = active.dir === 'across' ? slotsA : slotsD;
     const slot = slots[active.index];
     if (!slot) return;
-    const clueObj = (active.dir === 'across' ? textA.get(slot.num) : textD.get(slot.num));
-    for (const [r,c] of slot.coords){
+    const clueMap = active.dir === 'across' ? textA : textD;
+    const clueObj = clueMap.get(slot.num);
+    for (const [r,c] of slot.coords) {
+      const key = coordsKey(r,c);
+      const inp = inputs.get(key);
       const want = (grid[r][c]||'').toUpperCase();
-      const inp = inputs.get(coordsKey(r,c));
-      const got = (inp.value||'').toUpperCase();
-      if (!got) {
-        inp.parentElement.classList.remove('incorrect','correct');
-      } else if (got === want) {
-        inp.parentElement.classList.remove('incorrect');
-        inp.parentElement.classList.add('correct');
+      if (!inp) continue;
+      if ((inp.value||'').toUpperCase() === want) {
+        inp.classList.remove('bad'); inp.classList.add('ok'); inp.parentElement.style.outline='2px solid rgba(46,125,50,0.25)';
       } else {
-        inp.parentElement.classList.remove('correct');
-        inp.parentElement.classList.add('incorrect');
+        inp.classList.remove('ok'); inp.classList.add('bad'); inp.parentElement.style.outline='2px solid rgba(198,40,40,0.25)';
       }
     }
-  }
-
-  // autoCheck entire puzzle when it's fully filled
-  function autoCheck() {
-    let total=0, filled=0, correct=0;
-    for (let r=0;r<R;r++){
-      for (let c=0;c<C;c++){
-        if (!isWhite(grid[r][c]) ) continue;
-        total++;
-        const inp = inputs.get(coordsKey(r,c));
-        const got = (inp.value||'').toUpperCase();
-        const want = (grid[r][c]||'').toUpperCase();
-        if (got) filled++;
-        if (got === want) correct++;
-      }
-    }
-    if (filled === total){
-      if (correct === total){
-        if (!solved){
-          solved = true;
-          stopTimer();
-          alert(`All correct!\nTime: ${document.getElementById('timer').textContent}`);
-        }
-      } else {
-        if (!alreadyShownIncorrect){
-          alreadyShownIncorrect = true;
-          alert("Sorry, something is still wrong.");
-        }
-      }
-    } else {
-      alreadyShownIncorrect = false;
-    }
-  }
-
-  // custom keyboard wiring
-  function kbPress(letter){
-    const activeEl = document.activeElement;
-    if (!activeEl || activeEl.tagName !== 'INPUT') {
-      // if nothing focused, try to focus first across slot
-      const slots = active.dir === 'across' ? slotsA : slotsD;
-      if (slots.length) setActive(active.dir, 0);
-      return;
-    }
-    activeEl.value = letter;
-    // clear visual states
-    activeEl.parentElement.classList.remove('incorrect','correct');
-    // advance
-    moveNext();
-    autoCheck();
-  }
-
-  function kbBackspace(){
-    const activeEl = document.activeElement;
-    if (!activeEl || activeEl.tagName !== 'INPUT') return;
-    activeEl.value = '';
-    activeEl.parentElement.classList.remove('incorrect','correct');
-    // move back if appropriate
-    movePrev();
-  }
-
-  function kbLeft(){
-    const activeEl = document.activeElement;
-    if (!activeEl || activeEl.tagName !== 'INPUT') return;
-    const r = Number(activeEl.dataset.r), c = Number(activeEl.dataset.c);
-    if (c-1>=0) moveTo(r,c-1);
-  }
-  function kbRight(){
-    const activeEl = document.activeElement;
-    if (!activeEl || activeEl.tagName !== 'INPUT') return;
-    const r = Number(activeEl.dataset.r), c = Number(activeEl.dataset.c);
-    if (c+1<C) moveTo(r,c+1);
-  }
-
-  // hook keyboard elements
-  const kb = document.getElementById('keyboard');
-  const rows = Array.from(kb.querySelectorAll('#keyboard-rows .row'));
-  // render buttons for every letter
-  rows.forEach((rowEl) => {
-    const letters = rowEl.textContent.trim().split(/\s+/);
-    rowEl.innerHTML = '';
-    letters.forEach(letter => {
-      const b = document.createElement('button');
-      b.type = 'button';
-      b.textContent = letter;
-      b.addEventListener('click', ()=> kbPress(letter));
-      rowEl.appendChild(b);
-    });
   });
-  document.getElementById('kb-backspace').addEventListener('click', kbBackspace);
-  document.getElementById('kb-left').addEventListener('click', kbLeft);
-  document.getElementById('kb-right').addEventListener('click', kbRight);
 
-  // top button handlers
-  document.getElementById('check').onclick = () => checkCurrentSlot();
-  document.getElementById('reveal').onclick = () => {
+  // reveal
+  document.getElementById('reveal').addEventListener('click', () => {
     for (let r=0;r<R;r++){
       for (let c=0;c<C;c++){
         if (!isWhite(grid[r][c])) continue;
         const inp = inputs.get(coordsKey(r,c));
-        inp.value = (grid[r][c]||'').toUpperCase();
-        inp.parentElement.classList.remove('incorrect');
-        inp.parentElement.classList.add('correct');
+        if (inp) inp.value = (grid[r][c]||'').toUpperCase();
       }
     }
     autoCheck();
-  };
-  document.getElementById('clear').onclick = () => {
-    document.querySelectorAll('#grid input').forEach(i => {
-      i.value = ''; i.parentElement.classList.remove('incorrect','correct');
-    });
-    solved = false; alreadyShownIncorrect = false;
-  };
-  document.getElementById('start-btn').onclick = () => { startTimer(); };
+  });
 
-  // clue bar next/prev
-  function findSlotIndexForActiveCell(dir){
-    // find which slot contains the active focused input
-    const ae = document.activeElement;
-    if (!ae || ae.tagName !== 'INPUT') return -1;
-    const r = Number(ae.dataset.r), c = Number(ae.dataset.c);
-    const arr = dir === 'across' ? slotsA : slotsD;
-    return arr.findIndex(s => s.coords.some(([rr,cc])=> rr===r && cc===c));
+  // clear
+  document.getElementById('clear').addEventListener('click', () => {
+    document.querySelectorAll('#grid input').forEach(i => { i.value=''; i.classList.remove('bad','ok'); i.parentElement.style.outline=''; });
+    solved=false; alreadyShownIncorrect=false;
+  });
+
+  // start button
+  const startBtn = document.getElementById('start-btn');
+  startBtn.addEventListener('click', () => { startTimer(); });
+
+  // mobile prev/next clue
+  prevClueBtn.addEventListener('click', ()=> {
+    if (!mobileClueBar.classList.contains('hidden')) {
+      const arr = active.dir === 'across' ? slotsA : slotsD;
+      if (active.index > 0) setActive(active.dir, active.index-1);
+      else setActive(active.dir, arr.length-1);
+    }
+  });
+  nextClueBtn.addEventListener('click', ()=> {
+    if (!mobileClueBar.classList.contains('hidden')) {
+      const arr = active.dir === 'across' ? slotsA : slotsD;
+      if (active.index < arr.length-1) setActive(active.dir, active.index+1);
+      else setActive(active.dir, 0);
+    }
+  });
+
+  // auto-check when fully filled
+  function autoCheck() {
+    let correct=0,total=0,filled=0;
+    for (let r=0;r<R;r++){
+      for (let c=0;c<C;c++){
+        if (!isWhite(grid[r][c])) continue;
+        total++;
+        const inp = inputs.get(coordsKey(r,c));
+        const want = (grid[r][c]||'').toUpperCase();
+        const got = (inp.value||'').toUpperCase();
+        if (got) filled++;
+        if (got === want) correct++;
+      }
+    }
+    if (filled === total) {
+      if (correct === total) {
+        if (!solved) {
+          solved=true;
+          stopTimer();
+          setTimeout(()=> alert("All correct!\nTime: " + (document.getElementById('timer')?.textContent||'')), 50);
+        }
+      } else {
+        if (!alreadyShownIncorrect) {
+          alreadyShownIncorrect=true;
+          setTimeout(()=> alert("Sorry, something is still wrong."), 50);
+        }
+      }
+    } else {
+      alreadyShownIncorrect=false;
+    }
   }
-  prevClueBtn.onclick = () => {
-    const dir = active.dir;
-    const arr = dir==='across' ? slotsA : slotsD;
-    let idx = findSlotIndexForActiveCell(dir);
-    if (idx === -1) idx = 0;
-    idx = (idx - 1 + arr.length) % arr.length;
-    setActive(dir, idx);
-  };
-  nextClueBtn.onclick = () => {
-    const dir = active.dir;
-    const arr = dir==='across' ? slotsA : slotsD;
-    let idx = findSlotIndexForActiveCell(dir);
-    if (idx === -1) idx = 0;
-    idx = (idx + 1) % arr.length;
-    setActive(dir, idx);
-  };
 
-  // initial focus
-  if (slotsA.length > 0) setActive('across', 0);
+  // initial active word
+  if (slotsA.length>0) setActive('across', 0);
 }
 
-// load and build
+// init
 loadPuzzle()
   .then(puzzle => {
-    try {
-      buildUI(puzzle);
-      startTimer();
-    } catch (err) {
-      console.error("buildUI error", err);
-      document.getElementById('grid').textContent = 'Failed to build puzzle UI.';
-    }
+    buildUI(puzzle);
+    startTimer();
   })
-  .catch(err => {
-    console.error("Failed to load puzzle:", err);
-    document.getElementById('grid').textContent = 'Failed to load puzzle.';
+  .catch(e => {
+    console.error("failed to load puzzle:", e);
+    const el = document.getElementById('grid');
+    if (el) el.textContent = 'Failed to load puzzle.';
   });
