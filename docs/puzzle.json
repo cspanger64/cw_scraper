@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "S",
-      "K",
+      "L",
       "I",
-      "P"
+      "F",
+      "T",
+      null
+    ],
+    [
+      "E",
+      "Q",
+      "U",
+      "A",
+      "L"
+    ],
+    [
+      "F",
+      "U",
+      "N",
+      "K",
+      "Y"
+    ],
+    [
+      "T",
+      "I",
+      "G",
+      "E",
+      "R"
     ],
     [
       null,
       "T",
-      "E",
-      "M",
-      "U"
-    ],
-    [
-      "C",
-      "O",
-      "V",
-      "E",
-      "T"
-    ],
-    [
-      "A",
-      "R",
       "I",
-      "A",
-      null
-    ],
-    [
-      "P",
-      "E",
       "N",
-      "N",
-      null
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Song on an album that you always avoid, colloquially",
-        "answer": "SKIP",
+        "clue": "Pump iron",
+        "answer": "LIFT",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Low-budget Chinese shopping site",
-        "answer": "TEMU",
+        "clue": "Peer",
+        "answer": "EQUAL",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Strongly desire",
-        "answer": "COVET",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Opera solo",
-        "answer": "ARIA",
-        "row": 3,
+        "clue": "Like the music of Rick James and James Brown",
+        "answer": "FUNKY",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Ivy League school with a statue of Ben Franklin",
-        "answer": "PENN",
-        "row": 4,
+        "clue": "Animal that can't change its stripes, per an old adage",
+        "answer": "TIGER",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Pointed part of a fork",
+        "answer": "TINE",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Walmart or Walgreens",
-        "answer": "STORE",
+        "clue": "Dominant hand for Shohei Ohtani when batting, but not pitching",
+        "answer": "LEFT",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Resignation proclamation",
+        "answer": "IQUIT",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Home Alone\" boy",
-        "answer": "KEVIN",
+        "num": 3,
+        "clue": "Mushrooms, mold, mildew, etc.",
+        "answer": "FUNGI",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Let me rephrase that ...",
-        "answer": "IMEAN",
+        "num": 4,
+        "clue": "Is this seat ___?",
+        "answer": "TAKEN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Set (down)",
-        "answer": "PUT",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 6,
-        "clue": "Toothpaste tube topper",
-        "answer": "CAP",
-        "row": 2,
-        "col": 0
+        "clue": "U-shaped instrument in ancient Greece",
+        "answer": "LYRE",
+        "row": 1,
+        "col": 4
       }
     ]
   }
