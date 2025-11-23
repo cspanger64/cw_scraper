@@ -1,117 +1,208 @@
 {
   "size": [
-    5,
-    5
+    7,
+    8
   ],
   "grid": [
     [
-      "L",
-      "I",
-      "F",
+      null,
+      null,
+      "S",
+      "C",
+      "O",
+      "O",
       "T",
-      null
-    ],
-    [
-      "E",
-      "Q",
-      "U",
-      "A",
-      "L"
-    ],
-    [
-      "F",
-      "U",
-      "N",
-      "K",
-      "Y"
-    ],
-    [
-      "T",
-      "I",
-      "G",
-      "E",
-      "R"
+      "S"
     ],
     [
       null,
+      null,
       "T",
+      "A",
+      "I",
+      "P",
+      "E",
+      "I"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "L",
+      "L",
       "I",
       "N",
-      "E"
+      "G"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      null,
+      null,
+      "A",
+      "T",
+      "M"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "A",
+      "N",
+      "T",
+      "H",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "W",
+      "I",
+      "E",
+      null,
+      null
+    ],
+    [
+      "Y",
+      "O",
+      "D",
+      "E",
+      "L",
+      "S",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Pump iron",
-        "answer": "LIFT",
+        "clue": "Moves (over) in one's seat",
+        "answer": "SCOOTS",
         "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Peer",
-        "answer": "EQUAL",
-        "row": 1,
-        "col": 0
+        "col": 2
       },
       {
         "num": 7,
-        "clue": "Like the music of Rick James and James Brown",
-        "answer": "FUNKY",
+        "clue": "Capital of Taiwan",
+        "answer": "TAIPEI",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "num": 8,
+        "clue": "___ Bee",
+        "answer": "SPELLING",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Animal that can't change its stripes, per an old adage",
-        "answer": "TIGER",
+        "num": 10,
+        "clue": "In the style of",
+        "answer": "ALA",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Pointed part of a fork",
-        "answer": "TINE",
+        "num": 11,
+        "clue": "Device with a keypad that's typed on discreetly, for short",
+        "answer": "ATM",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "num": 12,
+        "clue": "___ Bee",
+        "answer": "SAMANTHA",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Family Guy\" baby",
+        "answer": "STEWIE",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Sings in the Alps",
+        "answer": "YODELS",
+        "row": 6,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Dominant hand for Shohei Ohtani when batting, but not pitching",
-        "answer": "LEFT",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Resignation proclamation",
-        "answer": "IQUIT",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Mushrooms, mold, mildew, etc.",
-        "answer": "FUNGI",
+        "clue": "Like some clams and freshly cleaned shirts",
+        "answer": "STEAMED",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Is this seat ___?",
-        "answer": "TAKEN",
+        "num": 2,
+        "clue": "What an online meeting invite gets added to, for short",
+        "answer": "CAL",
         "row": 0,
         "col": 3
       },
       {
+        "num": 3,
+        "clue": "Vinegar's counterpart",
+        "answer": "OIL",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Morphine and codeine, for two",
+        "answer": "OPIATES",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "First inning in extra innings",
+        "answer": "TENTH",
+        "row": 0,
+        "col": 6
+      },
+      {
         "num": 6,
-        "clue": "U-shaped instrument in ancient Greece",
-        "answer": "LYRE",
-        "row": 1,
+        "clue": "Greek \"S",
+        "answer": "SIGMA",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 8,
+        "clue": "Full of back talk",
+        "answer": "SASSY",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Allegory of the Cave\" philosopher",
+        "answer": "PLATO",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Wonderstruck feeling",
+        "answer": "AWE",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 14,
+        "clue": "Nothin",
+        "answer": "NIL",
+        "row": 4,
         "col": 4
       }
     ]
