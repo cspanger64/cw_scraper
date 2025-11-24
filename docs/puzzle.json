@@ -1,77 +1,42 @@
 {
   "size": [
-    7,
-    8
+    5,
+    5
   ],
   "grid": [
     [
       null,
-      null,
-      "S",
-      "C",
+      "J",
       "O",
-      "O",
-      "T",
-      "S"
-    ],
-    [
-      null,
-      null,
-      "T",
-      "A",
-      "I",
-      "P",
-      "E",
-      "I"
-    ],
-    [
-      "S",
-      "P",
-      "E",
-      "L",
-      "L",
-      "I",
-      "N",
-      "G"
-    ],
-    [
-      "A",
-      "L",
-      "A",
-      null,
-      null,
-      "A",
-      "T",
-      "M"
-    ],
-    [
-      "S",
-      "A",
-      "M",
-      "A",
-      "N",
-      "T",
-      "H",
-      "A"
-    ],
-    [
-      "S",
-      "T",
-      "E",
-      "W",
-      "I",
-      "E",
-      null,
+      "B",
       null
     ],
     [
-      "Y",
-      "O",
-      "D",
+      "V",
       "E",
-      "L",
-      "S",
+      "N",
+      "U",
+      "S"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "N",
+      "K"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "N",
+      "Y"
+    ],
+    [
       null,
+      "A",
+      "N",
+      "Y",
       null
     ]
   ],
@@ -79,130 +44,74 @@
     "across": [
       {
         "num": 1,
-        "clue": "Moves (over) in one's seat",
-        "answer": "SCOOTS",
+        "clue": "LinkedIn listing",
+        "answer": "JOB",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "Capital of Taiwan",
-        "answer": "TAIPEI",
+        "num": 4,
+        "clue": "Planet with an average surface temperature of around 860°F",
+        "answer": "VENUS",
         "row": 1,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 8,
-        "clue": "___ Bee",
-        "answer": "SPELLING",
+        "num": 6,
+        "clue": "Written with a pen",
+        "answer": "ININK",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "In the style of",
-        "answer": "ALA",
+        "num": 7,
+        "clue": "Sheer torment",
+        "answer": "AGONY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Device with a keypad that's typed on discreetly, for short",
-        "answer": "ATM",
-        "row": 3,
-        "col": 5
-      },
-      {
-        "num": 12,
-        "clue": "___ Bee",
-        "answer": "SAMANTHA",
+        "num": 8,
+        "clue": "___ thoughts?",
+        "answer": "ANY",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Family Guy\" baby",
-        "answer": "STEWIE",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Sings in the Alps",
-        "answer": "YODELS",
-        "row": 6,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Like some clams and freshly cleaned shirts",
-        "answer": "STEAMED",
+        "clue": "Block tower",
+        "answer": "JENGA",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Red\" vegetable that's really purple, if you ask me",
+        "answer": "ONION",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "What an online meeting invite gets added to, for short",
-        "answer": "CAL",
+        "num": 3,
+        "clue": "Word with Bad or Bugs",
+        "answer": "BUNNY",
         "row": 0,
         "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Vinegar's counterpart",
-        "answer": "OIL",
-        "row": 0,
-        "col": 4
       },
       {
         "num": 4,
-        "clue": "Morphine and codeine, for two",
-        "answer": "OPIATES",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "First inning in extra innings",
-        "answer": "TENTH",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "Greek \"S",
-        "answer": "SIGMA",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 8,
-        "clue": "Full of back talk",
-        "answer": "SASSY",
-        "row": 2,
+        "clue": "By way of",
+        "answer": "VIA",
+        "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Allegory of the Cave\" philosopher",
-        "answer": "PLATO",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "Wonderstruck feeling",
-        "answer": "AWE",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 14,
-        "clue": "Nothin",
-        "answer": "NIL",
-        "row": 4,
+        "num": 5,
+        "clue": "Excuse me while I kiss the ___\" (Hendrix lyric that's famously misheard)",
+        "answer": "SKY",
+        "row": 1,
         "col": 4
       }
     ]
