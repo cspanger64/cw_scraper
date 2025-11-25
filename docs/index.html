@@ -7,63 +7,59 @@
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div class="left-controls">
+  <header>
+    <div class="top-left">
       <h1>Daily Mini Crossword</h1>
+      <div id="date-info"></div>
     </div>
-
-    <div class="controls-right">
+    <div class="top-right">
       <div id="timer">00:00</div>
-      <button id="start-btn" class="primary">Start</button>
-      <button id="check" class="secondary">Check</button>
-      <button id="reveal" class="secondary">Reveal</button>
-      <button id="clear" class="secondary">Clear</button>
+      <button id="start-btn">Start</button>
+      <div class="controls">
+        <button id="check">Check</button>
+        <button id="reveal">Reveal</button>
+        <button id="clear">Clear</button>
+      </div>
     </div>
   </header>
 
   <main>
-    <section id="board-area">
+    <section id="puzzle-column">
       <div id="grid-wrap">
-        <div id="grid" aria-label="Crossword grid"></div>
+        <div id="grid" aria-label="crossword grid"></div>
+      </div>
+      <div id="clue-bar">
+        <div id="current-clue">
+          <div id="clue-num"></div>
+          <div id="clue-text">Select a word to see its clue</div>
+        </div>
+        <div id="clue-nav">
+          <button id="prev-clue" aria-label="Previous word">&larr;</button>
+          <button id="next-clue" aria-label="Next word">&rarr;</button>
+        </div>
       </div>
     </section>
 
-    <aside id="clues-area">
-      <div id="clues">
-        <div>
-          <h2>Across</h2>
-          <ol id="across" class="clue-list"></ol>
-        </div>
-        <div>
-          <h2>Down</h2>
-          <ol id="down" class="clue-list"></ol>
-        </div>
+    <aside id="side-column" aria-hidden="false">
+      <div class="clue-list-section">
+        <h2>Across</h2>
+        <ol id="across"></ol>
+      </div>
+      <div class="clue-list-section">
+        <h2>Down</h2>
+        <ol id="down"></ol>
       </div>
     </aside>
   </main>
 
-  <!-- mobile / tablet clue-bar that sits above the keyboard -->
-  <div id="mobile-clue-bar" class="mobile-clue-bar hidden">
-    <button id="prev-clue" class="nav-arrow">&lt;</button>
-    <div id="mobile-clue-text" class="mobile-clue-text">Select a word</div>
-    <button id="next-clue" class="nav-arrow">&gt;</button>
+  <!-- Custom on-screen keyboard (Option A) -->
+  <div id="keyboard-wrap" aria-hidden="false">
+    <div id="kbd-row-1" class="kbd-row"></div>
+    <div id="kbd-row-2" class="kbd-row"></div>
+    <div id="kbd-row-3" class="kbd-row"></div>
+    <div id="kbd-row-4" class="kbd-row"></div>
   </div>
 
-  <!-- On-screen keyboard -->
-  <div id="osk" class="osk">
-    <div class="osk-row">
-      <button class="key">Q</button><button class="key">W</button><button class="key">E</button><button class="key">R</button><button class="key">T</button><button class="key">Y</button><button class="key">U</button><button class="key">I</button><button class="key">O</button><button class="key">P</button>
-    </div>
-    <div class="osk-row">
-      <button class="key">A</button><button class="key">S</button><button class="key">D</button><button class="key">F</button><button class="key">G</button><button class="key">H</button><button class="key">J</button><button class="key">K</button><button class="key">L</button>
-    </div>
-    <div class="osk-row">
-      <button class="action-key" id="osk-back">⌫</button>
-      <button class="key">Z</button><button class="key">X</button><button class="key">C</button><button class="key">V</button><button class="key">B</button><button class="key">N</button><button class="key">M</button>
-      <button class="action-key" id="osk-space">␣</button>
-    </div>
-  </div>
-
-  <script src="./app.js"></script>
+  <script src="./app.js" type="module"></script>
 </body>
 </html>
