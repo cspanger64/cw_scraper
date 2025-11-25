@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
+      "A",
+      "L",
+      "T",
       null,
-      "J",
-      "O",
-      "B",
       null
     ],
     [
-      "V",
-      "E",
-      "N",
+      "F",
+      "O",
       "U",
-      "S"
+      "R",
+      null
     ],
     [
-      "I",
-      "N",
-      "I",
-      "N",
-      "K"
-    ],
-    [
+      "T",
       "A",
-      "G",
+      "L",
       "O",
-      "N",
-      "Y"
+      "N"
     ],
     [
       null,
-      "A",
-      "N",
-      "Y",
-      null
+      "F",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      null,
+      null,
+      "P",
+      "E",
+      "W"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "LinkedIn listing",
-        "answer": "JOB",
+        "clue": "Prefix for some music genres",
+        "answer": "ALT",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 4,
-        "clue": "Planet with an average surface temperature of around 860°F",
-        "answer": "VENUS",
+        "clue": "Fab ___ (nickname for the Beatles)",
+        "answer": "FOUR",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Written with a pen",
-        "answer": "ININK",
+        "clue": "Eagle's claw",
+        "answer": "TALON",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Sheer torment",
-        "answer": "AGONY",
+        "num": 8,
+        "clue": "Fab ___ (nickname for a noted University of Michigan basketball team)",
+        "answer": "FIVE",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "___ thoughts?",
-        "answer": "ANY",
+        "num": 9,
+        "clue": "Congregant's seat",
+        "answer": "PEW",
         "row": 4,
-        "col": 1
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Block tower",
-        "answer": "JENGA",
+        "clue": "Boat's rear",
+        "answer": "AFT",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Shape of a cat with its legs tucked under itself",
+        "answer": "LOAF",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Red\" vegetable that's really purple, if you ask me",
-        "answer": "ONION",
+        "num": 3,
+        "clue": "Flower that's the subject of Dutch festivals",
+        "answer": "TULIP",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Word with Bad or Bugs",
-        "answer": "BUNNY",
-        "row": 0,
+        "num": 5,
+        "clue": "Wander aimlessly",
+        "answer": "ROVE",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "By way of",
-        "answer": "VIA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Excuse me while I kiss the ___\" (Hendrix lyric that's famously misheard)",
-        "answer": "SKY",
-        "row": 1,
+        "num": 7,
+        "clue": "Like many shows at the top of the Netflix queue",
+        "answer": "NEW",
+        "row": 2,
         "col": 4
       }
     ]
