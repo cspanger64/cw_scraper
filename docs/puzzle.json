@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "A",
-      "L",
-      "T",
       null,
+      "F",
+      "L",
+      "Y",
       null
     ],
     [
-      "F",
-      "O",
-      "U",
-      "R",
-      null
-    ],
-    [
-      "T",
-      "A",
+      "B",
       "L",
-      "O",
-      "N"
+      "E",
+      "E",
+      "P"
     ],
     [
-      null,
-      "F",
-      "I",
-      "V",
+      "E",
+      "A",
+      "G",
+      "L",
       "E"
     ],
     [
-      null,
-      null,
-      "P",
       "E",
-      "W"
+      "R",
+      "U",
+      "P",
+      "T"
+    ],
+    [
+      null,
+      "E",
+      "P",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Prefix for some music genres",
-        "answer": "ALT",
+        "clue": "What Peter Pan teaches the Darling kids to do",
+        "answer": "FLY",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "Fab ___ (nickname for the Beatles)",
-        "answer": "FOUR",
+        "clue": "Cover-up for a curse",
+        "answer": "BLEEP",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Eagle's claw",
-        "answer": "TALON",
+        "clue": "Bird perched atop a cactus on Mexico's flag",
+        "answer": "EAGLE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Fab ___ (nickname for a noted University of Michigan basketball team)",
-        "answer": "FIVE",
+        "num": 7,
+        "clue": "Go off, as a volcano",
+        "answer": "ERUPT",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Congregant's seat",
-        "answer": "PEW",
+        "num": 8,
+        "clue": "Short albums, for short",
+        "answer": "EPS",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Boat's rear",
-        "answer": "AFT",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Shape of a cat with its legs tucked under itself",
-        "answer": "LOAF",
+        "clue": "Burning emergency signal",
+        "answer": "FLARE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Flower that's the subject of Dutch festivals",
-        "answer": "TULIP",
+        "num": 2,
+        "clue": "Slight advantage, so to speak",
+        "answer": "LEGUP",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Wander aimlessly",
-        "answer": "ROVE",
-        "row": 1,
+        "num": 3,
+        "clue": "Checks restaurant reviews on one's phone, perhaps",
+        "answer": "YELPS",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Like many shows at the top of the Netflix queue",
-        "answer": "NEW",
-        "row": 2,
+        "num": 4,
+        "clue": "Spell-off",
+        "answer": "BEE",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "What was the name of your first ___? (common security question)",
+        "answer": "PET",
+        "row": 1,
         "col": 4
       }
     ]
