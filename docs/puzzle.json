@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "F",
-      "L",
-      "Y",
+      "B",
+      "U",
+      "S",
       null
     ],
     [
-      "B",
-      "L",
-      "E",
-      "E",
-      "P"
-    ],
-    [
-      "E",
       "A",
-      "G",
+      "I",
+      "S",
       "L",
       "E"
     ],
     [
-      "E",
+      "T",
       "R",
-      "U",
-      "P",
-      "T"
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "D",
+      "G",
+      "E",
+      "D"
     ],
     [
       null,
+      "Y",
       "E",
-      "P",
-      "S",
+      "R",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "What Peter Pan teaches the Darling kids to do",
-        "answer": "FLY",
+        "clue": "Greyhound, e.g.",
+        "answer": "BUS",
         "row": 0,
         "col": 1
       },
       {
         "num": 4,
-        "clue": "Cover-up for a curse",
-        "answer": "BLEEP",
+        "clue": "Passenger's walkway on a 1- or 6-Across",
+        "answer": "AISLE",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Bird perched atop a cactus on Mexico's flag",
-        "answer": "EAGLE",
+        "clue": "The Wolverine to Chicago's Union Station, e.g.",
+        "answer": "TRAIN",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Go off, as a volcano",
-        "answer": "ERUPT",
+        "clue": "Barely beat, with \"out",
+        "answer": "EDGED",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Short albums, for short",
-        "answer": "EPS",
+        "clue": "___ out!\" (ump's cry)",
+        "answer": "YER",
         "row": 4,
         "col": 1
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Burning emergency signal",
-        "answer": "FLARE",
+        "clue": "Feathered creature, in kid-speak",
+        "answer": "BIRDY",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Slight advantage, so to speak",
-        "answer": "LEGUP",
+        "clue": "Electricity bill calculation",
+        "answer": "USAGE",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Checks restaurant reviews on one's phone, perhaps",
-        "answer": "YELPS",
+        "clue": "More like a fox",
+        "answer": "SLIER",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Spell-off",
-        "answer": "BEE",
+        "clue": "Past-tense verb that sounds like a number",
+        "answer": "ATE",
         "row": 1,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "What was the name of your first ___? (common security question)",
-        "answer": "PET",
+        "clue": "Redundant word before \"result",
+        "answer": "END",
         "row": 1,
         "col": 4
       }
