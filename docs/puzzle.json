@@ -1,79 +1,42 @@
 {
   "size": [
-    8,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "F",
-      "E",
-      "A",
-      "S",
-      "T",
-      "E",
-      "D"
-    ],
-    [
-      "A",
-      "L",
-      "L",
-      "T",
-      "I",
-      "M",
-      "E"
-    ],
-    [
-      "I",
-      "M",
-      "P",
-      "U",
-      "L",
-      "S",
-      "E"
-    ],
-    [
-      "R",
+      null,
+      "C",
       "O",
-      "O",
-      "F",
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "F",
-      "A",
-      "S",
-      "T"
-    ],
-    [
-      "B",
-      "R",
-      "U",
-      "I",
-      "S",
-      "E",
-      "R"
-    ],
-    [
-      "T",
-      "U",
-      "R",
-      "N",
-      "K",
-      "E",
+      "Z",
       "Y"
     ],
     [
-      "W",
+      "M",
+      "O",
+      "V",
       "I",
+      "E"
+    ],
+    [
+      "I",
+      "C",
+      "A",
       "N",
+      "T"
+    ],
+    [
+      "C",
+      "O",
+      "R",
       "G",
+      "I"
+    ],
+    [
       "S",
-      null,
+      "A",
+      "Y",
+      "S",
       null
     ]
   ],
@@ -81,152 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Enjoyed a Thanksgiving meal",
-        "answer": "FEASTED",
+        "clue": "Snug and comfortable",
+        "answer": "COZY",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Back half of a GOAT?",
-        "answer": "ALLTIME",
+        "num": 5,
+        "clue": "Eight Crazy Nights\" or \"12 Angry Men",
+        "answer": "MOVIE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Sudden urge",
-        "answer": "IMPULSE",
+        "num": 6,
+        "clue": "It's impossible for me to do that",
+        "answer": "ICANT",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Santa's landing place",
-        "answer": "ROOF",
+        "num": 7,
+        "clue": "Dog breed famously owned by Queen Elizabeth II",
+        "answer": "CORGI",
         "row": 3,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Abstain from eating",
-        "answer": "FAST",
+        "num": 8,
+        "clue": "Simon ___ (children's game)",
+        "answer": "SAYS",
         "row": 4,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "Tough guy",
-        "answer": "BRUISER",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 18,
-        "clue": "Ready to use without further assembly",
-        "answer": "TURNKEY",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 19,
-        "clue": "Some pieces of [circled letters] at the Thanksgiving table",
-        "answer": "WINGS",
-        "row": 7,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Inside the foul line, in baseball",
-        "answer": "FAIR",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Furry monster with a falsetto",
-        "answer": "ELMO",
+        "clue": "Hot drink consumed after sledding, perhaps",
+        "answer": "COCOA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Pet food brand",
-        "answer": "ALPO",
+        "num": 2,
+        "clue": "Egg-producing organ",
+        "answer": "OVARY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Thanksgiving side dish that can fill the [circled letters]",
-        "answer": "STUFFING",
+        "num": 3,
+        "clue": "Pithy criticisms",
+        "answer": "ZINGS",
         "row": 0,
         "col": 3
       },
       {
+        "num": 4,
+        "clue": "Giant snow man",
+        "answer": "YETI",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 5,
-        "clue": "Shop ___ you drop",
-        "answer": "TIL",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "M M M M",
-        "answer": "EMS",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "Billy ___ Williams, actor who played Lando Calrissian in \"Star Wars",
-        "answer": "DEE",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 12,
-        "clue": "Requests",
-        "answer": "ASKS",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "Get what I'm saying?",
-        "answer": "SEE",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 14,
-        "clue": "Give it a go",
-        "answer": "TRY",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 15,
-        "clue": "I should mention ...,\" for short",
-        "answer": "BTW",
-        "row": 5,
+        "clue": "Equipment for podcasters",
+        "answer": "MICS",
+        "row": 1,
         "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "N.B.A. power forward ___ Hachimura",
-        "answer": "RUI",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 17,
-        "clue": "Large coffee dispenser",
-        "answer": "URN",
-        "row": 5,
-        "col": 2
       }
     ]
   }
