@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
-      "C",
-      "O",
-      "Z",
-      "Y"
-    ],
-    [
       "M",
-      "O",
-      "V",
-      "I",
+      "A",
+      "P",
+      "L",
       "E"
     ],
     [
-      "I",
-      "C",
       "A",
-      "N",
-      "T"
+      "L",
+      "L",
+      "E",
+      "Y"
     ],
     [
-      "C",
+      "T",
+      "B",
       "O",
-      "R",
-      "G",
-      "I"
+      "N",
+      "E"
     ],
     [
+      "C",
+      "U",
+      "P",
       "S",
-      "A",
-      "Y",
+      null
+    ],
+    [
+      "H",
+      "M",
       "S",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Snug and comfortable",
-        "answer": "COZY",
+        "clue": "Tree that's a symbol of Canada",
+        "answer": "MAPLE",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Eight Crazy Nights\" or \"12 Angry Men",
-        "answer": "MOVIE",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "It's impossible for me to do that",
-        "answer": "ICANT",
-        "row": 2,
+        "clue": "Back street",
+        "answer": "ALLEY",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Dog breed famously owned by Queen Elizabeth II",
-        "answer": "CORGI",
-        "row": 3,
+        "clue": "Kind of steak with a letter in its name",
+        "answer": "TBONE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Simon ___ (children's game)",
-        "answer": "SAYS",
+        "clue": "Beer pong targets",
+        "answer": "CUPS",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "___ Pinafore\" (Gilbert and Sullivan opera)",
+        "answer": "HMS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Hot drink consumed after sledding, perhaps",
-        "answer": "COCOA",
+        "clue": "Show mutual interest, as on a dating app",
+        "answer": "MATCH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Bad\" or \"Good Kid, M.A.A.D City",
+        "answer": "ALBUM",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Egg-producing organ",
-        "answer": "OVARY",
+        "num": 3,
+        "clue": "Sits (down) heavily",
+        "answer": "PLOPS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Pithy criticisms",
-        "answer": "ZINGS",
+        "num": 4,
+        "clue": "Contact ___",
+        "answer": "LENS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Giant snow man",
-        "answer": "YETI",
+        "num": 5,
+        "clue": "Look here!",
+        "answer": "EYE",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Equipment for podcasters",
-        "answer": "MICS",
-        "row": 1,
-        "col": 0
       }
     ]
   }
