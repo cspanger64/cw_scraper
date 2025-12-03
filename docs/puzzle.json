@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "M",
-      "A",
-      "P",
-      "L",
-      "E"
-    ],
-    [
-      "A",
-      "L",
-      "L",
+      "G",
       "E",
-      "Y"
-    ],
-    [
-      "T",
-      "B",
-      "O",
-      "N",
-      "E"
-    ],
-    [
-      "C",
-      "U",
-      "P",
-      "S",
-      null
-    ],
-    [
-      "H",
-      "M",
-      "S",
+      "L",
       null,
       null
+    ],
+    [
+      "D",
+      "R",
+      "U",
+      "G",
+      null
+    ],
+    [
+      "P",
+      "I",
+      "X",
+      "I",
+      "E"
+    ],
+    [
+      null,
+      "C",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      null,
+      null,
+      "R",
+      "A",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Tree that's a symbol of Canada",
-        "answer": "MAPLE",
+        "clue": "Fittingly, the letters that bookend \"Get along well",
+        "answer": "GEL",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Back street",
-        "answer": "ALLEY",
+        "num": 4,
+        "clue": "Coke, e.g.",
+        "answer": "DRUG",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Kind of steak with a letter in its name",
-        "answer": "TBONE",
+        "num": 6,
+        "clue": "Sprite",
+        "answer": "PIXIE",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Beer pong targets",
-        "answer": "CUPS",
+        "clue": "Pepsi ___",
+        "answer": "COLA",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
         "num": 9,
-        "clue": "___ Pinafore\" (Gilbert and Sullivan opera)",
-        "answer": "HMS",
+        "clue": "Subway scurrier",
+        "answer": "RAT",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Show mutual interest, as on a dating app",
-        "answer": "MATCH",
+        "clue": "Measure of a country's economic output, for short",
+        "answer": "GDP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Bad\" or \"Good Kid, M.A.A.D City",
-        "answer": "ALBUM",
+        "clue": "N.Y.C. mayor Adams",
+        "answer": "ERIC",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Sits (down) heavily",
-        "answer": "PLOPS",
+        "clue": "Vegas casino shaped like a pyramid",
+        "answer": "LUXOR",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Contact ___",
-        "answer": "LENS",
-        "row": 0,
+        "num": 5,
+        "clue": "___ monster (venomous lizard)",
+        "answer": "GILA",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Look here!",
-        "answer": "EYE",
-        "row": 0,
+        "num": 7,
+        "clue": "Have a bite",
+        "answer": "EAT",
+        "row": 2,
         "col": 4
       }
     ]
