@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "G",
-      "E",
-      "L",
-      null,
+      "S",
+      "H",
+      "O",
+      "W",
       null
     ],
     [
-      "D",
-      "R",
+      "L",
       "U",
-      "G",
-      null
+      "C",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "N",
+      "T"
     ],
     [
       "P",
-      "I",
-      "X",
-      "I",
+      "L",
+      "A",
+      "N",
       "E"
     ],
     [
       null,
-      "C",
-      "O",
-      "L",
-      "A"
-    ],
-    [
-      null,
-      null,
-      "R",
+      "S",
+      "N",
       "A",
-      "T"
+      "P"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Fittingly, the letters that bookend \"Get along well",
-        "answer": "GEL",
+        "clue": "___, don't tell\" (writing adage)",
+        "answer": "SHOW",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Coke, e.g.",
-        "answer": "DRUG",
+        "num": 5,
+        "clue": "Creator of Indiana Jones and Han Solo",
+        "answer": "LUCAS",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Sprite",
-        "answer": "PIXIE",
+        "num": 7,
+        "clue": "What \"ain't\" can substitute for",
+        "answer": "ARENT",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Pepsi ___",
-        "answer": "COLA",
+        "clue": "Icon on a flight map",
+        "answer": "PLANE",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Subway scurrier",
-        "answer": "RAT",
+        "clue": "Federal food stamps initiative, familiarly",
+        "answer": "SNAP",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Measure of a country's economic output, for short",
-        "answer": "GDP",
+        "clue": "Action in the card game Egyptian Ratscrew",
+        "answer": "SLAP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "N.Y.C. mayor Adams",
-        "answer": "ERIC",
+        "clue": "Throws forcefully",
+        "answer": "HURLS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Vegas casino shaped like a pyramid",
-        "answer": "LUXOR",
+        "clue": "Where 97% of the Earth's water is found",
+        "answer": "OCEAN",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "___ monster (venomous lizard)",
-        "answer": "GILA",
-        "row": 1,
+        "num": 4,
+        "clue": "You down?",
+        "answer": "WANNA",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Have a bite",
-        "answer": "EAT",
-        "row": 2,
+        "num": 6,
+        "clue": "Neil Armstrong took a \"small\" one",
+        "answer": "STEP",
+        "row": 1,
         "col": 4
       }
     ]
