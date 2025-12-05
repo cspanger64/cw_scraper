@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "S",
-      "H",
-      "O",
-      "W",
-      null
-    ],
-    [
+      "K",
       "L",
       "U",
-      "C",
-      "A",
-      "S"
+      "T",
+      "Z"
     ],
     [
       "A",
-      "R",
-      "E",
-      "N",
-      "T"
-    ],
-    [
+      "L",
       "P",
+      "H",
+      "A"
+    ],
+    [
       "L",
       "A",
-      "N",
-      "E"
+      "T",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y"
     ],
     [
       null,
-      "S",
-      "N",
       "A",
-      "P"
+      "N",
+      "D",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___, don't tell\" (writing adage)",
-        "answer": "SHOW",
+        "clue": "Butterfingers",
+        "answer": "KLUTZ",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Creator of Indiana Jones and Han Solo",
-        "answer": "LUCAS",
+        "num": 6,
+        "clue": "Letter before beta",
+        "answer": "ALPHA",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "What \"ain't\" can substitute for",
-        "answer": "ARENT",
+        "clue": "Like \"ad hoc\" or \"ad hominem",
+        "answer": "LATIN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Icon on a flight map",
-        "answer": "PLANE",
+        "clue": "Prestigious university in Atlanta",
+        "answer": "EMORY",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Federal food stamps initiative, familiarly",
-        "answer": "SNAP",
+        "clue": "Word drawn out in speech before \"... they're off!",
+        "answer": "AND",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Action in the card game Egyptian Ratscrew",
-        "answer": "SLAP",
+        "clue": "Dinosaur ___, vegetable so-named for its bumpy green texture",
+        "answer": "KALE",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Throws forcefully",
-        "answer": "HURLS",
+        "clue": "Animal in a Peruvian herd",
+        "answer": "LLAMA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Where 97% of the Earth's water is found",
-        "answer": "OCEAN",
+        "clue": "Sinclair who wrote \"The Jungle",
+        "answer": "UPTON",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "You down?",
-        "answer": "WANNA",
+        "clue": "Base that's 90 feet from home",
+        "answer": "THIRD",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Neil Armstrong took a \"small\" one",
-        "answer": "STEP",
-        "row": 1,
+        "num": 5,
+        "clue": "Wild and funny",
+        "answer": "ZANY",
+        "row": 0,
         "col": 4
       }
     ]
