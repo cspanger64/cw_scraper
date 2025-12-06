@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "K",
-      "L",
-      "U",
-      "T",
-      "Z"
-    ],
-    [
+      null,
+      null,
+      "D",
       "A",
-      "L",
-      "P",
-      "H",
-      "A"
-    ],
-    [
-      "L",
-      "A",
-      "T",
-      "I",
-      "N"
-    ],
-    [
-      "E",
-      "M",
-      "O",
-      "R",
-      "Y"
+      "M"
     ],
     [
       null,
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "I",
+      "M",
       "A",
-      "N",
-      "D",
+      "X",
+      null
+    ],
+    [
+      "X",
+      "E",
+      "S",
+      null,
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Butterfingers",
-        "answer": "KLUTZ",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Letter before beta",
-        "answer": "ALPHA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Like \"ad hoc\" or \"ad hominem",
-        "answer": "LATIN",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Prestigious university in Atlanta",
-        "answer": "EMORY",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Word drawn out in speech before \"... they're off!",
-        "answer": "AND",
-        "row": 4,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Dinosaur ___, vegetable so-named for its bumpy green texture",
-        "answer": "KALE",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Animal in a Peruvian herd",
-        "answer": "LLAMA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Sinclair who wrote \"The Jungle",
-        "answer": "UPTON",
+        "clue": "Beaver's building project",
+        "answer": "DAM",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Base that's 90 feet from home",
-        "answer": "THIRD",
+        "clue": "Unit of distance originally equivalent to 1,000 paces",
+        "answer": "MILE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Number of dwarfs or deadly sins",
+        "answer": "SEVEN",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Extra-large film format",
+        "answer": "IMAX",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Crosses (out)",
+        "answer": "XES",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Difficult-to-work-with stars",
+        "answer": "DIVAS",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "U.S. soccer star ___ Morgan",
+        "answer": "ALEX",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Wild and funny",
-        "answer": "ZANY",
+        "num": 3,
+        "clue": "Roughly half of the adult population",
+        "answer": "MEN",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "5-Down-5-Across, for one",
+        "answer": "MEME",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Broadway musical about the wives of Henry VIII",
+        "answer": "SIX",
+        "row": 2,
+        "col": 0
       }
     ]
   }
