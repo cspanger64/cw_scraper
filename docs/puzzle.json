@@ -1,118 +1,202 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      null,
-      null,
-      "D",
+      "I",
+      "O",
+      "B",
+      "J",
+      "E",
+      "C",
+      "T"
+    ],
+    [
+      "T",
+      "H",
+      "E",
       "A",
-      "M"
+      "L",
+      "P",
+      "S"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "K",
+      "I",
+      "R",
+      "A"
     ],
     [
       null,
-      "M",
+      null,
+      "T",
+      "A",
+      "S",
+      null,
+      null
+    ],
+    [
+      "F",
+      "A",
+      "B",
+      "R",
       "I",
-      "L",
+      "C",
+      "S"
+    ],
+    [
+      "I",
+      "G",
+      "O",
+      "T",
+      "O",
+      "N",
       "E"
     ],
     [
-      "S",
-      "E",
-      "V",
-      "E",
-      "N"
-    ],
-    [
-      "I",
-      "M",
+      "R",
+      "O",
+      "X",
       "A",
-      "X",
-      null
-    ],
-    [
-      "X",
-      "E",
-      "S",
-      null,
-      null
+      "N",
+      "N",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Beaver's building project",
-        "answer": "DAM",
+        "clue": "Stop, Your Honor!",
+        "answer": "IOBJECT",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 4,
-        "clue": "Unit of distance originally equivalent to 1,000 paces",
-        "answer": "MILE",
+        "num": 8,
+        "clue": "Mont Blanc's mountain range",
+        "answer": "THEALPS",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "Number of dwarfs or deadly sins",
-        "answer": "SEVEN",
+        "num": 9,
+        "clue": "Hips Don't Lie\" singer",
+        "answer": "SHAKIRA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Extra-large film format",
-        "answer": "IMAX",
+        "num": 10,
+        "clue": "Professor's helpers, for short",
+        "answer": "TAS",
         "row": 3,
+        "col": 2
+      },
+      {
+        "num": 11,
+        "clue": "Cotton, linen and satin",
+        "answer": "FABRICS",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Crosses (out)",
-        "answer": "XES",
-        "row": 4,
+        "num": 15,
+        "clue": "Words before sharing a funny joke",
+        "answer": "IGOTONE",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Woman who's told \"You don't have to put on the red light,\" in a hit by the Police",
+        "answer": "ROXANNE",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Difficult-to-work-with stars",
-        "answer": "DIVAS",
+        "clue": "The \"I\" of T.G.I.F.",
+        "answer": "ITS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "NOW I understand!",
+        "answer": "OHH",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Make percussion noises with one's mouth",
+        "answer": "BEATBOX",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "U.S. soccer star ___ Morgan",
-        "answer": "ALEX",
+        "num": 4,
+        "clue": "Capital of Indonesia",
+        "answer": "JAKARTA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Roughly half of the adult population",
-        "answer": "MEN",
+        "num": 5,
+        "clue": "Shortening in speech, as from \"captain\" to \"cap'n",
+        "answer": "ELISION",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "5-Down-5-Across, for one",
-        "answer": "MEME",
-        "row": 1,
+        "num": 6,
+        "clue": "E.M.T.'s skill",
+        "answer": "CPR",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "They might ask you to remove your shoes, for short",
+        "answer": "TSA",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Christmas tree variety",
+        "answer": "FIR",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Many moons ____",
+        "answer": "AGO",
+        "row": 4,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Broadway musical about the wives of Henry VIII",
-        "answer": "SIX",
-        "row": 2,
-        "col": 0
+        "num": 13,
+        "clue": "Channel whose initials are hidden from left to right in the word CHANNEL",
+        "answer": "CNN",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 14,
+        "clue": "Get a glimpse of",
+        "answer": "SEE",
+        "row": 4,
+        "col": 6
       }
     ]
   }
