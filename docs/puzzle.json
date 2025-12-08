@@ -1,202 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
+      null,
+      "W",
       "I",
+      "N",
+      "K"
+    ],
+    [
+      null,
       "O",
-      "B",
-      "J",
-      "E",
-      "C",
-      "T"
-    ],
-    [
-      "T",
       "H",
-      "E",
-      "A",
-      "L",
-      "P",
-      "S"
-    ],
-    [
-      "S",
-      "H",
-      "A",
-      "K",
       "I",
-      "R",
+      "O"
+    ],
+    [
+      "M",
+      "O",
+      "O",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "S",
+      "P",
+      "C",
       "A"
     ],
     [
-      null,
-      null,
-      "T",
-      "A",
-      "S",
-      null,
-      null
-    ],
-    [
-      "F",
-      "A",
-      "B",
-      "R",
-      "I",
       "C",
-      "S"
-    ],
-    [
-      "I",
-      "G",
-      "O",
-      "T",
-      "O",
-      "N",
-      "E"
-    ],
-    [
-      "R",
-      "O",
-      "X",
-      "A",
-      "N",
-      "N",
-      "E"
+      "H",
+      "E",
+      "E",
+      "K"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Stop, Your Honor!",
-        "answer": "IOBJECT",
+        "clue": ";-)",
+        "answer": "WINK",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Mont Blanc's mountain range",
-        "answer": "THEALPS",
+        "num": 5,
+        "clue": "Where the Bengals and Buckeyes play",
+        "answer": "OHIO",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 9,
-        "clue": "Hips Don't Lie\" singer",
-        "answer": "SHAKIRA",
+        "num": 6,
+        "clue": "Made some sounds in \"Old MacDonald Had a Farm",
+        "answer": "MOOED",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Professor's helpers, for short",
-        "answer": "TAS",
+        "num": 7,
+        "clue": "Pet adoption org.",
+        "answer": "ASPCA",
         "row": 3,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 11,
-        "clue": "Cotton, linen and satin",
-        "answer": "FABRICS",
+        "num": 8,
+        "clue": "Red body part for Santa",
+        "answer": "CHEEK",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Words before sharing a funny joke",
-        "answer": "IGOTONE",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Woman who's told \"You don't have to put on the red light,\" in a hit by the Police",
-        "answer": "ROXANNE",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "The \"I\" of T.G.I.F.",
-        "answer": "ITS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "NOW I understand!",
-        "answer": "OHH",
+        "clue": "Sound of a joke flying over your head",
+        "answer": "WOOSH",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Make percussion noises with one's mouth",
-        "answer": "BEATBOX",
+        "num": 2,
+        "clue": "Fingers crossed!",
+        "answer": "IHOPE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Capital of Indonesia",
-        "answer": "JAKARTA",
+        "num": 3,
+        "clue": "Sister's daughter",
+        "answer": "NIECE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Shortening in speech, as from \"captain\" to \"cap'n",
-        "answer": "ELISION",
+        "num": 4,
+        "clue": "___ moment",
+        "answer": "KODAK",
         "row": 0,
         "col": 4
       },
       {
         "num": 6,
-        "clue": "E.M.T.'s skill",
-        "answer": "CPR",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "They might ask you to remove your shoes, for short",
-        "answer": "TSA",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Christmas tree variety",
-        "answer": "FIR",
-        "row": 4,
+        "clue": "Computer brought to a Genius Bar",
+        "answer": "MAC",
+        "row": 2,
         "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Many moons ____",
-        "answer": "AGO",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "Channel whose initials are hidden from left to right in the word CHANNEL",
-        "answer": "CNN",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 14,
-        "clue": "Get a glimpse of",
-        "answer": "SEE",
-        "row": 4,
-        "col": 6
       }
     ]
   }
