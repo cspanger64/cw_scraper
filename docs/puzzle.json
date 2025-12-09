@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "W",
-      "I",
-      "N",
-      "K"
+      null,
+      "T",
+      "A",
+      "J"
     ],
     [
       null,
-      "O",
-      "H",
-      "I",
-      "O"
-    ],
-    [
-      "M",
-      "O",
-      "O",
-      "E",
-      "D"
-    ],
-    [
-      "A",
       "S",
-      "P",
-      "C",
-      "A"
+      "A",
+      "L",
+      "E"
     ],
     [
-      "C",
-      "H",
+      "V",
+      "I",
+      "P",
       "E",
-      "E",
+      "R"
+    ],
+    [
+      "O",
+      "Z",
+      "A",
+      "R",
       "K"
+    ],
+    [
+      "W",
+      "E",
+      "S",
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": ";-)",
-        "answer": "WINK",
+        "clue": "___ Mahal",
+        "answer": "TAJ",
         "row": 0,
-        "col": 1
+        "col": 2
       },
       {
-        "num": 5,
-        "clue": "Where the Bengals and Buckeyes play",
-        "answer": "OHIO",
+        "num": 4,
+        "clue": "\"Everything must go!\" event",
+        "answer": "SALE",
         "row": 1,
         "col": 1
       },
       {
-        "num": 6,
-        "clue": "Made some sounds in \"Old MacDonald Had a Farm",
-        "answer": "MOOED",
+        "num": 5,
+        "clue": "Deadly snake with fangs that fold upward",
+        "answer": "VIPER",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Pet adoption org.",
-        "answer": "ASPCA",
+        "num": 6,
+        "clue": "Netflix crime drama set in the mountains of Missouri",
+        "answer": "OZARK",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Red body part for Santa",
-        "answer": "CHEEK",
+        "num": 7,
+        "clue": "W, on a map",
+        "answer": "WEST",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Sound of a joke flying over your head",
-        "answer": "WOOSH",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Fingers crossed!",
-        "answer": "IHOPE",
+        "clue": "Spanish small plates",
+        "answer": "TAPAS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Sister's daughter",
-        "answer": "NIECE",
+        "num": 2,
+        "clue": "Ding on a phone, e.g.",
+        "answer": "ALERT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "___ moment",
-        "answer": "KODAK",
+        "num": 3,
+        "clue": "Meanie face",
+        "answer": "JERK",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "Computer brought to a Genius Bar",
-        "answer": "MAC",
+        "num": 4,
+        "clue": "Shoebox number",
+        "answer": "SIZE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Oath",
+        "answer": "VOW",
         "row": 2,
         "col": 0
       }
