@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "T",
-      "A",
-      "J"
+      "C",
+      "H",
+      "E",
+      "F",
+      null
     ],
     [
-      null,
+      "B",
+      "O",
+      "X",
+      "U",
+      "P"
+    ],
+    [
       "S",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "V",
-      "I",
+      "U",
       "P",
       "E",
       "R"
     ],
     [
-      "O",
-      "Z",
-      "A",
+      null,
       "R",
-      "K"
+      "A",
+      "G",
+      "E"
     ],
     [
-      "W",
-      "E",
+      null,
       "S",
       "T",
-      null
+      "O",
+      "P"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ Mahal",
-        "answer": "TAJ",
+        "clue": "Apt profession for someone named Rosemary or Ginger",
+        "answer": "CHEF",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "\"Everything must go!\" event",
-        "answer": "SALE",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Deadly snake with fangs that fold upward",
-        "answer": "VIPER",
-        "row": 2,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Netflix crime drama set in the mountains of Missouri",
-        "answer": "OZARK",
-        "row": 3,
+        "num": 5,
+        "clue": "Get to go, as leftovers",
+        "answer": "BOXUP",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "W, on a map",
-        "answer": "WEST",
-        "row": 4,
+        "clue": "Word that can precede Bowl or Glue",
+        "answer": "SUPER",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Intense anger",
+        "answer": "RAGE",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 9,
+        "clue": "Cut that out!",
+        "answer": "STOP",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Spanish small plates",
-        "answer": "TAPAS",
+        "clue": "Stephen Colbert's network",
+        "answer": "CBS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Noted group of 24",
+        "answer": "HOURS",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "One living abroad, informally",
+        "answer": "EXPAT",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Ding on a phone, e.g.",
-        "answer": "ALERT",
+        "num": 4,
+        "clue": "Spanish for \"fire",
+        "answer": "FUEGO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Meanie face",
-        "answer": "JERK",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Shoebox number",
-        "answer": "SIZE",
+        "num": 6,
+        "clue": "Do some kitchen work",
+        "answer": "PREP",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Oath",
-        "answer": "VOW",
-        "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }
