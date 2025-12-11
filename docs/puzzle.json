@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "C",
-      "H",
-      "E",
-      "F",
+      null,
+      "N",
+      "A",
+      "P",
       null
     ],
     [
-      "B",
+      "N",
       "O",
-      "X",
-      "U",
-      "P"
-    ],
-    [
-      "S",
-      "U",
-      "P",
-      "E",
-      "R"
-    ],
-    [
-      null,
-      "R",
+      "W",
       "A",
-      "G",
+      "Y"
+    ],
+    [
+      "O",
+      "H",
+      "A",
+      "R",
       "E"
     ],
     [
-      null,
-      "S",
-      "T",
+      "W",
       "O",
-      "P"
+      "R",
+      "K",
+      "S"
+    ],
+    [
+      null,
+      "W",
+      "E",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Apt profession for someone named Rosemary or Ginger",
-        "answer": "CHEF",
+        "clue": "Brief snooze",
+        "answer": "NAP",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 5,
-        "clue": "Get to go, as leftovers",
-        "answer": "BOXUP",
+        "num": 4,
+        "clue": "With 1-Down, not under any circumstances",
+        "answer": "NOWAY",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Word that can precede Bowl or Glue",
-        "answer": "SUPER",
+        "num": 6,
+        "clue": "Busiest airport in the Midwest",
+        "answer": "OHARE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Intense anger",
-        "answer": "RAGE",
+        "num": 7,
+        "clue": "Doesn't take vacation, say",
+        "answer": "WORKS",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Cut that out!",
-        "answer": "STOP",
+        "num": 8,
+        "clue": "Anderson who directed \"The Phoenician Scheme",
+        "answer": "WES",
         "row": 4,
         "col": 1
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Stephen Colbert's network",
-        "answer": "CBS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Noted group of 24",
-        "answer": "HOURS",
+        "clue": "See 4-Across",
+        "answer": "NOHOW",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "One living abroad, informally",
-        "answer": "EXPAT",
+        "num": 2,
+        "clue": "Cognizant (of)",
+        "answer": "AWARE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Spanish for \"fire",
-        "answer": "FUEGO",
+        "num": 3,
+        "clue": "___ and Recreation\" (2010s sitcom)",
+        "answer": "PARKS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Do some kitchen work",
-        "answer": "PREP",
+        "num": 4,
+        "clue": "Right this moment",
+        "answer": "NOW",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Amen to that!",
+        "answer": "YES",
         "row": 1,
         "col": 4
       }
