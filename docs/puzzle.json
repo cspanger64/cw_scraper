@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      null,
-      "N",
-      "A",
-      "P",
-      null
-    ],
-    [
-      "N",
-      "O",
-      "W",
-      "A",
-      "Y"
-    ],
-    [
-      "O",
-      "H",
-      "A",
-      "R",
-      "E"
-    ],
-    [
-      "W",
-      "O",
-      "R",
-      "K",
-      "S"
-    ],
-    [
-      null,
-      "W",
-      "E",
       "S",
-      null
+      "M",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "P",
+      "I",
+      "X",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "B",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "D",
+      "A",
+      "L"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "L",
+      "L"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Brief snooze",
-        "answer": "NAP",
+        "clue": "Painter's protective garment",
+        "answer": "SMOCK",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "With 1-Down, not under any circumstances",
-        "answer": "NOWAY",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Busiest airport in the Midwest",
-        "answer": "OHARE",
-        "row": 2,
+        "clue": "Toy Story 5\" studio",
+        "answer": "PIXAR",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Doesn't take vacation, say",
-        "answer": "WORKS",
-        "row": 3,
+        "clue": "Your answer to \"Where were you at 9 p.m. last night?,\" perhaps",
+        "answer": "ALIBI",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Anderson who directed \"The Phoenician Scheme",
-        "answer": "WES",
+        "clue": "Tennis star Rafael",
+        "answer": "NADAL",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Solemn sound from a church bell",
+        "answer": "KNELL",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "See 4-Across",
-        "answer": "NOHOW",
+        "clue": "Defeat soundly, in slang",
+        "answer": "SPANK",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Italian city with a fashion week",
+        "answer": "MILAN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Cognizant (of)",
-        "answer": "AWARE",
+        "num": 3,
+        "clue": "Iron ___ (rust)",
+        "answer": "OXIDE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "___ and Recreation\" (2010s sitcom)",
-        "answer": "PARKS",
+        "num": 4,
+        "clue": "Small group of conspirators",
+        "answer": "CABAL",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Right this moment",
-        "answer": "NOW",
-        "row": 1,
-        "col": 0
-      },
-      {
         "num": 5,
-        "clue": "Amen to that!",
-        "answer": "YES",
-        "row": 1,
+        "clue": "Food for a baleen whale",
+        "answer": "KRILL",
+        "row": 0,
         "col": 4
       }
     ]
