@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "S",
-      "M",
+      null,
+      "A",
+      "N",
+      "T",
+      null
+    ],
+    [
+      null,
+      "Z",
       "O",
-      "C",
+      "O",
+      null
+    ],
+    [
+      "M",
+      "U",
+      "T",
+      "T",
+      "S"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "E",
       "K"
     ],
     [
-      "P",
-      "I",
-      "X",
-      "A",
-      "R"
-    ],
-    [
-      "A",
-      "L",
-      "I",
-      "B",
-      "I"
-    ],
-    [
-      "N",
-      "A",
-      "D",
-      "A",
-      "L"
-    ],
-    [
-      "K",
-      "N",
+      "M",
       "E",
-      "L",
-      "L"
+      "S",
+      "S",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Painter's protective garment",
-        "answer": "SMOCK",
+        "clue": "Bullet ___ (insect known for its painful sting)",
+        "answer": "ANT",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Toy Story 5\" studio",
-        "answer": "PIXAR",
+        "num": 4,
+        "clue": "Setting for the children's book \"Good Night, Gorilla",
+        "answer": "ZOO",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "Your answer to \"Where were you at 9 p.m. last night?,\" perhaps",
-        "answer": "ALIBI",
+        "num": 5,
+        "clue": "Mixed-breed dogs",
+        "answer": "MUTTS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Tennis star Rafael",
-        "answer": "NADAL",
+        "num": 7,
+        "clue": "Language that gave us the words \"democracy\" and \"philosophy",
+        "answer": "GREEK",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Solemn sound from a church bell",
-        "answer": "KNELL",
+        "num": 8,
+        "clue": "Untidy",
+        "answer": "MESSY",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Defeat soundly, in slang",
-        "answer": "SPANK",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Italian city with a fashion week",
-        "answer": "MILAN",
+        "clue": "Brilliant shade of blue",
+        "answer": "AZURE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Iron ___ (rust)",
-        "answer": "OXIDE",
+        "num": 2,
+        "clue": "Classroom jottings",
+        "answer": "NOTES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Small group of conspirators",
-        "answer": "CABAL",
+        "num": 3,
+        "clue": "100%,\" in slang",
+        "answer": "TOTES",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Food for a baleen whale",
-        "answer": "KRILL",
-        "row": 0,
+        "clue": "Longtime movie studio now owned by Amazon",
+        "answer": "MGM",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Chicago W.N.B.A. team",
+        "answer": "SKY",
+        "row": 2,
         "col": 4
       }
     ]
