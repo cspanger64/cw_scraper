@@ -1,118 +1,230 @@
 {
   "size": [
-    5,
-    5
+    7,
+    8
   ],
   "grid": [
     [
+      "B",
+      "U",
+      "S",
+      null,
+      "W",
+      "O",
+      "L",
+      "F"
+    ],
+    [
+      "L",
+      "M",
+      "K",
       null,
       "A",
-      "N",
-      "T",
-      null
+      "R",
+      "I",
+      "A"
     ],
     [
+      "E",
+      "P",
+      "I",
       null,
-      "Z",
-      "O",
-      "O",
-      null
-    ],
-    [
-      "M",
-      "U",
-      "T",
+      "S",
+      "E",
       "T",
       "S"
     ],
     [
-      "G",
+      "S",
+      "T",
       "R",
+      "A",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "S",
       "E",
-      "E",
-      "K"
+      "T",
+      "S",
+      null,
+      "A",
+      "G",
+      "O"
     ],
     [
       "M",
       "E",
+      "E",
+      "K",
+      null,
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "N",
+      "D",
       "S",
-      "S",
-      "Y"
+      null,
+      "O",
+      "W",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Bullet ___ (insect known for its painful sting)",
-        "answer": "ANT",
+        "clue": "Field trip vehicle",
+        "answer": "BUS",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 4,
-        "clue": "Setting for the children's book \"Good Night, Gorilla",
-        "answer": "ZOO",
-        "row": 1,
-        "col": 1
+        "clue": "Peter's antagonist, in a musical tale",
+        "answer": "WOLF",
+        "row": 0,
+        "col": 4
       },
       {
-        "num": 5,
-        "clue": "Mixed-breed dogs",
-        "answer": "MUTTS",
+        "num": 8,
+        "clue": "Keep me posted, in texts",
+        "answer": "LMK",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Opera solo",
+        "answer": "ARIA",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "___Pen (emergency device)",
+        "answer": "EPI",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Language that gave us the words \"democracy\" and \"philosophy",
-        "answer": "GREEK",
+        "num": 11,
+        "clue": "With 12-Across, gets in order",
+        "answer": "SETS",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 12,
+        "clue": "With 14-Across, what a tennis champ might win a match in",
+        "answer": "STRAIGHT",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Untidy",
-        "answer": "MESSY",
+        "num": 14,
+        "clue": "See 12-Across",
+        "answer": "SETS",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "A long time ___ in a galaxy far, far away ...",
+        "answer": "AGO",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 16,
+        "clue": "Shy and gentle",
+        "answer": "MEEK",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 17,
+        "clue": "Prefix with apology or answer",
+        "answer": "NON",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 18,
+        "clue": "Comes to a close",
+        "answer": "ENDS",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 19,
+        "clue": "Have to pay",
+        "answer": "OWE",
+        "row": 6,
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Brilliant shade of blue",
-        "answer": "AZURE",
+        "clue": "Goodness gracious!",
+        "answer": "BLESSME",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Indefinitely many, informally",
+        "answer": "UMPTEEN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Classroom jottings",
-        "answer": "NOTES",
+        "num": 3,
+        "clue": "Avoided, as an issue",
+        "answer": "SKIRTED",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "100%,\" in slang",
-        "answer": "TOTES",
+        "num": 4,
+        "clue": "Now, where ___?",
+        "answer": "WASI",
         "row": 0,
-        "col": 3
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Longtime movie studio now owned by Amazon",
-        "answer": "MGM",
-        "row": 2,
-        "col": 0
+        "clue": "Green topping at a pizza parlor",
+        "answer": "OREGANO",
+        "row": 0,
+        "col": 5
       },
       {
         "num": 6,
-        "clue": "Chicago W.N.B.A. team",
-        "answer": "SKY",
-        "row": 2,
-        "col": 4
+        "clue": "John who played Churchill on \"The Crown\"",
+        "answer": "LITHGOW",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Sneaky trick to \"pull",
+        "answer": "FASTONE",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 13,
+        "clue": "Doesn't just assume one has permission",
+        "answer": "ASKS",
+        "row": 3,
+        "col": 3
       }
     ]
   }
