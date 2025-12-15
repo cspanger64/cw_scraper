@@ -1,230 +1,118 @@
 {
   "size": [
-    7,
-    8
+    5,
+    5
   ],
   "grid": [
     [
-      "B",
-      "U",
-      "S",
-      null,
-      "W",
+      "V",
+      "I",
       "O",
       "L",
-      "F"
+      "A"
     ],
     [
-      "L",
-      "M",
-      "K",
-      null,
-      "A",
-      "R",
       "I",
-      "A"
+      "N",
+      "B",
+      "O",
+      "X"
+    ],
+    [
+      "B",
+      "S",
+      "I",
+      "D",
+      "E"
     ],
     [
       "E",
       "P",
-      "I",
-      null,
-      "S",
       "E",
-      "T",
-      "S"
+      "E",
+      null
     ],
     [
       "S",
-      "T",
-      "R",
-      "A",
-      "I",
-      "G",
-      "H",
-      "T"
-    ],
-    [
-      "S",
-      "E",
-      "T",
-      "S",
-      null,
-      "A",
-      "G",
-      "O"
-    ],
-    [
-      "M",
-      "E",
-      "E",
-      "K",
-      null,
-      "N",
       "O",
-      "N"
-    ],
-    [
-      "E",
-      "N",
-      "D",
       "S",
       null,
-      "O",
-      "W",
-      "E"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Field trip vehicle",
-        "answer": "BUS",
+        "clue": "Stringed instrument that becomes an exclamation if you switch its second and third letters",
+        "answer": "VIOLA",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Peter's antagonist, in a musical tale",
-        "answer": "WOLF",
-        "row": 0,
-        "col": 4
+        "num": 6,
+        "clue": "Place for unread emails",
+        "answer": "INBOX",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Back of a 45 record",
+        "answer": "BSIDE",
+        "row": 2,
+        "col": 0
       },
       {
         "num": 8,
-        "clue": "Keep me posted, in texts",
-        "answer": "LMK",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Opera solo",
-        "answer": "ARIA",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 10,
-        "clue": "___Pen (emergency device)",
-        "answer": "EPI",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "With 12-Across, gets in order",
-        "answer": "SETS",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "With 14-Across, what a tennis champ might win a match in",
-        "answer": "STRAIGHT",
+        "clue": "Olympic fencing event",
+        "answer": "EPEE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "See 12-Across",
-        "answer": "SETS",
+        "num": 9,
+        "clue": "Emergency call in Morse code",
+        "answer": "SOS",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "A long time ___ in a galaxy far, far away ...",
-        "answer": "AGO",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 16,
-        "clue": "Shy and gentle",
-        "answer": "MEEK",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "Prefix with apology or answer",
-        "answer": "NON",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 18,
-        "clue": "Comes to a close",
-        "answer": "ENDS",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 19,
-        "clue": "Have to pay",
-        "answer": "OWE",
-        "row": 6,
-        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Goodness gracious!",
-        "answer": "BLESSME",
+        "clue": "Good ___ only",
+        "answer": "VIBES",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Indefinitely many, informally",
-        "answer": "UMPTEEN",
+        "clue": "Bit of creative motivation, for short",
+        "answer": "INSPO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Avoided, as an issue",
-        "answer": "SKIRTED",
+        "clue": "Theater awards since 1956",
+        "answer": "OBIES",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Now, where ___?",
-        "answer": "WASI",
+        "clue": "Ore deposit",
+        "answer": "LODE",
         "row": 0,
-        "col": 4
+        "col": 3
       },
       {
         "num": 5,
-        "clue": "Green topping at a pizza parlor",
-        "answer": "OREGANO",
+        "clue": "Tool for a firefighter or lumberjack",
+        "answer": "AXE",
         "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "John who played Churchill on \"The Crown\"",
-        "answer": "LITHGOW",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 7,
-        "clue": "Sneaky trick to \"pull",
-        "answer": "FASTONE",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 13,
-        "clue": "Doesn't just assume one has permission",
-        "answer": "ASKS",
-        "row": 3,
-        "col": 3
+        "col": 4
       }
     ]
   }
