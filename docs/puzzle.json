@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "V",
-      "I",
+      null,
+      "S",
+      "N",
       "O",
-      "L",
-      "A"
+      "W"
     ],
     [
+      null,
+      "N",
       "I",
       "N",
-      "B",
-      "O",
-      "X"
-    ],
-    [
-      "B",
-      "S",
-      "I",
-      "D",
       "E"
     ],
     [
+      "N",
+      "O",
+      "T",
       "E",
+      "D"
+    ],
+    [
+      "B",
+      "U",
+      "R",
       "P",
-      "E",
-      "E",
       null
     ],
     [
-      "S",
+      "A",
+      "T",
       "O",
-      "S",
-      null,
+      "M",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Stringed instrument that becomes an exclamation if you switch its second and third letters",
-        "answer": "VIOLA",
+        "clue": "Cold winter blanket",
+        "answer": "SNOW",
         "row": 0,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Number of candles in a full menorah",
+        "answer": "NINE",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Place for unread emails",
-        "answer": "INBOX",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Back of a 45 record",
-        "answer": "BSIDE",
+        "clue": "Point taken",
+        "answer": "NOTED",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Olympic fencing event",
-        "answer": "EPEE",
+        "num": 7,
+        "clue": "Rude sound at the dinner table",
+        "answer": "BURP",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Emergency call in Morse code",
-        "answer": "SOS",
+        "num": 8,
+        "clue": "Kind of bomb developed by Oppenheimer",
+        "answer": "ATOM",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Good ___ only",
-        "answer": "VIBES",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Bit of creative motivation, for short",
-        "answer": "INSPO",
+        "clue": "Dog's nose and mouth",
+        "answer": "SNOUT",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Theater awards since 1956",
-        "answer": "OBIES",
+        "num": 2,
+        "clue": "___ cold brew",
+        "answer": "NITRO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Ore deposit",
-        "answer": "LODE",
+        "num": 3,
+        "clue": "An hour after noon",
+        "answer": "ONEPM",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Tool for a firefighter or lumberjack",
-        "answer": "AXE",
+        "num": 4,
+        "clue": "Get married to",
+        "answer": "WED",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Org. infiltrated by aliens in \"Space Jam\"",
+        "answer": "NBA",
+        "row": 2,
+        "col": 0
       }
     ]
   }
