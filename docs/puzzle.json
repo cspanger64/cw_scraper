@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "S",
-      "N",
+      "D",
       "O",
-      "W"
+      "Z",
+      "E",
+      null
     ],
     [
-      null,
-      "N",
-      "I",
-      "N",
+      "U",
+      "B",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "M",
+      "E",
+      "R",
+      "G",
       "E"
     ],
     [
-      "N",
-      "O",
-      "T",
-      "E",
-      "D"
-    ],
-    [
-      "B",
-      "U",
-      "R",
       "P",
-      null
+      "Y",
+      "R",
+      "E",
+      "X"
     ],
     [
-      "A",
-      "T",
+      null,
+      "S",
       "O",
-      "M",
-      null
+      "R",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Cold winter blanket",
-        "answer": "SNOW",
+        "clue": "Nod (off)",
+        "answer": "DOZE",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Number of candles in a full menorah",
-        "answer": "NINE",
+        "clue": "Naval submarine in W.W. II",
+        "answer": "UBOAT",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Point taken",
-        "answer": "NOTED",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Rude sound at the dinner table",
-        "answer": "BURP",
-        "row": 3,
+        "clue": "Tricky thing to do on a busy highway",
+        "answer": "MERGE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Kind of bomb developed by Oppenheimer",
-        "answer": "ATOM",
-        "row": 4,
+        "clue": "Heat-resistant glassware for cooking",
+        "answer": "PYREX",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Put into groups",
+        "answer": "SORT",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Dog's nose and mouth",
-        "answer": "SNOUT",
+        "clue": "Break up with",
+        "answer": "DUMP",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Falls in line, so to speak",
+        "answer": "OBEYS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "___ cold brew",
-        "answer": "NITRO",
+        "num": 3,
+        "clue": "Legendary vigilante who cuts a \"Z\" with his sword",
+        "answer": "ZORRO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "An hour after noon",
-        "answer": "ONEPM",
+        "num": 4,
+        "clue": "Rarin' to go",
+        "answer": "EAGER",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Get married to",
-        "answer": "WED",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 6,
-        "clue": "Org. infiltrated by aliens in \"Space Jam\"",
-        "answer": "NBA",
-        "row": 2,
-        "col": 0
+        "clue": "Common reminder for an upcoming appointment",
+        "answer": "TEXT",
+        "row": 1,
+        "col": 4
       }
     ]
   }
