@@ -1,118 +1,153 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "D",
-      "O",
-      "Z",
-      "E",
+      null,
+      null,
+      "P",
+      "A",
+      "S",
+      null,
       null
     ],
     [
-      "U",
+      "D",
+      "R",
+      "A",
+      "F",
+      "T",
+      "S",
+      null
+    ],
+    [
+      "A",
+      "I",
+      "S",
+      "L",
+      "O",
+      "P",
+      null
+    ],
+    [
       "B",
       "O",
+      "T",
       "A",
-      "T"
-    ],
-    [
-      "M",
-      "E",
-      "R",
-      "G",
-      "E"
-    ],
-    [
-      "P",
+      "N",
       "Y",
-      "R",
-      "E",
-      "X"
+      null
     ],
     [
       null,
-      "S",
-      "O",
-      "R",
-      "T"
+      null,
+      "A",
+      "T",
+      "E",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Nod (off)",
-        "answer": "DOZE",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Naval submarine in W.W. II",
-        "answer": "UBOAT",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Tricky thing to do on a busy highway",
-        "answer": "MERGE",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Heat-resistant glassware for cooking",
-        "answer": "PYREX",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Put into groups",
-        "answer": "SORT",
-        "row": 4,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Break up with",
-        "answer": "DUMP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Falls in line, so to speak",
-        "answer": "OBEYS",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Legendary vigilante who cuts a \"Z\" with his sword",
-        "answer": "ZORRO",
+        "clue": "Faux ___ (misstep)",
+        "answer": "PAS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Rarin' to go",
-        "answer": "EAGER",
+        "clue": "Folder for unfinished emails",
+        "answer": "DRAFTS",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Low-quality, machine-generated content, informally",
+        "answer": "AISLOP",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Field of plants",
+        "answer": "BOTANY",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Had a bite",
+        "answer": "ATE",
+        "row": 4,
+        "col": 2
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Small yellow bowties, say",
+        "answer": "PASTA",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Black piano key next to G",
+        "answer": "AFLAT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Common reminder for an upcoming appointment",
-        "answer": "TEXT",
-        "row": 1,
+        "num": 3,
+        "clue": "Piece of equipment in curling",
+        "answer": "STONE",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Faddish dance move of the mid-2010s",
+        "answer": "DAB",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "___ de Janeiro",
+        "answer": "RIO",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Costume that might include a black trench coat and sunglasses",
+        "answer": "SPY",
+        "row": 1,
+        "col": 5
       }
     ]
   }
