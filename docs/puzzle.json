@@ -1,70 +1,42 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
-      null,
-      "P",
-      "A",
-      "S",
-      null,
-      null
-    ],
-    [
-      "D",
-      "R",
-      "A",
-      "F",
-      "T",
-      "S",
-      null
-    ],
-    [
-      "A",
-      "I",
-      "S",
-      "L",
+      "G",
       "O",
-      "P",
+      "O",
       null
     ],
     [
       "B",
-      "O",
-      "T",
-      "A",
-      "N",
-      "Y",
-      null
+      "L",
+      "U",
+      "F",
+      "F"
     ],
     [
-      null,
-      null,
+      "M",
+      "O",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "W",
       "A",
       "T",
       "E",
-      null,
-      null
+      "R"
     ],
     [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
+      "T",
+      "A",
+      "N",
       null
     ]
   ],
@@ -72,82 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Faux ___ (misstep)",
-        "answer": "PAS",
+        "clue": "Melted marshmallow, e.g.",
+        "answer": "GOO",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "Folder for unfinished emails",
-        "answer": "DRAFTS",
+        "clue": "Misleading poker bet",
+        "answer": "BLUFF",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Low-quality, machine-generated content, informally",
-        "answer": "AISLOP",
+        "num": 6,
+        "clue": "New Hampshire's is \"Live Free or Die",
+        "answer": "MOTTO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Field of plants",
-        "answer": "BOTANY",
+        "num": 7,
+        "clue": "Something stored in the cloud?",
+        "answer": "WATER",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Had a bite",
-        "answer": "ATE",
+        "num": 8,
+        "clue": "Shade akin to khaki",
+        "answer": "TAN",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Small yellow bowties, say",
-        "answer": "PASTA",
+        "clue": "Exhibit poor sportsmanship, in a way",
+        "answer": "GLOAT",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Get ___ town!",
+        "answer": "OUTTA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Black piano key next to G",
-        "answer": "AFLAT",
+        "num": 3,
+        "clue": "Much of the time",
+        "answer": "OFTEN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Piece of equipment in curling",
-        "answer": "STONE",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 4,
-        "clue": "Faddish dance move of the mid-2010s",
-        "answer": "DAB",
+        "clue": "High-end German automaker",
+        "answer": "BMW",
         "row": 1,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "___ de Janeiro",
-        "answer": "RIO",
+        "clue": "The \"F\" of FWIW",
+        "answer": "FOR",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Costume that might include a black trench coat and sunglasses",
-        "answer": "SPY",
-        "row": 1,
-        "col": 5
+        "col": 4
       }
     ]
   }
