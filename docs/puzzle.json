@@ -1,42 +1,70 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
-      "G",
-      "O",
-      "O",
-      null
-    ],
-    [
-      "B",
-      "L",
+      null,
+      "T",
       "U",
       "F",
-      "F"
-    ],
-    [
-      "M",
-      "O",
       "T",
-      "T",
-      "O"
-    ],
-    [
-      "W",
-      "A",
-      "T",
-      "E",
-      "R"
+      "S"
     ],
     [
       null,
-      "T",
+      "R",
+      "U",
+      "N",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "M",
+      "A",
+      "M",
+      "D",
       "A",
       "N",
+      "I"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "O",
+      "N",
+      "Y",
+      "M"
+    ],
+    [
+      "I",
+      "G",
+      "U",
+      "E",
+      "S",
+      "S",
+      null
+    ],
+    [
+      "D",
+      "E",
+      "M",
+      "S",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
       null
     ]
   ],
@@ -44,75 +72,96 @@
     "across": [
       {
         "num": 1,
-        "clue": "Melted marshmallow, e.g.",
-        "answer": "GOO",
+        "clue": "Boston-area university with an elephant mascot",
+        "answer": "TUFTS",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "Misleading poker bet",
-        "answer": "BLUFF",
-        "row": 1,
-        "col": 0
+        "col": 2
       },
       {
         "num": 6,
-        "clue": "New Hampshire's is \"Live Free or Die",
-        "answer": "MOTTO",
+        "clue": "Be nearly out of stock",
+        "answer": "RUNLOW",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Adams' successor as New York City mayor",
+        "answer": "MAMDANI",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Something stored in the cloud?",
-        "answer": "WATER",
+        "num": 8,
+        "clue": "Wicked,\" for \"good",
+        "answer": "ANTONYM",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Shade akin to khaki",
-        "answer": "TAN",
+        "num": 9,
+        "clue": "If you say so ...",
+        "answer": "IGUESS",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Counterparts of Repubs",
+        "answer": "DEMS",
+        "row": 5,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Exhibit poor sportsmanship, in a way",
-        "answer": "GLOAT",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Get ___ town!",
-        "answer": "OUTTA",
+        "clue": "Belly, informally",
+        "answer": "TUMTUM",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Much of the time",
-        "answer": "OFTEN",
+        "num": 2,
+        "clue": "Fixes with Ctrl+Z",
+        "answer": "UNDOES",
         "row": 0,
         "col": 3
       },
       {
+        "num": 3,
+        "clue": "Custardy desserts",
+        "answer": "FLANS",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 4,
-        "clue": "High-end German automaker",
-        "answer": "BMW",
-        "row": 1,
-        "col": 0
+        "clue": "Awards for Broadway stars",
+        "answer": "TONYS",
+        "row": 0,
+        "col": 5
       },
       {
         "num": 5,
-        "clue": "The \"F\" of FWIW",
-        "answer": "FOR",
+        "clue": "Complete the first leg of a triathlon",
+        "answer": "SWIM",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "Place to hone one's golf swing",
+        "answer": "RANGE",
         "row": 1,
-        "col": 4
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Honey ___ (brand of graham crackers)",
+        "answer": "MAID",
+        "row": 2,
+        "col": 0
       }
     ]
   }
