@@ -1,167 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      null,
-      null,
       "T",
-      "U",
+      "A",
       "F",
       "T",
-      "S"
+      null
     ],
     [
-      null,
-      "R",
-      "U",
-      "N",
+      "A",
+      "L",
       "L",
       "O",
       "W"
     ],
     [
-      "M",
-      "A",
-      "M",
-      "D",
-      "A",
-      "N",
-      "I"
-    ],
-    [
-      "A",
-      "N",
-      "T",
+      "C",
+      "L",
       "O",
-      "N",
-      "Y",
-      "M"
+      "T",
+      "H"
     ],
     [
-      "I",
-      "G",
-      "U",
+      "K",
+      "O",
+      "R",
       "E",
-      "S",
-      "S",
-      null
+      "A"
     ],
     [
-      "D",
-      "E",
+      "S",
+      "T",
+      "A",
       "M",
-      "S",
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "P"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Boston-area university with an elephant mascot",
-        "answer": "TUFTS",
+        "clue": "Only U.S. president born in the month of September",
+        "answer": "TAFT",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 6,
-        "clue": "Be nearly out of stock",
-        "answer": "RUNLOW",
+        "num": 5,
+        "clue": "I'll ___ it\" (\"Fine, I guess\")",
+        "answer": "ALLOW",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Adams' successor as New York City mayor",
-        "answer": "MAMDANI",
+        "clue": "Material for a reusable diaper",
+        "answer": "CLOTH",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Wicked,\" for \"good",
-        "answer": "ANTONYM",
+        "clue": "Land of Seoul and Pyongyang",
+        "answer": "KOREA",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "If you say so ...",
-        "answer": "IGUESS",
+        "clue": "One might be \"Forever",
+        "answer": "STAMP",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Counterparts of Repubs",
-        "answer": "DEMS",
-        "row": 5,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Belly, informally",
-        "answer": "TUMTUM",
+        "clue": "Metal pins on a bulletin board",
+        "answer": "TACKS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Separate into portions",
+        "answer": "ALLOT",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Fauna's counterpart",
+        "answer": "FLORA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Fixes with Ctrl+Z",
-        "answer": "UNDOES",
+        "num": 4,
+        "clue": "___ pole (symbolic carving)",
+        "answer": "TOTEM",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Custardy desserts",
-        "answer": "FLANS",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Awards for Broadway stars",
-        "answer": "TONYS",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "Complete the first leg of a triathlon",
-        "answer": "SWIM",
-        "row": 0,
-        "col": 6
-      },
-      {
         "num": 6,
-        "clue": "Place to hone one's golf swing",
-        "answer": "RANGE",
+        "clue": "Sound from a fly swatter",
+        "answer": "WHAP",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Honey ___ (brand of graham crackers)",
-        "answer": "MAID",
-        "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }
