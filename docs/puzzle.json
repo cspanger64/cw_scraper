@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "T",
+      null,
+      "S",
       "A",
-      "F",
-      "T",
-      null
+      "L",
+      "T"
     ],
     [
-      "A",
-      "L",
-      "L",
+      null,
+      "C",
+      "R",
       "O",
       "W"
     ],
     [
-      "C",
-      "L",
-      "O",
-      "T",
-      "H"
-    ],
-    [
-      "K",
-      "O",
-      "R",
-      "E",
-      "A"
-    ],
-    [
-      "S",
-      "T",
-      "A",
+      "J",
+      "U",
       "M",
-      "P"
+      "B",
+      "O"
+    ],
+    [
+      "O",
+      "B",
+      "O",
+      "E",
+      null
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Only U.S. president born in the month of September",
-        "answer": "TAFT",
+        "clue": "S, as in shaker",
+        "answer": "SALT",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "I'll ___ it\" (\"Fine, I guess\")",
-        "answer": "ALLOW",
+        "clue": "Cawing bird",
+        "answer": "CROW",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "Material for a reusable diaper",
-        "answer": "CLOTH",
+        "num": 6,
+        "clue": "___ shrimp (oxymoron)",
+        "answer": "JUMBO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Land of Seoul and Pyongyang",
-        "answer": "KOREA",
+        "num": 7,
+        "clue": "Most common instrument in New York Times crosswords, with over 800 appearances",
+        "answer": "OBOE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "One might be \"Forever",
-        "answer": "STAMP",
+        "num": 8,
+        "clue": "Units of corn",
+        "answer": "EARS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Metal pins on a bulletin board",
-        "answer": "TACKS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Separate into portions",
-        "answer": "ALLOT",
+        "clue": "Kind of gear for diving",
+        "answer": "SCUBA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Fauna's counterpart",
-        "answer": "FLORA",
+        "num": 2,
+        "clue": "Knight's protection",
+        "answer": "ARMOR",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "___ pole (symbolic carving)",
-        "answer": "TOTEM",
+        "num": 3,
+        "clue": "Brain sections",
+        "answer": "LOBES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Sound from a fly swatter",
-        "answer": "WHAP",
-        "row": 1,
+        "num": 4,
+        "clue": "Number of teeth for Goofy",
+        "answer": "TWO",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Presidential first name of the 2020s",
+        "answer": "JOE",
+        "row": 2,
+        "col": 0
       }
     ]
   }
