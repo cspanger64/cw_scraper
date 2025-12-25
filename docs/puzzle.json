@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
+      "G",
+      "A",
+      "M",
+      "E",
+      null
+    ],
+    [
+      "I",
       "S",
       "A",
+      "A",
+      "C"
+    ],
+    [
       "L",
-      "T"
-    ],
-    [
-      null,
-      "C",
-      "R",
-      "O",
-      "W"
-    ],
-    [
-      "J",
-      "U",
-      "M",
-      "B",
+      "I",
+      "N",
+      "G",
       "O"
     ],
     [
-      "O",
-      "B",
-      "O",
+      "L",
+      "A",
+      "T",
       "E",
-      null
+      "R"
     ],
     [
-      "E",
+      "S",
+      "N",
       "A",
       "R",
-      "S",
-      null
+      "K"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "S, as in shaker",
-        "answer": "SALT",
+        "clue": "Wordle or Boggle",
+        "answer": "GAME",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Cawing bird",
-        "answer": "CROW",
+        "clue": "Big Newton",
+        "answer": "ISAAC",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "___ shrimp (oxymoron)",
-        "answer": "JUMBO",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Most common instrument in New York Times crosswords, with over 800 appearances",
-        "answer": "OBOE",
-        "row": 3,
+        "clue": "Specialized vocabulary",
+        "answer": "LINGO",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Units of corn",
-        "answer": "EARS",
+        "clue": "See you in a bit!",
+        "answer": "LATER",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Tone of many internet comments",
+        "answer": "SNARK",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Kind of gear for diving",
-        "answer": "SCUBA",
+        "clue": "Sharks use them to breathe",
+        "answer": "GILLS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "From Singapore or South Korea, say",
+        "answer": "ASIAN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Knight's protection",
-        "answer": "ARMOR",
+        "num": 3,
+        "clue": "Large ocean ray",
+        "answer": "MANTA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Brain sections",
-        "answer": "LOBES",
+        "num": 4,
+        "clue": "___ beaver",
+        "answer": "EAGER",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Number of teeth for Goofy",
-        "answer": "TWO",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 6,
-        "clue": "Presidential first name of the 2020s",
-        "answer": "JOE",
-        "row": 2,
-        "col": 0
+        "clue": "Second-largest city in the Republic of Ireland, after Dublin",
+        "answer": "CORK",
+        "row": 1,
+        "col": 4
       }
     ]
   }
