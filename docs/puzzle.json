@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "G",
+      null,
+      null,
+      "N",
       "A",
-      "M",
-      "E",
+      "T"
+    ],
+    [
+      null,
+      "T",
+      "A",
+      "T",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "N",
       null
     ],
     [
-      "I",
-      "S",
-      "A",
-      "A",
-      "C"
-    ],
-    [
-      "L",
-      "I",
-      "N",
-      "G",
-      "O"
-    ],
-    [
-      "L",
-      "A",
-      "T",
-      "E",
-      "R"
-    ],
-    [
-      "S",
       "N",
       "A",
-      "R",
-      "K"
+      "S",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Wordle or Boggle",
-        "answer": "GAME",
+        "clue": "___ King Cole, singer with the album \"The Magic of Christmas",
+        "answer": "NAT",
         "row": 0,
-        "col": 0
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Body drawings, informally",
+        "answer": "TATS",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Big Newton",
-        "answer": "ISAAC",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Specialized vocabulary",
-        "answer": "LINGO",
+        "clue": "Letters to ___ (what this Mini was made with)",
+        "answer": "SANTA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "See you in a bit!",
-        "answer": "LATER",
+        "num": 6,
+        "clue": "Huge fan, in slang",
+        "answer": "STAN",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Tone of many internet comments",
-        "answer": "SNARK",
+        "num": 7,
+        "clue": "Illmatic\" rapper",
+        "answer": "NAS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Sharks use them to breathe",
-        "answer": "GILLS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "From Singapore or South Korea, say",
-        "answer": "ASIAN",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Large ocean ray",
-        "answer": "MANTA",
+        "clue": "Grandmothers, by another name",
+        "answer": "NANAS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "___ beaver",
-        "answer": "EAGER",
+        "num": 2,
+        "clue": "Abbr. before a name on a memo",
+        "answer": "ATTN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Second-largest city in the Republic of Ireland, after Dublin",
-        "answer": "CORK",
-        "row": 1,
+        "num": 3,
+        "clue": "Org. with long lines around the holidays",
+        "answer": "TSA",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "See ya later!",
+        "answer": "TATA",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Govt.-issued ID",
+        "answer": "SSN",
+        "row": 2,
+        "col": 0
       }
     ]
   }
