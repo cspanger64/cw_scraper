@@ -1,117 +1,131 @@
 {
   "size": [
-    5,
+    6,
     5
   ],
   "grid": [
     [
-      "M",
-      "O",
+      "P",
+      "J",
       "S",
-      "S",
-      "Y"
-    ],
-    [
-      "I",
-      "D",
-      "A",
-      "H",
-      "O"
+      null,
+      null
     ],
     [
       "L",
-      "O",
-      "Y",
       "A",
-      "L"
+      "O",
+      "S",
+      null
+    ],
+    [
+      "O",
+      "M",
+      "A",
+      "N",
+      null
     ],
     [
       "D",
+      "U",
       "R",
       "A",
-      "N",
-      "K"
+      "G"
     ],
     [
       null,
-      "S",
-      "H",
+      "P",
       "E",
-      null
+      "R",
+      "U"
+    ],
+    [
+      null,
+      null,
+      "D",
+      "E",
+      "N"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Furry and green, say",
-        "answer": "MOSSY",
+        "clue": "Nighttime outfit, for short",
+        "answer": "PJS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "State known for its potatoes",
-        "answer": "IDAHO",
+        "num": 4,
+        "clue": "Country that was once known as the \"Land of a Million Elephants",
+        "answer": "LAOS",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Like a faithful friend",
-        "answer": "LOYAL",
+        "num": 6,
+        "clue": "Country led by a sultan",
+        "answer": "OMAN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Had a beverage",
-        "answer": "DRANK",
+        "num": 7,
+        "clue": "Headwear that helps promote waves",
+        "answer": "DURAG",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Pronoun frequently paired with \"her",
-        "answer": "SHE",
+        "clue": "Country that celebrates National Ceviche Day",
+        "answer": "PERU",
         "row": 4,
         "col": 1
+      },
+      {
+        "num": 10,
+        "clue": "TV room",
+        "answer": "DEN",
+        "row": 5,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Not spicy, as salsa",
-        "answer": "MILD",
+        "clue": "Walk slowly and heavily",
+        "answer": "PLOD",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Reasons for wrinkled noses",
-        "answer": "ODORS",
+        "clue": "Become stuck, as a printer",
+        "answer": "JAMUP",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Words from a doctor checking your tonsils",
-        "answer": "SAYAH",
+        "clue": "Flew across the country ... three of them, actually!",
+        "answer": "SOARED",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Comedian Gillis",
-        "answer": "SHANE",
-        "row": 0,
+        "num": 5,
+        "clue": "Drum kit component",
+        "answer": "SNARE",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Part of an egg used to make hollandaise sauce",
-        "answer": "YOLK",
-        "row": 0,
+        "num": 8,
+        "clue": "The Naked ___",
+        "answer": "GUN",
+        "row": 3,
         "col": 4
       }
     ]
