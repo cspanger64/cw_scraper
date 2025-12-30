@@ -1,131 +1,117 @@
 {
   "size": [
-    6,
+    5,
     5
   ],
   "grid": [
     [
-      "P",
-      "J",
-      "S",
-      null,
-      null
-    ],
-    [
-      "L",
-      "A",
-      "O",
-      "S",
-      null
-    ],
-    [
-      "O",
-      "M",
-      "A",
-      "N",
-      null
-    ],
-    [
-      "D",
+      "B",
       "U",
-      "R",
-      "A",
-      "G"
+      "G",
+      "S",
+      null
+    ],
+    [
+      "O",
+      "S",
+      "L",
+      "O",
+      null
+    ],
+    [
+      "W",
+      "H",
+      "I",
+      "N",
+      "Y"
     ],
     [
       null,
-      "P",
       "E",
-      "R",
-      "U"
-    ],
-    [
-      null,
-      null,
       "D",
+      "G",
+      "E"
+    ],
+    [
+      null,
+      "R",
       "E",
-      "N"
+      "S",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Nighttime outfit, for short",
-        "answer": "PJS",
+        "clue": "Bunny on the Hollywood Walk of Fame",
+        "answer": "BUGS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Country that was once known as the \"Land of a Million Elephants",
-        "answer": "LAOS",
+        "num": 5,
+        "clue": "Capital of Norway",
+        "answer": "OSLO",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Country led by a sultan",
-        "answer": "OMAN",
+        "clue": "Constantly complaining",
+        "answer": "WHINY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Headwear that helps promote waves",
-        "answer": "DURAG",
+        "num": 8,
+        "clue": "Precipice",
+        "answer": "EDGE",
         "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Country that celebrates National Ceviche Day",
-        "answer": "PERU",
-        "row": 4,
         "col": 1
       },
       {
-        "num": 10,
-        "clue": "TV room",
-        "answer": "DEN",
-        "row": 5,
-        "col": 2
+        "num": 9,
+        "clue": "Part of R&R and R.I.P.",
+        "answer": "REST",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Walk slowly and heavily",
-        "answer": "PLOD",
+        "clue": "Knot for the present",
+        "answer": "BOW",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Become stuck, as a printer",
-        "answer": "JAMUP",
+        "clue": "Love in This Club\" singer, 2008",
+        "answer": "USHER",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Flew across the country ... three of them, actually!",
-        "answer": "SOARED",
+        "clue": "Move effortlessly",
+        "answer": "GLIDE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Drum kit component",
-        "answer": "SNARE",
-        "row": 1,
+        "num": 4,
+        "clue": "Spotify Wrapped listings",
+        "answer": "SONGS",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 8,
-        "clue": "The Naked ___",
-        "answer": "GUN",
-        "row": 3,
+        "num": 7,
+        "clue": "You ain't seen nothing ___!",
+        "answer": "YET",
+        "row": 2,
         "col": 4
       }
     ]
