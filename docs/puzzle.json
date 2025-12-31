@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "B",
-      "U",
-      "G",
-      "S",
-      null
-    ],
-    [
-      "O",
-      "S",
-      "L",
-      "O",
-      null
-    ],
-    [
-      "W",
-      "H",
-      "I",
-      "N",
-      "Y"
-    ],
-    [
       null,
-      "E",
+      "L",
+      "I",
+      "C",
+      "K"
+    ],
+    [
       "D",
+      "E",
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "A",
       "G",
+      "A",
+      "M",
       "E"
     ],
     [
-      null,
-      "R",
+      "M",
+      "A",
+      "G",
+      "M",
+      "A"
+    ],
+    [
+      "P",
+      "L",
       "E",
-      "S",
-      "T"
+      "A",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Bunny on the Hollywood Walk of Fame",
-        "answer": "BUGS",
+        "clue": "Kiss\" from a canine",
+        "answer": "LICK",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Capital of Norway",
-        "answer": "OSLO",
+        "clue": "One hunted by K-pop stars, in a hit 2025 film",
+        "answer": "DEMON",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Constantly complaining",
-        "answer": "WHINY",
+        "clue": "Athlete's peak form",
+        "answer": "AGAME",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Precipice",
-        "answer": "EDGE",
+        "num": 7,
+        "clue": "Molten rock in a volcano",
+        "answer": "MAGMA",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Part of R&R and R.I.P.",
-        "answer": "REST",
+        "num": 8,
+        "clue": "Beg",
+        "answer": "PLEAD",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Knot for the present",
-        "answer": "BOW",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Love in This Club\" singer, 2008",
-        "answer": "USHER",
+        "clue": "Paper size bigger than \"letter",
+        "answer": "LEGAL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Move effortlessly",
-        "answer": "GLIDE",
+        "num": 2,
+        "clue": "JPEG or PNG",
+        "answer": "IMAGE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Spotify Wrapped listings",
-        "answer": "SONGS",
+        "num": 3,
+        "clue": "Oxford ___ (much-debated punctuation mark)",
+        "answer": "COMMA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "You ain't seen nothing ___!",
-        "answer": "YET",
-        "row": 2,
+        "num": 4,
+        "clue": "Work, as dough",
+        "answer": "KNEAD",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Neither dry nor soaked",
+        "answer": "DAMP",
+        "row": 1,
+        "col": 0
       }
     ]
   }
