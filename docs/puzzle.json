@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
+      "B",
       "L",
-      "I",
-      "C",
+      "A",
+      "N",
       "K"
     ],
     [
-      "D",
-      "E",
-      "M",
       "O",
-      "N"
-    ],
-    [
-      "A",
-      "G",
-      "A",
-      "M",
+      "U",
+      "N",
+      "C",
       "E"
     ],
     [
-      "M",
+      "U",
+      "N",
+      "T",
       "A",
-      "G",
-      "M",
-      "A"
+      "G"
     ],
     [
-      "P",
-      "L",
-      "E",
+      "N",
       "A",
-      "D"
+      "S",
+      "A",
+      null
+    ],
+    [
+      "D",
+      "R",
+      "Y",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Kiss\" from a canine",
-        "answer": "LICK",
+        "clue": "Fill in the ___",
+        "answer": "BLANK",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "One hunted by K-pop stars, in a hit 2025 film",
-        "answer": "DEMON",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Athlete's peak form",
-        "answer": "AGAME",
-        "row": 2,
+        "clue": "Large quantity at a pot dispensary",
+        "answer": "OUNCE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Molten rock in a volcano",
-        "answer": "MAGMA",
-        "row": 3,
+        "clue": "Remove one's name from, as an online photo",
+        "answer": "UNTAG",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Beg",
-        "answer": "PLEAD",
+        "clue": "Org. whose upcoming Artemis II mission will launch astronauts around the moon",
+        "answer": "NASA",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Parched",
+        "answer": "DRY",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Paper size bigger than \"letter",
-        "answer": "LEGAL",
+        "clue": "Hop like a kangaroo",
+        "answer": "BOUND",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "___ lander (moon vehicle)",
+        "answer": "LUNAR",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "JPEG or PNG",
-        "answer": "IMAGE",
+        "num": 3,
+        "clue": "Squirming in one's seat",
+        "answer": "ANTSY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Oxford ___ (much-debated punctuation mark)",
-        "answer": "COMMA",
+        "num": 4,
+        "clue": "College Football Playoff org.",
+        "answer": "NCAA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Work, as dough",
-        "answer": "KNEAD",
+        "num": 5,
+        "clue": "Beer dispenser",
+        "answer": "KEG",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Neither dry nor soaked",
-        "answer": "DAMP",
-        "row": 1,
-        "col": 0
       }
     ]
   }
