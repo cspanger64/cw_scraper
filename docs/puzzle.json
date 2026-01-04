@@ -1,41 +1,86 @@
 {
   "size": [
-    5,
-    5
+    8,
+    8
   ],
   "grid": [
     [
+      null,
       "B",
-      "L",
-      "A",
-      "N",
-      "K"
-    ],
-    [
       "O",
-      "U",
-      "N",
-      "C",
-      "E"
+      "B",
+      "A",
+      null,
+      null,
+      null
     ],
     [
-      "U",
-      "N",
-      "T",
+      "V",
       "A",
-      "G"
-    ],
-    [
       "N",
-      "A",
+      "I",
       "S",
-      "A",
+      "H",
+      null,
       null
     ],
     [
       "D",
-      "R",
+      "O",
+      "B",
+      "E",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "C",
       "Y",
+      null,
+      null,
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "D",
+      null,
+      null,
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "L",
+      "U",
+      "B",
+      "B",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      null,
+      "S",
+      "T",
+      "R",
+      "E",
+      "S",
+      "S",
+      null
+    ],
+    [
+      null,
+      "Y",
+      "O",
+      "L",
+      "K",
+      null,
       null,
       null
     ]
@@ -44,74 +89,144 @@
     "across": [
       {
         "num": 1,
-        "clue": "Fill in the ___",
-        "answer": "BLANK",
+        "clue": "Tapioca pearls",
+        "answer": "BOBA",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Large quantity at a pot dispensary",
-        "answer": "OUNCE",
+        "num": 5,
+        "clue": "Disappear into thin air",
+        "answer": "VANISH",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Remove one's name from, as an online photo",
-        "answer": "UNTAG",
+        "clue": "C'mon, we expect more from you",
+        "answer": "DOBETTER",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Org. whose upcoming Artemis II mission will launch astronauts around the moon",
-        "answer": "NASA",
+        "num": 9,
+        "clue": "Dangerous, as a winter sidewalk",
+        "answer": "ICY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Parched",
-        "answer": "DRY",
+        "num": 10,
+        "clue": "Social media ___ (what we're in now)",
+        "answer": "ERA",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "num": 11,
+        "clue": "Feeling down",
+        "answer": "SAD",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Director Howard",
+        "answer": "RON",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 13,
+        "clue": "Nightlife for which Miami is famous",
+        "answer": "CLUBBING",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Cause of early aging",
+        "answer": "STRESS",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "num": 17,
+        "clue": "The sun in \"sunnyside up",
+        "answer": "YOLK",
+        "row": 7,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Hop like a kangaroo",
-        "answer": "BOUND",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "___ lander (moon vehicle)",
-        "answer": "LUNAR",
+        "clue": "New parent's reason for canceling plans",
+        "answer": "BABYDUTY",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Squirming in one's seat",
-        "answer": "ANTSY",
+        "num": 2,
+        "clue": "4/4",
+        "answer": "ONE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "College Football Playoff org.",
-        "answer": "NCAA",
+        "num": 3,
+        "clue": "Fraction of a byte",
+        "answer": "BIT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Beer dispenser",
-        "answer": "KEG",
+        "num": 4,
+        "clue": "Symbol next to a tainted record",
+        "answer": "ASTERISK",
         "row": 0,
+        "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Singer's contribution to a song",
+        "answer": "VOCALS",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Long-necked birds",
+        "answer": "HERONS",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "___ golf",
+        "answer": "DISC",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 8,
+        "clue": "Sounded, as a doorbell",
+        "answer": "RANG",
+        "row": 2,
+        "col": 7
+      },
+      {
+        "num": 14,
+        "clue": "Dude!",
+        "answer": "BRO",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 15,
+        "clue": "___ Air (neighborhood in L.A.)",
+        "answer": "BEL",
+        "row": 5,
         "col": 4
       }
     ]
