@@ -1,232 +1,117 @@
 {
   "size": [
-    8,
-    8
+    5,
+    5
   ],
   "grid": [
     [
-      null,
-      "B",
-      "O",
       "B",
       "A",
-      null,
-      null,
-      null
-    ],
-    [
-      "V",
-      "A",
-      "N",
-      "I",
-      "S",
-      "H",
-      null,
-      null
-    ],
-    [
-      "D",
-      "O",
-      "B",
-      "E",
-      "T",
-      "T",
-      "E",
-      "R"
-    ],
-    [
-      "I",
       "C",
-      "Y",
-      null,
-      null,
-      "E",
-      "R",
-      "A"
-    ],
-    [
-      "S",
-      "A",
-      "D",
-      null,
-      null,
-      "R",
       "O",
       "N"
     ],
     [
-      "C",
-      "L",
-      "U",
-      "B",
-      "B",
-      "I",
-      "N",
-      "G"
-    ],
-    [
-      null,
-      "S",
-      "T",
-      "R",
-      "E",
-      "S",
-      "S",
-      null
-    ],
-    [
-      null,
-      "Y",
       "O",
       "L",
-      "K",
-      null,
-      null,
-      null
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "H",
+      "I",
+      "R",
+      "D"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "T",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Tapioca pearls",
-        "answer": "BOBA",
+        "clue": "Ron Swanson's \"number one favorite food,\" on Parks and Recreation",
+        "answer": "BACON",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "Disappear into thin air",
-        "answer": "VANISH",
+        "num": 6,
+        "clue": "It comes in black and green varieties, depending on ripeness",
+        "answer": "OLIVE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "C'mon, we expect more from you",
-        "answer": "DOBETTER",
+        "clue": "Paramour",
+        "answer": "LOVER",
         "row": 2,
         "col": 0
       },
       {
+        "num": 8,
+        "clue": "In bronze medal position",
+        "answer": "THIRD",
+        "row": 3,
+        "col": 0
+      },
+      {
         "num": 9,
-        "clue": "Dangerous, as a winter sidewalk",
-        "answer": "ICY",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Social media ___ (what we're in now)",
-        "answer": "ERA",
-        "row": 3,
-        "col": 5
-      },
-      {
-        "num": 11,
-        "clue": "Feeling down",
-        "answer": "SAD",
+        "clue": "Feeling resentful, in slang",
+        "answer": "SALTY",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Director Howard",
-        "answer": "RON",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 13,
-        "clue": "Nightlife for which Miami is famous",
-        "answer": "CLUBBING",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Cause of early aging",
-        "answer": "STRESS",
-        "row": 6,
-        "col": 1
-      },
-      {
-        "num": 17,
-        "clue": "The sun in \"sunnyside up",
-        "answer": "YOLK",
-        "row": 7,
-        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "New parent's reason for canceling plans",
-        "answer": "BABYDUTY",
+        "clue": "Streaks of lightning",
+        "answer": "BOLTS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Hawaiian greeting",
+        "answer": "ALOHA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "4/4",
-        "answer": "ONE",
+        "num": 3,
+        "clue": "The \"C\" of A.C.L.U.",
+        "answer": "CIVIL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Fraction of a byte",
-        "answer": "BIT",
+        "num": 4,
+        "clue": "In the open",
+        "answer": "OVERT",
         "row": 0,
         "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Symbol next to a tainted record",
-        "answer": "ASTERISK",
-        "row": 0,
-        "col": 4
       },
       {
         "num": 5,
-        "clue": "Singer's contribution to a song",
-        "answer": "VOCALS",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Long-necked birds",
-        "answer": "HERONS",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "___ golf",
-        "answer": "DISC",
-        "row": 2,
-        "col": 6
-      },
-      {
-        "num": 8,
-        "clue": "Sounded, as a doorbell",
-        "answer": "RANG",
-        "row": 2,
-        "col": 7
-      },
-      {
-        "num": 14,
-        "clue": "Dude!",
-        "answer": "BRO",
-        "row": 5,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "___ Air (neighborhood in L.A.)",
-        "answer": "BEL",
-        "row": 5,
+        "clue": "Knowledgeable, and proud of it",
+        "answer": "NERDY",
+        "row": 0,
         "col": 4
       }
     ]
