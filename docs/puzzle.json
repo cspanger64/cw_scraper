@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "B",
-      "A",
-      "C",
-      "O",
-      "N"
-    ],
-    [
-      "O",
-      "L",
-      "I",
-      "V",
-      "E"
-    ],
-    [
-      "L",
-      "O",
+      "N",
+      "E",
       "V",
       "E",
       "R"
     ],
     [
-      "T",
-      "H",
-      "I",
-      "R",
-      "D"
-    ],
-    [
-      "S",
       "A",
       "L",
+      "I",
+      "B",
+      "I"
+    ],
+    [
+      "B",
+      "I",
+      "G",
+      "I",
+      "F"
+    ],
+    [
+      null,
       "T",
-      "Y"
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      null,
+      "E",
+      "L",
+      "L",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Ron Swanson's \"number one favorite food,\" on Parks and Recreation",
-        "answer": "BACON",
+        "clue": "When pigs fly",
+        "answer": "NEVER",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "It comes in black and green varieties, depending on ripeness",
-        "answer": "OLIVE",
+        "clue": "Courtroom excuse",
+        "answer": "ALIBI",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Paramour",
-        "answer": "LOVER",
+        "clue": "That's a ___! (\"Seems unlikely!\")",
+        "answer": "BIGIF",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "In bronze medal position",
-        "answer": "THIRD",
+        "clue": "Cash register compartment",
+        "answer": "TILL",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
         "num": 9,
-        "clue": "Feeling resentful, in slang",
-        "answer": "SALTY",
+        "clue": "She, in French",
+        "answer": "ELLE",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Streaks of lightning",
-        "answer": "BOLTS",
+        "clue": "Catch, as a crook",
+        "answer": "NAB",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Hawaiian greeting",
-        "answer": "ALOHA",
+        "clue": "Designation for prolific Yelp reviewers",
+        "answer": "ELITE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "The \"C\" of A.C.L.U.",
-        "answer": "CIVIL",
+        "clue": "Candlelight ___ (solemn observance)",
+        "answer": "VIGIL",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "In the open",
-        "answer": "OVERT",
+        "clue": "Online invoice",
+        "answer": "EBILL",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Knowledgeable, and proud of it",
-        "answer": "NERDY",
+        "clue": "Piece of equipment in a Winter Olympics biathlon",
+        "answer": "RIFLE",
         "row": 0,
         "col": 4
       }
