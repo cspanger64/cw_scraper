@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
+      "G",
+      "O",
       "N",
-      "E",
-      "V",
-      "E",
-      "R"
+      "N",
+      "A"
     ],
     [
       "A",
-      "L",
+      "V",
+      "O",
       "I",
-      "B",
-      "I"
+      "D"
     ],
     [
-      "B",
-      "I",
-      "G",
-      "I",
-      "F"
-    ],
-    [
-      null,
-      "T",
-      "I",
-      "L",
-      "L"
-    ],
-    [
-      null,
+      "R",
+      "A",
+      "C",
       "E",
-      "L",
-      "L",
+      "D"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "C",
       "E"
+    ],
+    [
+      "H",
+      "Y",
+      "P",
+      "E",
+      "R"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "When pigs fly",
-        "answer": "NEVER",
+        "clue": "Planning to, informally",
+        "answer": "GONNA",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Courtroom excuse",
-        "answer": "ALIBI",
+        "clue": "___ tolls (GPS setting)",
+        "answer": "AVOID",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "That's a ___! (\"Seems unlikely!\")",
-        "answer": "BIGIF",
+        "clue": "Pulsed quickly, as the heart",
+        "answer": "RACED",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Cash register compartment",
-        "answer": "TILL",
+        "clue": "Draw an outline of",
+        "answer": "TRACE",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "She, in French",
-        "answer": "ELLE",
+        "clue": "Prefix with loop for theoretical high-speed transport",
+        "answer": "HYPER",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Catch, as a crook",
-        "answer": "NAB",
+        "clue": "Wayne's sidekick in \"Wayne's World\"",
+        "answer": "GARTH",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Designation for prolific Yelp reviewers",
-        "answer": "ELITE",
+        "clue": "Egg-producing organ",
+        "answer": "OVARY",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Candlelight ___ (solemn observance)",
-        "answer": "VIGIL",
+        "clue": "\"I'm serious!\", in slang",
+        "answer": "NOCAP",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Online invoice",
-        "answer": "EBILL",
+        "clue": "Sister's daughter",
+        "answer": "NIECE",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Piece of equipment in a Winter Olympics biathlon",
-        "answer": "RIFLE",
+        "clue": "Snake that sounds like it would be good at math?",
+        "answer": "ADDER",
         "row": 0,
         "col": 4
       }
