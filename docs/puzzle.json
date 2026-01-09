@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
+      null,
       "G",
-      "O",
-      "N",
-      "N",
-      "A"
-    ],
-    [
-      "A",
-      "V",
-      "O",
       "I",
-      "D"
-    ],
-    [
-      "R",
-      "A",
-      "C",
-      "E",
-      "D"
-    ],
-    [
-      "T",
-      "R",
-      "A",
-      "C",
+      "V",
       "E"
     ],
     [
-      "H",
-      "Y",
+      "B",
+      "R",
+      "O",
+      "O",
+      "M"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "U",
+      "M"
+    ],
+    [
+      "S",
       "P",
+      "A",
+      "C",
+      "Y"
+    ],
+    [
+      "M",
       "E",
-      "R"
+      "S",
+      "H",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Planning to, informally",
-        "answer": "GONNA",
+        "clue": "Donate",
+        "answer": "GIVE",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "___ tolls (GPS setting)",
-        "answer": "AVOID",
+        "num": 5,
+        "clue": "Piece of equipment in curling or Quidditch",
+        "answer": "BROOM",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Pulsed quickly, as the heart",
-        "answer": "RACED",
+        "num": 6,
+        "clue": "Tidbit of information",
+        "answer": "DATUM",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Draw an outline of",
-        "answer": "TRACE",
+        "num": 7,
+        "clue": "Prone to daydreaming",
+        "answer": "SPACY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Prefix with loop for theoretical high-speed transport",
-        "answer": "HYPER",
+        "num": 8,
+        "clue": "Athletic shorts fabric",
+        "answer": "MESH",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Wayne's sidekick in \"Wayne's World\"",
-        "answer": "GARTH",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Egg-producing organ",
-        "answer": "OVARY",
+        "clue": "Flavor of a purple lollipop",
+        "answer": "GRAPE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "\"I'm serious!\", in slang",
-        "answer": "NOCAP",
+        "num": 2,
+        "clue": "Greek letter I's",
+        "answer": "IOTAS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Sister's daughter",
-        "answer": "NIECE",
+        "num": 3,
+        "clue": "Go to bat (for)",
+        "answer": "VOUCH",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Snake that sounds like it would be good at math?",
-        "answer": "ADDER",
+        "num": 4,
+        "clue": "Award with Daytime and Primetime categories",
+        "answer": "EMMY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Erotic practice in \"Fifty Shades of Grey,\" for short",
+        "answer": "BDSM",
+        "row": 1,
+        "col": 0
       }
     ]
   }
