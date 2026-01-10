@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "G",
-      "I",
-      "V",
+      "Y",
+      "O",
+      "U",
+      "U",
+      "P"
+    ],
+    [
+      "A",
+      "M",
+      "P",
+      "L",
       "E"
     ],
     [
-      "B",
-      "R",
-      "O",
-      "O",
-      "M"
-    ],
-    [
-      "D",
-      "A",
+      "K",
+      "I",
       "T",
-      "U",
-      "M"
+      "T",
+      "S"
     ],
     [
       "S",
+      "T",
+      "O",
+      "R",
+      "K"
+    ],
+    [
+      null,
+      null,
       "P",
       "A",
-      "C",
       "Y"
-    ],
-    [
-      "M",
-      "E",
-      "S",
-      "H",
-      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Donate",
-        "answer": "GIVE",
+        "clue": "Question in a late-night text",
+        "answer": "YOUUP",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Piece of equipment in curling or Quidditch",
-        "answer": "BROOM",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Tidbit of information",
-        "answer": "DATUM",
-        "row": 2,
+        "clue": "Plentiful",
+        "answer": "AMPLE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Prone to daydreaming",
-        "answer": "SPACY",
-        "row": 3,
+        "clue": "Saint ___ and Nevis (Caribbean nation)",
+        "answer": "KITTS",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Athletic shorts fabric",
-        "answer": "MESH",
-        "row": 4,
+        "clue": "Baby-bringing bird",
+        "answer": "STORK",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Take care of the tab",
+        "answer": "PAY",
+        "row": 4,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Flavor of a purple lollipop",
-        "answer": "GRAPE",
+        "clue": "Himalayan herbivores",
+        "answer": "YAKS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Fail to include",
+        "answer": "OMIT",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Greek letter I's",
-        "answer": "IOTAS",
+        "num": 3,
+        "clue": "High five!",
+        "answer": "UPTOP",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Go to bat (for)",
-        "answer": "VOUCH",
+        "num": 4,
+        "clue": "The \"U\" of UV rays",
+        "answer": "ULTRA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Award with Daytime and Primetime categories",
-        "answer": "EMMY",
+        "num": 5,
+        "clue": "Annoying to deal with",
+        "answer": "PESKY",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Erotic practice in \"Fifty Shades of Grey,\" for short",
-        "answer": "BDSM",
-        "row": 1,
-        "col": 0
       }
     ]
   }
