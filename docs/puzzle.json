@@ -1,117 +1,198 @@
 {
   "size": [
-    5,
-    5
+    6,
+    8
   ],
   "grid": [
     [
-      "Y",
-      "O",
-      "U",
-      "U",
-      "P"
+      "A",
+      "C",
+      "T",
+      "S",
+      null,
+      "B",
+      "I",
+      "G"
     ],
     [
+      "T",
+      "H",
       "A",
-      "M",
-      "P",
-      "L",
+      "I",
+      null,
+      "O",
+      "N",
       "E"
     ],
     [
-      "K",
+      "R",
       "I",
-      "T",
-      "T",
-      "S"
+      "C",
+      "K",
+      "R",
+      "O",
+      "L",
+      "L"
     ],
     [
-      "S",
+      "A",
+      "T",
+      "T",
+      "H",
+      "E",
       "T",
       "O",
-      "R",
-      "K"
+      "P"
     ],
     [
+      "I",
+      "T",
+      "I",
       null,
+      "F",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "N",
+      "Y",
+      "C",
       null,
-      "P",
-      "A",
-      "Y"
+      "S",
+      "E",
+      "E",
+      "N"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Question in a late-night text",
-        "answer": "YOUUP",
+        "clue": "Pieces of legislation",
+        "answer": "ACTS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Plentiful",
-        "answer": "AMPLE",
+        "num": 5,
+        "clue": "Like blue whales and the Burj Khalifa",
+        "answer": "BIG",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 8,
+        "clue": "Cuisine with tom yum soup",
+        "answer": "THAI",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Saint ___ and Nevis (Caribbean nation)",
-        "answer": "KITTS",
+        "num": 9,
+        "clue": "This clue number ÷ 9",
+        "answer": "ONE",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 10,
+        "clue": "Classic internet prank",
+        "answer": "RICKROLL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Baby-bringing bird",
-        "answer": "STORK",
+        "num": 12,
+        "clue": "Ranked above all others",
+        "answer": "ATTHETOP",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Take care of the tab",
-        "answer": "PAY",
+        "num": 13,
+        "clue": "What was ___ was saying?",
+        "answer": "ITI",
         "row": 4,
-        "col": 2
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "This clue number – 9",
+        "answer": "FIVE",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "Home of MoMA",
+        "answer": "NYC",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Read receipt below an Instagram message",
+        "answer": "SEEN",
+        "row": 5,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Himalayan herbivores",
-        "answer": "YAKS",
+        "clue": "Alphabetically first subway line in 15-Across",
+        "answer": "ATRAIN",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Fail to include",
-        "answer": "OMIT",
+        "clue": "Either blank of \"___ ___ Bang Bang",
+        "answer": "CHITTY",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "High five!",
-        "answer": "UPTOP",
+        "clue": "Bit of strategy",
+        "answer": "TACTIC",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "The \"U\" of UV rays",
-        "answer": "ULTRA",
+        "clue": "Religious wearer of a turban known as a dastar",
+        "answer": "SIKH",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Annoying to deal with",
-        "answer": "PESKY",
+        "clue": "Baby's knitted shoe",
+        "answer": "BOOTIE",
         "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Smitten",
+        "answer": "INLOVE",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Writer's alternative to a ballpoint",
+        "answer": "GELPEN",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 11,
+        "clue": "Often-heckled sports figures",
+        "answer": "REFS",
+        "row": 2,
         "col": 4
       }
     ]
