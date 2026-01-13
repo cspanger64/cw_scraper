@@ -1,198 +1,117 @@
 {
   "size": [
-    6,
-    8
+    5,
+    5
   ],
   "grid": [
     [
       "A",
       "C",
-      "T",
-      "S",
-      null,
+      "R",
+      "E",
+      null
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "H",
+      "U",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "D",
+      "E",
       "B",
       "I",
-      "G"
+      "T"
     ],
     [
-      "T",
-      "H",
-      "A",
-      "I",
       null,
-      "O",
-      "N",
-      "E"
-    ],
-    [
-      "R",
-      "I",
-      "C",
-      "K",
-      "R",
+      "L",
       "O",
       "L",
-      "L"
-    ],
-    [
-      "A",
-      "T",
-      "T",
-      "H",
-      "E",
-      "T",
-      "O",
-      "P"
-    ],
-    [
-      "I",
-      "T",
-      "I",
-      null,
-      "F",
-      "I",
-      "V",
-      "E"
-    ],
-    [
-      "N",
-      "Y",
-      "C",
-      null,
-      "S",
-      "E",
-      "E",
-      "N"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Pieces of legislation",
-        "answer": "ACTS",
+        "clue": "Unit of farmland",
+        "answer": "ACRE",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Like blue whales and the Burj Khalifa",
-        "answer": "BIG",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 8,
-        "clue": "Cuisine with tom yum soup",
-        "answer": "THAI",
+        "clue": "Counterpart of \"Musical or Comedy\" at the Golden Globes",
+        "answer": "DRAMA",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "This clue number ÷ 9",
-        "answer": "ONE",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 10,
-        "clue": "Classic internet prank",
-        "answer": "RICKROLL",
+        "num": 7,
+        "clue": "Kind of \"touch\" that A.I. lacks",
+        "answer": "HUMAN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Ranked above all others",
-        "answer": "ATTHETOP",
+        "num": 8,
+        "clue": "Alternative to credit",
+        "answer": "DEBIT",
         "row": 3,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "What was ___ was saying?",
-        "answer": "ITI",
+        "num": 9,
+        "clue": "OMG, that's hilarious",
+        "answer": "LOL",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "This clue number – 9",
-        "answer": "FIVE",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 15,
-        "clue": "Home of MoMA",
-        "answer": "NYC",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Read receipt below an Instagram message",
-        "answer": "SEEN",
-        "row": 5,
-        "col": 4
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Alphabetically first subway line in 15-Across",
-        "answer": "ATRAIN",
+        "clue": "Condition that affects concentration, for short",
+        "answer": "ADHD",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Either blank of \"___ ___ Bang Bang",
-        "answer": "CHITTY",
+        "clue": "Willfully causing pain",
+        "answer": "CRUEL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Bit of strategy",
-        "answer": "TACTIC",
+        "clue": "Five-time role for Sylvester Stallone",
+        "answer": "RAMBO",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Religious wearer of a turban known as a dastar",
-        "answer": "SIKH",
+        "clue": "One might have a scheduled send time",
+        "answer": "EMAIL",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Baby's knitted shoe",
-        "answer": "BOOTIE",
-        "row": 0,
-        "col": 5
-      },
-      {
         "num": 6,
-        "clue": "Smitten",
-        "answer": "INLOVE",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 7,
-        "clue": "Writer's alternative to a ballpoint",
-        "answer": "GELPEN",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 11,
-        "clue": "Often-heckled sports figures",
-        "answer": "REFS",
-        "row": 2,
+        "clue": "Aardvark's prey",
+        "answer": "ANT",
+        "row": 1,
         "col": 4
       }
     ]
