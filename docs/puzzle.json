@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "A",
-      "C",
-      "R",
-      "E",
-      null
-    ],
-    [
-      "D",
-      "R",
-      "A",
-      "M",
-      "A"
-    ],
-    [
+      "G",
       "H",
-      "U",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "D",
-      "E",
-      "B",
-      "I",
+      "O",
+      "S",
       "T"
     ],
     [
-      null,
-      "L",
+      "R",
+      "A",
+      "Z",
       "O",
-      "L",
+      "R"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "E",
+      "Y"
+    ],
+    [
+      "P",
+      "I",
+      "E",
+      null,
       null
     ]
   ],
@@ -44,74 +44,74 @@
     "across": [
       {
         "num": 1,
-        "clue": "Unit of farmland",
-        "answer": "ACRE",
+        "clue": "Abruptly stop texting",
+        "answer": "GHOST",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Counterpart of \"Musical or Comedy\" at the Golden Globes",
-        "answer": "DRAMA",
+        "num": 6,
+        "clue": "Shaving kit item",
+        "answer": "RAZOR",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Kind of \"touch\" that A.I. lacks",
-        "answer": "HUMAN",
+        "clue": "2024 film role for which Mikey Madison won Best Actress",
+        "answer": "ANORA",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Alternative to credit",
-        "answer": "DEBIT",
+        "clue": "The ancient Chinese used compressed blocks of tea leaves as this",
+        "answer": "MONEY",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "OMG, that's hilarious",
-        "answer": "LOL",
+        "clue": "Shape of a round chart",
+        "answer": "PIE",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Condition that affects concentration, for short",
-        "answer": "ADHD",
+        "clue": "Dad's dad, informally",
+        "answer": "GRAMP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Willfully causing pain",
-        "answer": "CRUEL",
+        "clue": "Capital of Vietnam",
+        "answer": "HANOI",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Five-time role for Sylvester Stallone",
-        "answer": "RAMBO",
+        "clue": "___ layer, part of Earth's atmosphere",
+        "answer": "OZONE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "One might have a scheduled send time",
-        "answer": "EMAIL",
+        "clue": "How you might wake up after sleeping funny",
+        "answer": "SORE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Aardvark's prey",
-        "answer": "ANT",
-        "row": 1,
+        "num": 5,
+        "clue": "Cafeteria food carrier",
+        "answer": "TRAY",
+        "row": 0,
         "col": 4
       }
     ]
