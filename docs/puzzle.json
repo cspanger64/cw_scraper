@@ -5,37 +5,37 @@
   ],
   "grid": [
     [
+      null,
+      null,
+      "H",
+      "B",
+      "O"
+    ],
+    [
+      null,
+      "P",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "F",
+      "L",
+      "O",
+      "O",
+      "D"
+    ],
+    [
+      "L",
+      "U",
+      "C",
+      "K",
+      null
+    ],
+    [
+      "U",
       "G",
       "H",
-      "O",
-      "S",
-      "T"
-    ],
-    [
-      "R",
-      "A",
-      "Z",
-      "O",
-      "R"
-    ],
-    [
-      "A",
-      "N",
-      "O",
-      "R",
-      "A"
-    ],
-    [
-      "M",
-      "O",
-      "N",
-      "E",
-      "Y"
-    ],
-    [
-      "P",
-      "I",
-      "E",
       null,
       null
     ]
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Abruptly stop texting",
-        "answer": "GHOST",
+        "clue": "___ Max",
+        "answer": "HBO",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 6,
-        "clue": "Shaving kit item",
-        "answer": "RAZOR",
+        "num": 4,
+        "clue": "Where Marco Polo is played",
+        "answer": "POOL",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "2024 film role for which Mikey Madison won Best Actress",
-        "answer": "ANORA",
+        "num": 5,
+        "clue": "Overwhelming amount, metaphorically",
+        "answer": "FLOOD",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "The ancient Chinese used compressed blocks of tea leaves as this",
-        "answer": "MONEY",
+        "num": 6,
+        "clue": "Reason for success in games like Candy Land and Chutes and Ladders",
+        "answer": "LUCK",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Shape of a round chart",
-        "answer": "PIE",
+        "num": 7,
+        "clue": "That's just the worst",
+        "answer": "UGH",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Dad's dad, informally",
-        "answer": "GRAMP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Capital of Vietnam",
-        "answer": "HANOI",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "___ layer, part of Earth's atmosphere",
-        "answer": "OZONE",
+        "clue": "Liquor, informally",
+        "answer": "HOOCH",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "How you might wake up after sleeping funny",
-        "answer": "SORE",
+        "num": 2,
+        "clue": "Winner of a Booker prize, fittingly",
+        "answer": "BOOK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Cafeteria food carrier",
-        "answer": "TRAY",
+        "num": 3,
+        "clue": "Antiquated",
+        "answer": "OLD",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Give a short promotion for",
+        "answer": "PLUG",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Winter malady",
+        "answer": "FLU",
+        "row": 2,
+        "col": 0
       }
     ]
   }
