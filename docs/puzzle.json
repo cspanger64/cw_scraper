@@ -7,73 +7,73 @@
     [
       null,
       null,
-      "H",
-      "B",
-      "O"
-    ],
-    [
-      null,
-      "P",
-      "O",
-      "O",
-      "L"
-    ],
-    [
-      "F",
-      "L",
-      "O",
-      "O",
-      "D"
-    ],
-    [
-      "L",
-      "U",
       "C",
-      "K",
-      null
+      "U",
+      "Z"
     ],
     [
-      "U",
-      "G",
-      "H",
       null,
-      null
+      "L",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "N",
+      "D",
+      "B"
+    ],
+    [
+      "A",
+      "V",
+      "O",
+      "I",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "D",
+      "A"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ Max",
-        "answer": "HBO",
+        "clue": "I said so, that's why!",
+        "answer": "CUZ",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Where Marco Polo is played",
-        "answer": "POOL",
+        "clue": "Highway division",
+        "answer": "LANE",
         "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Overwhelming amount, metaphorically",
-        "answer": "FLOOD",
+        "clue": "Genre for Olivia Dean and Daniel Caesar",
+        "answer": "RANDB",
         "row": 2,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Reason for success in games like Candy Land and Chutes and Ladders",
-        "answer": "LUCK",
+        "clue": "French \"to have",
+        "answer": "AVOIR",
         "row": 3,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "That's just the worst",
-        "answer": "UGH",
+        "clue": "Animal that would blend in well with a crossword grid",
+        "answer": "PANDA",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Liquor, informally",
-        "answer": "HOOCH",
+        "clue": "Officially accepted storylines",
+        "answer": "CANON",
         "row": 0,
         "col": 2
       },
       {
         "num": 2,
-        "clue": "Winner of a Booker prize, fittingly",
-        "answer": "BOOK",
+        "clue": "Reversed",
+        "answer": "UNDID",
         "row": 0,
         "col": 3
       },
       {
         "num": 3,
-        "clue": "Antiquated",
-        "answer": "OLD",
+        "clue": "Animal that would blend in well with a crossword grid",
+        "answer": "ZEBRA",
         "row": 0,
         "col": 4
       },
       {
         "num": 4,
-        "clue": "Give a short promotion for",
-        "answer": "PLUG",
+        "clue": "Molten flow",
+        "answer": "LAVA",
         "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Winter malady",
-        "answer": "FLU",
+        "clue": "Flow over a beat",
+        "answer": "RAP",
         "row": 2,
         "col": 0
       }
