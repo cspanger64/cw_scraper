@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      null,
       "C",
-      "U",
-      "Z"
-    ],
-    [
-      null,
       "L",
       "A",
-      "N",
-      "E"
-    ],
-    [
-      "R",
-      "A",
-      "N",
-      "D",
-      "B"
-    ],
-    [
-      "A",
-      "V",
-      "O",
-      "I",
-      "R"
+      "W"
     ],
     [
       "P",
+      "E",
       "A",
-      "N",
-      "D",
+      "C",
+      "H"
+    ],
+    [
+      "U",
+      "L",
+      "T",
+      "R",
       "A"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "E",
+      "T"
+    ],
+    [
+      "F",
+      "O",
+      "X",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "I said so, that's why!",
-        "answer": "CUZ",
+        "clue": "Crab's grabber",
+        "answer": "CLAW",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Highway division",
-        "answer": "LANE",
-        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Genre for Olivia Dean and Daniel Caesar",
-        "answer": "RANDB",
-        "row": 2,
+        "clue": "Giant\" fruit in a Roald Dahl novel",
+        "answer": "PEACH",
+        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "French \"to have",
-        "answer": "AVOIR",
-        "row": 3,
+        "clue": "Prefix similar to mega-",
+        "answer": "ULTRA",
+        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Animal that would blend in well with a crossword grid",
-        "answer": "PANDA",
+        "clue": "Fast and nimble",
+        "answer": "FLEET",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Fantastic\" animal in a Roald Dahl novel",
+        "answer": "FOX",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Officially accepted storylines",
-        "answer": "CANON",
+        "clue": "Large stringed instrument",
+        "answer": "CELLO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Balloon material",
+        "answer": "LATEX",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Reversed",
-        "answer": "UNDID",
+        "num": 3,
+        "clue": "1/640th of a square mile",
+        "answer": "ACRE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Animal that would blend in well with a crossword grid",
-        "answer": "ZEBRA",
+        "num": 4,
+        "clue": "Just ___ the doctor ordered",
+        "answer": "WHAT",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Molten flow",
-        "answer": "LAVA",
-        "row": 1,
-        "col": 1
-      },
-      {
         "num": 5,
-        "clue": "Flow over a beat",
-        "answer": "RAP",
-        "row": 2,
+        "clue": "Small bit of wind",
+        "answer": "PUFF",
+        "row": 1,
         "col": 0
       }
     ]
