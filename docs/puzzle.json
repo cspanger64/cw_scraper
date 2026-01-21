@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "C",
+      "K",
+      "B",
+      "B",
+      "Q",
+      null
+    ],
+    [
+      "A",
       "L",
-      "A",
-      "W"
-    ],
-    [
-      "P",
-      "E",
-      "A",
-      "C",
-      "H"
-    ],
-    [
+      "O",
       "U",
-      "L",
-      "T",
-      "R",
+      "D"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "I",
       "A"
     ],
     [
-      "F",
-      "L",
+      "A",
+      "N",
+      "G",
       "E",
-      "E",
-      "T"
+      "L"
     ],
     [
-      "F",
-      "O",
-      "X",
       null,
-      null
+      "C",
+      "O",
+      "T",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Crab's grabber",
-        "answer": "CLAW",
+        "clue": "Style of cuisine with bulgogi beef, for short",
+        "answer": "KBBQ",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Giant\" fruit in a Roald Dahl novel",
-        "answer": "PEACH",
+        "clue": "How bedtime stories are read",
+        "answer": "ALOUD",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Prefix similar to mega-",
-        "answer": "ULTRA",
+        "num": 7,
+        "clue": "Huge craze",
+        "answer": "MANIA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Fast and nimble",
-        "answer": "FLEET",
+        "num": 8,
+        "clue": "Figure painted by Michelangelo, which can be found hidden in the name \"Michelangelo",
+        "answer": "ANGEL",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Fantastic\" animal in a Roald Dahl novel",
-        "answer": "FOX",
+        "num": 9,
+        "clue": "Home for doves or pigeons",
+        "answer": "COTE",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Large stringed instrument",
-        "answer": "CELLO",
+        "clue": "___ Sutra",
+        "answer": "KAMA",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Sauvignon ___ (wine variety)",
+        "answer": "BLANC",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Balloon material",
-        "answer": "LATEX",
+        "num": 3,
+        "clue": "Large drum played by hand",
+        "answer": "BONGO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "1/640th of a square mile",
-        "answer": "ACRE",
+        "num": 4,
+        "clue": "Pipe down!",
+        "answer": "QUIET",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Just ___ the doctor ordered",
-        "answer": "WHAT",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Small bit of wind",
-        "answer": "PUFF",
+        "num": 6,
+        "clue": "Chip's chipmunk pal",
+        "answer": "DALE",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
