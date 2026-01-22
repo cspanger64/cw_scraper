@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "K",
+      "A",
       "B",
-      "B",
-      "Q",
+      "I",
+      "T",
       null
     ],
     [
+      "R",
       "A",
-      "L",
-      "O",
-      "U",
-      "D"
-    ],
-    [
-      "M",
-      "A",
-      "N",
-      "I",
-      "A"
-    ],
-    [
-      "A",
-      "N",
       "G",
       "E",
-      "L"
+      null
+    ],
+    [
+      "F",
+      "I",
+      "L",
+      "T",
+      "H"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "R",
+      "E"
     ],
     [
       null,
-      "C",
+      null,
       "O",
-      "T",
-      "E"
+      "A",
+      "R"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Style of cuisine with bulgogi beef, for short",
-        "answer": "KBBQ",
+        "clue": "The slightest amount",
+        "answer": "ABIT",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "How bedtime stories are read",
-        "answer": "ALOUD",
+        "clue": "With 2-Down, intentionally inflammatory posts",
+        "answer": "RAGE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Huge craze",
-        "answer": "MANIA",
+        "num": 6,
+        "clue": "Dirty stuff",
+        "answer": "FILTH",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Figure painted by Michelangelo, which can be found hidden in the name \"Michelangelo",
-        "answer": "ANGEL",
+        "clue": "Five Below or 7-Eleven",
+        "answer": "STORE",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Home for doves or pigeons",
-        "answer": "COTE",
+        "clue": "Something used to steer a rowboat",
+        "answer": "OAR",
         "row": 4,
-        "col": 1
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "___ Sutra",
-        "answer": "KAMA",
+        "clue": "Sounds from a doggy daycare",
+        "answer": "ARFS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Sauvignon ___ (wine variety)",
-        "answer": "BLANC",
+        "clue": "See 5-Across",
+        "answer": "BAIT",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Large drum played by hand",
-        "answer": "BONGO",
+        "clue": "Domed home",
+        "answer": "IGLOO",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Pipe down!",
-        "answer": "QUIET",
+        "clue": "Small, colorful fish that's popular in aquariums",
+        "answer": "TETRA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Chip's chipmunk pal",
-        "answer": "DALE",
-        "row": 1,
+        "num": 7,
+        "clue": "2013 film in which Joaquin Phoenix's character falls in love with an A.I. operating system",
+        "answer": "HER",
+        "row": 2,
         "col": 4
       }
     ]
