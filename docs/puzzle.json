@@ -1,118 +1,135 @@
 {
   "size": [
     5,
-    5
+    7
   ],
   "grid": [
     [
-      "A",
-      "B",
-      "I",
-      "T",
+      null,
+      "C",
+      "H",
+      "O",
+      "W",
+      null,
       null
     ],
     [
-      "R",
-      "A",
-      "G",
+      "C",
+      "H",
       "E",
+      "R",
+      "R",
+      "Y",
       null
     ],
     [
-      "F",
+      "G",
+      "A",
+      "R",
+      "C",
       "I",
-      "L",
-      "T",
-      "H"
+      "A",
+      null
     ],
     [
+      "I",
+      "M",
+      "E",
+      "A",
+      "S",
+      "Y",
+      null
+    ],
+    [
+      null,
+      "P",
+      "S",
       "S",
       "T",
-      "O",
-      "R",
-      "E"
-    ],
-    [
       null,
-      null,
-      "O",
-      "A",
-      "R"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "The slightest amount",
-        "answer": "ABIT",
+        "clue": "When doubled, a breed of dog",
+        "answer": "CHOW",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "With 2-Down, intentionally inflammatory posts",
-        "answer": "RAGE",
+        "clue": "With 7-Across, Ben & Jerry's flavor named for a rock legend",
+        "answer": "CHERRY",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Dirty stuff",
-        "answer": "FILTH",
+        "num": 7,
+        "clue": "See 5-Across",
+        "answer": "GARCIA",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Five Below or 7-Eleven",
-        "answer": "STORE",
+        "clue": "Whatever you decide is good with me",
+        "answer": "IMEASY",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Something used to steer a rowboat",
-        "answer": "OAR",
+        "clue": "Whispered sound from a test cheater",
+        "answer": "PSST",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Sounds from a doggy daycare",
-        "answer": "ARFS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "See 5-Across",
-        "answer": "BAIT",
+        "clue": "Tournament victor",
+        "answer": "CHAMP",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Domed home",
-        "answer": "IGLOO",
+        "num": 2,
+        "clue": "___ the scoop ...",
+        "answer": "HERES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Small, colorful fish that's popular in aquariums",
-        "answer": "TETRA",
+        "num": 3,
+        "clue": "Killer whales",
+        "answer": "ORCAS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "2013 film in which Joaquin Phoenix's character falls in love with an A.I. operating system",
-        "answer": "HER",
-        "row": 2,
+        "num": 4,
+        "clue": "Place for a bracelet",
+        "answer": "WRIST",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Tech used for many of the ping-pong scenes in \"Marty Supreme",
+        "answer": "CGI",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Woo-hoo!",
+        "answer": "YAY",
+        "row": 1,
+        "col": 5
       }
     ]
   }
