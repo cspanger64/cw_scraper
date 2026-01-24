@@ -1,135 +1,118 @@
 {
   "size": [
     5,
-    7
+    5
   ],
   "grid": [
     [
-      null,
-      "C",
-      "H",
-      "O",
-      "W",
-      null,
-      null
-    ],
-    [
-      "C",
-      "H",
-      "E",
-      "R",
-      "R",
-      "Y",
-      null
-    ],
-    [
       "G",
-      "A",
       "R",
-      "C",
-      "I",
       "A",
-      null
+      "F",
+      "T"
     ],
     [
-      "I",
-      "M",
+      "R",
       "E",
-      "A",
-      "S",
-      "Y",
-      null
+      "P",
+      "L",
+      "Y"
     ],
     [
-      null,
+      "A",
+      "M",
       "P",
-      "S",
-      "S",
+      "U",
+      "P"
+    ],
+    [
+      "N",
+      "O",
+      "L",
       "T",
-      null,
-      null
+      "E"
+    ],
+    [
+      "D",
+      "W",
+      "E",
+      "E",
+      "B"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "When doubled, a breed of dog",
-        "answer": "CHOW",
+        "clue": "Attach, as one plant to another",
+        "answer": "GRAFT",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "With 7-Across, Ben & Jerry's flavor named for a rock legend",
-        "answer": "CHERRY",
+        "num": 6,
+        "clue": "Email button with a backward-facing arrow",
+        "answer": "REPLY",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "See 5-Across",
-        "answer": "GARCIA",
+        "clue": "Make very excited",
+        "answer": "AMPUP",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Whatever you decide is good with me",
-        "answer": "IMEASY",
+        "clue": "Two-time Best Actor nominee Nick",
+        "answer": "NOLTE",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Whispered sound from a test cheater",
-        "answer": "PSST",
+        "clue": "Total dork",
+        "answer": "DWEEB",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Tournament victor",
-        "answer": "CHAMP",
+        "clue": "Word that can precede piano, total or staircase",
+        "answer": "GRAND",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Cut again, as a lawn",
+        "answer": "REMOW",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "___ the scoop ...",
-        "answer": "HERES",
+        "num": 3,
+        "clue": "Company whose logo has a bite taken out of it",
+        "answer": "APPLE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Killer whales",
-        "answer": "ORCAS",
+        "num": 4,
+        "clue": "Champagne glass",
+        "answer": "FLUTE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Place for a bracelet",
-        "answer": "WRIST",
+        "num": 5,
+        "clue": "Laid-back kind of personality",
+        "answer": "TYPEB",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Tech used for many of the ping-pong scenes in \"Marty Supreme",
-        "answer": "CGI",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Woo-hoo!",
-        "answer": "YAY",
-        "row": 1,
-        "col": 5
       }
     ]
   }
