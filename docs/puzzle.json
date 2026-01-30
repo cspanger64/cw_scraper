@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "G",
-      "R",
+      "S",
+      "T",
       "A",
       "F",
-      "T"
+      "F"
     ],
     [
-      "R",
-      "E",
-      "P",
       "L",
-      "Y"
-    ],
-    [
       "A",
-      "M",
-      "P",
-      "U",
-      "P"
+      "T",
+      "E",
+      "R"
     ],
     [
-      "N",
+      "E",
+      "R",
       "O",
-      "L",
-      "T",
+      "D",
       "E"
     ],
     [
       "D",
-      "W",
+      "O",
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "S",
+      "T",
       "E",
-      "E",
-      "B"
+      "P",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Attach, as one plant to another",
-        "answer": "GRAFT",
+        "clue": "Employees, collectively",
+        "answer": "STAFF",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Email button with a backward-facing arrow",
-        "answer": "REPLY",
+        "clue": "The \"L\" of TTYL",
+        "answer": "LATER",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Make very excited",
-        "answer": "AMPUP",
+        "clue": "Slowly lessen, as political support",
+        "answer": "ERODE",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Two-time Best Actor nominee Nick",
-        "answer": "NOLTE",
+        "clue": "Dunkin' offering",
+        "answer": "DONUT",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Total dork",
-        "answer": "DWEEB",
+        "clue": "Tricky things to navigate with a stroller",
+        "answer": "STEPS",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Word that can precede piano, total or staircase",
-        "answer": "GRAND",
+        "clue": "Toys that go on the decline in winter?",
+        "answer": "SLEDS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Cut again, as a lawn",
-        "answer": "REMOW",
+        "clue": "Set of fortunetelling cards",
+        "answer": "TAROT",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Company whose logo has a bite taken out of it",
-        "answer": "APPLE",
+        "clue": "Make amends",
+        "answer": "ATONE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Champagne glass",
-        "answer": "FLUTE",
+        "clue": "Out of patience",
+        "answer": "FEDUP",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Laid-back kind of personality",
-        "answer": "TYPEB",
+        "clue": "Guitar bars",
+        "answer": "FRETS",
         "row": 0,
         "col": 4
       }
