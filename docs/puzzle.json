@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "S",
-      "T",
-      "A",
-      "F",
-      "F"
+      null,
+      "B",
+      "B",
+      "C",
+      null
     ],
     [
+      "D",
+      "E",
       "L",
       "A",
-      "T",
-      "E",
-      "R"
+      "Y"
     ],
     [
-      "E",
+      "S",
+      "N",
+      "A",
       "R",
-      "O",
-      "D",
       "E"
     ],
     [
+      "A",
+      "I",
       "D",
-      "O",
-      "N",
-      "U",
-      "T"
+      "E",
+      "S"
     ],
     [
-      "S",
-      "T",
+      null,
+      "N",
       "E",
-      "P",
-      "S"
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Employees, collectively",
-        "answer": "STAFF",
+        "clue": "Top Gear\" channel",
+        "answer": "BBC",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "The \"L\" of TTYL",
-        "answer": "LATER",
+        "num": 4,
+        "clue": "Announcement that causes groans among travelers",
+        "answer": "DELAY",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Slowly lessen, as political support",
-        "answer": "ERODE",
+        "num": 6,
+        "clue": "Middle of a drum kit, typically",
+        "answer": "SNARE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Dunkin' offering",
-        "answer": "DONUT",
+        "num": 7,
+        "clue": "Political staffers",
+        "answer": "AIDES",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Tricky things to navigate with a stroller",
-        "answer": "STEPS",
+        "num": 8,
+        "clue": "Bottom line figure",
+        "answer": "NET",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Toys that go on the decline in winter?",
-        "answer": "SLEDS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Set of fortunetelling cards",
-        "answer": "TAROT",
+        "clue": "French-speaking nation in West Africa",
+        "answer": "BENIN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Make amends",
-        "answer": "ATONE",
+        "num": 2,
+        "clue": "Sharp part of a sword",
+        "answer": "BLADE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Out of patience",
-        "answer": "FEDUP",
+        "num": 3,
+        "clue": "This text mark: ^",
+        "answer": "CARET",
         "row": 0,
         "col": 3
       },
       {
+        "num": 4,
+        "clue": "Left -leaning political org.",
+        "answer": "DSA",
+        "row": 1,
+        "col": 0
+      },
+      {
         "num": 5,
-        "clue": "Guitar bars",
-        "answer": "FRETS",
-        "row": 0,
+        "clue": "Right you are!",
+        "answer": "YES",
+        "row": 1,
         "col": 4
       }
     ]
