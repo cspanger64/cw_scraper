@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      null,
-      "B",
-      "B",
-      "C",
-      null
-    ],
-    [
-      "D",
-      "E",
-      "L",
-      "A",
-      "Y"
-    ],
-    [
+      "M",
       "S",
       "N",
-      "A",
-      "R",
-      "E"
+      "O",
+      "W"
     ],
     [
-      "A",
-      "I",
-      "D",
+      "Y",
+      "O",
+      "U",
+      "T",
+      "H"
+    ],
+    [
+      "T",
+      "H",
       "E",
-      "S"
+      "T",
+      "A"
+    ],
+    [
+      "H",
+      "O",
+      "V",
+      "E",
+      "R"
     ],
     [
       null,
-      "N",
-      "E",
-      "T",
-      null
+      null,
+      "A",
+      "R",
+      "F"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Top Gear\" channel",
-        "answer": "BBC",
+        "clue": "The Rachel Maddow Show\" channel, after a 2025 rebranding",
+        "answer": "MSNOW",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "Announcement that causes groans among travelers",
-        "answer": "DELAY",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Middle of a drum kit, typically",
-        "answer": "SNARE",
-        "row": 2,
+        "clue": "Childhood",
+        "answer": "YOUTH",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Political staffers",
-        "answer": "AIDES",
-        "row": 3,
+        "clue": "Greek letter after zeta and eta",
+        "answer": "THETA",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Bottom line figure",
-        "answer": "NET",
+        "clue": "What helicopter parents do",
+        "answer": "HOVER",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Sound at the dog park",
+        "answer": "ARF",
         "row": 4,
-        "col": 1
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "French-speaking nation in West Africa",
-        "answer": "BENIN",
+        "clue": "\"Cats always land on their feet,\" e.g.",
+        "answer": "MYTH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Neighborhood in both London and Manhattan",
+        "answer": "SOHO",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Sharp part of a sword",
-        "answer": "BLADE",
+        "num": 3,
+        "clue": "___ York, Spanish name for New York",
+        "answer": "NUEVA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "This text mark: ^",
-        "answer": "CARET",
+        "num": 4,
+        "clue": "Furry mammal that eats crustaceans",
+        "answer": "OTTER",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Left -leaning political org.",
-        "answer": "DSA",
-        "row": 1,
-        "col": 0
-      },
-      {
         "num": 5,
-        "clue": "Right you are!",
-        "answer": "YES",
-        "row": 1,
+        "clue": "Docking area",
+        "answer": "WHARF",
+        "row": 0,
         "col": 4
       }
     ]
