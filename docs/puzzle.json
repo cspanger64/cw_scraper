@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "M",
-      "S",
-      "N",
-      "O",
-      "W"
-    ],
-    [
-      "Y",
-      "O",
-      "U",
-      "T",
-      "H"
-    ],
-    [
-      "T",
-      "H",
-      "E",
-      "T",
-      "A"
-    ],
-    [
-      "H",
-      "O",
-      "V",
-      "E",
-      "R"
+      null,
+      null,
+      "W",
+      "A",
+      "Y"
     ],
     [
       null,
-      null,
+      "C",
       "A",
       "R",
-      "F"
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "I",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "A",
+      null
+    ],
+    [
+      "G",
+      "O",
+      "D",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "The Rachel Maddow Show\" channel, after a 2025 rebranding",
-        "answer": "MSNOW",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Childhood",
-        "answer": "YOUTH",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Greek letter after zeta and eta",
-        "answer": "THETA",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "What helicopter parents do",
-        "answer": "HOVER",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Sound at the dog park",
-        "answer": "ARF",
-        "row": 4,
-        "col": 2
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "\"Cats always land on their feet,\" e.g.",
-        "answer": "MYTH",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Neighborhood in both London and Manhattan",
-        "answer": "SOHO",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "___ York, Spanish name for New York",
-        "answer": "NUEVA",
+        "clue": "BT(W)",
+        "answer": "WAY",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Furry mammal that eats crustaceans",
-        "answer": "OTTER",
+        "clue": "TL(C)",
+        "answer": "CARE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "NP(R)",
+        "answer": "RADIO",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "L(A)N",
+        "answer": "AREA",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "T(G)IF",
+        "answer": "GOD",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Walked through water",
+        "answer": "WADED",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Opera solo",
+        "answer": "ARIA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Docking area",
-        "answer": "WHARF",
+        "num": 3,
+        "clue": "Lead-in to \"man,\" for a naval title",
+        "answer": "YEO",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Pulitzer-winning writer Robert, famous for his four-book series on Lyndon Johnson",
+        "answer": "CARO",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Cleaning cloth",
+        "answer": "RAG",
+        "row": 2,
+        "col": 0
       }
     ]
   }
