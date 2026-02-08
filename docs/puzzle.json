@@ -1,41 +1,69 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
       null,
+      null,
+      "K",
+      "I",
+      "S",
+      "S"
+    ],
+    [
+      null,
+      null,
+      "D",
+      "A",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      null,
+      "C",
+      "O",
+      "R",
+      "T",
+      "E",
+      "X"
+    ],
+    [
+      "R",
+      "U",
+      "N",
+      "A",
       "W",
       "A",
       "Y"
     ],
     [
-      null,
-      "C",
-      "A",
-      "R",
-      "E"
-    ],
-    [
-      "R",
-      "A",
-      "D",
       "I",
-      "O"
-    ],
-    [
-      "A",
-      "R",
-      "E",
-      "A",
+      "M",
+      "G",
+      "O",
+      "O",
+      "D",
       null
     ],
     [
-      "G",
-      "O",
-      "D",
+      "S",
+      "I",
+      "L",
+      "K",
+      "S",
+      null,
+      null
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "E",
+      null,
       null,
       null
     ]
@@ -44,74 +72,102 @@
     "across": [
       {
         "num": 1,
-        "clue": "BT(W)",
-        "answer": "WAY",
+        "clue": "Lock lips",
+        "answer": "KISS",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "TL(C)",
-        "answer": "CARE",
-        "row": 1,
-        "col": 1
+        "col": 3
       },
       {
         "num": 5,
-        "clue": "NP(R)",
-        "answer": "RADIO",
-        "row": 2,
-        "col": 0
+        "clue": "Italian author of \"Inferno,\" \"Purgatorio\" and \"Paradiso",
+        "answer": "DANTE",
+        "row": 1,
+        "col": 2
       },
       {
         "num": 6,
-        "clue": "L(A)N",
-        "answer": "AREA",
+        "clue": "Cerebral ___ (part of the brain)",
+        "answer": "CORTEX",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Leave home with a stuffed pillowcase as luggage, perhaps",
+        "answer": "RUNAWAY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "T(G)IF",
-        "answer": "GOD",
+        "num": 8,
+        "clue": "No more for me, thanks",
+        "answer": "IMGOOD",
         "row": 4,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Fancy fabrics",
+        "answer": "SILKS",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Leg joint",
+        "answer": "KNEE",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Walked through water",
-        "answer": "WADED",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 2,
-        "clue": "Opera solo",
-        "answer": "ARIA",
+        "clue": "Bars sung in a bar",
+        "answer": "KARAOKE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Lead-in to \"man,\" for a naval title",
-        "answer": "YEO",
+        "num": 2,
+        "clue": "How the animals boarded Noah's Ark",
+        "answer": "INTWOS",
         "row": 0,
         "col": 4
       },
       {
+        "num": 3,
+        "clue": "Stand in good ___",
+        "answer": "STEAD",
+        "row": 0,
+        "col": 5
+      },
+      {
         "num": 4,
-        "clue": "Pulitzer-winning writer Robert, famous for his four-book series on Lyndon Johnson",
-        "answer": "CARO",
-        "row": 1,
-        "col": 1
+        "clue": "Smokin' hot",
+        "answer": "SEXY",
+        "row": 0,
+        "col": 6
       },
       {
         "num": 5,
-        "clue": "Cleaning cloth",
-        "answer": "RAG",
+        "clue": "Computer attachment",
+        "answer": "DONGLE",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "num": 6,
+        "clue": "Yotam Ottolenghi called it \"the one spice I could never give up",
+        "answer": "CUMIN",
         "row": 2,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Hazard",
+        "answer": "RISK",
+        "row": 3,
         "col": 0
       }
     ]
