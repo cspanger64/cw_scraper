@@ -1,70 +1,42 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      null,
-      null,
-      null,
-      "K",
-      "I",
-      "S",
-      "S"
-    ],
-    [
-      null,
-      null,
-      "D",
-      "A",
-      "N",
-      "T",
-      "E"
-    ],
-    [
-      null,
-      "C",
-      "O",
-      "R",
-      "T",
+      "L",
       "E",
-      "X"
+      "F",
+      "T",
+      null
     ],
     [
+      "A",
+      "X",
+      "I",
+      "O",
+      "M"
+    ],
+    [
+      "S",
+      "C",
       "R",
       "U",
-      "N",
-      "A",
-      "W",
-      "A",
-      "Y"
+      "B"
     ],
     [
-      "I",
-      "M",
-      "G",
+      "T",
       "O",
-      "O",
-      "D",
-      null
+      "S",
+      "C",
+      "A"
     ],
     [
-      "S",
-      "I",
-      "L",
-      "K",
-      "S",
       null,
-      null
-    ],
-    [
-      "K",
       "N",
-      "E",
-      "E",
-      null,
-      null,
+      "T",
+      "H",
       null
     ]
   ],
@@ -72,103 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Lock lips",
-        "answer": "KISS",
+        "clue": "The Eagles have the only N.F.L. logo that faces this way",
+        "answer": "LEFT",
         "row": 0,
-        "col": 3
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Italian author of \"Inferno,\" \"Purgatorio\" and \"Paradiso",
-        "answer": "DANTE",
+        "clue": "Statement that's self-evidently true",
+        "answer": "AXIOM",
         "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "Cerebral ___ (part of the brain)",
-        "answer": "CORTEX",
-        "row": 2,
-        "col": 1
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Leave home with a stuffed pillowcase as luggage, perhaps",
-        "answer": "RUNAWAY",
-        "row": 3,
+        "clue": "Wash vigorously",
+        "answer": "SCRUB",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "No more for me, thanks",
-        "answer": "IMGOOD",
-        "row": 4,
+        "clue": "Classic opera set in Rome",
+        "answer": "TOSCA",
+        "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Fancy fabrics",
-        "answer": "SILKS",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Leg joint",
-        "answer": "KNEE",
-        "row": 6,
-        "col": 0
+        "clue": "To the ___ degree",
+        "answer": "NTH",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Bars sung in a bar",
-        "answer": "KARAOKE",
+        "clue": "Fourth place in an N.F.L. division, for example",
+        "answer": "LAST",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Former inmate, informally",
+        "answer": "EXCON",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Successful gain of ten yards, when combined with this answer's direction?",
+        "answer": "FIRST",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Trip to the end zone, when combined with this answer's direction?",
+        "answer": "TOUCH",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "How the animals boarded Noah's Ark",
-        "answer": "INTWOS",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 3,
-        "clue": "Stand in good ___",
-        "answer": "STEAD",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 4,
-        "clue": "Smokin' hot",
-        "answer": "SEXY",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 5,
-        "clue": "Computer attachment",
-        "answer": "DONGLE",
-        "row": 1,
-        "col": 2
-      },
-      {
         "num": 6,
-        "clue": "Yotam Ottolenghi called it \"the one spice I could never give up",
-        "answer": "CUMIN",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Hazard",
-        "answer": "RISK",
-        "row": 3,
-        "col": 0
+        "clue": "Deg. held by many a C.E.O.",
+        "answer": "MBA",
+        "row": 1,
+        "col": 4
       }
     ]
   }
