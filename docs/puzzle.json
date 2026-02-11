@@ -6,36 +6,36 @@
   "grid": [
     [
       null,
-      "C",
+      "B",
       "O",
+      "W",
+      null
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "X",
+      "T",
       "R",
-      "K"
+      "A"
     ],
     [
-      "C",
-      "H",
-      "L",
-      "O",
-      "E"
-    ],
-    [
-      "H",
-      "I",
-      "L",
-      "L",
+      "N",
+      "E",
+      "E",
+      "D",
       "Y"
     ],
     [
-      "E",
-      "V",
-      "I",
-      "L",
-      "S"
-    ],
-    [
-      "F",
-      "E",
-      "E",
+      null,
+      "D",
+      "R",
       "S",
       null
     ]
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Stopper that may get popped",
-        "answer": "CORK",
+        "clue": "Gift wrapping flourish",
+        "answer": "BOW",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "___ Kim, Olympian whose name aptly rhymes with \"snowy",
-        "answer": "CHLOE",
+        "num": 4,
+        "clue": "The \"M\" of D.M.V.",
+        "answer": "MOTOR",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Like terrain that's good for sledding",
-        "answer": "HILLY",
+        "clue": "What airlines often charge for selecting your seat",
+        "answer": "EXTRA",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Diabolical deeds",
-        "answer": "EVILS",
+        "clue": "Requiring constant emotional validation",
+        "answer": "NEEDY",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Lawyer's charges",
-        "answer": "FEES",
+        "clue": "Workers doing rounds: Abbr.",
+        "answer": "DRS",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Green additive to cream cheese",
-        "answer": "CHIVE",
+        "clue": "Like some wine and Christmas presents",
+        "answer": "BOXED",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Basic jump in snowboarding",
-        "answer": "OLLIE",
+        "clue": "Missing animal in \"Zootopia",
+        "answer": "OTTER",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Nose ___ (snowboarding moves)",
-        "answer": "ROLLS",
+        "clue": "Crossplay plays",
+        "answer": "WORDS",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Piano's set of 88",
-        "answer": "KEYS",
-        "row": 0,
-        "col": 4
+        "clue": "Many ___\" (50 Cent hit)",
+        "answer": "MEN",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Title for Carmy or Sydney on \"The Bear",
-        "answer": "CHEF",
+        "clue": "Bit of sunshine",
+        "answer": "RAY",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
