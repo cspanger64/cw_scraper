@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      null,
-      "B",
+      "F",
       "O",
-      "W",
+      "X",
+      null,
       null
     ],
     [
-      "M",
-      "O",
-      "T",
-      "O",
-      "R"
-    ],
-    [
+      "I",
+      "K",
       "E",
-      "X",
-      "T",
-      "R",
-      "A"
+      "A",
+      null
     ],
     [
       "N",
-      "E",
-      "E",
-      "D",
-      "Y"
+      "A",
+      "R",
+      "C",
+      "S"
     ],
     [
-      null,
-      "D",
-      "R",
+      "E",
+      "P",
+      "O",
+      "C",
+      "H"
+    ],
+    [
       "S",
-      null
+      "I",
+      "X",
+      "T",
+      "H"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Gift wrapping flourish",
-        "answer": "BOW",
+        "clue": "Flying ___ (kind of bat, despite its name)",
+        "answer": "FOX",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 4,
-        "clue": "The \"M\" of D.M.V.",
-        "answer": "MOTOR",
+        "clue": "Furniture retailer known for its sprawling stores",
+        "answer": "IKEA",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "What airlines often charge for selecting your seat",
-        "answer": "EXTRA",
+        "clue": "Drug cops, informally",
+        "answer": "NARCS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Requiring constant emotional validation",
-        "answer": "NEEDY",
+        "num": 8,
+        "clue": "Geological time period spanning several ages",
+        "answer": "EPOCH",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Workers doing rounds: Abbr.",
-        "answer": "DRS",
+        "num": 9,
+        "clue": "Like F, in the alphabet",
+        "answer": "SIXTH",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Like some wine and Christmas presents",
-        "answer": "BOXED",
+        "clue": "Penalties for parking violations",
+        "answer": "FINES",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "African mammal whose striped legs resemble a zebra's",
+        "answer": "OKAPI",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Missing animal in \"Zootopia",
-        "answer": "OTTER",
+        "num": 3,
+        "clue": "Make a copy of",
+        "answer": "XEROX",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Crossplay plays",
-        "answer": "WORDS",
-        "row": 0,
+        "num": 5,
+        "clue": "Bank customer's holding: Abbr.",
+        "answer": "ACCT",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Many ___\" (50 Cent hit)",
-        "answer": "MEN",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Bit of sunshine",
-        "answer": "RAY",
-        "row": 1,
+        "num": 7,
+        "clue": "Quiet, you!",
+        "answer": "SHH",
+        "row": 2,
         "col": 4
       }
     ]
