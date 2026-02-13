@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "F",
-      "O",
-      "X",
       null,
-      null
-    ],
-    [
-      "I",
-      "K",
-      "E",
-      "A",
-      null
-    ],
-    [
-      "N",
+      "M",
       "A",
       "R",
-      "C",
-      "S"
+      "G"
     ],
     [
-      "E",
-      "P",
-      "O",
       "C",
-      "H"
-    ],
-    [
-      "S",
       "I",
-      "X",
-      "T",
-      "H"
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "Z",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "E"
+    ],
+    [
+      null,
+      "D",
+      "E",
+      "S",
+      "K"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Flying ___ (kind of bat, despite its name)",
-        "answer": "FOX",
+        "clue": "Tequila cocktail that often comes in a salt-rimmed glass, casually",
+        "answer": "MARG",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Furniture retailer known for its sprawling stores",
-        "answer": "IKEA",
+        "num": 5,
+        "clue": "Signature export of Cuba",
+        "answer": "CIGAR",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Drug cops, informally",
-        "answer": "NARCS",
+        "clue": "Bowl over",
+        "answer": "AMAZE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Geological time period spanning several ages",
-        "answer": "EPOCH",
+        "num": 7,
+        "clue": "Flood regulator",
+        "answer": "LEVEE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Like F, in the alphabet",
-        "answer": "SIXTH",
+        "num": 8,
+        "clue": "Classroom station",
+        "answer": "DESK",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Penalties for parking violations",
-        "answer": "FINES",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "African mammal whose striped legs resemble a zebra's",
-        "answer": "OKAPI",
+        "clue": "Acted without saying anything",
+        "answer": "MIMED",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Make a copy of",
-        "answer": "XEROX",
+        "num": 2,
+        "clue": "Desert plant used in tequila production",
+        "answer": "AGAVE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Bank customer's holding: Abbr.",
-        "answer": "ACCT",
-        "row": 1,
+        "num": 3,
+        "clue": "Demolishes",
+        "answer": "RAZES",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Quiet, you!",
-        "answer": "SHH",
-        "row": 2,
+        "num": 4,
+        "clue": "Language from which we get \"cosmos\" and \"democracy",
+        "answer": "GREEK",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Berkeley campus, for short",
+        "answer": "CAL",
+        "row": 1,
+        "col": 0
       }
     ]
   }
