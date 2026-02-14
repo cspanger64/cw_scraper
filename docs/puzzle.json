@@ -6,111 +6,111 @@
   "grid": [
     [
       null,
+      "F",
+      "A",
+      "K",
+      "E"
+    ],
+    [
       "M",
+      "I",
+      "L",
+      "A",
+      "N"
+    ],
+    [
+      "W",
+      "E",
+      "I",
+      "R",
+      "D"
+    ],
+    [
       "A",
       "R",
-      "G"
+      "E",
+      "A",
+      "S"
     ],
     [
-      "C",
+      "H",
       "I",
-      "G",
-      "A",
-      "R"
-    ],
-    [
-      "A",
-      "M",
-      "A",
-      "Z",
-      "E"
-    ],
-    [
-      "L",
-      "E",
-      "V",
-      "E",
-      "E"
-    ],
-    [
-      null,
-      "D",
-      "E",
-      "S",
-      "K"
+      "N",
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Tequila cocktail that often comes in a salt-rimmed glass, casually",
-        "answer": "MARG",
+        "clue": "Like flowers that never wilt",
+        "answer": "FAKE",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Signature export of Cuba",
-        "answer": "CIGAR",
+        "clue": "Italian city that's hosting part of the 2026 Winter Olympics",
+        "answer": "MILAN",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Bowl over",
-        "answer": "AMAZE",
+        "clue": "Huh, that's strange ...",
+        "answer": "WEIRD",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Flood regulator",
-        "answer": "LEVEE",
+        "clue": "Regions",
+        "answer": "AREAS",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Classroom station",
-        "answer": "DESK",
+        "clue": "Crossword clue, e.g.",
+        "answer": "HINT",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Acted without saying anything",
-        "answer": "MIMED",
+        "clue": "Guy in a kitchen",
+        "answer": "FIERI",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Desert plant used in tequila production",
-        "answer": "AGAVE",
+        "clue": "Visitor from another world",
+        "answer": "ALIEN",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Demolishes",
-        "answer": "RAZES",
+        "clue": "Gold measurement",
+        "answer": "KARAT",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Language from which we get \"cosmos\" and \"democracy",
-        "answer": "GREEK",
+        "clue": "Don't tell me how it ___!",
+        "answer": "ENDS",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Berkeley campus, for short",
-        "answer": "CAL",
+        "clue": "Kissing sound",
+        "answer": "MWAH",
         "row": 1,
         "col": 0
       }
