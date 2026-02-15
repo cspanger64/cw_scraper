@@ -1,42 +1,70 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      null,
-      "F",
+      "N",
+      "B",
       "A",
-      "K",
+      null,
+      "O",
+      "R",
+      "C"
+    ],
+    [
+      "O",
+      "R",
+      "B",
+      null,
+      "R",
+      "H",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "N",
+      "B",
+      "O",
+      "W"
+    ],
+    [
+      "T",
+      "V",
+      "G",
+      "U",
+      "I",
+      "D",
       "E"
     ],
     [
-      "M",
-      "I",
-      "L",
-      "A",
-      "N"
-    ],
-    [
-      "W",
+      "H",
       "E",
-      "I",
+      "A",
       "R",
+      "T",
+      "E",
       "D"
     ],
     [
-      "A",
+      null,
       "R",
+      "I",
+      "S",
       "E",
-      "A",
-      "S"
+      "S",
+      null
     ],
     [
-      "H",
-      "I",
-      "N",
-      "T",
+      null,
+      null,
+      "L",
+      "E",
+      "D",
+      null,
       null
     ]
   ],
@@ -44,75 +72,117 @@
     "across": [
       {
         "num": 1,
-        "clue": "Like flowers that never wilt",
-        "answer": "FAKE",
+        "clue": "Org. with a Slam Dunk Contest",
+        "answer": "NBA",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "Italian city that's hosting part of the 2026 Winter Olympics",
-        "answer": "MILAN",
+        "num": 4,
+        "clue": "Menacing creature in \"The Lord of the Rings",
+        "answer": "ORC",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 7,
+        "clue": "Spherical shape",
+        "answer": "ORB",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Huh, that's strange ...",
-        "answer": "WEIRD",
+        "num": 8,
+        "clue": "Greek \"r",
+        "answer": "RHO",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 9,
+        "clue": "Symbol on Hawaii's license plate",
+        "answer": "RAINBOW",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Regions",
-        "answer": "AREAS",
+        "num": 11,
+        "clue": "Magazine with show listings",
+        "answer": "TVGUIDE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Crossword clue, e.g.",
-        "answer": "HINT",
+        "num": 12,
+        "clue": "Showed support to, as a text message",
+        "answer": "HEARTED",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Moves up the rankings",
+        "answer": "RISES",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 14,
+        "clue": "Kind of lighting whose first letter stands for \"light",
+        "answer": "LED",
+        "row": 6,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Guy in a kitchen",
-        "answer": "FIERI",
+        "clue": "The Australian continent moves subtly this direction each year (about 3 inches)",
+        "answer": "NORTH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "More courageous",
+        "answer": "BRAVER",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Visitor from another world",
-        "answer": "ALIEN",
+        "num": 3,
+        "clue": "Virginia governor Spanberger",
+        "answer": "ABIGAIL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Gold measurement",
-        "answer": "KARAT",
-        "row": 0,
-        "col": 3
-      },
-      {
         "num": 4,
-        "clue": "Don't tell me how it ___!",
-        "answer": "ENDS",
+        "clue": "Went around the world?",
+        "answer": "ORBITED",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Kissing sound",
-        "answer": "MWAH",
-        "row": 1,
-        "col": 0
+        "clue": "Colossus of ___, one of the Seven Wonders of the Ancient World",
+        "answer": "RHODES",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Intimidated",
+        "answer": "COWED",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 10,
+        "clue": "Hospital worker",
+        "answer": "NURSE",
+        "row": 2,
+        "col": 3
       }
     ]
   }
