@@ -1,188 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "N",
-      "B",
       "A",
-      null,
-      "O",
-      "R",
-      "C"
-    ],
-    [
-      "O",
-      "R",
-      "B",
-      null,
-      "R",
-      "H",
-      "O"
-    ],
-    [
-      "R",
-      "A",
-      "I",
-      "N",
-      "B",
-      "O",
-      "W"
-    ],
-    [
-      "T",
-      "V",
-      "G",
-      "U",
-      "I",
       "D",
-      "E"
+      "D",
+      "S",
+      null
     ],
     [
-      "H",
-      "E",
-      "A",
-      "R",
       "T",
+      "R",
+      "I",
+      "P",
+      null
+    ],
+    [
+      "M",
+      "I",
+      "X",
       "E",
       "D"
     ],
     [
       null,
-      "R",
+      "N",
       "I",
-      "S",
-      "E",
-      "S",
-      null
+      "C",
+      "E"
     ],
     [
       null,
-      null,
-      "L",
+      "K",
       "E",
-      "D",
-      null,
-      null
+      "K",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Org. with a Slam Dunk Contest",
-        "answer": "NBA",
+        "clue": "Uses the \"+\" key",
+        "answer": "ADDS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Menacing creature in \"The Lord of the Rings",
-        "answer": "ORC",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 7,
-        "clue": "Spherical shape",
-        "answer": "ORB",
+        "num": 5,
+        "clue": "Psychedelic experience",
+        "answer": "TRIP",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Greek \"r",
-        "answer": "RHO",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 9,
-        "clue": "Symbol on Hawaii's license plate",
-        "answer": "RAINBOW",
+        "num": 6,
+        "clue": "With 2-Down, made \"nose ring\" from NEGRONIS or \"mistrain\" from MARTINIS?",
+        "answer": "MIXED",
         "row": 2,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Magazine with show listings",
-        "answer": "TVGUIDE",
+        "num": 8,
+        "clue": "That's awesome!",
+        "answer": "NICE",
         "row": 3,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Showed support to, as a text message",
-        "answer": "HEARTED",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Moves up the rankings",
-        "answer": "RISES",
-        "row": 5,
         "col": 1
       },
       {
-        "num": 14,
-        "clue": "Kind of lighting whose first letter stands for \"light",
-        "answer": "LED",
-        "row": 6,
-        "col": 2
+        "num": 9,
+        "clue": "Actress Palmer of \"Hustlers",
+        "answer": "KEKE",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "The Australian continent moves subtly this direction each year (about 3 inches)",
-        "answer": "NORTH",
+        "clue": "$$$ dispenser",
+        "answer": "ATM",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "More courageous",
-        "answer": "BRAVER",
+        "clue": "See 6-Across",
+        "answer": "DRINK",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Virginia governor Spanberger",
-        "answer": "ABIGAIL",
+        "clue": "Brand of paper cups",
+        "answer": "DIXIE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Went around the world?",
-        "answer": "ORBITED",
+        "clue": "Little bit of dust",
+        "answer": "SPECK",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Colossus of ___, one of the Seven Wonders of the Ancient World",
-        "answer": "RHODES",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Intimidated",
-        "answer": "COWED",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 10,
-        "clue": "Hospital worker",
-        "answer": "NURSE",
-        "row": 2,
         "col": 3
+      },
+      {
+        "num": 7,
+        "clue": "Letter after cee",
+        "answer": "DEE",
+        "row": 2,
+        "col": 4
       }
     ]
   }
