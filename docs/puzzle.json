@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "A",
-      "D",
-      "D",
       "S",
-      null
-    ],
-    [
-      "T",
-      "R",
-      "I",
       "P",
-      null
-    ],
-    [
-      "M",
-      "I",
-      "X",
+      "E",
       "E",
       "D"
     ],
     [
-      null,
-      "N",
-      "I",
       "C",
-      "E"
+      "O",
+      "N",
+      "V",
+      "O"
+    ],
+    [
+      "H",
+      "O",
+      "S",
+      "E",
+      "S"
     ],
     [
       null,
-      "K",
+      "F",
+      "U",
+      "N",
+      null
+    ],
+    [
+      null,
+      "Y",
       "E",
-      "K",
-      "E"
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Uses the \"+\" key",
-        "answer": "ADDS",
+        "clue": "What some people solve the Mini for",
+        "answer": "SPEED",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Psychedelic experience",
-        "answer": "TRIP",
+        "num": 6,
+        "clue": "Chat, informally",
+        "answer": "CONVO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "With 2-Down, made \"nose ring\" from NEGRONIS or \"mistrain\" from MARTINIS?",
-        "answer": "MIXED",
+        "num": 7,
+        "clue": "Fire truck attachments",
+        "answer": "HOSES",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "That's awesome!",
-        "answer": "NICE",
+        "clue": "What other people solve the Mini for",
+        "answer": "FUN",
         "row": 3,
         "col": 1
       },
       {
         "num": 9,
-        "clue": "Actress Palmer of \"Hustlers",
-        "answer": "KEKE",
+        "clue": "Are we there ___?",
+        "answer": "YET",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "$$$ dispenser",
-        "answer": "ATM",
+        "clue": "Academy or university: Abbr.",
+        "answer": "SCH",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "See 6-Across",
-        "answer": "DRINK",
+        "clue": "Like a voluminous winter jacket",
+        "answer": "POOFY",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Brand of paper cups",
-        "answer": "DIXIE",
+        "clue": "Come next",
+        "answer": "ENSUE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Little bit of dust",
-        "answer": "SPECK",
+        "clue": "___ planner (occupation)",
+        "answer": "EVENT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Letter after cee",
-        "answer": "DEE",
-        "row": 2,
+        "num": 5,
+        "clue": "Number before tres",
+        "answer": "DOS",
+        "row": 0,
         "col": 4
       }
     ]
