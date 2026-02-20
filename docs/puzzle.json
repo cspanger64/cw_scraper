@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "A",
-      "M",
-      "B",
-      "E",
-      "R"
+      null,
+      "W",
+      "H",
+      "O",
+      "S"
     ],
     [
-      "L",
-      "A",
+      "T",
+      "H",
+      "E",
       "R",
+      "E"
+    ],
+    [
+      "H",
+      "I",
+      "N",
       "G",
       "E"
     ],
     [
-      "L",
-      "I",
+      "U",
+      "N",
+      "C",
       "A",
-      "R",
-      "S"
+      "P"
     ],
     [
-      "I",
-      "N",
       "S",
       "E",
-      "T"
-    ],
-    [
-      "N",
       "E",
-      "S",
-      "T",
-      "S"
+      "N",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ Glenn, Olympic figure skater who's a three-time U.S. national champion",
-        "answer": "AMBER",
+        "clue": "With 5-Across, response to \"Knock, knock!",
+        "answer": "WHOS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Popcorn size that might come in a bucket",
-        "answer": "LARGE",
+        "num": 5,
+        "clue": "See 1-Across",
+        "answer": "THERE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Lies and the Lying ___ Who Tell Them\" (Al Franken book)",
-        "answer": "LIARS",
+        "num": 6,
+        "clue": "Dating app alternative to Tinder or Bumble",
+        "answer": "HINGE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Close-up map",
-        "answer": "INSET",
+        "num": 7,
+        "clue": "Take the top off, as a tube of toothpaste",
+        "answer": "UNCAP",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Prepares a home for a new baby",
-        "answer": "NESTS",
+        "num": 8,
+        "clue": "[This person has read your message]",
+        "answer": "SEEN",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Bold poker declaration",
-        "answer": "ALLIN",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Only U.S. state with a one-syllable name",
-        "answer": "MAINE",
+        "clue": "Say \"But, Mom!,\" say",
+        "answer": "WHINE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Orchestra section with trumpets and horns",
-        "answer": "BRASS",
+        "num": 2,
+        "clue": "As a result",
+        "answer": "HENCE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Great\" or \"Snowy\" wading bird",
-        "answer": "EGRET",
+        "num": 3,
+        "clue": "Something that a medical donor gives or a church has",
+        "answer": "ORGAN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Some sheet music squiggles",
-        "answer": "RESTS",
+        "num": 4,
+        "clue": "Flow slowly",
+        "answer": "SEEP",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "As a result",
+        "answer": "THUS",
+        "row": 1,
+        "col": 0
       }
     ]
   }
