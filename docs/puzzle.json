@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
       "W",
       "H",
-      "O",
+      "I",
+      "G",
       "S"
     ],
     [
+      "H",
+      "O",
       "T",
-      "H",
       "E",
-      "R",
-      "E"
+      "L"
     ],
     [
+      "Y",
+      "O",
+      "S",
       "H",
-      "I",
-      "N",
-      "G",
-      "E"
-    ],
-    [
-      "U",
-      "N",
-      "C",
-      "A",
-      "P"
+      "I"
     ],
     [
       "S",
-      "E",
-      "E",
-      "N",
+      "T",
+      "O",
+      "R",
+      "M"
+    ],
+    [
+      null,
+      "S",
+      "K",
+      "Y",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "With 5-Across, response to \"Knock, knock!",
-        "answer": "WHOS",
+        "clue": "Political party that competed with Democrats during the 1830s-'50s",
+        "answer": "WHIGS",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "See 1-Across",
-        "answer": "THERE",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Dating app alternative to Tinder or Bumble",
-        "answer": "HINGE",
-        "row": 2,
+        "clue": "Four Seasons, e.g.",
+        "answer": "HOTEL",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Take the top off, as a tube of toothpaste",
-        "answer": "UNCAP",
-        "row": 3,
+        "clue": "Dinosaur in the Mario games",
+        "answer": "YOSHI",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "[This person has read your message]",
-        "answer": "SEEN",
-        "row": 4,
+        "clue": "Blizzard or hurricane",
+        "answer": "STORM",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "We all look up to it",
+        "answer": "SKY",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Say \"But, Mom!,\" say",
-        "answer": "WHINE",
+        "clue": "Oh yeah, ___ that?",
+        "answer": "WHYS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Says \"who\"?",
+        "answer": "HOOTS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "As a result",
-        "answer": "HENCE",
+        "num": 3,
+        "clue": "No worries",
+        "answer": "ITSOK",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Something that a medical donor gives or a church has",
-        "answer": "ORGAN",
+        "num": 4,
+        "clue": "Postmodern architect Frank",
+        "answer": "GEHRY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Flow slowly",
-        "answer": "SEEP",
+        "num": 5,
+        "clue": "Narrow",
+        "answer": "SLIM",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "As a result",
-        "answer": "THUS",
-        "row": 1,
-        "col": 0
       }
     ]
   }
