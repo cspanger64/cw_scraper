@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "W",
-      "H",
-      "I",
-      "G",
-      "S"
-    ],
-    [
-      "H",
-      "O",
-      "T",
-      "E",
-      "L"
-    ],
-    [
-      "Y",
-      "O",
-      "S",
-      "H",
-      "I"
-    ],
-    [
-      "S",
-      "T",
-      "O",
+      "C",
       "R",
-      "M"
+      "O",
+      "P",
+      null
     ],
     [
-      null,
-      "S",
-      "K",
-      "Y",
-      null
+      "R",
+      "U",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "P",
+      "A"
+    ],
+    [
+      "M",
+      "A",
+      "G",
+      "I",
+      "C"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "N",
+      "K"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Political party that competed with Democrats during the 1830s-'50s",
-        "answer": "WHIGS",
+        "clue": "Soybeans or rice",
+        "answer": "CROP",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Four Seasons, e.g.",
-        "answer": "HOTEL",
+        "num": 5,
+        "clue": "Bit of gossip",
+        "answer": "RUMOR",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Dinosaur in the Mario games",
-        "answer": "YOSHI",
+        "clue": "South American flatbread made of ground maize",
+        "answer": "AREPA",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Blizzard or hurricane",
-        "answer": "STORM",
+        "clue": "___ 8 Ball",
+        "answer": "MAGIC",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "We all look up to it",
-        "answer": "SKY",
+        "clue": "Something a pirate might make you walk",
+        "answer": "PLANK",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Oh yeah, ___ that?",
-        "answer": "WHYS",
+        "clue": "Sudden muscle tightness",
+        "answer": "CRAMP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Says \"who\"?",
-        "answer": "HOOTS",
+        "clue": "Like the areas beyond suburbia",
+        "answer": "RURAL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "No worries",
-        "answer": "ITSOK",
+        "clue": "Luxury Swiss watch brand",
+        "answer": "OMEGA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Postmodern architect Frank",
-        "answer": "GEHRY",
+        "clue": "Stop by unannounced",
+        "answer": "POPIN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Narrow",
-        "answer": "SLIM",
-        "row": 0,
+        "num": 6,
+        "clue": "Billiards triangle",
+        "answer": "RACK",
+        "row": 1,
         "col": 4
       }
     ]
