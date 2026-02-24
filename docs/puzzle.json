@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "C",
-      "R",
+      null,
+      "B",
+      "L",
       "O",
-      "P",
-      null
+      "B"
     ],
     [
+      "B",
       "R",
-      "U",
-      "M",
-      "O",
-      "R"
-    ],
-    [
       "A",
+      "V",
+      "O"
+    ],
+    [
+      "L",
+      "I",
+      "K",
+      "E",
+      "S"
+    ],
+    [
+      "U",
+      "B",
+      "E",
+      "R",
+      "S"
+    ],
+    [
       "R",
       "E",
-      "P",
-      "A"
-    ],
-    [
-      "M",
-      "A",
-      "G",
-      "I",
-      "C"
-    ],
-    [
-      "P",
-      "L",
-      "A",
-      "N",
-      "K"
+      "S",
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Soybeans or rice",
-        "answer": "CROP",
+        "clue": "Amorphous shape in a lava lamp",
+        "answer": "BLOB",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Bit of gossip",
-        "answer": "RUMOR",
+        "clue": "Wonderful performance!",
+        "answer": "BRAVO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "South American flatbread made of ground maize",
-        "answer": "AREPA",
+        "num": 6,
+        "clue": "Social media currency",
+        "answer": "LIKES",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "___ 8 Ball",
-        "answer": "MAGIC",
+        "num": 7,
+        "clue": "Cars that move around a miniature map",
+        "answer": "UBERS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Something a pirate might make you walk",
-        "answer": "PLANK",
+        "num": 8,
+        "clue": "Partner of relaxation",
+        "answer": "REST",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Sudden muscle tightness",
-        "answer": "CRAMP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Like the areas beyond suburbia",
-        "answer": "RURAL",
+        "clue": "Offer money corruptly",
+        "answer": "BRIBE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Luxury Swiss watch brand",
-        "answer": "OMEGA",
+        "num": 2,
+        "clue": "Canada has an estimated 2 million of them, the most of any country in the world",
+        "answer": "LAKES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Stop by unannounced",
-        "answer": "POPIN",
+        "num": 3,
+        "clue": "In-your-face",
+        "answer": "OVERT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Billiards triangle",
-        "answer": "RACK",
-        "row": 1,
+        "num": 4,
+        "clue": "Work overseer",
+        "answer": "BOSS",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Memory of a hectic day, perhaps",
+        "answer": "BLUR",
+        "row": 1,
+        "col": 0
       }
     ]
   }
