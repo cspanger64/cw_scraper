@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "B",
-      "L",
-      "O",
-      "B"
+      "S",
+      "C",
+      "A",
+      "R",
+      "Y"
     ],
     [
-      "B",
+      "H",
+      "O",
+      "M",
+      "I",
+      "E"
+    ],
+    [
+      "E",
       "R",
       "A",
-      "V",
-      "O"
+      "S",
+      "E"
     ],
     [
       "L",
-      "I",
-      "K",
+      "A",
+      "Z",
       "E",
       "S"
     ],
     [
-      "U",
-      "B",
-      "E",
-      "R",
-      "S"
-    ],
-    [
-      "R",
+      "F",
+      "L",
       "E",
       "S",
-      "T",
-      null
+      "H"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Amorphous shape in a lava lamp",
-        "answer": "BLOB",
+        "clue": "Goosebumps-inducing",
+        "answer": "SCARY",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Wonderful performance!",
-        "answer": "BRAVO",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Social media currency",
-        "answer": "LIKES",
-        "row": 2,
+        "clue": "Buddy, informally",
+        "answer": "HOMIE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Cars that move around a miniature map",
-        "answer": "UBERS",
-        "row": 3,
+        "clue": "Rub off, as pencil markings",
+        "answer": "ERASE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Partner of relaxation",
-        "answer": "REST",
+        "clue": "Enjoys a quiet weekend morning, perhaps",
+        "answer": "LAZES",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "David Szalay novel that won the 2025 Booker Prize",
+        "answer": "FLESH",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Offer money corruptly",
-        "answer": "BRIBE",
+        "clue": "Section of a bookcase",
+        "answer": "SHELF",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Color similar to salmon that's also named for a sea creature",
+        "answer": "CORAL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Canada has an estimated 2 million of them, the most of any country in the world",
-        "answer": "LAKES",
+        "num": 3,
+        "clue": "Leave speechless",
+        "answer": "AMAZE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "In-your-face",
-        "answer": "OVERT",
+        "num": 4,
+        "clue": "Gets out of bed",
+        "answer": "RISES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Work overseer",
-        "answer": "BOSS",
+        "num": 5,
+        "clue": "Uff-da!",
+        "answer": "YEESH",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Memory of a hectic day, perhaps",
-        "answer": "BLUR",
-        "row": 1,
-        "col": 0
       }
     ]
   }
