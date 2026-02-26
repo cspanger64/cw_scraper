@@ -6,74 +6,74 @@
   "grid": [
     [
       "S",
+      "A",
+      "V",
+      "E",
+      null
+    ],
+    [
       "C",
-      "A",
       "R",
-      "Y"
+      "A",
+      "V",
+      "E"
     ],
     [
-      "H",
+      "R",
       "O",
+      "P",
+      "E",
+      "D"
+    ],
+    [
+      "A",
       "M",
-      "I",
-      "E"
+      "O",
+      "N",
+      "G"
     ],
     [
-      "E",
+      "P",
+      "A",
       "R",
-      "A",
-      "S",
-      "E"
-    ],
-    [
-      "L",
-      "A",
-      "Z",
-      "E",
-      "S"
-    ],
-    [
-      "F",
-      "L",
-      "E",
-      "S",
-      "H"
+      "T",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Goosebumps-inducing",
-        "answer": "SCARY",
+        "clue": "Computer function represented by a floppy disk icon",
+        "answer": "SAVE",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Buddy, informally",
-        "answer": "HOMIE",
+        "num": 5,
+        "clue": "Want more than anything",
+        "answer": "CRAVE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Rub off, as pencil markings",
-        "answer": "ERASE",
+        "clue": "Enticed, with \"in",
+        "answer": "ROPED",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Enjoys a quiet weekend morning, perhaps",
-        "answer": "LAZES",
+        "clue": "In the company of",
+        "answer": "AMONG",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "David Szalay novel that won the 2025 Booker Prize",
-        "answer": "FLESH",
+        "clue": "Something to do \"like it's 1999",
+        "answer": "PARTY",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Section of a bookcase",
-        "answer": "SHELF",
+        "clue": "Something to do \"like it's 1999",
+        "answer": "SCRAP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Color similar to salmon that's also named for a sea creature",
-        "answer": "CORAL",
+        "clue": "Fragrance",
+        "answer": "AROMA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Leave speechless",
-        "answer": "AMAZE",
+        "clue": "What a humidifier emits",
+        "answer": "VAPOR",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Gets out of bed",
-        "answer": "RISES",
+        "clue": "Curling or speed skating, for the Winter Olympics",
+        "answer": "EVENT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Uff-da!",
-        "answer": "YEESH",
-        "row": 0,
+        "num": 6,
+        "clue": "Risqu\u0000e9",
+        "answer": "EDGY",
+        "row": 1,
         "col": 4
       }
     ]
