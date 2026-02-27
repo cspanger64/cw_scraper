@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
+      null,
+      null,
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      null,
+      "M",
+      "O",
+      "T",
+      "O"
+    ],
+    [
       "S",
       "A",
-      "V",
-      "E",
-      null
-    ],
-    [
-      "C",
-      "R",
+      "L",
       "A",
-      "V",
-      "E"
-    ],
-    [
-      "R",
-      "O",
-      "P",
-      "E",
       "D"
     ],
     [
+      "S",
+      "C",
       "A",
-      "M",
-      "O",
-      "N",
-      "G"
+      "L",
+      "E"
     ],
     [
-      "P",
-      "A",
-      "R",
-      "T",
-      "Y"
+      "E",
+      "S",
+      "S",
+      "E",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Computer function represented by a floppy disk icon",
-        "answer": "SAVE",
+        "clue": "Tesla or Toyota",
+        "answer": "CAR",
         "row": 0,
-        "col": 0
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "What the \"M\" of BMX stands for",
+        "answer": "MOTO",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Want more than anything",
-        "answer": "CRAVE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Enticed, with \"in",
-        "answer": "ROPED",
+        "clue": "Leafy lunch",
+        "answer": "SALAD",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "In the company of",
-        "answer": "AMONG",
+        "num": 6,
+        "clue": "Weighing device",
+        "answer": "SCALE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Something to do \"like it's 1999",
-        "answer": "PARTY",
+        "num": 7,
+        "clue": "To be,\" in Latin",
+        "answer": "ESSE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Something to do \"like it's 1999",
-        "answer": "SCRAP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Fragrance",
-        "answer": "AROMA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "What a humidifier emits",
-        "answer": "VAPOR",
+        "clue": "Pepsi and Coke",
+        "answer": "COLAS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Curling or speed skating, for the Winter Olympics",
-        "answer": "EVENT",
+        "num": 2,
+        "clue": "Dickens's \"___ of Two Cities",
+        "answer": "ATALE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Risqu\u0000e9",
-        "answer": "EDGY",
-        "row": 1,
+        "num": 3,
+        "clue": "Took to another floor, as the [circled letters]",
+        "answer": "RODE",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Apple computers",
+        "answer": "MACS",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Dir. from San Francisco to Santa Monica",
+        "answer": "SSE",
+        "row": 2,
+        "col": 0
       }
     ]
   }
