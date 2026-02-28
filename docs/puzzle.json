@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "C",
+      "B",
       "A",
-      "R"
+      "L",
+      "D",
+      null
     ],
     [
-      null,
+      "E",
+      "R",
+      "I",
+      "E",
+      null
+    ],
+    [
+      "D",
+      "U",
       "M",
-      "O",
-      "T",
+      "B",
       "O"
     ],
     [
-      "S",
-      "A",
-      "L",
-      "A",
+      null,
+      "B",
+      "I",
+      "R",
       "D"
     ],
     [
-      "S",
-      "C",
+      null,
       "A",
-      "L",
-      "E"
-    ],
-    [
-      "E",
-      "S",
-      "S",
-      "E",
-      null
+      "T",
+      "A",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Tesla or Toyota",
-        "answer": "CAR",
+        "clue": "Lacking locks",
+        "answer": "BALD",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "What the \"M\" of BMX stands for",
-        "answer": "MOTO",
-        "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Leafy lunch",
-        "answer": "SALAD",
-        "row": 2,
+        "clue": "One of the Great Lakes",
+        "answer": "ERIE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Weighing device",
-        "answer": "SCALE",
-        "row": 3,
+        "clue": "Movie with the fake newspaper headline \"Wonder Elephant Soars to Fame!",
+        "answer": "DUMBO",
+        "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "To be,\" in Latin",
-        "answer": "ESSE",
+        "num": 8,
+        "clue": "Live tweeter?",
+        "answer": "BIRD",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 9,
+        "clue": "The slightest bit",
+        "answer": "ATAD",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Pepsi and Coke",
-        "answer": "COLAS",
+        "clue": "Hard thing to leave on a cold day",
+        "answer": "BED",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Caribbean island northwest of Curaçao",
+        "answer": "ARUBA",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "The sky, in a saying",
+        "answer": "LIMIT",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Dickens's \"___ of Two Cities",
-        "answer": "ATALE",
+        "num": 4,
+        "clue": "Actress Messing",
+        "answer": "DEBRA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Took to another floor, as the [circled letters]",
-        "answer": "RODE",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Apple computers",
-        "answer": "MACS",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Dir. from San Francisco to Santa Monica",
-        "answer": "SSE",
+        "num": 7,
+        "clue": "Like this clue number",
+        "answer": "ODD",
         "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }
