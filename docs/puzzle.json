@@ -1,246 +1,118 @@
 {
   "size": [
-    8,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "D",
-      "E",
-      "F",
-      null,
-      "S",
+      "J",
       "O",
-      "B"
-    ],
-    [
-      "E",
-      "P",
-      "A",
-      null,
-      "N",
-      "F",
-      "L"
-    ],
-    [
-      "W",
-      "I",
-      "I",
-      null,
-      "O",
-      "F",
-      "T"
-    ],
-    [
-      null,
       "C",
+      "K",
+      null
+    ],
+    [
+      "A",
+      "U",
       "R",
       "A",
-      "W",
-      "L",
-      null
-    ],
-    [
-      null,
-      "S",
-      "P",
-      "A",
-      "C",
-      "E",
-      null
+      "S"
     ],
     [
       "G",
+      "R",
       "A",
-      "L",
-      null,
-      "A",
-      "A",
-      "H"
+      "Z",
+      "E"
     ],
     [
-      "P",
-      "G",
-      "A",
       null,
-      "P",
       "S",
-      "A"
+      "N",
+      "O",
+      "W"
     ],
     [
-      "T",
-      "A",
-      "Y",
       null,
-      "S",
-      "H",
-      "Y"
+      null,
+      "K",
+      "O",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Rock's ___ Leppard",
-        "answer": "DEF",
+        "clue": "Stereotypical wearer of a letterman jacket",
+        "answer": "JOCK",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Cry a river",
-        "answer": "SOB",
-        "row": 0,
-        "col": 4
+        "num": 5,
+        "clue": "Surrounding glows",
+        "answer": "AURAS",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Clean Air Act org.",
-        "answer": "EPA",
-        "row": 1,
+        "clue": "Eschew a heavy meal in favor of light snacks",
+        "answer": "GRAZE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Org. that pays the Bills?",
-        "answer": "NFL",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 9,
-        "clue": "Nintendo console with motion sensors",
-        "answer": "WII",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "___-quoted (frequently said)",
-        "answer": "OFT",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 11,
-        "clue": "With 13-Across, narrow gap between the underside of a house and the ground",
-        "answer": "CRAWL",
+        "clue": "The white stuff?",
+        "answer": "SNOW",
         "row": 3,
         "col": 1
       },
       {
-        "num": 13,
-        "clue": "See 11-Across",
-        "answer": "SPACE",
+        "num": 9,
+        "clue": "M.M.A. fight enders, for short",
+        "answer": "KOS",
         "row": 4,
-        "col": 1
-      },
-      {
-        "num": 14,
-        "clue": "Young lady",
-        "answer": "GAL",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Ooh and ___",
-        "answer": "AAH",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 17,
-        "clue": "Sports org. for Scottie Scheffler",
-        "answer": "PGA",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 18,
-        "clue": "Hey, just an F.Y.I. \u0000\u0000\u0000\u0000,\" informally",
-        "answer": "PSA",
-        "row": 6,
-        "col": 4
-      },
-      {
-        "num": 19,
-        "clue": "When doubled, nickname for singer Swift",
-        "answer": "TAY",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Socially timid",
-        "answer": "SHY",
-        "row": 7,
-        "col": 4
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Morning moisture",
-        "answer": "DEW",
+        "clue": "Jacksonville N.F.L. player, informally",
+        "answer": "JAG",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Game of Thrones\" or Homer's \"Odyssey",
-        "answer": "EPICSAGA",
+        "clue": "But this love is ___\" (Taylor Swift lyric)",
+        "answer": "OURS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Good sportsmanship",
-        "answer": "FAIRPLAY",
+        "clue": "Grumbly sort",
+        "answer": "CRANK",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "White mountain toppers",
-        "answer": "SNOWCAPS",
+        "clue": "Instrument that buzzes",
+        "answer": "KAZOO",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Unrestrained, as a dog at a park",
-        "answer": "OFFLEASH",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Sandwich that might be served \"triple-decker",
-        "answer": "BLT",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 12,
-        "clue": "Common battery type",
-        "answer": "AA",
-        "row": 3,
         "col": 3
       },
       {
-        "num": 14,
-        "clue": "Chat___",
-        "answer": "GPT",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "It's for horses, in a classic joke punchline",
-        "answer": "HAY",
-        "row": 5,
-        "col": 6
+        "num": 6,
+        "clue": "Uses needle and thread",
+        "answer": "SEWS",
+        "row": 1,
+        "col": 4
       }
     ]
   }
