@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "J",
-      "O",
-      "C",
-      "K",
+      "S",
+      "U",
+      "R",
+      "E",
       null
     ],
     [
-      "A",
-      "U",
-      "R",
-      "A",
-      "S"
+      "I",
+      "T",
+      "E",
+      "M",
+      null
     ],
     [
-      "G",
-      "R",
+      "P",
+      "I",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      null,
+      "L",
       "A",
-      "Z",
+      "T",
       "E"
     ],
     [
       null,
-      "S",
-      "N",
-      "O",
-      "W"
-    ],
-    [
-      null,
-      null,
-      "K",
-      "O",
-      "S"
+      "E",
+      "X",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Stereotypical wearer of a letterman jacket",
-        "answer": "JOCK",
+        "clue": "Yeah, why not!",
+        "answer": "SURE",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Surrounding glows",
-        "answer": "AURAS",
+        "clue": "Collector's ___",
+        "answer": "ITEM",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Eschew a heavy meal in favor of light snacks",
-        "answer": "GRAZE",
+        "num": 6,
+        "clue": "Worker who frequently takes off",
+        "answer": "PILOT",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "The white stuff?",
-        "answer": "SNOW",
+        "clue": "Stressful way to run",
+        "answer": "LATE",
         "row": 3,
         "col": 1
       },
       {
         "num": 9,
-        "clue": "M.M.A. fight enders, for short",
-        "answer": "KOS",
+        "clue": "Crossed (out)",
+        "answer": "EXED",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Jacksonville N.F.L. player, informally",
-        "answer": "JAG",
+        "clue": "Tiny drink",
+        "answer": "SIP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "But this love is ___\" (Taylor Swift lyric)",
-        "answer": "OURS",
+        "clue": "Useful ... or a useful draw in Scrabble when you have a \"Q",
+        "answer": "UTILE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Grumbly sort",
-        "answer": "CRANK",
+        "clue": "Chill",
+        "answer": "RELAX",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Instrument that buzzes",
-        "answer": "KAZOO",
+        "clue": "Be expressive with one's feelings",
+        "answer": "EMOTE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Uses needle and thread",
-        "answer": "SEWS",
-        "row": 1,
+        "num": 7,
+        "clue": "TV's \"___ Lasso",
+        "answer": "TED",
+        "row": 2,
         "col": 4
       }
     ]
