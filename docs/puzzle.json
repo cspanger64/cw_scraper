@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "S",
-      "U",
-      "R",
-      "E",
-      null
-    ],
-    [
-      "I",
-      "T",
-      "E",
-      "M",
-      null
-    ],
-    [
-      "P",
-      "I",
-      "L",
-      "O",
-      "T"
-    ],
-    [
       null,
-      "L",
-      "A",
-      "T",
+      "D",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "M",
+      "O",
+      "V",
+      "I",
       "E"
     ],
     [
-      null,
+      "A",
+      "T",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "S",
+      "H",
+      "R",
       "E",
-      "X",
+      "K"
+    ],
+    [
+      "K",
       "E",
-      "D"
+      "Y",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Yeah, why not!",
-        "answer": "SURE",
+        "clue": "When tripled, 'That's correct!'",
+        "answer": "DING",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Collector's ___",
-        "answer": "ITEM",
+        "clue": "'F1' or 'One Battle After Another'",
+        "answer": "MOVIE",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Worker who frequently takes off",
-        "answer": "PILOT",
+        "clue": "Make up for one's sins",
+        "answer": "ATONE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Stressful way to run",
-        "answer": "LATE",
+        "num": 7,
+        "clue": "Title film character who says 'That'll do, Donkey. That'll do'",
+        "answer": "SHREK",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Crossed (out)",
-        "answer": "EXED",
+        "num": 8,
+        "clue": "Pocket janglers",
+        "answer": "KEYS",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Tiny drink",
-        "answer": "SIP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Useful ... or a useful draw in Scrabble when you have a \"Q",
-        "answer": "UTILE",
+        "clue": "Words before 'math' or 'honors'",
+        "answer": "DOTHE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Chill",
-        "answer": "RELAX",
+        "num": 2,
+        "clue": "What the world's first chess set was carved from",
+        "answer": "IVORY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Be expressive with one's feelings",
-        "answer": "EMOTE",
+        "num": 3,
+        "clue": "Highest digits in Sudoku",
+        "answer": "NINES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "TV's \"___ Lasso",
-        "answer": "TED",
-        "row": 2,
+        "num": 4,
+        "clue": "Nerd",
+        "answer": "GEEK",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Cover up",
+        "answer": "MASK",
+        "row": 1,
+        "col": 0
       }
     ]
   }
