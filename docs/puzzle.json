@@ -6,36 +6,36 @@
   "grid": [
     [
       null,
+      "J",
+      "E",
       "D",
-      "I",
-      "N",
-      "G"
+      "I"
     ],
     [
-      "M",
+      null,
       "O",
-      "V",
-      "I",
-      "E"
-    ],
-    [
-      "A",
-      "T",
-      "O",
-      "N",
-      "E"
+      "X",
+      "E",
+      "N"
     ],
     [
       "S",
-      "H",
-      "R",
-      "E",
+      "K",
+      "U",
+      "N",
       "K"
     ],
     [
       "K",
-      "E",
-      "Y",
+      "I",
+      "L",
+      "T",
+      null
+    ],
+    [
+      "A",
+      "C",
+      "T",
       "S",
       null
     ]
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "When tripled, 'That's correct!'",
-        "answer": "DING",
+        "clue": "Any mentee of Yoda",
+        "answer": "JEDI",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "'F1' or 'One Battle After Another'",
-        "answer": "MOVIE",
+        "clue": "Plow pullers",
+        "answer": "OXEN",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Make up for one's sins",
-        "answer": "ATONE",
+        "clue": "Animal in the family Mephitidae, which comes from the Latin for \"stink",
+        "answer": "SKUNK",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Title film character who says 'That'll do, Donkey. That'll do'",
-        "answer": "SHREK",
+        "clue": "Scotsman's wear",
+        "answer": "KILT",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Pocket janglers",
-        "answer": "KEYS",
+        "clue": "Sections of a play",
+        "answer": "ACTS",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Words before 'math' or 'honors'",
-        "answer": "DOTHE",
+        "clue": "Nikola ___, three-time N.B.A. M.V.P. (2021, 2022 and 2024)",
+        "answer": "JOKIC",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "What the world's first chess set was carved from",
-        "answer": "IVORY",
+        "clue": "Jump for joy",
+        "answer": "EXULT",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Highest digits in Sudoku",
-        "answer": "NINES",
+        "clue": "Auto body issues",
+        "answer": "DENTS",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Nerd",
-        "answer": "GEEK",
+        "clue": "Tattoos, informally",
+        "answer": "INK",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Cover up",
-        "answer": "MASK",
-        "row": 1,
+        "num": 6,
+        "clue": "Music similar to reggae",
+        "answer": "SKA",
+        "row": 2,
         "col": 0
       }
     ]
