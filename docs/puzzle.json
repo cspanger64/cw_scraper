@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "J",
-      "E",
-      "D",
+      null,
+      "S",
+      "C",
       "I"
     ],
     [
       null,
-      "O",
-      "X",
-      "E",
-      "N"
-    ],
-    [
       "S",
-      "K",
-      "U",
       "N",
-      "K"
+      "O",
+      "B"
     ],
     [
-      "K",
+      "C",
+      "H",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "R",
+      "A",
       "I",
-      "L",
-      "T",
+      "N",
       null
     ],
     [
-      "A",
-      "C",
-      "T",
-      "S",
+      "U",
+      "G",
+      "L",
+      "Y",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Any mentee of Yoda",
-        "answer": "JEDI",
+        "clue": "Poli ___ (college major)",
+        "answer": "SCI",
         "row": 0,
-        "col": 1
+        "col": 2
       },
       {
-        "num": 5,
-        "clue": "Plow pullers",
-        "answer": "OXEN",
+        "num": 4,
+        "clue": "Person with a superior attitude",
+        "answer": "SNOB",
         "row": 1,
         "col": 1
       },
       {
-        "num": 6,
-        "clue": "Animal in the family Mephitidae, which comes from the Latin for \"stink",
-        "answer": "SKUNK",
+        "num": 5,
+        "clue": "Word whose letters are appropriately found from left to right in … CHARISMA",
+        "answer": "CHARM",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Scotsman's wear",
-        "answer": "KILT",
+        "num": 6,
+        "clue": "… PRECIPITATION",
+        "answer": "RAIN",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Sections of a play",
-        "answer": "ACTS",
+        "num": 7,
+        "clue": "… UNSIGHTLY",
+        "answer": "UGLY",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Nikola ___, three-time N.B.A. M.V.P. (2021, 2022 and 2024)",
-        "answer": "JOKIC",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Jump for joy",
-        "answer": "EXULT",
+        "clue": "Slow-moving creature",
+        "answer": "SNAIL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Auto body issues",
-        "answer": "DENTS",
+        "num": 2,
+        "clue": "Like a groan-inducing joke",
+        "answer": "CORNY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Tattoos, informally",
-        "answer": "INK",
+        "num": 3,
+        "clue": "Co. that created the first floppy disk",
+        "answer": "IBM",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "Music similar to reggae",
-        "answer": "SKA",
+        "num": 4,
+        "clue": "Furry variety of carpet",
+        "answer": "SHAG",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "World Class Wreckin' ___, music group in which Dr. Dre got his start",
+        "answer": "CRU",
         "row": 2,
         "col": 0
       }
