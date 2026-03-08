@@ -1,118 +1,174 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
+      null,
+      null,
+      null,
+      "H",
       "A",
-      "L",
-      "P",
-      "S",
-      null
+      "W",
+      "K"
     ],
     [
-      "B",
+      null,
+      null,
+      "Y",
       "O",
-      "I",
-      "N",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      null,
+      "P",
+      "E",
+      "T",
+      "D",
+      "O",
       "G"
     ],
     [
-      "E",
-      "R",
-      "N",
-      "I",
-      "E"
-    ],
-    [
-      null,
-      "D",
-      "U",
-      "D",
-      "E"
-    ],
-    [
-      null,
-      null,
       "P",
+      "O",
+      "S",
+      "T",
+      "I",
+      "T",
+      "S"
+    ],
+    [
+      "O",
+      "N",
+      "M",
+      "U",
+      "T",
       "E",
-      "Z"
+      null
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "B",
+      "S",
+      null,
+      null
+    ],
+    [
+      "H",
+      "E",
+      "N",
+      "S",
+      null,
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Mountains on an Evian bottle",
-        "answer": "ALPS",
+        "clue": "Bird with keen eyesight",
+        "answer": "HAWK",
         "row": 0,
-        "col": 0
+        "col": 3
       },
       {
         "num": 5,
-        "clue": "Sound effect for a pogo stick",
-        "answer": "BOING",
+        "clue": "With 8-Across, helpful comment to an oblivious video call participant",
+        "answer": "YOURE",
         "row": 1,
-        "col": 0
+        "col": 2
+      },
+      {
+        "num": 6,
+        "clue": "Scooby-Doo or Air Bud",
+        "answer": "PETDOG",
+        "row": 2,
+        "col": 1
       },
       {
         "num": 7,
-        "clue": "Bert's buddy",
-        "answer": "ERNIE",
-        "row": 2,
+        "clue": "Sticky notes",
+        "answer": "POSTITS",
+        "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Bruhhh!",
-        "answer": "DUDE",
-        "row": 3,
-        "col": 1
+        "clue": "See 5-Across",
+        "answer": "ONMUTE",
+        "row": 4,
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Candy with collectible dispensers",
-        "answer": "PEZ",
-        "row": 4,
-        "col": 2
+        "clue": "Protective layers over skin wounds",
+        "answer": "SCABS",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Roosters' mates",
+        "answer": "HENS",
+        "row": 6,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Presidential nickname of the 1860s",
-        "answer": "ABE",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "My Sweet ___\" (George Harrison song)",
-        "answer": "LORD",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Affix with a thumbtack",
-        "answer": "PINUP",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Like an unpleasant, mocking comment",
-        "answer": "SNIDE",
+        "clue": "Places to find some small jets",
+        "answer": "HOTTUBS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Good grief!",
-        "answer": "GEEZ",
-        "row": 1,
+        "num": 2,
+        "clue": "Reviews, as taxes",
+        "answer": "AUDITS",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 3,
+        "clue": "Texted or emailed, e.g.",
+        "answer": "WROTE",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 4,
+        "clue": "Barrels of beer",
+        "answer": "KEGS",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 5,
+        "clue": "Overagreeable underling",
+        "answer": "YESMAN",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "num": 6,
+        "clue": "Spanish conquistador ___ de Le\u0000f3n",
+        "answer": "PONCE",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Swanky, like a certain Spice Girl",
+        "answer": "POSH",
+        "row": 3,
+        "col": 0
       }
     ]
   }
