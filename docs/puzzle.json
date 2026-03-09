@@ -1,69 +1,41 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
       null,
-      null,
-      "H",
-      "A",
-      "W",
-      "K"
-    ],
-    [
-      null,
-      null,
-      "Y",
-      "O",
+      "G",
       "U",
-      "R",
-      "E"
+      "M"
     ],
     [
-      null,
-      "P",
-      "E",
-      "T",
       "D",
+      "I",
+      "R",
+      "T",
+      "Y"
+    ],
+    [
       "O",
-      "G"
+      "N",
+      "E",
+      "A",
+      "M"
     ],
     [
       "P",
-      "O",
-      "S",
-      "T",
       "I",
       "T",
-      "S"
-    ],
-    [
-      "O",
-      "N",
-      "M",
-      "U",
-      "T",
-      "E",
-      null
-    ],
-    [
-      "S",
-      "C",
-      "A",
-      "B",
-      "S",
-      null,
-      null
-    ],
-    [
       "H",
+      "Y"
+    ],
+    [
       "E",
-      "N",
-      "S",
-      null,
+      "T",
+      "A",
       null,
       null
     ]
@@ -72,103 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Bird with keen eyesight",
-        "answer": "HAWK",
+        "clue": "Chew on that!",
+        "answer": "GUM",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "With 8-Across, helpful comment to an oblivious video call participant",
-        "answer": "YOURE",
-        "row": 1,
         "col": 2
       },
       {
+        "num": 4,
+        "clue": "Like clothes in the hamper",
+        "answer": "DIRTY",
+        "row": 1,
+        "col": 0
+      },
+      {
         "num": 6,
-        "clue": "Scooby-Doo or Air Bud",
-        "answer": "PETDOG",
+        "clue": "Late time to stay up on a weekday",
+        "answer": "ONEAM",
         "row": 2,
-        "col": 1
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Sticky notes",
-        "answer": "POSTITS",
+        "clue": "Using few words effectively",
+        "answer": "PITHY",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "See 5-Across",
-        "answer": "ONMUTE",
+        "clue": "Traffic increases it, for short",
+        "answer": "ETA",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Protective layers over skin wounds",
-        "answer": "SCABS",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Roosters' mates",
-        "answer": "HENS",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Places to find some small jets",
-        "answer": "HOTTUBS",
+        "clue": "Climate activist Thunberg",
+        "answer": "GRETA",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Home to Capitol Reef National Park, which surprisingly is not by the ocean",
+        "answer": "UTAH",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "Reviews, as taxes",
-        "answer": "AUDITS",
+        "num": 3,
+        "clue": "Repeated exclamation",
+        "answer": "MYMY",
         "row": 0,
         "col": 4
       },
       {
-        "num": 3,
-        "clue": "Texted or emailed, e.g.",
-        "answer": "WROTE",
-        "row": 0,
-        "col": 5
-      },
-      {
         "num": 4,
-        "clue": "Barrels of beer",
-        "answer": "KEGS",
-        "row": 0,
-        "col": 6
+        "clue": "Freakin' awesome",
+        "answer": "DOPE",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Overagreeable underling",
-        "answer": "YESMAN",
+        "clue": "Rolling ___ (super rich)",
+        "answer": "INIT",
         "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "Spanish conquistador ___ de Le\u0000f3n",
-        "answer": "PONCE",
-        "row": 2,
         "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Swanky, like a certain Spice Girl",
-        "answer": "POSH",
-        "row": 3,
-        "col": 0
       }
     ]
   }
