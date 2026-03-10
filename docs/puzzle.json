@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "G",
-      "U",
-      "M"
+      "S",
+      "M",
+      "A",
+      "C",
+      "K"
     ],
     [
-      "D",
-      "I",
-      "R",
       "T",
-      "Y"
+      "A",
+      "B",
+      "L",
+      "E"
     ],
     [
+      "A",
+      "M",
       "O",
-      "N",
-      "E",
-      "A",
-      "M"
+      "U",
+      "R"
     ],
     [
-      "P",
+      "R",
       "I",
-      "T",
-      "H",
-      "Y"
+      "V",
+      "E",
+      "R"
     ],
     [
+      "S",
       "E",
-      "T",
-      "A",
-      null,
-      null
+      "E",
+      "D",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Chew on that!",
-        "answer": "GUM",
+        "clue": "Talk ___ (boastfully banter)",
+        "answer": "SMACK",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Like clothes in the hamper",
-        "answer": "DIRTY",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Late time to stay up on a weekday",
-        "answer": "ONEAM",
-        "row": 2,
+        "clue": "What has legs, but never walks?",
+        "answer": "TABLE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Using few words effectively",
-        "answer": "PITHY",
-        "row": 3,
+        "clue": "French for \"love",
+        "answer": "AMOUR",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Traffic increases it, for short",
-        "answer": "ETA",
+        "clue": "What has a mouth, but never talks?",
+        "answer": "RIVER",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Run-down in appearance",
+        "answer": "SEEDY",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Climate activist Thunberg",
-        "answer": "GRETA",
+        "clue": "Milky Way bits",
+        "answer": "STARS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "___ Eisenhower, 1950s first lady",
+        "answer": "MAMIE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Overhead",
+        "answer": "ABOVE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Home to Capitol Reef National Park, which surprisingly is not by the ocean",
-        "answer": "UTAH",
+        "num": 4,
+        "clue": "Given a crossword hint",
+        "answer": "CLUED",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Repeated exclamation",
-        "answer": "MYMY",
+        "num": 5,
+        "clue": "Actress Washington of \"Scandal",
+        "answer": "KERRY",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Freakin' awesome",
-        "answer": "DOPE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Rolling ___ (super rich)",
-        "answer": "INIT",
-        "row": 1,
-        "col": 1
       }
     ]
   }
