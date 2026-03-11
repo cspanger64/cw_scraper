@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "S",
-      "M",
-      "A",
-      "C",
-      "K"
-    ],
-    [
-      "T",
-      "A",
-      "B",
+      "F",
       "L",
-      "E"
+      "U",
+      "F",
+      "F"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "E",
+      "R"
     ],
     [
       "A",
       "M",
-      "O",
-      "U",
-      "R"
-    ],
-    [
-      "R",
       "I",
-      "V",
-      "E",
-      "R"
+      "N",
+      "O"
     ],
     [
-      "S",
-      "E",
-      "E",
+      "G",
+      "O",
+      "O",
       "D",
-      "Y"
+      "S"
+    ],
+    [
+      null,
+      null,
+      "N",
+      "I",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Talk ___ (boastfully banter)",
-        "answer": "SMACK",
+        "clue": "Writing that lacks substance",
+        "answer": "FLUFF",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "What has legs, but never walks?",
-        "answer": "TABLE",
+        "clue": "Pencil in a cosmetics bag",
+        "answer": "LINER",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "French for \"love",
-        "answer": "AMOUR",
+        "clue": "___ acid (building block of proteins)",
+        "answer": "AMINO",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "What has a mouth, but never talks?",
-        "answer": "RIVER",
+        "clue": "Partner of services, in economics",
+        "answer": "GOODS",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Run-down in appearance",
-        "answer": "SEEDY",
+        "clue": "Small criticism",
+        "answer": "NIT",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Milky Way bits",
-        "answer": "STARS",
+        "clue": "Warning sign in a relationship, metaphorically",
+        "answer": "FLAG",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "___ Eisenhower, 1950s first lady",
-        "answer": "MAMIE",
+        "clue": "Fancy prom ride",
+        "answer": "LIMO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Overhead",
-        "answer": "ABOVE",
+        "clue": "SAG-AFTRA, for one",
+        "answer": "UNION",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Given a crossword hint",
-        "answer": "CLUED",
+        "clue": "Luxury fashion house headquartered in Rome",
+        "answer": "FENDI",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Actress Washington of \"Scandal",
-        "answer": "KERRY",
+        "clue": "Ground coating on a cold morning",
+        "answer": "FROST",
         "row": 0,
         "col": 4
       }
