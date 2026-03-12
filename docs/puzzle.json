@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "F",
-      "L",
-      "U",
-      "F",
-      "F"
+      "P",
+      "S",
+      "Y",
+      "C",
+      "H"
     ],
     [
+      "S",
+      "C",
+      "A",
       "L",
-      "I",
-      "N",
-      "E",
-      "R"
+      "E"
+    ],
+    [
+      "H",
+      "O",
+      "H",
+      "U",
+      "M"
     ],
     [
       "A",
-      "M",
-      "I",
       "N",
-      "O"
+      "O",
+      "N",
+      null
     ],
     [
-      "G",
+      "W",
+      "E",
       "O",
-      "O",
-      "D",
-      "S"
-    ],
-    [
-      null,
-      null,
-      "N",
-      "I",
-      "T"
+      "K",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Writing that lacks substance",
-        "answer": "FLUFF",
+        "clue": "Study of the human mind, informally",
+        "answer": "PSYCH",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Pencil in a cosmetics bag",
-        "answer": "LINER",
+        "clue": "Common fixture in a gym bathroom",
+        "answer": "SCALE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "___ acid (building block of proteins)",
-        "answer": "AMINO",
+        "clue": "Kinda boring",
+        "answer": "HOHUM",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Partner of services, in economics",
-        "answer": "GOODS",
+        "clue": "Like a commenter without a username, for short",
+        "answer": "ANON",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Small criticism",
-        "answer": "NIT",
+        "clue": "All good between us?",
+        "answer": "WEOK",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Warning sign in a relationship, metaphorically",
-        "answer": "FLAG",
+        "clue": "Old-fashioned \"Yeah, right!",
+        "answer": "PSHAW",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Fancy prom ride",
-        "answer": "LIMO",
+        "clue": "Coffeehouse pastry",
+        "answer": "SCONE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "SAG-AFTRA, for one",
-        "answer": "UNION",
+        "clue": "Google alternative",
+        "answer": "YAHOO",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Luxury fashion house headquartered in Rome",
-        "answer": "FENDI",
+        "clue": "Sound of a dull thump",
+        "answer": "CLUNK",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Ground coating on a cold morning",
-        "answer": "FROST",
+        "clue": "Line on the bottom of a pant leg",
+        "answer": "HEM",
         "row": 0,
         "col": 4
       }
