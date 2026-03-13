@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "P",
       "S",
-      "Y",
+      "P",
+      "I",
       "C",
-      "H"
+      "Y"
     ],
     [
-      "S",
-      "C",
+      "H",
       "A",
+      "N",
+      "O",
+      "I"
+    ],
+    [
+      "I",
       "L",
+      "L",
+      "B",
       "E"
     ],
     [
-      "H",
-      "O",
-      "H",
-      "U",
-      "M"
-    ],
-    [
-      "A",
-      "N",
-      "O",
-      "N",
-      null
-    ],
-    [
-      "W",
+      "P",
       "E",
-      "O",
-      "K",
-      null
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      null,
+      null,
+      "W",
+      "A",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Study of the human mind, informally",
-        "answer": "PSYCH",
+        "clue": "Like jerk chicken and chicken vindaloo",
+        "answer": "SPICY",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Common fixture in a gym bathroom",
-        "answer": "SCALE",
+        "clue": "Capital of Vietnam",
+        "answer": "HANOI",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Kinda boring",
-        "answer": "HOHUM",
+        "clue": "Well, would ya look at that!",
+        "answer": "ILLBE",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Like a commenter without a username, for short",
-        "answer": "ANON",
+        "clue": "Gem in an oyster",
+        "answer": "PEARL",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "All good between us?",
-        "answer": "WEOK",
+        "clue": "Thick roll of cash",
+        "answer": "WAD",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Old-fashioned \"Yeah, right!",
-        "answer": "PSHAW",
+        "clue": "Part of a naval fleet",
+        "answer": "SHIP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Coffeehouse pastry",
-        "answer": "SCONE",
+        "clue": "The \"P\" in I.P.A.",
+        "answer": "PALE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Google alternative",
-        "answer": "YAHOO",
+        "clue": "Relative by marriage",
+        "answer": "INLAW",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Sound of a dull thump",
-        "answer": "CLUNK",
+        "clue": "King ___ (venomous snake)",
+        "answer": "COBRA",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Line on the bottom of a pant leg",
-        "answer": "HEM",
+        "clue": "Sign obeyed by merging traffic",
+        "answer": "YIELD",
         "row": 0,
         "col": 4
       }
