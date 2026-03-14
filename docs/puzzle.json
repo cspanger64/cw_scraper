@@ -1,118 +1,145 @@
 {
   "size": [
-    5,
-    5
+    6,
+    6
   ],
   "grid": [
     [
-      "S",
+      null,
+      null,
+      null,
+      "Y",
+      "A",
+      "S"
+    ],
+    [
+      null,
+      null,
+      "M",
+      "E",
+      "N",
+      "U"
+    ],
+    [
+      null,
       "P",
-      "I",
-      "C",
-      "Y"
+      "O",
+      "L",
+      "Y",
+      "P"
+    ],
+    [
+      "D",
+      "O",
+      "L",
+      "L",
+      "O",
+      "P"
     ],
     [
       "H",
-      "A",
-      "N",
       "O",
-      "I"
-    ],
-    [
-      "I",
-      "L",
-      "L",
-      "B",
+      "T",
+      "O",
+      "N",
       "E"
     ],
     [
-      "P",
-      "E",
-      "A",
-      "R",
-      "L"
-    ],
-    [
-      null,
-      null,
+      "S",
+      "L",
+      "O",
       "W",
-      "A",
-      "D"
+      "E",
+      "R"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Like jerk chicken and chicken vindaloo",
-        "answer": "SPICY",
+        "clue": "___, queen!",
+        "answer": "YAS",
         "row": 0,
-        "col": 0
+        "col": 3
+      },
+      {
+        "num": 4,
+        "clue": "Waiter's handout",
+        "answer": "MENU",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "num": 5,
+        "clue": "Tiny invertebrate that, when grouped in the thousands, makes up a coral",
+        "answer": "POLYP",
+        "row": 2,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Capital of Vietnam",
-        "answer": "HANOI",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Well, would ya look at that!",
-        "answer": "ILLBE",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Gem in an oyster",
-        "answer": "PEARL",
+        "clue": "Scoop of sour cream",
+        "answer": "DOLLOP",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Thick roll of cash",
-        "answer": "WAD",
+        "num": 7,
+        "clue": "Spicy wing, as seen on a popular YouTube talk show",
+        "answer": "HOTONE",
         "row": 4,
-        "col": 2
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Comparative suggested by this visual puzzle: PQRsTUV (Note: The s should be dropped down below the other letters in this clue.)",
+        "answer": "SLOWER",
+        "row": 5,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Part of a naval fleet",
-        "answer": "SHIP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "The \"P\" in I.P.A.",
-        "answer": "PALE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Relative by marriage",
-        "answer": "INLAW",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "King ___ (venomous snake)",
-        "answer": "COBRA",
+        "clue": "Like SpongeBob and Spirit airplanes",
+        "answer": "YELLOW",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Sign obeyed by merging traffic",
-        "answer": "YIELD",
+        "num": 2,
+        "clue": "Bueller ...? Bueller ...?",
+        "answer": "ANYONE",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 3,
+        "clue": "Meal suggested by this visual puzzle: pqrStuv (note: The \"S\" should be raised up above the other letters in this puzzle)",
+        "answer": "SUPPER",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 4,
+        "clue": "___ bene\" (Italian for \"very good\")",
+        "answer": "MOLTO",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "num": 5,
+        "clue": "Amenity in a Florida backyard, perhaps",
+        "answer": "POOL",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Agcy. at the center of a 2026 government shutdown",
+        "answer": "DHS",
+        "row": 3,
+        "col": 0
       }
     ]
   }
