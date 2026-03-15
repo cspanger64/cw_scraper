@@ -1,145 +1,188 @@
 {
   "size": [
-    6,
-    6
+    7,
+    7
   ],
   "grid": [
     [
       null,
       null,
-      null,
-      "Y",
-      "A",
-      "S"
-    ],
-    [
-      null,
-      null,
-      "M",
-      "E",
-      "N",
-      "U"
-    ],
-    [
-      null,
       "P",
-      "O",
-      "L",
+      "G",
+      "S",
+      null,
+      null
+    ],
+    [
+      null,
+      "W",
+      "A",
       "Y",
-      "P"
+      "M",
+      "O",
+      null
     ],
     [
-      "D",
+      "W",
+      "A",
+      "Y",
+      "M",
       "O",
-      "L",
-      "L",
-      "O",
-      "P"
-    ],
-    [
-      "H",
-      "O",
-      "T",
-      "O",
-      "N",
+      "R",
       "E"
     ],
     [
+      "A",
+      "I",
+      "R",
+      null,
+      "K",
+      "I",
+      "A"
+    ],
+    [
       "S",
-      "L",
+      "T",
+      "A",
+      "T",
+      "I",
       "O",
-      "W",
+      "N"
+    ],
+    [
+      null,
       "E",
-      "R"
+      "T",
+      "H",
+      "E",
+      "L",
+      null
+    ],
+    [
+      null,
+      "R",
+      "E",
+      "U",
+      "S",
+      "E",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___, queen!",
-        "answer": "YAS",
+        "clue": "Book parts: Abbr.",
+        "answer": "PGS",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Waiter's handout",
-        "answer": "MENU",
-        "row": 1,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Tiny invertebrate that, when grouped in the thousands, makes up a coral",
-        "answer": "POLYP",
-        "row": 2,
+        "num": 4,
+        "clue": "Silicon Valley company that operates a fleet of robotaxis",
+        "answer": "WAYMO",
+        "row": 1,
         "col": 1
       },
       {
         "num": 6,
-        "clue": "Scoop of sour cream",
-        "answer": "DOLLOP",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Spicy wing, as seen on a popular YouTube talk show",
-        "answer": "HOTONE",
-        "row": 4,
+        "clue": "To a much greater degree",
+        "answer": "WAYMORE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Comparative suggested by this visual puzzle: PQRsTUV (Note: The s should be dropped down below the other letters in this clue.)",
-        "answer": "SLOWER",
-        "row": 5,
+        "clue": "Contents of a scuba diver's tank",
+        "answer": "AIR",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "South Korean automaker",
+        "answer": "KIA",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Stop on a train route",
+        "answer": "STATION",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Actress Merman of \"Anything Goes",
+        "answer": "ETHEL",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Find another purpose for",
+        "answer": "REUSE",
+        "row": 6,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Like SpongeBob and Spirit airplanes",
-        "answer": "YELLOW",
+        "clue": "Employee's hourly calculation",
+        "answer": "PAYRATE",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Workout spot",
+        "answer": "GYM",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "Bueller ...? Bueller ...?",
-        "answer": "ANYONE",
+        "num": 3,
+        "clue": "Great\" mountains of Tennessee, familiarly",
+        "answer": "SMOKIES",
         "row": 0,
         "col": 4
       },
       {
-        "num": 3,
-        "clue": "Meal suggested by this visual puzzle: pqrStuv (note: The \"S\" should be raised up above the other letters in this puzzle)",
-        "answer": "SUPPER",
-        "row": 0,
-        "col": 5
-      },
-      {
         "num": 4,
-        "clue": "___ bene\" (Italian for \"very good\")",
-        "answer": "MOLTO",
+        "clue": "One giving you the dish?",
+        "answer": "WAITER",
         "row": 1,
-        "col": 2
-      },
-      {
-        "num": 5,
-        "clue": "Amenity in a Florida backyard, perhaps",
-        "answer": "POOL",
-        "row": 2,
         "col": 1
       },
       {
+        "num": 5,
+        "clue": "Baltimore M.L.B. player",
+        "answer": "ORIOLE",
+        "row": 1,
+        "col": 5
+      },
+      {
         "num": 6,
-        "clue": "Agcy. at the center of a 2026 government shutdown",
-        "answer": "DHS",
-        "row": 3,
+        "clue": "Used to be",
+        "answer": "WAS",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Suffix with Caesar or Euclid",
+        "answer": "EAN",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Night that NBC once aired \"30 Rock\" and \"The Office\": Abbr.",
+        "answer": "THU",
+        "row": 4,
+        "col": 3
       }
     ]
   }
