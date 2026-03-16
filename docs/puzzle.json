@@ -1,188 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      null,
-      null,
       "P",
+      "A",
       "G",
-      "S",
-      null,
-      null
-    ],
-    [
-      null,
-      "W",
-      "A",
-      "Y",
-      "M",
-      "O",
-      null
-    ],
-    [
-      "W",
-      "A",
-      "Y",
-      "M",
-      "O",
-      "R",
-      "E"
+      "E",
+      "R"
     ],
     [
       "A",
-      "I",
-      "R",
-      null,
-      "K",
-      "I",
+      "L",
+      "E",
+      "X",
       "A"
     ],
     [
-      "S",
-      "T",
-      "A",
-      "T",
-      "I",
+      "C",
       "O",
+      "N",
+      "A",
       "N"
     ],
     [
-      null,
-      "E",
+      "S",
       "T",
-      "H",
-      "E",
-      "L",
-      null
+      "U",
+      "C",
+      "K"
     ],
     [
       null,
-      "R",
-      "E",
-      "U",
+      null,
       "S",
-      "E",
-      null
+      "T",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Book parts: Abbr.",
-        "answer": "PGS",
+        "clue": "On-call doctor's device",
+        "answer": "PAGER",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Silicon Valley company that operates a fleet of robotaxis",
-        "answer": "WAYMO",
-        "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "To a much greater degree",
-        "answer": "WAYMORE",
+        "clue": "Amazon virtual assistant",
+        "answer": "ALEXA",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Host of the 2026 Oscars",
+        "answer": "CONAN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Contents of a scuba diver's tank",
-        "answer": "AIR",
+        "clue": "Stumped on a puzzle, say",
+        "answer": "STUCK",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "South Korean automaker",
-        "answer": "KIA",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 10,
-        "clue": "Stop on a train route",
-        "answer": "STATION",
+        "clue": "Aves. and blvds.",
+        "answer": "STS",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Actress Merman of \"Anything Goes",
-        "answer": "ETHEL",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "Find another purpose for",
-        "answer": "REUSE",
-        "row": 6,
-        "col": 1
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Employee's hourly calculation",
-        "answer": "PAYRATE",
+        "clue": "Election-influencing groups, for short",
+        "answer": "PACS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Quite a few",
+        "answer": "ALOT",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "The \"Tyrannosaurus\" of Tyrannosaurus rex",
+        "answer": "GENUS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Workout spot",
-        "answer": "GYM",
+        "num": 4,
+        "clue": "Right on",
+        "answer": "EXACT",
         "row": 0,
         "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Great\" mountains of Tennessee, familiarly",
-        "answer": "SMOKIES",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "One giving you the dish?",
-        "answer": "WAITER",
-        "row": 1,
-        "col": 1
       },
       {
         "num": 5,
-        "clue": "Baltimore M.L.B. player",
-        "answer": "ORIOLE",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Used to be",
-        "answer": "WAS",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Suffix with Caesar or Euclid",
-        "answer": "EAN",
-        "row": 2,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Night that NBC once aired \"30 Rock\" and \"The Office\": Abbr.",
-        "answer": "THU",
-        "row": 4,
-        "col": 3
+        "clue": "Puts in order from best to worst, maybe",
+        "answer": "RANKS",
+        "row": 0,
+        "col": 4
       }
     ]
   }
