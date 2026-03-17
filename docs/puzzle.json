@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "P",
-      "A",
-      "G",
-      "E",
-      "R"
+      "M",
+      "U",
+      "S",
+      "I",
+      "C"
     ],
     [
+      "O",
+      "H",
       "A",
-      "L",
-      "E",
-      "X",
+      "R",
       "A"
     ],
     [
-      "C",
-      "O",
-      "N",
-      "A",
-      "N"
+      "R",
+      "U",
+      "L",
+      "E",
+      "S"
     ],
     [
-      "S",
-      "T",
-      "U",
-      "C",
+      "P",
+      "R",
+      "A",
+      "N",
       "K"
     ],
     [
-      null,
-      null,
-      "S",
-      "T",
+      "H",
+      "A",
+      "D",
+      "E",
       "S"
     ]
   ],
@@ -44,73 +44,73 @@
     "across": [
       {
         "num": 1,
-        "clue": "On-call doctor's device",
-        "answer": "PAGER",
+        "clue": "Blues, e.g.",
+        "answer": "MUSIC",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Amazon virtual assistant",
-        "answer": "ALEXA",
+        "clue": "Late actress Catherine of \"Schitt's Creek",
+        "answer": "OHARA",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Host of the 2026 Oscars",
-        "answer": "CONAN",
+        "clue": "List included with a board game",
+        "answer": "RULES",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Stumped on a puzzle, say",
-        "answer": "STUCK",
+        "clue": "April Fools' shenanigan",
+        "answer": "PRANK",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Aves. and blvds.",
-        "answer": "STS",
+        "clue": "Greek god of the underworld",
+        "answer": "HADES",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Election-influencing groups, for short",
-        "answer": "PACS",
+        "clue": "Transform gradually",
+        "answer": "MORPH",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Quite a few",
-        "answer": "ALOT",
+        "clue": "Star Trek\" officer portrayed by Zoe Salda\u0000f1a",
+        "answer": "UHURA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "The \"Tyrannosaurus\" of Tyrannosaurus rex",
-        "answer": "GENUS",
+        "clue": "Greens, e.g.",
+        "answer": "SALAD",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Right on",
-        "answer": "EXACT",
+        "clue": "Woman's name that's an anagram of ERNIE",
+        "answer": "IRENE",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Puts in order from best to worst, maybe",
-        "answer": "RANKS",
+        "clue": "Containers for reds and whites",
+        "answer": "CASKS",
         "row": 0,
         "col": 4
       }
