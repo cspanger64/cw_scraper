@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "M",
-      "U",
-      "S",
-      "I",
-      "C"
-    ],
-    [
+      "C",
       "O",
-      "H",
       "A",
-      "R",
-      "A"
+      "C",
+      "H"
     ],
     [
+      "A",
+      "P",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "L",
+      "A",
+      "X"
+    ],
+    [
+      "D",
       "R",
       "U",
-      "L",
-      "E",
-      "S"
+      "M",
+      null
     ],
     [
-      "P",
-      "R",
+      "S",
       "A",
-      "N",
-      "K"
-    ],
-    [
-      "H",
-      "A",
-      "D",
-      "E",
-      "S"
+      "S",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Blues, e.g.",
-        "answer": "MUSIC",
+        "clue": "One drawing X's and O's",
+        "answer": "COACH",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Late actress Catherine of \"Schitt's Creek",
-        "answer": "OHARA",
+        "clue": "Company whose market cap (~$4 trillion) exceeds the G.D.P. of most countries",
+        "answer": "APPLE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "List included with a board game",
-        "answer": "RULES",
+        "clue": "Chill!",
+        "answer": "RELAX",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "April Fools' shenanigan",
-        "answer": "PRANK",
+        "clue": "Do some rhythmic tapping",
+        "answer": "DRUM",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Greek god of the underworld",
-        "answer": "HADES",
+        "clue": "Back talk",
+        "answer": "SASS",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Transform gradually",
-        "answer": "MORPH",
+        "clue": "What's the deal?",
+        "answer": "CARDS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Star Trek\" officer portrayed by Zoe Salda\u0000f1a",
-        "answer": "UHURA",
+        "clue": "The Phantom of the ___",
+        "answer": "OPERA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Greens, e.g.",
-        "answer": "SALAD",
+        "clue": "Excellent grade",
+        "answer": "APLUS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Woman's name that's an anagram of ERNIE",
-        "answer": "IRENE",
+        "clue": "Sandpipers dig for them in the sand",
+        "answer": "CLAMS",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Containers for reds and whites",
-        "answer": "CASKS",
+        "clue": "Evil spell",
+        "answer": "HEX",
         "row": 0,
         "col": 4
       }
