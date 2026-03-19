@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "C",
-      "O",
+      "F",
+      "L",
       "A",
-      "C",
+      "S",
       "H"
     ],
     [
-      "A",
-      "P",
-      "P",
       "L",
+      "A",
+      "N",
+      "C",
       "E"
     ],
     [
+      "O",
       "R",
-      "E",
-      "L",
+      "G",
       "A",
-      "X"
+      "N"
     ],
     [
-      "D",
-      "R",
-      "U",
-      "M",
+      "S",
+      "V",
+      "E",
+      "N",
       null
     ],
     [
       "S",
       "A",
-      "S",
-      "S",
+      "L",
+      "T",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "One drawing X's and O's",
-        "answer": "COACH",
+        "clue": "Word before \"card,\" flood\" or \"photography",
+        "answer": "FLASH",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Company whose market cap (~$4 trillion) exceeds the G.D.P. of most countries",
-        "answer": "APPLE",
+        "clue": "Joust weapon",
+        "answer": "LANCE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Chill!",
-        "answer": "RELAX",
+        "clue": "Brain, heart or lungs",
+        "answer": "ORGAN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Do some rhythmic tapping",
-        "answer": "DRUM",
+        "clue": "Frozen\" reindeer",
+        "answer": "SVEN",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Back talk",
-        "answer": "SASS",
+        "clue": "What can be found on frozen roads or frozen margaritas",
+        "answer": "SALT",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "What's the deal?",
-        "answer": "CARDS",
+        "clue": "Follow a dentist's recommendation",
+        "answer": "FLOSS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "The Phantom of the ___",
-        "answer": "OPERA",
+        "clue": "Baby bug",
+        "answer": "LARVA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Excellent grade",
-        "answer": "APLUS",
+        "clue": "Shape made in the snow",
+        "answer": "ANGEL",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Sandpipers dig for them in the sand",
-        "answer": "CLAMS",
+        "clue": "Very little",
+        "answer": "SCANT",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Evil spell",
-        "answer": "HEX",
+        "clue": "Egg layer",
+        "answer": "HEN",
         "row": 0,
         "col": 4
       }
