@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "F",
-      "L",
-      "A",
-      "S",
-      "H"
+      null,
+      null,
+      "B",
+      "O",
+      "O"
     ],
     [
-      "L",
-      "A",
+      null,
+      "P",
+      "O",
+      "O",
+      "F"
+    ],
+    [
       "N",
-      "C",
-      "E"
+      "I",
+      "G",
+      "H",
+      "T"
     ],
     [
       "O",
-      "R",
-      "G",
-      "A",
-      "N"
-    ],
-    [
-      "S",
-      "V",
-      "E",
       "N",
+      "E",
+      "S",
       null
     ],
     [
       "S",
-      "A",
-      "L",
-      "T",
+      "K",
+      "Y",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Word before \"card,\" flood\" or \"photography",
-        "answer": "FLASH",
+        "clue": "Ghost's word",
+        "answer": "BOO",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 6,
-        "clue": "Joust weapon",
-        "answer": "LANCE",
+        "num": 4,
+        "clue": "Magician's \"And just like that, it's gone!",
+        "answer": "POOF",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "Brain, heart or lungs",
-        "answer": "ORGAN",
+        "num": 5,
+        "clue": "With 7-Across, it's full of stars",
+        "answer": "NIGHT",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Frozen\" reindeer",
-        "answer": "SVEN",
+        "num": 6,
+        "clue": "White bills in Monopoly",
+        "answer": "ONES",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "What can be found on frozen roads or frozen margaritas",
-        "answer": "SALT",
+        "num": 7,
+        "clue": "See 5-Across",
+        "answer": "SKY",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Follow a dentist's recommendation",
-        "answer": "FLOSS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Baby bug",
-        "answer": "LARVA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Shape made in the snow",
-        "answer": "ANGEL",
+        "clue": "Score of 4 on a par 3",
+        "answer": "BOGEY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Very little",
-        "answer": "SCANT",
+        "num": 2,
+        "clue": "___ and aahs",
+        "answer": "OOHS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Egg layer",
-        "answer": "HEN",
+        "num": 3,
+        "clue": "Frequently, in poetry",
+        "answer": "OFT",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Like the sands of Harbour Island, Bahamas",
+        "answer": "PINK",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Dissenting votes",
+        "answer": "NOS",
+        "row": 2,
+        "col": 0
       }
     ]
   }
