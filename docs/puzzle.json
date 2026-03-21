@@ -7,36 +7,36 @@
     [
       null,
       null,
+      "T",
       "B",
-      "O",
-      "O"
+      "S"
     ],
     [
-      null,
-      "P",
+      "J",
+      "C",
       "O",
-      "O",
-      "F"
+      "L",
+      "E"
     ],
     [
-      "N",
+      "A",
+      "U",
+      "D",
       "I",
-      "G",
-      "H",
       "T"
     ],
     [
-      "O",
-      "N",
-      "E",
-      "S",
+      "C",
+      "R",
+      "A",
+      "P",
       null
     ],
     [
-      "S",
       "K",
+      "E",
       "Y",
-      null,
+      "S",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Ghost's word",
-        "answer": "BOO",
+        "clue": "Cable channel that airs March Madness games",
+        "answer": "TBS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Magician's \"And just like that, it's gone!",
-        "answer": "POOF",
+        "clue": "Rapper with the 2026 #1 album \"The Fall-Off",
+        "answer": "JCOLE",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "With 7-Across, it's full of stars",
-        "answer": "NIGHT",
-        "row": 2,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "White bills in Monopoly",
-        "answer": "ONES",
-        "row": 3,
+        "clue": "Review thoroughly, as taxes",
+        "answer": "AUDIT",
+        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "See 5-Across",
-        "answer": "SKY",
+        "clue": "Darn it!",
+        "answer": "CRAP",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Annoying things to realize you've left in the house",
+        "answer": "KEYS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Score of 4 on a par 3",
-        "answer": "BOGEY",
+        "clue": "Yesterday, tomorrow",
+        "answer": "TODAY",
         "row": 0,
         "col": 2
       },
       {
         "num": 2,
-        "clue": "___ and aahs",
-        "answer": "OOHS",
+        "clue": "Radar screen dots",
+        "answer": "BLIPS",
         "row": 0,
         "col": 3
       },
       {
         "num": 3,
-        "clue": "Frequently, in poetry",
-        "answer": "OFT",
+        "clue": "On your marks … get ___ …",
+        "answer": "SET",
         "row": 0,
         "col": 4
       },
       {
         "num": 4,
-        "clue": "Like the sands of Harbour Island, Bahamas",
-        "answer": "PINK",
+        "clue": "Playing card historically called a knave",
+        "answer": "JACK",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Dissenting votes",
-        "answer": "NOS",
-        "row": 2,
-        "col": 0
+        "clue": "Medical success",
+        "answer": "CURE",
+        "row": 1,
+        "col": 1
       }
     ]
   }
