@@ -1,41 +1,78 @@
 {
   "size": [
-    5,
-    5
+    8,
+    7
   ],
   "grid": [
     [
       null,
-      null,
-      "T",
-      "B",
-      "S"
-    ],
-    [
-      "J",
-      "C",
-      "O",
-      "L",
-      "E"
-    ],
-    [
-      "A",
-      "U",
-      "D",
-      "I",
-      "T"
-    ],
-    [
-      "C",
-      "R",
-      "A",
+      "K",
+      "E",
+      "E",
       "P",
+      null,
       null
     ],
     [
-      "K",
+      null,
       "E",
+      "D",
+      "G",
+      "A",
+      "R",
+      null
+    ],
+    [
+      "B",
       "Y",
+      "G",
+      "O",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "P",
+      "E",
+      null,
+      "G",
+      "M",
+      "T"
+    ],
+    [
+      "D",
+      "A",
+      "D",
+      null,
+      "R",
+      "O",
+      "Y"
+    ],
+    [
+      null,
+      "D",
+      "O",
+      "N",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      null,
+      "S",
+      "U",
+      "E",
+      "M",
+      "E",
+      null
+    ],
+    [
+      null,
+      null,
+      "T",
+      "O",
+      "S",
       "S",
       null
     ]
@@ -44,75 +81,131 @@
     "across": [
       {
         "num": 1,
-        "clue": "Cable channel that airs March Madness games",
-        "answer": "TBS",
+        "clue": "Spring Cleaning Box 1: I still love it!",
+        "answer": "KEEP",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Rapper with the 2026 #1 album \"The Fall-Off",
-        "answer": "JCOLE",
+        "num": 5,
+        "clue": "First name of poet Poe",
+        "answer": "EDGAR",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Review thoroughly, as taxes",
-        "answer": "AUDIT",
+        "num": 7,
+        "clue": "Let ___ be ___",
+        "answer": "BYGONES",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Darn it!",
-        "answer": "CRAP",
+        "num": 9,
+        "clue": "Gorilla or chimpanzee",
+        "answer": "APE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Annoying things to realize you've left in the house",
-        "answer": "KEYS",
+        "num": 10,
+        "clue": "Clock setting in the U.K.: Abbr.",
+        "answer": "GMT",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 11,
+        "clue": "Eugene Levy, to Dan Levy",
+        "answer": "DAD",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "___ G BIV (color mnemonic)",
+        "answer": "ROY",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 13,
+        "clue": "Spring Cleaning Box 2: Someone else will love it!",
+        "answer": "DONATE",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 15,
+        "clue": "If you don't like it, that's your problem!",
+        "answer": "SUEME",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "num": 16,
+        "clue": "Spring Cleaning Box 3: It's worthless!",
+        "answer": "TOSS",
+        "row": 7,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Yesterday, tomorrow",
-        "answer": "TODAY",
+        "clue": "Panels of buttons on which passcodes are entered",
+        "answer": "KEYPADS",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Just barely defeated",
+        "answer": "EDGEDOUT",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Radar screen dots",
-        "answer": "BLIPS",
+        "num": 3,
+        "clue": "A narcissist has a big one",
+        "answer": "EGO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "On your marks … get ___ …",
-        "answer": "SET",
+        "num": 4,
+        "clue": "High-scoring words in Spelling Bee",
+        "answer": "PANGRAMS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Playing card historically called a knave",
-        "answer": "JACK",
+        "num": 6,
+        "clue": "Channel changers",
+        "answer": "REMOTES",
         "row": 1,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "___ Bunny, musician known as the \"King of Latin Trap",
+        "answer": "BAD",
+        "row": 2,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Medical success",
-        "answer": "CURE",
-        "row": 1,
-        "col": 1
+        "num": 8,
+        "clue": "Painful eye malady",
+        "answer": "STYE",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 14,
+        "clue": "Prefix for a modern genre",
+        "answer": "NEO",
+        "row": 5,
+        "col": 3
       }
     ]
   }
