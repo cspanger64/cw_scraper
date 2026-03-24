@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "C",
-      "O",
-      "L",
-      "I",
-      "N"
+      null,
+      null,
+      "A",
+      "D",
+      "S"
     ],
     [
-      "R",
       "H",
-      "I",
-      "N",
+      "A",
+      "G",
+      "U",
       "E"
     ],
     [
       "A",
-      "A",
+      "W",
+      "O",
+      "K",
+      "E"
+    ],
+    [
+      "H",
+      "O",
       "N",
-      "D",
-      "W"
-    ],
-    [
-      "F",
-      "R",
-      "U",
-      "I",
-      "T"
-    ],
-    [
-      "T",
       "E",
-      "X",
+      "Y"
+    ],
+    [
       "A",
-      "S"
+      "L",
+      "Y",
+      "S",
+      "A"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Jost of \"Saturday Night Live",
-        "answer": "COLIN",
+        "clue": "Often-skipped parts of podcasts",
+        "answer": "ADS",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 6,
-        "clue": "German wine valley whose name rhymes with \"wine",
-        "answer": "RHINE",
+        "num": 4,
+        "clue": "Netherlands city that's home to the International Court of Justice, with \"The",
+        "answer": "HAGUE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Big name in root beer",
-        "answer": "AANDW",
+        "num": 6,
+        "clue": "Stopped sleeping",
+        "answer": "AWOKE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Common slot machine symbol",
-        "answer": "FRUIT",
+        "num": 7,
+        "clue": "Contents of a bear-shaped bottle",
+        "answer": "HONEY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "James Talarico's state",
-        "answer": "TEXAS",
+        "num": 8,
+        "clue": "___ Liu, gold medal-winning figure skater at the 2026 Olympics",
+        "answer": "ALYSA",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Cunning skill",
-        "answer": "CRAFT",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Chicago airport",
-        "answer": "OHARE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Operating system on which Android is partly based",
-        "answer": "LINUX",
+        "clue": "Sheer torment",
+        "answer": "AGONY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "World's most populous country",
-        "answer": "INDIA",
+        "num": 2,
+        "clue": "The ___ of Hazzard",
+        "answer": "DUKES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Small salamanders",
-        "answer": "NEWTS",
+        "num": 3,
+        "clue": "Catch you later!",
+        "answer": "SEEYA",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Text reaction button between \"\u001f\r\u001f\" and \"\u001f\u001f\u001f",
+        "answer": "HAHA",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Nowhere to be found, for short",
+        "answer": "AWOL",
+        "row": 1,
+        "col": 1
       }
     ]
   }
