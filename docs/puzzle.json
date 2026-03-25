@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      null,
+      "M",
       "A",
-      "D",
+      "C",
       "S"
     ],
     [
-      "H",
+      "M",
       "A",
-      "G",
-      "U",
-      "E"
+      "C",
+      "A",
+      "W"
     ],
     [
       "A",
-      "W",
+      "R",
       "O",
-      "K",
-      "E"
-    ],
-    [
-      "H",
-      "O",
-      "N",
-      "E",
-      "Y"
-    ],
-    [
-      "A",
-      "L",
-      "Y",
-      "S",
+      "M",
       "A"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "E",
+      "N"
+    ],
+    [
+      "K",
+      "E",
+      "N",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Often-skipped parts of podcasts",
-        "answer": "ADS",
+        "clue": "Apple computers",
+        "answer": "MACS",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Netherlands city that's home to the International Court of Justice, with \"The",
-        "answer": "HAGUE",
+        "num": 5,
+        "clue": "Colorful parrot with a long tail",
+        "answer": "MACAW",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Stopped sleeping",
-        "answer": "AWOKE",
+        "clue": "Enticing scent",
+        "answer": "AROMA",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Contents of a bear-shaped bottle",
-        "answer": "HONEY",
+        "clue": "__ song (dangerous lure)",
+        "answer": "SIREN",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "___ Liu, gold medal-winning figure skater at the 2026 Olympics",
-        "answer": "ALYSA",
+        "clue": "Barbie\" character whose job is \"beach",
+        "answer": "KEN",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Sheer torment",
-        "answer": "AGONY",
+        "clue": "Singing sister in the Osmond family",
+        "answer": "MARIE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Future oak tree, perhaps",
+        "answer": "ACORN",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "The ___ of Hazzard",
-        "answer": "DUKES",
+        "num": 3,
+        "clue": "Attended",
+        "answer": "CAME",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Catch you later!",
-        "answer": "SEEYA",
+        "num": 4,
+        "clue": "___ song (farewell performance)",
+        "answer": "SWAN",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Text reaction button between \"\u001f\r\u001f\" and \"\u001f\u001f\u001f",
-        "answer": "HAHA",
+        "num": 5,
+        "clue": "Conceal",
+        "answer": "MASK",
         "row": 1,
         "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Nowhere to be found, for short",
-        "answer": "AWOL",
-        "row": 1,
-        "col": 1
       }
     ]
   }
