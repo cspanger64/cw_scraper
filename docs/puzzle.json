@@ -5,35 +5,35 @@
   ],
   "grid": [
     [
-      null,
-      "M",
+      "B",
       "A",
-      "C",
-      "S"
+      "N",
+      "J",
+      "O"
     ],
     [
-      "M",
-      "A",
-      "C",
-      "A",
-      "W"
-    ],
-    [
-      "A",
-      "R",
       "O",
-      "M",
-      "A"
-    ],
-    [
-      "S",
+      "N",
       "I",
-      "R",
-      "E",
+      "O",
       "N"
     ],
     [
+      "A",
+      "N",
       "K",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "O",
+      "T",
+      null
+    ],
+    [
+      "D",
       "E",
       "N",
       null,
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Apple computers",
-        "answer": "MACS",
+        "clue": "Instrument in bluegrass music",
+        "answer": "BANJO",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Colorful parrot with a long tail",
-        "answer": "MACAW",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Enticing scent",
-        "answer": "AROMA",
-        "row": 2,
+        "clue": "Publication with the headline \"C.I.A. Realizes It's Been Using Black Highlighters All These Years,\" with \"The",
+        "answer": "ONION",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "__ song (dangerous lure)",
-        "answer": "SIREN",
-        "row": 3,
+        "clue": "Cut-off point for cropped jeans",
+        "answer": "ANKLE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Barbie\" character whose job is \"beach",
-        "answer": "KEN",
+        "clue": "Hilarious person",
+        "answer": "RIOT",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Place to hibernate",
+        "answer": "DEN",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Singing sister in the Osmond family",
-        "answer": "MARIE",
+        "clue": "Tens across the ___!",
+        "answer": "BOARD",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "1982 film in which Carol Burnett played Miss Hannigan",
+        "answer": "ANNIE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Future oak tree, perhaps",
-        "answer": "ACORN",
+        "num": 3,
+        "clue": "Japanese camera brand",
+        "answer": "NIKON",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Attended",
-        "answer": "CAME",
+        "num": 4,
+        "clue": "Sudden shock",
+        "answer": "JOLT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "___ song (farewell performance)",
-        "answer": "SWAN",
+        "num": 5,
+        "clue": "Final number in a countdown",
+        "answer": "ONE",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Conceal",
-        "answer": "MASK",
-        "row": 1,
-        "col": 0
       }
     ]
   }
