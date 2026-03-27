@@ -5,37 +5,37 @@
   ],
   "grid": [
     [
+      null,
+      "M",
       "B",
       "A",
-      "N",
-      "J",
-      "O"
+      "S"
     ],
     [
-      "O",
-      "N",
-      "I",
-      "O",
-      "N"
-    ],
-    [
+      null,
       "A",
-      "N",
-      "K",
       "L",
-      "E"
+      "L",
+      "I"
     ],
     [
-      "R",
-      "I",
-      "O",
-      "T",
-      null
+      "S",
+      "K",
+      "U",
+      "L",
+      "L"
     ],
     [
-      "D",
+      "F",
       "E",
-      "N",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "O",
+      "R",
+      "B",
       null,
       null
     ]
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Instrument in bluegrass music",
-        "answer": "BANJO",
+        "clue": "Degrees for boardroom execs",
+        "answer": "MBAS",
         "row": 0,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "___ want for Christmas ...",
+        "answer": "ALLI",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Publication with the headline \"C.I.A. Realizes It's Been Using Black Highlighters All These Years,\" with \"The",
-        "answer": "ONION",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Cut-off point for cropped jeans",
-        "answer": "ANKLE",
+        "clue": "What Hamlet holds while giving his \"Alas, poor Yorick!\" speech",
+        "answer": "SKULL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Hilarious person",
-        "answer": "RIOT",
+        "num": 7,
+        "clue": "Wild, as an animal",
+        "answer": "FERAL",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Place to hibernate",
-        "answer": "DEN",
+        "num": 8,
+        "clue": "Sphere",
+        "answer": "ORB",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Tens across the ___!",
-        "answer": "BOARD",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "1982 film in which Carol Burnett played Miss Hannigan",
-        "answer": "ANNIE",
+        "clue": "Word after \"match\" or \"mischief",
+        "answer": "MAKER",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Japanese camera brand",
-        "answer": "NIKON",
+        "num": 2,
+        "clue": "Bit of writing on a book jacket",
+        "answer": "BLURB",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Sudden shock",
-        "answer": "JOLT",
+        "num": 3,
+        "clue": "Penne ___ vodka",
+        "answer": "ALLA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Final number in a countdown",
-        "answer": "ONE",
+        "num": 4,
+        "clue": "Window ledge",
+        "answer": "SILL",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Bay Area airport, for short",
+        "answer": "SFO",
+        "row": 2,
+        "col": 0
       }
     ]
   }
