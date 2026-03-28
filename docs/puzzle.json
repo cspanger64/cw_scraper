@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
-      "M",
+      "I",
+      "N",
       "B",
-      "A",
+      "E",
+      "D"
+    ],
+    [
+      "T",
+      "O",
+      "L",
+      "L",
       "S"
     ],
     [
-      null,
-      "A",
-      "L",
-      "L",
-      "I"
-    ],
-    [
       "S",
-      "K",
-      "U",
+      "T",
+      "I",
       "L",
       "L"
     ],
     [
-      "F",
+      "M",
       "E",
-      "R",
-      "A",
-      "L"
+      "M",
+      "E",
+      null
     ],
     [
-      "O",
-      "R",
-      "B",
-      null,
+      "E",
+      "S",
+      "P",
+      "N",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Degrees for boardroom execs",
-        "answer": "MBAS",
+        "clue": "Bad place to spend time on your phone, it's said",
+        "answer": "INBED",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "___ want for Christmas ...",
-        "answer": "ALLI",
-        "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "What Hamlet holds while giving his \"Alas, poor Yorick!\" speech",
-        "answer": "SKULL",
-        "row": 2,
+        "clue": "Bridge-crossing fees",
+        "answer": "TOLLS",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Wild, as an animal",
-        "answer": "FERAL",
-        "row": 3,
+        "clue": "Yeah, but even so ...",
+        "answer": "STILL",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Sphere",
-        "answer": "ORB",
+        "clue": "Internet joke",
+        "answer": "MEME",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "SportsCenter\" channel",
+        "answer": "ESPN",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Word after \"match\" or \"mischief",
-        "answer": "MAKER",
+        "clue": "Words after a knock on the door",
+        "answer": "ITSME",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Material for a lecture",
+        "answer": "NOTES",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Bit of writing on a book jacket",
-        "answer": "BLURB",
+        "num": 3,
+        "clue": "Goodyear vehicle",
+        "answer": "BLIMP",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Penne ___ vodka",
-        "answer": "ALLA",
+        "num": 4,
+        "clue": "Comedian DeGeneres",
+        "answer": "ELLEN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Window ledge",
-        "answer": "SILL",
+        "num": 5,
+        "clue": "Broadband connection, for short",
+        "answer": "DSL",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Bay Area airport, for short",
-        "answer": "SFO",
-        "row": 2,
-        "col": 0
       }
     ]
   }
