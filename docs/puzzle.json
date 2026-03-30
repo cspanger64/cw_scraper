@@ -1,70 +1,42 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
-      null,
-      null,
-      "O",
       "P",
-      "T",
-      "S"
-    ],
-    [
-      null,
-      null,
-      "S",
-      "N",
-      "O",
-      "W",
-      "Y"
-    ],
-    [
-      null,
-      "S",
-      "T",
       "A",
-      "T",
+      "C",
+      "K"
+    ],
+    [
+      "L",
+      "I",
+      "N",
       "E",
       "N"
     ],
     [
-      "T",
-      "H",
-      "E",
-      "W",
-      "I",
-      "R",
+      "A",
+      "N",
+      "G",
+      "L",
       "E"
     ],
     [
-      "H",
-      "I",
-      "P",
-      "H",
+      "C",
+      "T",
+      "R",
+      "L",
+      "X"
+    ],
+    [
+      "Y",
       "O",
-      "P",
-      null
-    ],
-    [
-      "U",
-      "N",
-      "P",
-      "I",
-      "N",
-      null,
-      null
-    ],
-    [
-      "D",
-      "E",
-      "E",
-      "M",
-      null,
-      null,
+      "Y",
+      "O",
       null
     ]
   ],
@@ -72,102 +44,74 @@
     "across": [
       {
         "num": 1,
-        "clue": "Makes a choice, with \"for",
-        "answer": "OPTS",
+        "clue": "Prepare for a weekend getaway",
+        "answer": "PACK",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Like winters in Buffalo and Boulder",
-        "answer": "SNOWY",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "___ Island (N.Y.C. borough)",
-        "answer": "STATEN",
-        "row": 2,
         "col": 1
       },
       {
+        "num": 5,
+        "clue": "So-called \"king of summer fabrics",
+        "answer": "LINEN",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Go fishing",
+        "answer": "ANGLE",
+        "row": 2,
+        "col": 0
+      },
+      {
         "num": 7,
-        "clue": "HBO show that spawned the Idris Elba quote \"I want you to put the word out there, that we back up",
-        "answer": "THEWIRE",
+        "clue": "Cut\" command, on a keyboard",
+        "answer": "CTRLX",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Genre for Cardi B or Jay-Z",
-        "answer": "HIPHOP",
+        "clue": "___ Ma, 3-Down player who has performed for nine US presidents",
+        "answer": "YOYO",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Remove from the top of one's profile, as a post",
-        "answer": "UNPIN",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Consider to be",
-        "answer": "DEEM",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Done impulsively",
-        "answer": "ONAWHIM",
+        "clue": "Kind of bean in a burrito",
+        "answer": "PINTO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "More than a little irritated",
+        "answer": "ANGRY",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 3,
+        "clue": "See 8-Across",
+        "answer": "CELLO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "Magical concoction",
-        "answer": "POTION",
+        "num": 4,
+        "clue": "Building toy brand",
+        "answer": "KNEX",
         "row": 0,
         "col": 4
       },
       {
-        "num": 3,
-        "clue": "Little scamp",
-        "answer": "TWERP",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 4,
-        "clue": "Auld Lang ___",
-        "answer": "SYNE",
-        "row": 0,
-        "col": 6
-      },
-      {
         "num": 5,
-        "clue": "Vast Eurasian grassland",
-        "answer": "STEPPE",
+        "clue": "Like many wedding veils",
+        "answer": "LACY",
         "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "Follower of \"sun\" (for weather) or \"moon\" (for liquor)",
-        "answer": "SHINE",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Land with a ___ (fail)",
-        "answer": "THUD",
-        "row": 3,
         "col": 0
       }
     ]
