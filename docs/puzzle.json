@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "P",
-      "A",
-      "C",
-      "K"
+      "S",
+      "H",
+      "O",
+      "W",
+      null
     ],
     [
-      "L",
+      "M",
+      "A",
+      "U",
       "I",
-      "N",
-      "E",
-      "N"
+      null
     ],
     [
       "A",
-      "N",
-      "G",
-      "L",
-      "E"
-    ],
-    [
-      "C",
+      "S",
       "T",
       "R",
-      "L",
-      "X"
+      "A"
     ],
     [
-      "Y",
+      "S",
+      "T",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "H",
       "O",
-      "Y",
-      "O",
-      null
+      "R",
+      "S",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Prepare for a weekend getaway",
-        "answer": "PACK",
+        "clue": "Paradise\" or \"Lost",
+        "answer": "SHOW",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "So-called \"king of summer fabrics",
-        "answer": "LINEN",
+        "clue": "Hawaiian island with the famous Road to Hana",
+        "answer": "MAUI",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Go fishing",
-        "answer": "ANGLE",
+        "clue": "___Zeneca (pharma company)",
+        "answer": "ASTRA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Cut\" command, on a keyboard",
-        "answer": "CTRLX",
+        "num": 8,
+        "clue": "Stainless\" metal",
+        "answer": "STEEL",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "___ Ma, 3-Down player who has performed for nine US presidents",
-        "answer": "YOYO",
+        "num": 9,
+        "clue": "One half of a centaur",
+        "answer": "HORSE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Kind of bean in a burrito",
-        "answer": "PINTO",
+        "clue": "Massive success",
+        "answer": "SMASH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Must",
+        "answer": "HASTO",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "More than a little irritated",
-        "answer": "ANGRY",
+        "num": 3,
+        "clue": "___ boroughs (term for the non-Manhattan parts of New York City)",
+        "answer": "OUTER",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "See 8-Across",
-        "answer": "CELLO",
+        "num": 4,
+        "clue": "Electrician's specialty",
+        "answer": "WIRES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Building toy brand",
-        "answer": "KNEX",
-        "row": 0,
+        "num": 7,
+        "clue": "Bar beverage",
+        "answer": "ALE",
+        "row": 2,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Like many wedding veils",
-        "answer": "LACY",
-        "row": 1,
-        "col": 0
       }
     ]
   }
