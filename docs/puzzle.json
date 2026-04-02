@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "S",
-      "H",
-      "O",
+      null,
       "W",
-      null
-    ],
-    [
-      "M",
-      "A",
-      "U",
       "I",
-      null
-    ],
-    [
-      "A",
-      "S",
-      "T",
-      "R",
-      "A"
-    ],
-    [
-      "S",
-      "T",
-      "E",
-      "E",
-      "L"
-    ],
-    [
-      "H",
-      "O",
-      "R",
       "S",
       "E"
+    ],
+    [
+      "S",
+      "I",
+      "D",
+      "E",
+      "B"
+    ],
+    [
+      "A",
+      "D",
+      "L",
+      "I",
+      "B"
+    ],
+    [
+      "G",
+      "E",
+      "E",
+      "Z",
+      null
+    ],
+    [
+      "A",
+      "R",
+      "S",
+      "E",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Paradise\" or \"Lost",
-        "answer": "SHOW",
+        "clue": "Y Y Y Y Y Y Y",
+        "answer": "WISE",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Hawaiian island with the famous Road to Hana",
-        "answer": "MAUI",
+        "clue": "Back half of an old cassette tape",
+        "answer": "SIDEB",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "___Zeneca (pharma company)",
-        "answer": "ASTRA",
+        "clue": "Perform lines that aren't in the script",
+        "answer": "ADLIB",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Stainless\" metal",
-        "answer": "STEEL",
+        "num": 7,
+        "clue": "G G G G G G G",
+        "answer": "GEEZ",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "One half of a centaur",
-        "answer": "HORSE",
+        "num": 8,
+        "clue": "Butt, to Brits",
+        "answer": "ARSE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Massive success",
-        "answer": "SMASH",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Must",
-        "answer": "HASTO",
+        "clue": "Opposite of narrower",
+        "answer": "WIDER",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "___ boroughs (term for the non-Manhattan parts of New York City)",
-        "answer": "OUTER",
+        "num": 2,
+        "clue": "Keeps the engine on while parked",
+        "answer": "IDLES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Electrician's specialty",
-        "answer": "WIRES",
+        "num": 3,
+        "clue": "C C C C C C C",
+        "answer": "SEIZE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Bar beverage",
-        "answer": "ALE",
-        "row": 2,
+        "num": 4,
+        "clue": "___ and flow (tidal opposites)",
+        "answer": "EBB",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Long, epic tale",
+        "answer": "SAGA",
+        "row": 1,
+        "col": 0
       }
     ]
   }
