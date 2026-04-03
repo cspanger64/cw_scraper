@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
+      "O",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "C",
+      "R",
+      "O",
       "W",
-      "I",
-      "S",
+      "N"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
       "E"
     ],
     [
-      "S",
-      "I",
-      "D",
-      "E",
-      "B"
-    ],
-    [
+      "M",
       "A",
-      "D",
-      "L",
+      "C",
+      "E",
+      "S"
+    ],
+    [
       "I",
-      "B"
-    ],
-    [
-      "G",
-      "E",
-      "E",
-      "Z",
-      null
-    ],
-    [
-      "A",
-      "R",
-      "S",
-      "E",
+      "N",
+      "H",
+      "D",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Y Y Y Y Y Y Y",
-        "answer": "WISE",
+        "clue": "Man's name that's Italian for \"eight\"",
+        "answer": "OTTO",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Back half of an old cassette tape",
-        "answer": "SIDEB",
+        "clue": "Part of the Statue of Liberty that's accessed by a double-helix staircase",
+        "answer": "CROWN",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Perform lines that aren't in the script",
-        "answer": "ADLIB",
+        "clue": "See eye to eye",
+        "answer": "AGREE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "G G G G G G G",
-        "answer": "GEEZ",
+        "clue": "Spiked clubs used by knights",
+        "answer": "MACES",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Butt, to Brits",
-        "answer": "ARSE",
+        "clue": "Sharply clear, as a TV broadcast",
+        "answer": "INHD",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Opposite of narrower",
-        "answer": "WIDER",
+        "clue": "Instrument in a baseball stadium",
+        "answer": "ORGAN",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Keeps the engine on while parked",
-        "answer": "IDLES",
+        "clue": "Part of the Statue of Liberty that was once open to the public, but closed in 1916",
+        "answer": "TORCH",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "C C C C C C C",
-        "answer": "SEIZE",
+        "clue": "Coarse fabric for some suit jackets",
+        "answer": "TWEED",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "___ and flow (tidal opposites)",
-        "answer": "EBB",
+        "clue": "Column to the right of the tens",
+        "answer": "ONES",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Long, epic tale",
-        "answer": "SAGA",
+        "clue": "Woman's sleeveless undershirt, for short",
+        "answer": "CAMI",
         "row": 1,
         "col": 0
       }
