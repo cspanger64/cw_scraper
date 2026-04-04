@@ -1,42 +1,39 @@
 {
   "size": [
-    5,
-    5
+    4,
+    6
   ],
   "grid": [
     [
-      null,
-      "O",
-      "T",
-      "T",
-      "O"
-    ],
-    [
-      "C",
+      "S",
+      "P",
       "R",
-      "O",
-      "W",
-      "N"
-    ],
-    [
       "A",
-      "G",
-      "R",
-      "E",
-      "E"
-    ],
-    [
-      "M",
-      "A",
-      "C",
-      "E",
-      "S"
-    ],
-    [
-      "I",
       "N",
+      "G"
+    ],
+    [
       "H",
-      "D",
+      "O",
+      "O",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      "H",
+      "O",
+      "T",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      null,
+      "F",
+      "E",
+      "L",
+      "L",
       null
     ]
   ],
@@ -44,75 +41,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Man's name that's Italian for \"eight\"",
-        "answer": "OTTO",
+        "clue": "Jumped up ... or a season in the past tense?",
+        "answer": "SPRANG",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Part of the Statue of Liberty that's accessed by a double-helix staircase",
-        "answer": "CROWN",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "See eye to eye",
-        "answer": "AGREE",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Spiked clubs used by knights",
-        "answer": "MACES",
-        "row": 3,
+        "clue": "Basketball player, informally",
+        "answer": "HOOPER",
+        "row": 1,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Sharply clear, as a TV broadcast",
-        "answer": "INHD",
-        "row": 4,
+        "clue": "___ balloon",
+        "answer": "HOTAIR",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Tumbled down ... or a season in the past tense?",
+        "answer": "FELL",
+        "row": 3,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Instrument in a baseball stadium",
-        "answer": "ORGAN",
+        "clue": "Be quiet!",
+        "answer": "SHH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Sound of disappearance",
+        "answer": "POOF",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Part of the Statue of Liberty that was once open to the public, but closed in 1916",
-        "answer": "TORCH",
+        "num": 3,
+        "clue": "Memorization technique based on repetition",
+        "answer": "ROTE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Coarse fabric for some suit jackets",
-        "answer": "TWEED",
+        "num": 4,
+        "clue": "C'mon, be ___\" (\"Help me out\")",
+        "answer": "APAL",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Column to the right of the tens",
-        "answer": "ONES",
+        "num": 5,
+        "clue": "Astronaut Armstrong",
+        "answer": "NEIL",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Woman's sleeveless undershirt, for short",
-        "answer": "CAMI",
-        "row": 1,
-        "col": 0
+        "num": 6,
+        "clue": "Dog's warning",
+        "answer": "GRR",
+        "row": 0,
+        "col": 5
       }
     ]
   }
