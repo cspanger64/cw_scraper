@@ -1,115 +1,209 @@
 {
   "size": [
-    4,
-    6
+    7,
+    7
   ],
   "grid": [
     [
-      "S",
-      "P",
-      "R",
-      "A",
-      "N",
-      "G"
-    ],
-    [
-      "H",
-      "O",
-      "O",
-      "P",
       "E",
-      "R"
+      "M",
+      "O",
+      null,
+      "B",
+      "A",
+      "H"
     ],
     [
-      "H",
+      "B",
       "O",
-      "T",
+      "N",
+      null,
       "A",
+      "M",
+      "O"
+    ],
+    [
+      "B",
+      "L",
+      "E",
+      "N",
+      "D",
       "I",
-      "R"
+      "N"
     ],
     [
       null,
-      "F",
+      "D",
+      "A",
+      "Y",
+      "G",
+      "L",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "W",
+      "G",
       "E",
-      "L",
-      "L",
-      null
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "V",
+      "A",
+      null,
+      "R",
+      "T",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "Y",
+      null,
+      "S",
+      "E",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Jumped up ... or a season in the past tense?",
-        "answer": "SPRANG",
+        "clue": "Like this lyric: \"My heart is yours to fill or burst / To break or bury or wear as jewelry",
+        "answer": "EMO",
         "row": 0,
         "col": 0
       },
       {
+        "num": 4,
+        "clue": "Scrooge's cry before \"humbug",
+        "answer": "BAH",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 7,
-        "clue": "Basketball player, informally",
-        "answer": "HOOPER",
+        "clue": "___ appetit!",
+        "answer": "BON",
         "row": 1,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "___ balloon",
-        "answer": "HOTAIR",
+        "clue": "Te ___\" (\"I love you,\" in Spanish)",
+        "answer": "AMO",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 9,
+        "clue": "Use camouflage",
+        "answer": "BLENDIN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Tumbled down ... or a season in the past tense?",
-        "answer": "FELL",
+        "num": 11,
+        "clue": "Big name in fluorescent paint",
+        "answer": "DAYGLO",
         "row": 3,
         "col": 1
+      },
+      {
+        "num": 12,
+        "clue": "Transmission setting for a steep hill, maybe",
+        "answer": "LOWGEAR",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Egg cells",
+        "answer": "OVA",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "GPS suggestion: Abbr.",
+        "answer": "RTE",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "Like many Grindr users",
+        "answer": "GAY",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Go on dates with",
+        "answer": "SEE",
+        "row": 6,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Be quiet!",
-        "answer": "SHH",
+        "clue": "Recede, as the tide",
+        "answer": "EBB",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Sound of disappearance",
-        "answer": "POOF",
+        "clue": "Country between Ukraine and Romania",
+        "answer": "MOLDOVA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Memorization technique based on repetition",
-        "answer": "ROTE",
+        "clue": "Message in Connections when you almost get the category, but not quite",
+        "answer": "ONEAWAY",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "C'mon, be ___\" (\"Help me out\")",
-        "answer": "APAL",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Astronaut Armstrong",
-        "answer": "NEIL",
+        "clue": "Mammals whose name is a synonym of \"pesters",
+        "answer": "BADGERS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "Dog's warning",
-        "answer": "GRR",
+        "num": 5,
+        "clue": "Sorry, has the meeting started already?",
+        "answer": "AMILATE",
         "row": 0,
         "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Award recipient",
+        "answer": "HONOREE",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 10,
+        "clue": "The N.F.L.'s Giants, on scoreboards",
+        "answer": "NYG",
+        "row": 2,
+        "col": 3
+      },
+      {
+        "num": 12,
+        "clue": "Makeshift seat at a campfire",
+        "answer": "LOG",
+        "row": 4,
+        "col": 0
       }
     ]
   }
