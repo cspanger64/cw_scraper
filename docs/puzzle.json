@@ -1,208 +1,117 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "E",
-      "M",
-      "O",
       null,
-      "B",
-      "A",
-      "H"
+      "E",
+      "G",
+      "G",
+      "S"
     ],
     [
-      "B",
-      "O",
+      "S",
       "N",
-      null,
-      "A",
-      "M",
-      "O"
+      "O",
+      "O",
+      "P"
     ],
     [
-      "B",
-      "L",
-      "E",
-      "N",
+      "I",
       "D",
       "I",
-      "N"
+      "N",
+      "A"
+    ],
+    [
+      "B",
+      "U",
+      "N",
+      "N",
+      "Y"
     ],
     [
       null,
-      "D",
-      "A",
-      "Y",
-      "G",
-      "L",
-      "O"
-    ],
-    [
-      "L",
-      "O",
-      "W",
-      "G",
-      "E",
-      "A",
-      "R"
-    ],
-    [
-      "O",
-      "V",
-      "A",
-      null,
-      "R",
-      "T",
-      "E"
-    ],
-    [
+      "P",
       "G",
       "A",
-      "Y",
-      null,
-      "S",
-      "E",
-      "E"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Like this lyric: \"My heart is yours to fill or burst / To break or bury or wear as jewelry",
-        "answer": "EMO",
+        "clue": "Contents of an Easter basket",
+        "answer": "EGGS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Scrooge's cry before \"humbug",
-        "answer": "BAH",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 7,
-        "clue": "___ appetit!",
-        "answer": "BON",
+        "num": 5,
+        "clue": "Check out the contents of someone else's medicine cabinet, say",
+        "answer": "SNOOP",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Te ___\" (\"I love you,\" in Spanish)",
-        "answer": "AMO",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 9,
-        "clue": "Use camouflage",
-        "answer": "BLENDIN",
+        "num": 6,
+        "clue": "Menzel of Broadway",
+        "answer": "IDINA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Big name in fluorescent paint",
-        "answer": "DAYGLO",
+        "num": 7,
+        "clue": "Carrier of an Easter basket",
+        "answer": "BUNNY",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 12,
-        "clue": "Transmission setting for a steep hill, maybe",
-        "answer": "LOWGEAR",
+        "num": 8,
+        "clue": "Org. for Rory McIlroy",
+        "answer": "PGA",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Egg cells",
-        "answer": "OVA",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "GPS suggestion: Abbr.",
-        "answer": "RTE",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 15,
-        "clue": "Like many Grindr users",
-        "answer": "GAY",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Go on dates with",
-        "answer": "SEE",
-        "row": 6,
-        "col": 4
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Recede, as the tide",
-        "answer": "EBB",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Country between Ukraine and Romania",
-        "answer": "MOLDOVA",
+        "clue": "Turn out to be",
+        "answer": "ENDUP",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Message in Connections when you almost get the category, but not quite",
-        "answer": "ONEAWAY",
+        "num": 2,
+        "clue": "Where do you think you're ___?",
+        "answer": "GOING",
         "row": 0,
         "col": 2
       },
       {
+        "num": 3,
+        "clue": "About to, slangily",
+        "answer": "GONNA",
+        "row": 0,
+        "col": 3
+      },
+      {
         "num": 4,
-        "clue": "Mammals whose name is a synonym of \"pesters",
-        "answer": "BADGERS",
+        "clue": "Sterilize, as a cat",
+        "answer": "SPAY",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Sorry, has the meeting started already?",
-        "answer": "AMILATE",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Award recipient",
-        "answer": "HONOREE",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 10,
-        "clue": "The N.F.L.'s Giants, on scoreboards",
-        "answer": "NYG",
-        "row": 2,
-        "col": 3
-      },
-      {
-        "num": 12,
-        "clue": "Makeshift seat at a campfire",
-        "answer": "LOG",
-        "row": 4,
+        "clue": "Brother or sister, for short",
+        "answer": "SIB",
+        "row": 1,
         "col": 0
       }
     ]
