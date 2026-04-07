@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
-      "E",
-      "G",
-      "G",
-      "S"
-    ],
-    [
-      "S",
-      "N",
+      "V",
       "O",
-      "O",
-      "P"
-    ],
-    [
-      "I",
       "D",
-      "I",
-      "N",
+      "K",
       "A"
     ],
     [
-      "B",
-      "U",
-      "N",
-      "N",
+      "A",
+      "P",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "R",
       "Y"
     ],
     [
-      null,
-      "P",
-      "G",
+      "T",
+      "E",
+      "V",
       "A",
+      null
+    ],
+    [
+      null,
+      "D",
+      "E",
+      "N",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Contents of an Easter basket",
-        "answer": "EGGS",
+        "clue": "Transfusion cocktail = ___, ginger ale, grape juice and lime",
+        "answer": "VODKA",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Check out the contents of someone else's medicine cabinet, say",
-        "answer": "SNOOP",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Menzel of Broadway",
-        "answer": "IDINA",
-        "row": 2,
+        "clue": "Body guard?",
+        "answer": "APRON",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Carrier of an Easter basket",
-        "answer": "BUNNY",
-        "row": 3,
+        "clue": "Temporary Instagram update",
+        "answer": "STORY",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Org. for Rory McIlroy",
-        "answer": "PGA",
+        "clue": "Big name in hiking sandals",
+        "answer": "TEVA",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "TV room",
+        "answer": "DEN",
         "row": 4,
         "col": 1
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Turn out to be",
-        "answer": "ENDUP",
+        "clue": "Reaching far and wide",
+        "answer": "VAST",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Chose",
+        "answer": "OPTED",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Where do you think you're ___?",
-        "answer": "GOING",
+        "num": 3,
+        "clue": "Went by car",
+        "answer": "DROVE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "About to, slangily",
-        "answer": "GONNA",
+        "num": 4,
+        "clue": "Book in a mosque, using a non-standard spelling",
+        "answer": "KORAN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Sterilize, as a cat",
-        "answer": "SPAY",
+        "num": 5,
+        "clue": "Got ___ bright ideas?",
+        "answer": "ANY",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Brother or sister, for short",
-        "answer": "SIB",
-        "row": 1,
-        "col": 0
       }
     ]
   }
