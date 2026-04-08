@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "V",
-      "O",
-      "D",
-      "K",
+      null,
+      null,
+      "P",
+      "S",
       "A"
     ],
     [
+      null,
+      "H",
       "A",
-      "P",
-      "R",
-      "O",
-      "N"
+      "N",
+      "D"
     ],
     [
-      "S",
-      "T",
+      "B",
       "O",
       "R",
-      "Y"
+      "I",
+      "S"
     ],
     [
+      "O",
+      "M",
+      "I",
       "T",
-      "E",
-      "V",
-      "A",
       null
     ],
     [
-      null,
-      "D",
+      "X",
       "E",
-      "N",
+      "S",
+      null,
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Transfusion cocktail = ___, ginger ale, grape juice and lime",
-        "answer": "VODKA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Body guard?",
-        "answer": "APRON",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Temporary Instagram update",
-        "answer": "STORY",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Big name in hiking sandals",
-        "answer": "TEVA",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "TV room",
-        "answer": "DEN",
-        "row": 4,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Reaching far and wide",
-        "answer": "VAST",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Chose",
-        "answer": "OPTED",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Went by car",
-        "answer": "DROVE",
+        "clue": "Informative commercial, for short",
+        "answer": "PSA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Book in a mosque, using a non-standard spelling",
-        "answer": "KORAN",
+        "clue": "Something you trace to draw a Thanksgiving turkey",
+        "answer": "HAND",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "___ Johnson, former Prime Minister of the U.K.",
+        "answer": "BORIS",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Opposite of include",
+        "answer": "OMIT",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Crosses (out)",
+        "answer": "XES",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "City with the Notre-Dame Cathedral",
+        "answer": "PARIS",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Bad mood",
+        "answer": "SNIT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Got ___ bright ideas?",
-        "answer": "ANY",
+        "num": 3,
+        "clue": "About eight minutes of the average half-hour sitcom",
+        "answer": "ADS",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Remote worker's office, perhaps",
+        "answer": "HOME",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Word that can follow each group of circled letters (and hints at its shape)",
+        "answer": "BOX",
+        "row": 2,
+        "col": 0
       }
     ]
   }
