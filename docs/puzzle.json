@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "P",
-      "S",
-      "A"
-    ],
-    [
-      null,
-      "H",
-      "A",
-      "N",
-      "D"
-    ],
-    [
-      "B",
+      "C",
+      "L",
       "O",
+      "G",
+      null
+    ],
+    [
       "R",
+      "E",
+      "L",
       "I",
+      "C"
+    ],
+    [
+      "O",
+      "D",
+      "D",
+      "L",
+      "Y"
+    ],
+    [
+      "C",
+      "O",
+      "I",
+      "L",
       "S"
     ],
     [
-      "O",
-      "M",
-      "I",
-      "T",
-      null
-    ],
-    [
-      "X",
+      null,
+      "N",
       "E",
       "S",
-      null,
-      null
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Informative commercial, for short",
-        "answer": "PSA",
+        "clue": "Slip-on shoe ... or something you don't want in your bathtub",
+        "answer": "CLOG",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Something you trace to draw a Thanksgiving turkey",
-        "answer": "HAND",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "___ Johnson, former Prime Minister of the U.K.",
-        "answer": "BORIS",
-        "row": 2,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Opposite of include",
-        "answer": "OMIT",
-        "row": 3,
+        "num": 5,
+        "clue": "Ancient artifact",
+        "answer": "RELIC",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Crosses (out)",
-        "answer": "XES",
-        "row": 4,
+        "clue": "In a most unusual way",
+        "answer": "ODDLY",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Springs in a mattress",
+        "answer": "COILS",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Raven's haven",
+        "answer": "NEST",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "City with the Notre-Dame Cathedral",
-        "answer": "PARIS",
+        "clue": "Slip-on shoe .. or something you really don't want in your bathtub",
+        "answer": "CROC",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Strung along",
+        "answer": "LEDON",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Boomer's bop, nowadays",
+        "answer": "OLDIE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Bad mood",
-        "answer": "SNIT",
+        "num": 4,
+        "clue": "Breathing organs for fish",
+        "answer": "GILLS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "About eight minutes of the average half-hour sitcom",
-        "answer": "ADS",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Remote worker's office, perhaps",
-        "answer": "HOME",
+        "num": 6,
+        "clue": "Fluid-filled lump",
+        "answer": "CYST",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Word that can follow each group of circled letters (and hints at its shape)",
-        "answer": "BOX",
-        "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }
