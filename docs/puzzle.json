@@ -1,118 +1,181 @@
 {
   "size": [
-    5,
-    5
+    7,
+    6
   ],
   "grid": [
     [
-      "M",
-      "A",
-      "T",
+      "K",
+      "N",
+      "I",
       "C",
-      "H"
+      "K",
+      "S"
     ],
     [
-      "O",
-      "V",
+      "F",
       "A",
-      "R",
+      "N",
+      "B",
+      "O",
       "Y"
     ],
     [
-      "R",
-      "E",
       "C",
-      "A",
-      "P"
-    ],
-    [
-      "P",
-      "R",
+      "U",
+      "T",
+      "S",
       "I",
-      "M",
-      "E"
+      "N"
     ],
     [
-      "H",
+      null,
       "T",
-      "T",
-      "P",
+      "E",
+      "N",
+      null,
       null
+    ],
+    [
+      "B",
+      "I",
+      "G",
+      "E",
+      "G",
+      "O"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "W",
+      "I",
+      "N"
+    ],
+    [
+      "F",
+      "I",
+      "R",
+      "S",
+      "T",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Success on a dating app",
-        "answer": "MATCH",
+        "clue": "N.B.A. team that plays at M.S.G.",
+        "answer": "KNICKS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Egg-producing organ",
-        "answer": "OVARY",
+        "num": 7,
+        "clue": "Guy with a nerdy, passionate interest",
+        "answer": "FANBOY",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Summary of a sports game",
-        "answer": "RECAP",
+        "num": 8,
+        "clue": "Rudely merges",
+        "answer": "CUTSIN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Like 2011, 2017 and 2027",
-        "answer": "PRIME",
+        "num": 9,
+        "clue": "Standard number of bowling pins",
+        "answer": "TEN",
         "row": 3,
+        "col": 1
+      },
+      {
+        "num": 10,
+        "clue": "Inflated sense of one's own importance",
+        "answer": "BIGEGO",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "URL's start",
-        "answer": "HTTP",
-        "row": 4,
+        "num": 13,
+        "clue": "Arrived via airplane",
+        "answer": "FLEWIN",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "History-making achievements, perhaps",
+        "answer": "FIRSTS",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Transform (into)",
-        "answer": "MORPH",
+        "clue": "Colonel Sanders's fast-food chain",
+        "answer": "KFC",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Turn away, as one's gaze",
-        "answer": "AVERT",
+        "clue": "Spiral-shelled mollusks",
+        "answer": "NAUTILI",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Unspoken, but understood",
-        "answer": "TACIT",
+        "clue": "1, 2 or 3, but not 1.23",
+        "answer": "INTEGER",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Hand issue after writing for minutes on end, maybe",
-        "answer": "CRAMP",
+        "clue": "60 Minutes\" producer",
+        "answer": "CBSNEWS",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "___ train (collective excitement, in slang)",
-        "answer": "HYPE",
+        "clue": "Colorful pond fish",
+        "answer": "KOI",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Thesaurus listing: Abbr.",
+        "answer": "SYN",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 10,
+        "clue": "Closest pal, for short",
+        "answer": "BFF",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Go on, ___!\" (\"Scram!\")",
+        "answer": "GIT",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 12,
+        "clue": "Opposite of offs",
+        "answer": "ONS",
+        "row": 4,
+        "col": 5
       }
     ]
   }
