@@ -1,181 +1,118 @@
 {
   "size": [
-    7,
-    6
+    5,
+    5
   ],
   "grid": [
     [
+      null,
+      null,
       "K",
-      "N",
       "I",
-      "C",
-      "K",
-      "S"
+      "T"
     ],
     [
-      "F",
+      null,
+      "V",
       "A",
       "N",
-      "B",
-      "O",
-      "Y"
+      "E"
     ],
     [
-      "C",
-      "U",
-      "T",
-      "S",
-      "I",
-      "N"
-    ],
-    [
-      null,
       "T",
       "E",
-      "N",
-      null,
-      null
+      "P",
+      "I",
+      "D"
     ],
     [
       "B",
-      "I",
-      "G",
-      "E",
-      "G",
-      "O"
-    ],
-    [
-      "F",
-      "L",
-      "E",
-      "W",
-      "I",
-      "N"
-    ],
-    [
-      "F",
-      "I",
       "R",
-      "S",
-      "T",
-      "S"
+      "O",
+      "N",
+      "X"
+    ],
+    [
+      "H",
+      "A",
+      "W",
+      "K",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "N.B.A. team that plays at M.S.G.",
-        "answer": "KNICKS",
+        "clue": "First-aid case",
+        "answer": "KIT",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 7,
-        "clue": "Guy with a nerdy, passionate interest",
-        "answer": "FANBOY",
+        "num": 4,
+        "clue": "Rooster giving directions on a farm, maybe",
+        "answer": "VANE",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Rudely merges",
-        "answer": "CUTSIN",
+        "num": 5,
+        "clue": "Showing little enthusiasm",
+        "answer": "TEPID",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Standard number of bowling pins",
-        "answer": "TEN",
+        "num": 6,
+        "clue": "Borough said to be the birthplace of hip-hop",
+        "answer": "BRONX",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 10,
-        "clue": "Inflated sense of one's own importance",
-        "answer": "BIGEGO",
+        "num": 7,
+        "clue": "Bird of prey",
+        "answer": "HAWK",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Arrived via airplane",
-        "answer": "FLEWIN",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "History-making achievements, perhaps",
-        "answer": "FIRSTS",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Colonel Sanders's fast-food chain",
-        "answer": "KFC",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Spiral-shelled mollusks",
-        "answer": "NAUTILI",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "1, 2 or 3, but not 1.23",
-        "answer": "INTEGER",
+        "clue": "Bam!",
+        "answer": "KAPOW",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "60 Minutes\" producer",
-        "answer": "CBSNEWS",
+        "num": 2,
+        "clue": "Bold way to solve a print crossword",
+        "answer": "ININK",
         "row": 0,
         "col": 3
       },
       {
+        "num": 3,
+        "clue": "Spinoff of a popular lecture series",
+        "answer": "TEDX",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Aloe ___",
+        "answer": "VERA",
+        "row": 1,
+        "col": 1
+      },
+      {
         "num": 5,
-        "clue": "Colorful pond fish",
-        "answer": "KOI",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Thesaurus listing: Abbr.",
-        "answer": "SYN",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 10,
-        "clue": "Closest pal, for short",
-        "answer": "BFF",
-        "row": 4,
+        "clue": "Frankly ...,\" in a text",
+        "answer": "TBH",
+        "row": 2,
         "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "Go on, ___!\" (\"Scram!\")",
-        "answer": "GIT",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "Opposite of offs",
-        "answer": "ONS",
-        "row": 4,
-        "col": 5
       }
     ]
   }
