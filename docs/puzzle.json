@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
+      "S",
+      "T",
+      "A",
+      "R"
+    ],
+    [
       null,
-      "K",
+      "L",
+      "O",
+      "G",
+      "O"
+    ],
+    [
+      "V",
       "I",
+      "D",
+      "E",
+      "O"
+    ],
+    [
+      "I",
+      "D",
+      "O",
+      "N",
       "T"
     ],
     [
-      null,
-      "V",
-      "A",
       "N",
-      "E"
-    ],
-    [
-      "T",
       "E",
-      "P",
-      "I",
-      "D"
-    ],
-    [
-      "B",
-      "R",
-      "O",
-      "N",
-      "X"
-    ],
-    [
-      "H",
-      "A",
-      "W",
-      "K",
-      null
+      "S",
+      "T",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "First-aid case",
-        "answer": "KIT",
+        "clue": "Symbol in the middle of Captain America's shield",
+        "answer": "STAR",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Rooster giving directions on a farm, maybe",
-        "answer": "VANE",
-        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Showing little enthusiasm",
-        "answer": "TEPID",
+        "clue": "Chanel's interlocking C's, e.g.",
+        "answer": "LOGO",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Content creator's output",
+        "answer": "VIDEO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Borough said to be the birthplace of hip-hop",
-        "answer": "BRONX",
+        "num": 7,
+        "clue": "Two-word denial",
+        "answer": "IDONT",
         "row": 3,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Bird of prey",
-        "answer": "HAWK",
+        "num": 8,
+        "clue": "Fits one inside of the other",
+        "answer": "NESTS",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Bam!",
-        "answer": "KAPOW",
+        "clue": "Part of an office presentation",
+        "answer": "SLIDE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "List that might have check boxes",
+        "answer": "TODOS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Bold way to solve a print crossword",
-        "answer": "ININK",
+        "num": 3,
+        "clue": "Contract negotiator",
+        "answer": "AGENT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Spinoff of a popular lecture series",
-        "answer": "TEDX",
+        "num": 4,
+        "clue": "Jimmy Fallon's house band, with \"The",
+        "answer": "ROOTS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Aloe ___",
-        "answer": "VERA",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Frankly ...,\" in a text",
-        "answer": "TBH",
+        "num": 6,
+        "clue": "French for \"wine",
+        "answer": "VIN",
         "row": 2,
         "col": 0
       }
