@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      null,
-      "P",
-      "A",
-      "D"
+      "F",
+      "E",
+      "L",
+      "T"
     ],
     [
-      null,
-      "F",
-      "A",
-      "I",
+      "L",
+      "E",
+      "V",
+      "E",
       "R"
     ],
     [
-      "S",
-      "O",
-      "R",
-      "R",
+      "U",
+      "N",
+      "I",
+      "T",
       "Y"
     ],
     [
-      "O",
-      "U",
-      "T",
       "S",
-      null
+      "C",
+      "A",
+      "M",
+      "S"
     ],
     [
-      "S",
-      "L",
-      "Y",
-      null,
-      null
+      "T",
+      "E",
+      "N",
+      "E",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Word after \"lily\" or \"launch",
-        "answer": "PAD",
+        "clue": "Fabric used for casino tables",
+        "answer": "FELT",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "That criticism makes total sense!",
-        "answer": "FAIR",
-        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Apology after a 1-/4-Down",
-        "answer": "SORRY",
-        "row": 2,
+        "clue": "Pulling the ___ (outdated idiom for voting)",
+        "answer": "LEVER",
+        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Two in a double play",
-        "answer": "OUTS",
-        "row": 3,
+        "clue": "Togetherness",
+        "answer": "UNITY",
+        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Sneaky",
-        "answer": "SLY",
+        "clue": "Many emails with urgent, all-caps requests",
+        "answer": "SCAMS",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Basic belief",
+        "answer": "TENET",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "With 4-Down, spilling wine on the carpet or bringing uninvited guests",
-        "answer": "PARTY",
+        "clue": "What you might be \"on\" when you're undecided",
+        "answer": "FENCE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Bottled water brand",
+        "answer": "EVIAN",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Puts on TV",
-        "answer": "AIRS",
+        "num": 3,
+        "clue": "Here, I can do it",
+        "answer": "LETME",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Like summers in a Mediterranean climate",
-        "answer": "DRY",
+        "num": 4,
+        "clue": "Romantic rendezvous",
+        "answer": "TRYST",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "See 1-Down",
-        "answer": "FOUL",
-        "row": 1,
-        "col": 1
-      },
-      {
         "num": 5,
-        "clue": "Castaway's call for help",
-        "answer": "SOS",
-        "row": 2,
+        "clue": "What might lead to a romantic rendezvous",
+        "answer": "LUST",
+        "row": 1,
         "col": 0
       }
     ]
