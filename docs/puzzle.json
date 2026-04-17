@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "F",
-      "E",
-      "L",
-      "T"
+      "P",
+      "A",
+      "S",
+      "T",
+      "A"
     ],
     [
-      "L",
-      "E",
-      "V",
+      "U",
+      "P",
+      "P",
       "E",
       "R"
     ],
     [
-      "U",
-      "N",
-      "I",
-      "T",
-      "Y"
-    ],
-    [
-      "S",
       "C",
+      "R",
       "A",
-      "M",
-      "S"
+      "N",
+      "E"
     ],
     [
-      "T",
+      "K",
+      "O",
+      "R",
       "E",
+      "A"
+    ],
+    [
+      null,
       "N",
       "E",
-      "T"
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Fabric used for casino tables",
-        "answer": "FELT",
+        "clue": "Bow ties and ribbons that you can't wear?",
+        "answer": "PASTA",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Pulling the ___ (outdated idiom for voting)",
-        "answer": "LEVER",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Togetherness",
-        "answer": "UNITY",
-        "row": 2,
+        "clue": "Opposite of lower",
+        "answer": "UPPER",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Many emails with urgent, all-caps requests",
-        "answer": "SCAMS",
-        "row": 3,
+        "clue": "Flappable origami creation",
+        "answer": "CRANE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Basic belief",
-        "answer": "TENET",
-        "row": 4,
+        "clue": "Where the Hangul alphabet is used",
+        "answer": "KOREA",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Apparatus under a trapeze",
+        "answer": "NET",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "What you might be \"on\" when you're undecided",
-        "answer": "FENCE",
+        "clue": "Disc dropped on center ice",
+        "answer": "PUCK",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "One might read \"Kiss the Chef\"",
+        "answer": "APRON",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Bottled water brand",
-        "answer": "EVIAN",
+        "num": 3,
+        "clue": "Unlikely outcome after a 7-10 split",
+        "answer": "SPARE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Here, I can do it",
-        "answer": "LETME",
+        "num": 4,
+        "clue": "Fundamental belief",
+        "answer": "TENET",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Romantic rendezvous",
-        "answer": "TRYST",
+        "num": 5,
+        "clue": "Bay ___ (part of California)",
+        "answer": "AREA",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "What might lead to a romantic rendezvous",
-        "answer": "LUST",
-        "row": 1,
-        "col": 0
       }
     ]
   }
