@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "P",
       "A",
+      "H",
+      "H",
+      null,
+      null
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "M",
+      null
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "I",
+      "N"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "N",
+      "A"
+    ],
+    [
       "S",
       "T",
-      "A"
-    ],
-    [
-      "U",
-      "P",
-      "P",
-      "E",
-      "R"
-    ],
-    [
-      "C",
       "R",
-      "A",
-      "N",
-      "E"
-    ],
-    [
-      "K",
-      "O",
-      "R",
-      "E",
-      "A"
-    ],
-    [
-      null,
-      "N",
-      "E",
-      "T",
-      null
+      "I",
+      "P"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Bow ties and ribbons that you can't wear?",
-        "answer": "PASTA",
+        "clue": "Sound made while sinking into a hot tub",
+        "answer": "AHH",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Opposite of lower",
-        "answer": "UPPER",
+        "num": 4,
+        "clue": "March Madness pick",
+        "answer": "TEAM",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Flappable origami creation",
-        "answer": "CRANE",
+        "num": 6,
+        "clue": "Like \"status quo\" and \"mea culpa",
+        "answer": "LATIN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Where the Hangul alphabet is used",
-        "answer": "KOREA",
+        "clue": "Large venue for a comedian",
+        "answer": "ARENA",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Apparatus under a trapeze",
-        "answer": "NET",
+        "clue": "Piece of bacon",
+        "answer": "STRIP",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Disc dropped on center ice",
-        "answer": "PUCK",
+        "clue": "Book of maps",
+        "answer": "ATLAS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "One might read \"Kiss the Chef\"",
-        "answer": "APRON",
+        "clue": "❤️",
+        "answer": "HEART",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Unlikely outcome after a 7-10 split",
-        "answer": "SPARE",
+        "clue": "Constant critic",
+        "answer": "HATER",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Fundamental belief",
-        "answer": "TENET",
-        "row": 0,
+        "num": 5,
+        "clue": "Car that's easy to park",
+        "answer": "MINI",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Bay ___ (part of California)",
-        "answer": "AREA",
-        "row": 0,
+        "num": 7,
+        "clue": "Much of the afternoon, for a toddler",
+        "answer": "NAP",
+        "row": 2,
         "col": 4
       }
     ]
