@@ -1,118 +1,188 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "A",
-      "H",
-      "H",
+      null,
+      null,
+      "G",
+      "U",
+      "M",
       null,
       null
     ],
     [
-      "T",
-      "E",
+      null,
+      "G",
+      "R",
       "A",
-      "M",
+      "C",
+      "E",
       null
     ],
     [
-      "L",
-      "A",
-      "T",
+      null,
+      "N",
       "I",
-      "N"
+      "E",
+      "L",
+      "S",
+      null
     ],
     [
       "A",
-      "R",
+      "I",
+      "M",
+      null,
+      "O",
+      "P",
+      "S"
+    ],
+    [
+      "P",
+      "G",
+      "M",
+      "O",
+      "V",
+      "I",
+      "E"
+    ],
+    [
+      "T",
+      "H",
       "E",
-      "N",
-      "A"
+      "V",
+      "I",
+      "E",
+      "W"
     ],
     [
       "S",
       "T",
       "R",
-      "I",
-      "P"
+      "A",
+      "N",
+      "D",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sound made while sinking into a hot tub",
-        "answer": "AHH",
+        "clue": "What people pay Extra for?",
+        "answer": "GUM",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
         "num": 4,
-        "clue": "March Madness pick",
-        "answer": "TEAM",
+        "clue": "Pre-meal prayer",
+        "answer": "GRACE",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Like \"status quo\" and \"mea culpa",
-        "answer": "LATIN",
+        "clue": "Physicist Bohr",
+        "answer": "NIELS",
         "row": 2,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Large venue for a comedian",
-        "answer": "ARENA",
+        "num": 7,
+        "clue": "Line up a shot",
+        "answer": "AIM",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Piece of bacon",
-        "answer": "STRIP",
+        "num": 8,
+        "clue": "Photo ___ (P.R. events)",
+        "answer": "OPS",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Zootopia,\" but not \"Zoolander",
+        "answer": "PGMOVIE",
         "row": 4,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "TV show with the initials \"TV",
+        "answer": "THEVIEW",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "New York Times game with weaving, interconnected answers",
+        "answer": "STRANDS",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Book of maps",
-        "answer": "ATLAS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "❤️",
-        "answer": "HEART",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Constant critic",
-        "answer": "HATER",
+        "clue": "More bleak",
+        "answer": "GRIMMER",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Car that's easy to park",
-        "answer": "MINI",
-        "row": 1,
+        "num": 2,
+        "clue": "Dubai's country, for short",
+        "answer": "UAE",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Much of the afternoon, for a toddler",
-        "answer": "NAP",
-        "row": 2,
+        "num": 3,
+        "clue": "Nickname of Seth and Evan's friend in \"Superbad",
+        "answer": "MCLOVIN",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "See you in the mornin'!",
+        "answer": "GNIGHT",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Fancy term for \"noticed",
+        "answer": "ESPIED",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "Many N.Y.C. addresses: Abbr.",
+        "answer": "APTS",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Uses a needle and thread",
+        "answer": "SEWS",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Egg cells",
+        "answer": "OVA",
+        "row": 4,
+        "col": 3
       }
     ]
   }
