@@ -1,188 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
-      null,
-      "G",
-      "U",
-      "M",
-      null,
-      null
-    ],
-    [
-      null,
-      "G",
       "R",
-      "A",
-      "C",
-      "E",
-      null
-    ],
-    [
-      null,
-      "N",
-      "I",
-      "E",
-      "L",
-      "S",
-      null
-    ],
-    [
-      "A",
-      "I",
-      "M",
-      null,
-      "O",
-      "P",
-      "S"
-    ],
-    [
-      "P",
+      "B",
       "G",
-      "M",
+      null
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "T",
       "O",
-      "V",
-      "I",
+      "N",
       "E"
     ],
     [
-      "T",
-      "H",
-      "E",
-      "V",
+      "N",
       "I",
-      "E",
-      "W"
+      "N",
+      "J",
+      "A"
     ],
     [
-      "S",
-      "T",
-      "R",
-      "A",
-      "N",
+      "K",
+      "O",
       "D",
-      "S"
+      "A",
+      "K"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "What people pay Extra for?",
-        "answer": "GUM",
+        "clue": "The Notorious ___ (longtime Supreme Court nickname)",
+        "answer": "RBG",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "Pre-meal prayer",
-        "answer": "GRACE",
+        "clue": "Islamic equivalent of kosher",
+        "answer": "HALAL",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Physicist Bohr",
-        "answer": "NIELS",
+        "clue": "Repent for one's wrongs",
+        "answer": "ATONE",
         "row": 2,
-        "col": 1
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Line up a shot",
-        "answer": "AIM",
+        "clue": "Warrior with throwing stars called shuriken",
+        "answer": "NINJA",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Photo ___ (P.R. events)",
-        "answer": "OPS",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 10,
-        "clue": "Zootopia,\" but not \"Zoolander",
-        "answer": "PGMOVIE",
+        "clue": "Camera brand that really had a moment?",
+        "answer": "KODAK",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "TV show with the initials \"TV",
-        "answer": "THEVIEW",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "New York Times game with weaving, interconnected answers",
-        "answer": "STRANDS",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "More bleak",
-        "answer": "GRIMMER",
+        "clue": "3:2 or 5:4",
+        "answer": "RATIO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Like some light hair and light ales",
+        "answer": "BLOND",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Dubai's country, for short",
-        "answer": "UAE",
+        "num": 3,
+        "clue": "Weed",
+        "answer": "GANJA",
         "row": 0,
         "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Nickname of Seth and Evan's friend in \"Superbad",
-        "answer": "MCLOVIN",
-        "row": 0,
-        "col": 4
       },
       {
         "num": 4,
-        "clue": "See you in the mornin'!",
-        "answer": "GNIGHT",
+        "clue": "Nickname for Henry",
+        "answer": "HANK",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Fancy term for \"noticed",
-        "answer": "ESPIED",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "Many N.Y.C. addresses: Abbr.",
-        "answer": "APTS",
-        "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Uses a needle and thread",
-        "answer": "SEWS",
-        "row": 3,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Egg cells",
-        "answer": "OVA",
-        "row": 4,
-        "col": 3
+        "num": 5,
+        "clue": "News story from an undisclosed source",
+        "answer": "LEAK",
+        "row": 1,
+        "col": 4
       }
     ]
   }
