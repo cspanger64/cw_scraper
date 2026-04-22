@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "R",
-      "B",
-      "G",
-      null
+      null,
+      "A",
+      "P",
+      "T"
     ],
     [
-      "H",
-      "A",
-      "L",
-      "A",
-      "L"
-    ],
-    [
-      "A",
-      "T",
+      "C",
       "O",
+      "L",
+      "O",
+      "R"
+    ],
+    [
+      "A",
       "N",
+      "I",
+      "S",
       "E"
     ],
     [
-      "N",
-      "I",
-      "N",
-      "J",
-      "A"
+      "S",
+      "T",
+      "A",
+      "T",
+      "E"
     ],
     [
-      "K",
-      "O",
-      "D",
-      "A",
-      "K"
+      "E",
+      "V",
+      "S",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "The Notorious ___ (longtime Supreme Court nickname)",
-        "answer": "RBG",
+        "clue": "Like the name Phil Quickley, for a speedy crossword solver?",
+        "answer": "APT",
         "row": 0,
-        "col": 1
+        "col": 2
       },
       {
         "num": 4,
-        "clue": "Islamic equivalent of kosher",
-        "answer": "HALAL",
+        "clue": "What connects these names: Al Green, Betty White, Rose Byrne",
+        "answer": "COLOR",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Repent for one's wrongs",
-        "answer": "ATONE",
+        "clue": "Star ___ (plant with a pointy pod)",
+        "answer": "ANISE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Warrior with throwing stars called shuriken",
-        "answer": "NINJA",
+        "clue": "What connects these names: Tennessee Williams, Georgia O'Keeffe, Denzel Washington",
+        "answer": "STATE",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Camera brand that really had a moment?",
-        "answer": "KODAK",
+        "clue": "Teslas and Rivians, for short",
+        "answer": "EVS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "3:2 or 5:4",
-        "answer": "RATIO",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Like some light hair and light ales",
-        "answer": "BLOND",
+        "clue": "Assumed name",
+        "answer": "ALIAS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Weed",
-        "answer": "GANJA",
+        "num": 2,
+        "clue": "Washington paper",
+        "answer": "POST",
         "row": 0,
         "col": 3
       },
       {
+        "num": 3,
+        "clue": "What connects these names: Chris Pine, Zach Cherry, Willow Smith",
+        "answer": "TREE",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 4,
-        "clue": "Nickname for Henry",
-        "answer": "HANK",
+        "clue": "Detective's assignment",
+        "answer": "CASE",
         "row": 1,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "News story from an undisclosed source",
-        "answer": "LEAK",
+        "clue": "Currently broadcasted",
+        "answer": "ONTV",
         "row": 1,
-        "col": 4
+        "col": 1
       }
     ]
   }
