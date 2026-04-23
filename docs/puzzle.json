@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "A",
-      "P",
-      "T"
-    ],
-    [
-      "C",
-      "O",
+      "G",
       "L",
-      "O",
-      "R"
-    ],
-    [
       "A",
-      "N",
-      "I",
       "S",
-      "E"
-    ],
-    [
-      "S",
-      "T",
-      "A",
-      "T",
-      "E"
+      "S"
     ],
     [
       "E",
+      "A",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "T",
+      "U",
+      "B",
+      "E",
+      "R"
+    ],
+    [
+      "G",
+      "R",
+      "O",
       "V",
-      "S",
-      null,
-      null
+      "E"
+    ],
+    [
+      "O",
+      "A",
+      "R",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Like the name Phil Quickley, for a speedy crossword solver?",
-        "answer": "APT",
+        "clue": "It's clearly recyclable!",
+        "answer": "GLASS",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "What connects these names: Al Green, Betty White, Rose Byrne",
-        "answer": "COLOR",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Star ___ (plant with a pointy pod)",
-        "answer": "ANISE",
-        "row": 2,
+        "clue": "___ Day (April 22nd observance)",
+        "answer": "EARTH",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "What connects these names: Tennessee Williams, Georgia O'Keeffe, Denzel Washington",
-        "answer": "STATE",
-        "row": 3,
+        "clue": "Thick, underground part of a plant stem",
+        "answer": "TUBER",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Teslas and Rivians, for short",
-        "answer": "EVS",
+        "clue": "Small cluster of trees",
+        "answer": "GROVE",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Rowed, as a boat",
+        "answer": "OARED",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Assumed name",
-        "answer": "ALIAS",
+        "clue": "From the ___ (right at the beginning)",
+        "answer": "GETGO",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Author Ingalls Wilder who wrote \"Little House on the Prairie",
+        "answer": "LAURA",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "___ Day, observance on the last Friday of April",
+        "answer": "ARBOR",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Washington paper",
-        "answer": "POST",
+        "num": 4,
+        "clue": "Actor Buscemi",
+        "answer": "STEVE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "What connects these names: Chris Pine, Zach Cherry, Willow Smith",
-        "answer": "TREE",
+        "num": 5,
+        "clue": "Rip into bits, as paper",
+        "answer": "SHRED",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Detective's assignment",
-        "answer": "CASE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Currently broadcasted",
-        "answer": "ONTV",
-        "row": 1,
-        "col": 1
       }
     ]
   }
