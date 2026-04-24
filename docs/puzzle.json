@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "G",
-      "L",
-      "A",
-      "S",
-      "S"
+      null,
+      "T",
+      "Y",
+      "P",
+      "O"
     ],
     [
+      null,
+      "R",
+      "E",
+      "I",
+      "D"
+    ],
+    [
+      "W",
       "E",
       "A",
-      "R",
-      "T",
-      "H"
-    ],
-    [
-      "T",
-      "U",
-      "B",
-      "E",
-      "R"
-    ],
-    [
-      "G",
-      "R",
-      "O",
       "V",
       "E"
     ],
     [
-      "O",
-      "A",
-      "R",
+      "H",
       "E",
-      "D"
+      "R",
+      "O",
+      null
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "It's clearly recyclable!",
-        "answer": "GLASS",
+        "clue": "Reason to edit a text message",
+        "answer": "TYPO",
         "row": 0,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "___ Wiseman, commander on NASA's Artemis II mission",
+        "answer": "REID",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "___ Day (April 22nd observance)",
-        "answer": "EARTH",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Thick, underground part of a plant stem",
-        "answer": "TUBER",
+        "clue": "Artificial hair extension",
+        "answer": "WEAVE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Small cluster of trees",
-        "answer": "GROVE",
+        "num": 7,
+        "clue": "Batman or Superman",
+        "answer": "HERO",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Rowed, as a boat",
-        "answer": "OARED",
+        "num": 8,
+        "clue": "Manager's helper: Abbr.",
+        "answer": "ASST",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "From the ___ (right at the beginning)",
-        "answer": "GETGO",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Author Ingalls Wilder who wrote \"Little House on the Prairie",
-        "answer": "LAURA",
+        "clue": "Things that families and forests both have",
+        "answer": "TREES",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "___ Day, observance on the last Friday of April",
-        "answer": "ARBOR",
+        "num": 2,
+        "clue": "1,000 make up a millennium",
+        "answer": "YEARS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Actor Buscemi",
-        "answer": "STEVE",
+        "num": 3,
+        "clue": "Quickly change the topic",
+        "answer": "PIVOT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Rip into bits, as paper",
-        "answer": "SHRED",
+        "num": 4,
+        "clue": "Laudatory poem",
+        "answer": "ODE",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Huh ...?",
+        "answer": "WHA",
+        "row": 2,
+        "col": 0
       }
     ]
   }
