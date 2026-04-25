@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
-      "T",
-      "Y",
-      "P",
-      "O"
-    ],
-    [
-      null,
+      "D",
       "R",
-      "E",
-      "I",
-      "D"
-    ],
-    [
-      "W",
-      "E",
       "A",
-      "V",
-      "E"
+      "M",
+      "A"
     ],
     [
-      "H",
+      "Q",
+      "U",
       "E",
-      "R",
+      "E",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "L",
+      "T"
+    ],
+    [
+      null,
+      "H",
+      "O",
       "O",
       null
     ],
     [
-      "A",
+      null,
       "S",
-      "S",
-      "T",
+      "U",
+      "N",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Reason to edit a text message",
-        "answer": "TYPO",
+        "clue": "With 6-Across, kind of person who loves when things are messy",
+        "answer": "DRAMA",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "___ Wiseman, commander on NASA's Artemis II mission",
-        "answer": "REID",
-        "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Artificial hair extension",
-        "answer": "WEAVE",
-        "row": 2,
+        "clue": "See 1-Across",
+        "answer": "QUEEN",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Batman or Superman",
-        "answer": "HERO",
-        "row": 3,
+        "clue": "Circus prop that provides extra height",
+        "answer": "STILT",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Manager's helper: Abbr.",
-        "answer": "ASST",
+        "clue": "___ boy!",
+        "answer": "HOO",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 9,
+        "clue": "Hoped-for symbol on a weather app",
+        "answer": "SUN",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Things that families and forests both have",
-        "answer": "TREES",
+        "clue": "Tosses out of a competition, informally",
+        "answer": "DQS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "___ Chris Steak House (restaurant chain)",
+        "answer": "RUTHS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "1,000 make up a millennium",
-        "answer": "YEARS",
+        "num": 3,
+        "clue": "Vowel quintet",
+        "answer": "AEIOU",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Quickly change the topic",
-        "answer": "PIVOT",
+        "num": 4,
+        "clue": "Fruit that's often in an Edible Arrangement",
+        "answer": "MELON",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Laudatory poem",
-        "answer": "ODE",
+        "num": 5,
+        "clue": "Crumb-carrying insect",
+        "answer": "ANT",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Huh ...?",
-        "answer": "WHA",
-        "row": 2,
-        "col": 0
       }
     ]
   }
