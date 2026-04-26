@@ -1,118 +1,230 @@
 {
   "size": [
-    5,
-    5
+    7,
+    8
   ],
   "grid": [
     [
-      "D",
-      "R",
-      "A",
-      "M",
+      "C",
+      "H",
+      "I",
+      "P",
+      null,
+      "T",
+      "B",
       "A"
     ],
     [
-      "Q",
-      "U",
+      "A",
+      "I",
+      "M",
+      "E",
+      null,
+      "H",
+      "E",
+      "M"
+    ],
+    [
+      "T",
+      "H",
+      "I",
+      "R",
+      "T",
       "E",
       "E",
       "N"
     ],
     [
-      "S",
+      "C",
+      "O",
       "T",
-      "I",
-      "L",
+      null,
+      "A",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "G",
+      "R",
+      "A",
+      "M",
+      "S"
+    ],
+    [
+      "F",
+      "E",
+      "T",
+      "A",
+      null,
+      "V",
+      "A",
       "T"
     ],
     [
-      null,
-      "H",
-      "O",
-      "O",
-      null
-    ],
-    [
+      "E",
+      "Y",
+      "E",
+      "S",
       null,
       "S",
-      "U",
-      "N",
-      null
+      "T",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "With 6-Across, kind of person who loves when things are messy",
-        "answer": "DRAMA",
+        "clue": "Ruffle or Pringle",
+        "answer": "CHIP",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "See 1-Across",
-        "answer": "QUEEN",
+        "num": 5,
+        "clue": "Still unscheduled, abbr.",
+        "answer": "TBA",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 8,
+        "clue": "Je t'___ (French \"I love you\")",
+        "answer": "AIME",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Circus prop that provides extra height",
-        "answer": "STILT",
+        "num": 9,
+        "clue": "Tailor's line",
+        "answer": "HEM",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 10,
+        "clue": "Eleven plus two, or twelve plus one",
+        "answer": "THIRTEEN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "___ boy!",
-        "answer": "HOO",
+        "num": 12,
+        "clue": "Rollaway extra for a hotel room, maybe",
+        "answer": "COT",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Hoped-for symbol on a weather app",
-        "answer": "SUN",
+        "num": 13,
+        "clue": "Unit of farmland",
+        "answer": "ACRE",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "\"Eleven plus two\" and \"twelve plus one,\" e.g.",
+        "answer": "ANAGRAMS",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Cheese found in spanakopita",
+        "answer": "FETA",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 17,
+        "clue": "Big tub",
+        "answer": "VAT",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 18,
+        "clue": "Emoji used to mean \"Ooh, interesting\"",
+        "answer": "EYES",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 19,
+        "clue": "Messy, muddy home",
+        "answer": "STY",
+        "row": 6,
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Tosses out of a competition, informally",
-        "answer": "DQS",
+        "clue": "Business with cappuccinos and cuddly kittens",
+        "answer": "CATCAFE",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "___ Chris Steak House (restaurant chain)",
-        "answer": "RUTHS",
+        "clue": "Dear, I'm home!",
+        "answer": "HIHONEY",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Vowel quintet",
-        "answer": "AEIOU",
+        "clue": "Act like",
+        "answer": "IMITATE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Fruit that's often in an Edible Arrangement",
-        "answer": "MELON",
+        "clue": "The \"/\" in km/h",
+        "answer": "PER",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Crumb-carrying insect",
-        "answer": "ANT",
+        "clue": "Cleveland N.B.A. team, to fans",
+        "answer": "THECAVS",
         "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Cardboard coaster at a pub",
+        "answer": "BEERMAT",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Legal immunity, as granted through a pardon",
+        "answer": "ANMESTY",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 11,
+        "clue": "Pine ___ (slugger's sticky stuff)",
+        "answer": "TAR",
+        "row": 2,
         "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "Alternative to electric, for a stove",
+        "answer": "GAS",
+        "row": 4,
+        "col": 3
       }
     ]
   }
