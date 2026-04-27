@@ -1,230 +1,118 @@
 {
   "size": [
-    7,
-    8
+    5,
+    5
   ],
   "grid": [
     [
-      "C",
-      "H",
-      "I",
-      "P",
       null,
-      "T",
-      "B",
+      "C",
+      "A",
+      "S",
       "A"
     ],
     [
-      "A",
-      "I",
-      "M",
-      "E",
-      null,
-      "H",
-      "E",
-      "M"
-    ],
-    [
-      "T",
-      "H",
-      "I",
-      "R",
-      "T",
-      "E",
-      "E",
-      "N"
-    ],
-    [
-      "C",
-      "O",
-      "T",
       null,
       "A",
-      "C",
-      "R",
-      "E"
-    ],
-    [
-      "A",
-      "N",
-      "A",
-      "G",
-      "R",
-      "A",
-      "M",
+      "P",
+      "P",
       "S"
     ],
     [
-      "F",
-      "E",
-      "T",
-      "A",
-      null,
-      "V",
-      "A",
-      "T"
+      "S",
+      "N",
+      "L",
+      "U",
+      "K"
     ],
     [
-      "E",
-      "Y",
+      "H",
+      "O",
+      "U",
+      "R",
+      null
+    ],
+    [
+      "H",
       "E",
       "S",
-      null,
       "S",
-      "T",
-      "Y"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Ruffle or Pringle",
-        "answer": "CHIP",
+        "clue": "Alternative to electric, for a stove",
+        "answer": "CASA",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Still unscheduled, abbr.",
-        "answer": "TBA",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 8,
-        "clue": "Je t'___ (French \"I love you\")",
-        "answer": "AIME",
+        "clue": "Developer's projects",
+        "answer": "APPS",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 9,
-        "clue": "Tailor's line",
-        "answer": "HEM",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 10,
-        "clue": "Eleven plus two, or twelve plus one",
-        "answer": "THIRTEEN",
+        "num": 6,
+        "clue": "Sketch comedy spinoff launched on March 21, 2026",
+        "answer": "SNLUK",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Rollaway extra for a hotel room, maybe",
-        "answer": "COT",
+        "num": 7,
+        "clue": "One of 24",
+        "answer": "HOUR",
         "row": 3,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Unit of farmland",
-        "answer": "ACRE",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 14,
-        "clue": "\"Eleven plus two\" and \"twelve plus one,\" e.g.",
-        "answer": "ANAGRAMS",
+        "num": 8,
+        "clue": "Gas brand with a green-and-white logo",
+        "answer": "HESS",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Cheese found in spanakopita",
-        "answer": "FETA",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "Big tub",
-        "answer": "VAT",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 18,
-        "clue": "Emoji used to mean \"Ooh, interesting\"",
-        "answer": "EYES",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 19,
-        "clue": "Messy, muddy home",
-        "answer": "STY",
-        "row": 6,
-        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Business with cappuccinos and cuddly kittens",
-        "answer": "CATCAFE",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Dear, I'm home!",
-        "answer": "HIHONEY",
+        "clue": "Kayak alternative",
+        "answer": "CANOE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Act like",
-        "answer": "IMITATE",
+        "num": 2,
+        "clue": "Great grade",
+        "answer": "APLUS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "The \"/\" in km/h",
-        "answer": "PER",
+        "num": 3,
+        "clue": "N.B.A. team with the 7'4'' star Victor Wembanyama",
+        "answer": "SPURS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Cleveland N.B.A. team, to fans",
-        "answer": "THECAVS",
+        "num": 4,
+        "clue": "___ not what your country can do for you ...",
+        "answer": "ASK",
         "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Cardboard coaster at a pub",
-        "answer": "BEERMAT",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 7,
-        "clue": "Legal immunity, as granted through a pardon",
-        "answer": "ANMESTY",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 11,
-        "clue": "Pine ___ (slugger's sticky stuff)",
-        "answer": "TAR",
-        "row": 2,
         "col": 4
       },
       {
-        "num": 15,
-        "clue": "Alternative to electric, for a stove",
-        "answer": "GAS",
-        "row": 4,
-        "col": 3
+        "num": 6,
+        "clue": "Sound made with a finger to the lips",
+        "answer": "SHH",
+        "row": 2,
+        "col": 0
       }
     ]
   }
