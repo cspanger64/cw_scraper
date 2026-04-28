@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
-      "C",
-      "A",
-      "S",
-      "A"
-    ],
-    [
-      null,
+      "P",
       "A",
       "P",
-      "P",
-      "S"
-    ],
-    [
-      "S",
-      "N",
-      "L",
-      "U",
-      "K"
-    ],
-    [
-      "H",
-      "O",
-      "U",
-      "R",
+      "A",
       null
     ],
     [
-      "H",
       "E",
+      "R",
+      "U",
+      "P",
+      "T"
+    ],
+    [
+      "P",
+      "E",
+      "P",
       "S",
-      "S",
+      "I"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Alternative to electric, for a stove",
-        "answer": "CASA",
+        "clue": "Word for \"dad\" in Spanish, Italian, Russian and Hindi",
+        "answer": "PAPA",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Developer's projects",
-        "answer": "APPS",
+        "clue": "Go crazy, as a crowd",
+        "answer": "ERUPT",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Sketch comedy spinoff launched on March 21, 2026",
-        "answer": "SNLUK",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "One of 24",
-        "answer": "HOUR",
-        "row": 3,
+        "clue": "Drink with a red, white and blue logo",
+        "answer": "PEPSI",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Gas brand with a green-and-white logo",
-        "answer": "HESS",
+        "clue": "Philadelphia M.L.S. team",
+        "answer": "UNION",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Buddy",
+        "answer": "PAL",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Kayak alternative",
-        "answer": "CANOE",
+        "clue": "Make more exciting",
+        "answer": "PEPUP",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Madison Square Garden, e.g.",
+        "answer": "ARENA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Great grade",
-        "answer": "APLUS",
+        "num": 3,
+        "clue": "Center of the eye",
+        "answer": "PUPIL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "N.B.A. team with the 7'4'' star Victor Wembanyama",
-        "answer": "SPURS",
+        "num": 4,
+        "clue": "Lhasa ___ (dog breed)",
+        "answer": "APSO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "___ not what your country can do for you ...",
-        "answer": "ASK",
-        "row": 0,
+        "num": 5,
+        "clue": "Element #50",
+        "answer": "TIN",
+        "row": 1,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Sound made with a finger to the lips",
-        "answer": "SHH",
-        "row": 2,
-        "col": 0
       }
     ]
   }
