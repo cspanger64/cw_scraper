@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "P",
-      "A",
-      "P",
-      "A",
+      "E",
+      "C",
+      "H",
+      "O",
       null
     ],
     [
-      "E",
+      "A",
+      "L",
+      "A",
       "R",
-      "U",
-      "P",
+      "M"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "B",
+      "O"
+    ],
+    [
+      "L",
+      "I",
+      "M",
+      "I",
       "T"
     ],
     [
-      "P",
-      "E",
-      "P",
-      "S",
-      "I"
-    ],
-    [
-      "U",
-      "N",
-      "I",
-      "O",
-      "N"
-    ],
-    [
-      "P",
-      "A",
-      "L",
       null,
-      null
+      "M",
+      "Y",
+      "T",
+      "H"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Word for \"dad\" in Spanish, Italian, Russian and Hindi",
-        "answer": "PAPA",
+        "clue": "Sound effect in a long hallway",
+        "answer": "ECHO",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Go crazy, as a crowd",
-        "answer": "ERUPT",
+        "clue": "Something you might not want to wake up to?",
+        "answer": "ALARM",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Drink with a red, white and blue logo",
-        "answer": "PEPSI",
+        "clue": "1980s role for Stallone",
+        "answer": "RAMBO",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Philadelphia M.L.S. team",
-        "answer": "UNION",
+        "clue": "The sky's the ___!",
+        "answer": "LIMIT",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Buddy",
-        "answer": "PAL",
+        "clue": "Bit of folklore",
+        "answer": "MYTH",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Make more exciting",
-        "answer": "PEPUP",
+        "clue": "___ of Grantham, noble title on \"Downton Abbey\"",
+        "answer": "EARL",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Madison Square Garden, e.g.",
-        "answer": "ARENA",
+        "clue": "Insurance filing",
+        "answer": "CLAIM",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Center of the eye",
-        "answer": "PUPIL",
+        "clue": "Leg muscle that can be \"pulled,\" informally",
+        "answer": "HAMMY",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Lhasa ___ (dog breed)",
-        "answer": "APSO",
+        "clue": "Planet's path",
+        "answer": "ORBIT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Element #50",
-        "answer": "TIN",
+        "num": 6,
+        "clue": "Fluttering insect that lends its name to a national storytelling event",
+        "answer": "MOTH",
         "row": 1,
         "col": 4
       }
