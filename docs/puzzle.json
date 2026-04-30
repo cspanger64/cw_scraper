@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "E",
-      "C",
-      "H",
-      "O",
-      null
-    ],
-    [
-      "A",
-      "L",
-      "A",
-      "R",
-      "M"
-    ],
-    [
-      "R",
-      "A",
-      "M",
-      "B",
-      "O"
-    ],
-    [
-      "L",
-      "I",
-      "M",
-      "I",
-      "T"
-    ],
-    [
       null,
-      "M",
-      "Y",
+      "C",
+      "A",
       "T",
-      "H"
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "P",
+      "R",
+      "I"
+    ],
+    [
+      "A",
+      "M",
+      "P",
+      "E",
+      "D"
+    ],
+    [
+      "M",
+      "E",
+      "L",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "E",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sound effect in a long hallway",
-        "answer": "ECHO",
+        "clue": "Notoriously antisocial pets",
+        "answer": "CATS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Something you might not want to wake up to?",
-        "answer": "ALARM",
+        "clue": "___ Sun (drink in a pouch)",
+        "answer": "CAPRI",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "1980s role for Stallone",
-        "answer": "RAMBO",
+        "num": 6,
+        "clue": "Extremely excited",
+        "answer": "AMPED",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "The sky's the ___!",
-        "answer": "LIMIT",
+        "num": 7,
+        "clue": "All-out fight",
+        "answer": "MELEE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Bit of folklore",
-        "answer": "MYTH",
+        "num": 8,
+        "clue": "The Tell-Tale Heart\" writer",
+        "answer": "POE",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "___ of Grantham, noble title on \"Downton Abbey\"",
-        "answer": "EARL",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Insurance filing",
-        "answer": "CLAIM",
+        "clue": "Brief appearance in a movie",
+        "answer": "CAMEO",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Leg muscle that can be \"pulled,\" informally",
-        "answer": "HAMMY",
+        "num": 2,
+        "clue": "It doesn't fall far from the 3-Down, in an idiom",
+        "answer": "APPLE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Planet's path",
-        "answer": "ORBIT",
+        "num": 3,
+        "clue": "See 2-Down",
+        "answer": "TREE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Fluttering insect that lends its name to a national storytelling event",
-        "answer": "MOTH",
-        "row": 1,
+        "num": 4,
+        "clue": "Heads or tails",
+        "answer": "SIDE",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Spend a few nights in the woods, perhaps",
+        "answer": "CAMP",
+        "row": 1,
+        "col": 0
       }
     ]
   }
