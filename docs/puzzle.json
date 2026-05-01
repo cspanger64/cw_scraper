@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "C",
-      "A",
-      "T",
-      "S"
-    ],
-    [
-      "C",
-      "A",
-      "P",
-      "R",
-      "I"
-    ],
-    [
-      "A",
-      "M",
-      "P",
-      "E",
-      "D"
-    ],
-    [
-      "M",
-      "E",
+      "S",
       "L",
-      "E",
-      "E"
+      "O",
+      "P"
     ],
     [
-      "P",
+      "C",
+      "H",
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "H",
       "O",
+      "N",
+      "D",
+      "A"
+    ],
+    [
       "E",
-      null,
+      "N",
+      "E",
+      "M",
+      "Y"
+    ],
+    [
+      "W",
+      "E",
+      "R",
+      "E",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Notoriously antisocial pets",
-        "answer": "CATS",
+        "clue": "Low-quality A.I. content",
+        "answer": "SLOP",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "___ Sun (drink in a pouch)",
-        "answer": "CAPRI",
+        "clue": "Whoa, settle down!",
+        "answer": "CHILL",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Extremely excited",
-        "answer": "AMPED",
+        "clue": "Toyota rival",
+        "answer": "HONDA",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "All-out fight",
-        "answer": "MELEE",
+        "clue": "Subject of many Sun Tzu quotes",
+        "answer": "ENEMY",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "The Tell-Tale Heart\" writer",
-        "answer": "POE",
+        "clue": "Now ___ talkin'!",
+        "answer": "WERE",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Brief appearance in a movie",
-        "answer": "CAMEO",
+        "clue": "Gleamed, as the sun",
+        "answer": "SHONE",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "It doesn't fall far from the 3-Down, in an idiom",
-        "answer": "APPLE",
+        "clue": "___ notes (text accompanying a record)",
+        "answer": "LINER",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "See 2-Down",
-        "answer": "TREE",
+        "clue": "Person I used to be, before some personal growth",
+        "answer": "OLDME",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Heads or tails",
-        "answer": "SIDE",
+        "clue": "Pause's counterpart",
+        "answer": "PLAY",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Spend a few nights in the woods, perhaps",
-        "answer": "CAMP",
+        "clue": "What \"masticate\" is a fancy word for",
+        "answer": "CHEW",
         "row": 1,
         "col": 0
       }
