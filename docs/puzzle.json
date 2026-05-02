@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "S",
-      "L",
-      "O",
-      "P"
-    ],
-    [
-      "C",
-      "H",
-      "I",
-      "L",
-      "L"
-    ],
-    [
-      "H",
-      "O",
-      "N",
+      null,
       "D",
-      "A"
+      "E",
+      "E"
     ],
     [
-      "E",
-      "N",
-      "E",
-      "M",
-      "Y"
-    ],
-    [
-      "W",
-      "E",
+      null,
+      "G",
       "R",
-      "E",
+      "A",
+      "D"
+    ],
+    [
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "O",
+      "B",
+      "G",
+      "Y",
+      "N"
+    ],
+    [
+      "P",
+      "I",
+      "S",
+      "A",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Low-quality A.I. content",
-        "answer": "SLOP",
+        "clue": "Zip-a-___-Doo-Dah",
+        "answer": "DEE",
         "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Cap and gown wearer, informally",
+        "answer": "GRAD",
+        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Whoa, settle down!",
-        "answer": "CHILL",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Toyota rival",
-        "answer": "HONDA",
+        "clue": "Major purchase that might come with a down payment",
+        "answer": "HOUSE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Subject of many Sun Tzu quotes",
-        "answer": "ENEMY",
+        "num": 6,
+        "clue": "Doc who really delivers?",
+        "answer": "OBGYN",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Now ___ talkin'!",
-        "answer": "WERE",
+        "num": 7,
+        "clue": "Home of the Leaning Tower",
+        "answer": "PISA",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Gleamed, as the sun",
-        "answer": "SHONE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "___ notes (text accompanying a record)",
-        "answer": "LINER",
+        "clue": "Prescription products",
+        "answer": "DRUGS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Person I used to be, before some personal growth",
-        "answer": "OLDME",
+        "num": 2,
+        "clue": "Course that you could sleep through and still pass",
+        "answer": "EASYA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Pause's counterpart",
-        "answer": "PLAY",
+        "num": 3,
+        "clue": "Where Adam and Eve were eatin' the apple, fittingly?",
+        "answer": "EDEN",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "What \"masticate\" is a fancy word for",
-        "answer": "CHEW",
+        "num": 4,
+        "clue": "Asia's largest desert",
+        "answer": "GOBI",
         "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Bunny's bounce",
+        "answer": "HOP",
+        "row": 2,
         "col": 0
       }
     ]
