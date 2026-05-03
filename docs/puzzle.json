@@ -1,42 +1,70 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
-      null,
-      "D",
-      "E",
-      "E"
-    ],
-    [
-      null,
-      "G",
-      "R",
-      "A",
-      "D"
-    ],
-    [
-      "H",
-      "O",
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      "O",
-      "B",
-      "G",
-      "Y",
-      "N"
-    ],
-    [
       "P",
+      "U",
+      "R",
       "I",
       "S",
+      "T"
+    ],
+    [
+      null,
+      "O",
+      "P",
+      "E",
+      "N",
       "A",
+      "I"
+    ],
+    [
+      null,
+      "T",
+      "V",
+      "T",
+      "I",
+      "M",
+      "E"
+    ],
+    [
+      null,
+      null,
+      "O",
+      "U",
+      "T",
+      null,
+      null
+    ],
+    [
+      "T",
+      "E",
+      "T",
+      "R",
+      "I",
+      "S",
+      null
+    ],
+    [
+      "N",
+      "A",
+      "E",
+      "N",
+      "A",
+      "E",
+      null
+    ],
+    [
+      "T",
+      "U",
+      "S",
+      "S",
+      "L",
+      "E",
       null
     ]
   ],
@@ -44,75 +72,117 @@
     "across": [
       {
         "num": 1,
-        "clue": "Zip-a-___-Doo-Dah",
-        "answer": "DEE",
+        "clue": "Person who likes things totally authentic, or not at all",
+        "answer": "PURIST",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Cap and gown wearer, informally",
-        "answer": "GRAD",
+        "num": 7,
+        "clue": "ChatGPT's company",
+        "answer": "OPENAI",
         "row": 1,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Major purchase that might come with a down payment",
-        "answer": "HOUSE",
+        "num": 8,
+        "clue": "Chance for one's kids to watch shows, perhaps",
+        "answer": "TVTIME",
         "row": 2,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Doc who really delivers?",
-        "answer": "OBGYN",
+        "num": 9,
+        "clue": "Not in the closet",
+        "answer": "OUT",
         "row": 3,
+        "col": 2
+      },
+      {
+        "num": 10,
+        "clue": "Video game with falling pieces",
+        "answer": "TETRIS",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Home of the Leaning Tower",
-        "answer": "PISA",
-        "row": 4,
+        "num": 13,
+        "clue": "Dance fad of the mid-2010s that was paired with the \"Whip\"",
+        "answer": "NAENAE",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Wrestle",
+        "answer": "TUSSLE",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Prescription products",
-        "answer": "DRUGS",
+        "clue": "Collection of poker bets",
+        "answer": "POT",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Likes : Facebook :: ___ : Reddit",
+        "answer": "UPVOTES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Course that you could sleep through and still pass",
-        "answer": "EASYA",
+        "num": 3,
+        "clue": "Tax filings",
+        "answer": "RETURNS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Where Adam and Eve were eatin' the apple, fittingly?",
-        "answer": "EDEN",
+        "num": 4,
+        "clue": "The \"A,\" \"O\" or \"C\" of A.O.C.",
+        "answer": "INITIAL",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Asia's largest desert",
-        "answer": "GOBI",
-        "row": 1,
+        "num": 5,
+        "clue": "___ Altman, CEO of 7-Across",
+        "answer": "SAM",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Item of attire that might have a Windsor knot",
+        "answer": "TIE",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 10,
+        "clue": "Explosive compound, for short",
+        "answer": "TNT",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Water, in French",
+        "answer": "EAU",
+        "row": 4,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Bunny's bounce",
-        "answer": "HOP",
-        "row": 2,
-        "col": 0
+        "num": 12,
+        "clue": "Notice",
+        "answer": "SEE",
+        "row": 4,
+        "col": 5
       }
     ]
   }
