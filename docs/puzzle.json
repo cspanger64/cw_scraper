@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "C",
-      "H",
-      "E",
-      "F",
-      null
-    ],
-    [
-      "H",
-      "E",
-      "L",
-      "L",
-      "O"
-    ],
-    [
-      "A",
-      "L",
+      "R",
       "O",
-      "U",
-      "D"
-    ],
-    [
-      "P",
-      "E",
-      "P",
-      "T",
-      "O"
+      "B",
+      "I",
+      "N"
     ],
     [
       "S",
+      "P",
+      "I",
       "N",
+      "E"
+    ],
+    [
+      "V",
       "E",
+      "G",
+      "A",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "S",
+      "A",
+      "F",
       "E",
-      "R"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Culinary institute instructor",
-        "answer": "CHEF",
+        "clue": "Avian symbol of spring",
+        "answer": "ROBIN",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Earth to [name]? You there?!",
-        "answer": "HELLO",
+        "num": 6,
+        "clue": "Visible part of a book on a bookshelf",
+        "answer": "SPINE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "How you shouldn't read the cue words on a teleprompter",
-        "answer": "ALOUD",
+        "clue": "What happens there stays there, in a saying",
+        "answer": "VEGAS",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "___-Bismol (antacid brand)",
-        "answer": "PEPTO",
+        "clue": "Ctrl+P command",
+        "answer": "PRINT",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Mean-mugging look",
-        "answer": "SNEER",
+        "clue": "The bad guys in \"The Bad Guys\" often try to crack one",
+        "answer": "SAFE",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Dries out, as lips",
-        "answer": "CHAPS",
+        "clue": "Says \"I'll be there\" or \"I can't make it",
+        "answer": "RSVPS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "___ of Troy",
-        "answer": "HELEN",
+        "clue": "Web browser whose logo is a red O",
+        "answer": "OPERA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Say \"I dos\" without the ado?",
-        "answer": "ELOPE",
+        "clue": "That's a ___!\" (\"You're making a huge assumption!\")",
+        "answer": "BIGIF",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Instrument that's held horizontally while playing it",
-        "answer": "FLUTE",
+        "clue": "Truly stupid",
+        "answer": "INANE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Smell from a dumpster",
-        "answer": "ODOR",
-        "row": 1,
+        "num": 5,
+        "clue": "Home for a 1-Across",
+        "answer": "NEST",
+        "row": 0,
         "col": 4
       }
     ]
