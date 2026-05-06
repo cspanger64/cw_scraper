@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "R",
+      "S",
+      "M",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "I",
+      "O"
+    ],
+    [
+      "A",
+      "L",
       "O",
-      "B",
-      "I",
-      "N"
-    ],
-    [
-      "S",
-      "P",
-      "I",
       "N",
-      "E"
+      "G"
     ],
     [
-      "V",
-      "E",
-      "G",
-      "A",
-      "S"
-    ],
-    [
-      "P",
       "R",
-      "I",
+      "A",
       "N",
-      "T"
+      "K",
+      null
     ],
     [
-      "S",
-      "A",
-      "F",
       "E",
+      "Y",
+      "E",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Avian symbol of spring",
-        "answer": "ROBIN",
+        "clue": "Word before \"time\" or \"potatoes",
+        "answer": "SMALL",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Visible part of a book on a bookshelf",
-        "answer": "SPINE",
+        "clue": "Spot for a backyard grill",
+        "answer": "PATIO",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "What happens there stays there, in a saying",
-        "answer": "VEGAS",
+        "clue": "Moving right ___ ...",
+        "answer": "ALONG",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Ctrl+P command",
-        "answer": "PRINT",
+        "clue": "Major or general",
+        "answer": "RANK",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "The bad guys in \"The Bad Guys\" often try to crack one",
-        "answer": "SAFE",
+        "clue": "Sprouting part of a potato",
+        "answer": "EYE",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Says \"I'll be there\" or \"I can't make it",
-        "answer": "RSVPS",
+        "clue": "Word before \"time\" or \"ribs",
+        "answer": "SPARE",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Web browser whose logo is a red O",
-        "answer": "OPERA",
+        "clue": "Language spoken in Kuala Lumpur",
+        "answer": "MALAY",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "That's a ___!\" (\"You're making a huge assumption!\")",
-        "answer": "BIGIF",
+        "clue": "Make amends",
+        "answer": "ATONE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Truly stupid",
-        "answer": "INANE",
+        "clue": "Sausage segment",
+        "answer": "LINK",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Home for a 1-Across",
-        "answer": "NEST",
+        "clue": "Fuel for a firepit",
+        "answer": "LOG",
         "row": 0,
         "col": 4
       }
