@@ -5,37 +5,37 @@
   ],
   "grid": [
     [
+      null,
       "S",
-      "M",
-      "A",
-      "L",
-      "L"
+      "I",
+      "T",
+      "E"
     ],
     [
       "P",
       "A",
-      "T",
-      "I",
-      "O"
-    ],
-    [
-      "A",
-      "L",
-      "O",
-      "N",
-      "G"
-    ],
-    [
       "R",
+      "I",
+      "S"
+    ],
+    [
       "A",
+      "T",
+      "O",
+      "M",
+      "S"
+    ],
+    [
+      "D",
+      "U",
       "N",
-      "K",
+      "E",
       null
     ],
     [
-      "E",
+      "S",
+      "P",
       "Y",
-      "E",
       null,
       null
     ]
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Word before \"time\" or \"potatoes",
-        "answer": "SMALL",
+        "clue": "Wikipedia or WebMD",
+        "answer": "SITE",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Spot for a backyard grill",
-        "answer": "PATIO",
+        "num": 5,
+        "clue": "Host city of the 2024 Olympics",
+        "answer": "PARIS",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Moving right ___ ...",
-        "answer": "ALONG",
+        "num": 6,
+        "clue": "Nuclear reactors split them",
+        "answer": "ATOMS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Major or general",
-        "answer": "RANK",
+        "num": 7,
+        "clue": "Hit 2021 film shot in the same location as \"Lawrence of Arabia\" and \"The Martian",
+        "answer": "DUNE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Sprouting part of a potato",
-        "answer": "EYE",
+        "num": 8,
+        "clue": "C.I.A. asset",
+        "answer": "SPY",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Word before \"time\" or \"ribs",
-        "answer": "SPARE",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Language spoken in Kuala Lumpur",
-        "answer": "MALAY",
+        "clue": "Showed sudden interest",
+        "answer": "SATUP",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Make amends",
-        "answer": "ATONE",
+        "num": 2,
+        "clue": "Ten thousand spoons, when all you need is a knife,\" according to Alanis Morissette",
+        "answer": "IRONY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Sausage segment",
-        "answer": "LINK",
+        "num": 3,
+        "clue": "What's displayed at the top of many iPhone lock screens",
+        "answer": "TIME",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Fuel for a firepit",
-        "answer": "LOG",
+        "num": 4,
+        "clue": "Pluralizing letter, spelled out",
+        "answer": "ESS",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Football player's protection",
+        "answer": "PADS",
+        "row": 1,
+        "col": 0
       }
     ]
   }
