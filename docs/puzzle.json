@@ -1,42 +1,47 @@
 {
   "size": [
     5,
-    5
+    6
   ],
   "grid": [
     [
       null,
-      null,
+      "S",
+      "M",
+      "U",
+      "S",
+      "H"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "Y",
+      "D",
+      "A",
+      "Y"
+    ],
+    [
       "O",
-      "N",
-      "E"
-    ],
-    [
-      null,
-      "P",
-      "L",
-      "U",
-      "S"
-    ],
-    [
-      "S",
-      "U",
+      "R",
+      "B",
       "I",
-      "T",
-      "E"
-    ],
-    [
-      "I",
-      "S",
-      "N",
       "T",
       null
     ],
     [
-      "T",
-      "H",
+      "N",
       "E",
-      "Y",
+      "E",
+      "D",
+      "S",
       null
     ]
   ],
@@ -44,36 +49,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "A-___ (top-quality)",
-        "answer": "ONE",
+        "clue": "Squash",
+        "answer": "SMUSH",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "B-___ (decent grade)",
-        "answer": "PLUS",
-        "row": 1,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "C-___ (group of execs)",
-        "answer": "SUITE",
-        "row": 2,
-        "col": 0
-      },
-      {
         "num": 6,
-        "clue": "Fails to be",
-        "answer": "ISNT",
-        "row": 3,
+        "clue": "Monopoly card with a question mark on one side",
+        "answer": "CHANCE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Nonbinary pronoun",
-        "answer": "THEY",
+        "clue": "Help! Help!",
+        "answer": "MAYDAY",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Path around the sun",
+        "answer": "ORBIT",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Pressing desires",
+        "answer": "NEEDS",
         "row": 4,
         "col": 0
       }
@@ -81,37 +86,44 @@
     "down": [
       {
         "num": 1,
-        "clue": "The center, guards and tackles on an N.F.L. team, for short",
-        "answer": "OLINE",
+        "clue": "Social media button with an arrow",
+        "answer": "SHARE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Answer between \"yes\" and \"no",
+        "answer": "MAYBE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Like the taste of browned butter",
-        "answer": "NUTTY",
+        "num": 3,
+        "clue": "Took back",
+        "answer": "UNDID",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Language suffix",
-        "answer": "ESE",
+        "num": 4,
+        "clue": "Ad-libs in jazz singing",
+        "answer": "SCATS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Helpful label by a door handle",
-        "answer": "PUSH",
-        "row": 1,
-        "col": 1
+        "num": 5,
+        "clue": "Yo!",
+        "answer": "HEY",
+        "row": 0,
+        "col": 5
       },
       {
-        "num": 5,
-        "clue": "Get into a lotus pose, perhaps",
-        "answer": "SIT",
-        "row": 2,
+        "num": 6,
+        "clue": "Dude!",
+        "answer": "CMON",
+        "row": 1,
         "col": 0
       }
     ]
