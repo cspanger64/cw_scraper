@@ -1,47 +1,70 @@
 {
   "size": [
-    5,
-    6
+    7,
+    7
   ],
   "grid": [
     [
       null,
+      null,
       "S",
-      "M",
-      "U",
-      "S",
-      "H"
-    ],
-    [
       "C",
       "H",
-      "A",
-      "N",
-      "C",
-      "E"
+      null,
+      null
     ],
     [
+      null,
       "M",
-      "A",
-      "Y",
+      "I",
       "D",
       "A",
+      "S",
+      null
+    ],
+    [
+      "B",
+      "I",
+      "G",
+      "C",
+      "I",
+      "T",
       "Y"
     ],
     [
-      "O",
+      "A",
+      "N",
+      "N",
+      null,
       "R",
-      "B",
+      "O",
+      "E"
+    ],
+    [
+      "R",
+      "A",
       "I",
+      "L",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      null,
+      "S",
+      "N",
+      "O",
+      "U",
       "T",
       null
     ],
     [
-      "N",
-      "E",
-      "E",
-      "D",
-      "S",
+      null,
+      null,
+      "G",
+      "U",
+      "T",
+      null,
       null
     ]
   ],
@@ -49,82 +72,117 @@
     "across": [
       {
         "num": 1,
-        "clue": "Squash",
-        "answer": "SMUSH",
+        "clue": "The \"S\" of H.S.: Abbr.",
+        "answer": "SCH",
         "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "King with a golden touch",
+        "answer": "MIDAS",
+        "row": 1,
         "col": 1
       },
       {
         "num": 6,
-        "clue": "Monopoly card with a question mark on one side",
-        "answer": "CHANCE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Help! Help!",
-        "answer": "MAYDAY",
+        "clue": "New Delhi or New York",
+        "answer": "BIGCITY",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Path around the sun",
-        "answer": "ORBIT",
+        "clue": "Raggedy ___ doll",
+        "answer": "ANN",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Pressing desires",
-        "answer": "NEEDS",
+        "clue": "Landmark Supreme Court case overturned by Dobbs",
+        "answer": "ROE",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Segment of a train",
+        "answer": "RAILCAR",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Pig's nose",
+        "answer": "SNOUT",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Place for an intuitive feeling",
+        "answer": "GUT",
+        "row": 6,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Social media button with an arrow",
-        "answer": "SHARE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Answer between \"yes\" and \"no",
-        "answer": "MAYBE",
+        "clue": "Author's event",
+        "answer": "SIGNING",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Took back",
-        "answer": "UNDID",
+        "num": 2,
+        "clue": "Public health agcy.",
+        "answer": "CDC",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Ad-libs in jazz singing",
-        "answer": "SCATS",
+        "num": 3,
+        "clue": "Barbershop offering",
+        "answer": "HAIRCUT",
         "row": 0,
         "col": 4
       },
       {
+        "num": 4,
+        "clue": "___ Tirith, capital of Gondor in the \"Lord of the Rings\" books",
+        "answer": "MINAS",
+        "row": 1,
+        "col": 1
+      },
+      {
         "num": 5,
-        "clue": "Yo!",
-        "answer": "HEY",
-        "row": 0,
+        "clue": "Short-tailed weasel",
+        "answer": "STOAT",
+        "row": 1,
         "col": 5
       },
       {
         "num": 6,
-        "clue": "Dude!",
-        "answer": "CMON",
-        "row": 1,
+        "clue": "Place to order drinks",
+        "answer": "BAR",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "\"___ out!\" (umpire's shout)",
+        "answer": "YER",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Guitarist Reed",
+        "answer": "LOU",
+        "row": 4,
+        "col": 3
       }
     ]
   }
