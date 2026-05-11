@@ -1,188 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      null,
-      null,
-      "S",
       "C",
-      "H",
-      null,
-      null
-    ],
-    [
-      null,
-      "M",
-      "I",
-      "D",
+      "R",
       "A",
-      "S",
-      null
-    ],
-    [
       "B",
-      "I",
-      "G",
-      "C",
-      "I",
-      "T",
-      "Y"
+      "S"
     ],
     [
-      "A",
-      "N",
-      "N",
-      null,
-      "R",
-      "O",
-      "E"
-    ],
-    [
-      "R",
-      "A",
-      "I",
+      "H",
+      "E",
       "L",
-      "C",
+      "L",
+      "O"
+    ],
+    [
       "A",
-      "R"
+      "T",
+      "T",
+      "I",
+      "C"
     ],
     [
-      null,
-      "S",
+      "F",
+      "R",
+      "A",
       "N",
-      "O",
-      "U",
-      "T",
-      null
+      "K"
     ],
     [
-      null,
-      null,
-      "G",
-      "U",
-      "T",
-      null,
-      null
+      "F",
+      "O",
+      "R",
+      "K",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "The \"S\" of H.S.: Abbr.",
-        "answer": "SCH",
+        "clue": "Sea creatures that sidle",
+        "answer": "CRABS",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "King with a golden touch",
-        "answer": "MIDAS",
-        "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "New Delhi or New York",
-        "answer": "BIGCITY",
+        "clue": "Thomas Edison is credited with popularizing this phone greeting (Alexander Graham Bell preferred \"Ahoy!\")",
+        "answer": "HELLO",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Basement's counterpart",
+        "answer": "ATTIC",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Raggedy ___ doll",
-        "answer": "ANN",
+        "clue": "Hot dog, informally",
+        "answer": "FRANK",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Landmark Supreme Court case overturned by Dobbs",
-        "answer": "ROE",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 10,
-        "clue": "Segment of a train",
-        "answer": "RAILCAR",
+        "clue": "Chess tactics that attack two pieces at once",
+        "answer": "FORKS",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Pig's nose",
-        "answer": "SNOUT",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "Place for an intuitive feeling",
-        "answer": "GUT",
-        "row": 6,
-        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Author's event",
-        "answer": "SIGNING",
+        "clue": "Husk of wheat",
+        "answer": "CHAFF",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Like throwback fashion",
+        "answer": "RETRO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Wedding ceremony site",
+        "answer": "ALTAR",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Public health agcy.",
-        "answer": "CDC",
+        "num": 4,
+        "clue": "Lose a staring contest",
+        "answer": "BLINK",
         "row": 0,
         "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Barbershop offering",
-        "answer": "HAIRCUT",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "___ Tirith, capital of Gondor in the \"Lord of the Rings\" books",
-        "answer": "MINAS",
-        "row": 1,
-        "col": 1
       },
       {
         "num": 5,
-        "clue": "Short-tailed weasel",
-        "answer": "STOAT",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Place to order drinks",
-        "answer": "BAR",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "\"___ out!\" (umpire's shout)",
-        "answer": "YER",
-        "row": 2,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Guitarist Reed",
-        "answer": "LOU",
-        "row": 4,
-        "col": 3
+        "clue": "Pieces of clothing for which two M.L.B. teams are named",
+        "answer": "SOCKS",
+        "row": 0,
+        "col": 4
       }
     ]
   }
