@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "C",
-      "R",
+      null,
+      "G",
+      "N",
       "A",
-      "B",
-      "S"
+      "T"
     ],
     [
-      "H",
-      "E",
-      "L",
-      "L",
+      "B",
+      "R",
+      "A",
+      "V",
       "O"
     ],
     [
-      "A",
-      "T",
-      "T",
-      "I",
-      "C"
-    ],
-    [
-      "F",
       "R",
       "A",
-      "N",
-      "K"
+      "V",
+      "E",
+      "N"
     ],
     [
-      "F",
-      "O",
+      "E",
+      "V",
+      "E",
       "R",
-      "K",
-      "S"
+      "Y"
+    ],
+    [
+      "W",
+      "E",
+      "L",
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sea creatures that sidle",
-        "answer": "CRABS",
+        "clue": "Itty-bitty insect",
+        "answer": "GNAT",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Thomas Edison is credited with popularizing this phone greeting (Alexander Graham Bell preferred \"Ahoy!\")",
-        "answer": "HELLO",
+        "num": 5,
+        "clue": "Excellent job!",
+        "answer": "BRAVO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Basement's counterpart",
-        "answer": "ATTIC",
+        "num": 6,
+        "clue": "Bird that \"croaks the fatal entrance of Duncan,\" in \"Macbeth",
+        "answer": "RAVEN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Hot dog, informally",
-        "answer": "FRANK",
+        "num": 7,
+        "clue": "Each and ___",
+        "answer": "EVERY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Chess tactics that attack two pieces at once",
-        "answer": "FORKS",
+        "num": 8,
+        "clue": "Swollen mark",
+        "answer": "WELT",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Husk of wheat",
-        "answer": "CHAFF",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Like throwback fashion",
-        "answer": "RETRO",
+        "clue": "Deathly serious",
+        "answer": "GRAVE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Wedding ceremony site",
-        "answer": "ALTAR",
+        "num": 2,
+        "clue": "Belly button",
+        "answer": "NAVEL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Lose a staring contest",
-        "answer": "BLINK",
+        "num": 3,
+        "clue": "Prevent, as a crisis",
+        "answer": "AVERT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Pieces of clothing for which two M.L.B. teams are named",
-        "answer": "SOCKS",
+        "num": 4,
+        "clue": "___ the Tiger, mascot of Frosted Flakes",
+        "answer": "TONY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Beer, informally",
+        "answer": "BREW",
+        "row": 1,
+        "col": 0
       }
     ]
   }
