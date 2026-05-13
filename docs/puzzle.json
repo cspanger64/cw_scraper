@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "G",
-      "N",
-      "A",
-      "T"
-    ],
-    [
-      "B",
+      "F",
       "R",
       "A",
-      "V",
-      "O"
+      "U"
     ],
     [
-      "R",
-      "A",
-      "V",
-      "E",
-      "N"
+      "K",
+      "I",
+      "O",
+      "S",
+      "K"
     ],
     [
       "E",
       "V",
-      "E",
-      "R",
-      "Y"
+      "O",
+      "K",
+      "E"
     ],
     [
-      "W",
       "E",
-      "L",
-      "T",
+      "E",
+      "K",
+      "S",
+      null
+    ],
+    [
+      "P",
+      "K",
+      "S",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Itty-bitty insect",
-        "answer": "GNAT",
+        "clue": "German for \"Mrs.\"",
+        "answer": "FRAU",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Excellent job!",
-        "answer": "BRAVO",
+        "clue": "Small stall at a mall",
+        "answer": "KIOSK",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Bird that \"croaks the fatal entrance of Duncan,\" in \"Macbeth",
-        "answer": "RAVEN",
+        "clue": "Bring to mind",
+        "answer": "EVOKE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Each and ___",
-        "answer": "EVERY",
+        "clue": "Surprised exclamations upon seeing mice",
+        "answer": "EEKS",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Swollen mark",
-        "answer": "WELT",
+        "clue": "Dramatic end to a World Cup game, for short",
+        "answer": "PKS",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Deathly serious",
-        "answer": "GRAVE",
+        "clue": "Race that equates to 3.1 miles ... or a hint to one letter's frequent appearance in this grid?",
+        "answer": "FIVEK",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Belly button",
-        "answer": "NAVEL",
+        "clue": "Chess \"castles\"",
+        "answer": "ROOKS",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Prevent, as a crisis",
-        "answer": "AVERT",
+        "clue": "Poses a question to",
+        "answer": "ASKS",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "___ the Tiger, mascot of Frosted Flakes",
-        "answer": "TONY",
+        "clue": "Hawaiian stringed instrument, informally",
+        "answer": "UKE",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Beer, informally",
-        "answer": "BREW",
+        "clue": "Not go bad",
+        "answer": "KEEP",
         "row": 1,
         "col": 0
       }
