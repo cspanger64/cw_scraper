@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "F",
-      "R",
+      "D",
       "A",
-      "U"
+      "S",
+      "H",
+      null
     ],
     [
-      "K",
-      "I",
       "O",
       "S",
-      "K"
+      "C",
+      "A",
+      "R"
     ],
     [
-      "E",
-      "V",
-      "O",
-      "K",
+      "C",
+      "A",
+      "R",
+      "T",
       "E"
     ],
     [
-      "E",
-      "E",
-      "K",
       "S",
-      null
+      "P",
+      "E",
+      "C",
+      "S"
     ],
     [
-      "P",
-      "K",
-      "S",
       null,
-      null
+      null,
+      "W",
+      "H",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "German for \"Mrs.\"",
-        "answer": "FRAU",
+        "clue": "Sprinter's race",
+        "answer": "DASH",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Small stall at a mall",
-        "answer": "KIOSK",
+        "clue": "Statuette awarded at Hollywood's Dolby Theatre",
+        "answer": "OSCAR",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Bring to mind",
-        "answer": "EVOKE",
+        "num": 7,
+        "clue": "À la ___",
+        "answer": "CARTE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Surprised exclamations upon seeing mice",
-        "answer": "EEKS",
+        "num": 8,
+        "clue": "Word meaning \"details\" or \"glasses\"",
+        "answer": "SPECS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Dramatic end to a World Cup game, for short",
-        "answer": "PKS",
+        "num": 9,
+        "clue": "What's the reason?",
+        "answer": "WHY",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Race that equates to 3.1 miles ... or a hint to one letter's frequent appearance in this grid?",
-        "answer": "FIVEK",
+        "clue": "Google ___",
+        "answer": "DOCS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Immediately",
+        "answer": "ASAP",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Chess \"castles\"",
-        "answer": "ROOKS",
+        "num": 3,
+        "clue": "Twistable piece of hardware",
+        "answer": "SCREW",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Poses a question to",
-        "answer": "ASKS",
+        "num": 4,
+        "clue": "Devise, as a plan",
+        "answer": "HATCH",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Hawaiian stringed instrument, informally",
-        "answer": "UKE",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Not go bad",
-        "answer": "KEEP",
+        "num": 6,
+        "clue": "Booking service that competes with OpenTable",
+        "answer": "RESY",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
