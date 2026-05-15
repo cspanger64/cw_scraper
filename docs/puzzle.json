@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "D",
-      "A",
-      "S",
-      "H",
+      null,
+      "T",
+      "I",
+      "C",
       null
     ],
     [
-      "O",
-      "S",
-      "C",
+      "W",
       "A",
+      "T",
+      "E",
       "R"
     ],
     [
-      "C",
-      "A",
-      "R",
+      "S",
       "T",
+      "A",
+      "L",
       "E"
     ],
     [
-      "S",
-      "P",
+      "J",
+      "U",
+      "L",
       "E",
-      "C",
-      "S"
+      "P"
     ],
     [
       null,
-      null,
-      "W",
-      "H",
-      "Y"
+      "M",
+      "Y",
+      "B",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sprinter's race",
-        "answer": "DASH",
+        "clue": "Repetitive mannerism",
+        "answer": "TIC",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 5,
-        "clue": "Statuette awarded at Hollywood's Dolby Theatre",
-        "answer": "OSCAR",
+        "num": 4,
+        "clue": "Nourish, as a garden",
+        "answer": "WATER",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "À la ___",
-        "answer": "CARTE",
+        "num": 6,
+        "clue": "Like the bread used for croutons",
+        "answer": "STALE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Word meaning \"details\" or \"glasses\"",
-        "answer": "SPECS",
+        "num": 7,
+        "clue": "Mint ___ (classic cocktail)",
+        "answer": "JULEP",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "What's the reason?",
-        "answer": "WHY",
+        "num": 8,
+        "clue": "That's on me,\" in slangy shorthand",
+        "answer": "MYB",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Google ___",
-        "answer": "DOCS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Immediately",
-        "answer": "ASAP",
+        "clue": "Jayson of the Boston Celtics",
+        "answer": "TATUM",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Twistable piece of hardware",
-        "answer": "SCREW",
+        "num": 2,
+        "clue": "Country across the Adriatic from Croatia",
+        "answer": "ITALY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Devise, as a plan",
-        "answer": "HATCH",
+        "num": 3,
+        "clue": "Tabloid subject, informally",
+        "answer": "CELEB",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Booking service that competes with OpenTable",
-        "answer": "RESY",
+        "num": 4,
+        "clue": "NYT competitor",
+        "answer": "WSJ",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Gym unit",
+        "answer": "REP",
         "row": 1,
         "col": 4
       }
