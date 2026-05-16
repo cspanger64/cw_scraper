@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      null,
-      "T",
+      "R",
+      "B",
       "I",
-      "C",
+      null,
       null
     ],
     [
-      "W",
       "A",
-      "T",
+      "L",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "G",
       "E",
-      "R"
+      "T",
+      "I",
+      "N"
     ],
     [
       "S",
-      "T",
+      "H",
       "A",
-      "L",
+      "P",
       "E"
     ],
     [
-      "J",
-      "U",
-      "L",
-      "E",
-      "P"
-    ],
-    [
       null,
-      "M",
-      "Y",
-      "B",
-      null
+      null,
+      "S",
+      "S",
+      "W"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Repetitive mannerism",
-        "answer": "TIC",
+        "clue": "Baseball stat hidden in \"super big hit",
+        "answer": "RBI",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 4,
-        "clue": "Nourish, as a garden",
-        "answer": "WATER",
+        "clue": "Hi, in Hawaii",
+        "answer": "ALOHA",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Like the bread used for croutons",
-        "answer": "STALE",
+        "num": 7,
+        "clue": "With 8-Across, start running or going to the gym",
+        "answer": "GETIN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Mint ___ (classic cocktail)",
-        "answer": "JULEP",
+        "num": 8,
+        "clue": "See 7-Across",
+        "answer": "SHAPE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "That's on me,\" in slangy shorthand",
-        "answer": "MYB",
+        "num": 9,
+        "clue": "Opposite of NNE",
+        "answer": "SSW",
         "row": 4,
-        "col": 1
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Jayson of the Boston Celtics",
-        "answer": "TATUM",
+        "clue": "Opposite of riches, in a saying",
+        "answer": "RAGS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Ew, gross",
+        "answer": "BLEH",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Country across the Adriatic from Croatia",
-        "answer": "ITALY",
+        "num": 3,
+        "clue": "Tiny bits",
+        "answer": "IOTAS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Tabloid subject, informally",
-        "answer": "CELEB",
-        "row": 0,
+        "num": 5,
+        "clue": "Where the hands are placed when \"Hey, Macarena!\" is sung",
+        "answer": "HIPS",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "NYT competitor",
-        "answer": "WSJ",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Gym unit",
-        "answer": "REP",
+        "num": 6,
+        "clue": "All over again",
+        "answer": "ANEW",
         "row": 1,
         "col": 4
       }
