@@ -1,118 +1,188 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "R",
-      "B",
-      "I",
+      null,
+      null,
+      "A",
+      "N",
+      "A",
       null,
       null
     ],
     [
-      "A",
+      null,
+      "B",
       "L",
-      "O",
-      "H",
-      "A"
+      "A",
+      "C",
+      "K",
+      null
     ],
     [
       "G",
       "E",
-      "T",
+      "R",
+      "B",
       "I",
-      "N"
+      "L",
+      "S"
     ],
     [
-      "S",
-      "H",
       "A",
-      "P",
+      "L",
+      "I",
+      null,
+      "D",
+      "I",
+      "E"
+    ],
+    [
+      "R",
+      "O",
+      "G",
+      "A",
+      "I",
+      "N",
       "E"
     ],
     [
       null,
+      "W",
+      "H",
+      "I",
+      "T",
+      "E",
+      null
+    ],
+    [
       null,
-      "S",
-      "S",
-      "W"
+      null,
+      "T",
+      "R",
+      "Y",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Baseball stat hidden in \"super big hit",
-        "answer": "RBI",
+        "clue": "De Armas of \"Knives Out",
+        "answer": "ANA",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
         "num": 4,
-        "clue": "Hi, in Hawaii",
-        "answer": "ALOHA",
+        "clue": "Jack ___, five-time \"S.N.L.\" host",
+        "answer": "BLACK",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "With 8-Across, start running or going to the gym",
-        "answer": "GETIN",
+        "num": 6,
+        "clue": "Class pets that thump their feet to warn of approaching kindergarteners",
+        "answer": "GERBILS",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "See 7-Across",
-        "answer": "SHAPE",
+        "clue": "Boxer Muhammad or Laila",
+        "answer": "ALI",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Opposite of NNE",
-        "answer": "SSW",
+        "clue": "Reach 0% battery",
+        "answer": "DIE",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Big name in hair loss prevention",
+        "answer": "ROGAINE",
         "row": 4,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Jack ___, six-time \"S.N.L.\" musical guest",
+        "answer": "WHITE",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Attempt",
+        "answer": "TRY",
+        "row": 6,
         "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Opposite of riches, in a saying",
-        "answer": "RAGS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Ew, gross",
-        "answer": "BLEH",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Tiny bits",
-        "answer": "IOTAS",
+        "clue": "Okay then ...",
+        "answer": "ALRIGHT",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Where the hands are placed when \"Hey, Macarena!\" is sung",
-        "answer": "HIPS",
-        "row": 1,
+        "num": 2,
+        "clue": "Catch, as a criminal",
+        "answer": "NAB",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "All over again",
-        "answer": "ANEW",
-        "row": 1,
+        "num": 3,
+        "clue": "Notable feature of lemon and grapefruit juice",
+        "answer": "ACIDITY",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Underneath",
+        "answer": "BELOW",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Actor Kevin of \"Dave",
+        "answer": "KLINE",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Long-nosed fish",
+        "answer": "GAR",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Understand",
+        "answer": "SEE",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Make public, as a grievance",
+        "answer": "AIR",
+        "row": 4,
+        "col": 3
       }
     ]
   }
