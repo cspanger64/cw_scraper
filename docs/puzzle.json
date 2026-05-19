@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      null,
-      "D",
-      "J",
-      "S"
-    ],
-    [
-      null,
+      "I",
       "F",
-      "R",
-      "E",
-      "E"
+      "F",
+      "Y"
     ],
     [
       "C",
+      "H",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "F",
       "O",
-      "A",
-      "S",
-      "T"
+      "C",
+      "U",
+      "S"
     ],
     [
       "O",
-      "O",
       "P",
+      "U",
       "S",
       null
     ],
     [
-      "O",
-      "D",
+      "S",
       "E",
-      null,
+      "S",
+      "H",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Wedding entertainers, for short",
-        "answer": "DJS",
+        "clue": "Questionable",
+        "answer": "IFFY",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Like admission to the Smithsonian museums in Washington, D.C.",
-        "answer": "FREE",
-        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Not try particularly hard at one's job",
-        "answer": "COAST",
-        "row": 2,
+        "clue": "Country that's about 25 times longer than it is wide",
+        "answer": "CHILE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Didn't mean to do that!",
-        "answer": "OOPS",
-        "row": 3,
+        "clue": "iPhone setting that reduces distractions",
+        "answer": "FOCUS",
+        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Praiseful poem",
-        "answer": "ODE",
+        "clue": "Magnum ___ (masterpiece)",
+        "answer": "OPUS",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Get-together, slangily",
+        "answer": "SESH",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Hang loosely",
-        "answer": "DRAPE",
+        "clue": "Fingers crossed!",
+        "answer": "IHOPE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Indoor plant whose name is one vowel off from 6-Across",
+        "answer": "FICUS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Rory's love interest on \"Gilmore Girls",
-        "answer": "JESS",
+        "num": 3,
+        "clue": "A❤ 9❤ 6❤ 4❤ 2❤, e.g.",
+        "answer": "FLUSH",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "I'm all ___",
-        "answer": "SET",
+        "num": 4,
+        "clue": "What \"aye\" means",
+        "answer": "YES",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Caterer's responsibility",
-        "answer": "FOOD",
-        "row": 1,
-        "col": 1
-      },
-      {
         "num": 5,
-        "clue": "Mourning dove's call",
-        "answer": "COO",
-        "row": 2,
+        "clue": "Corp. money managers",
+        "answer": "CFOS",
+        "row": 1,
         "col": 0
       }
     ]
