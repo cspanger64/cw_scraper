@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
+      "D",
+      "A",
       "I",
-      "F",
-      "F",
+      "L",
       "Y"
     ],
     [
-      "C",
-      "H",
-      "I",
-      "L",
+      "R",
+      "A",
+      "N",
+      "G",
       "E"
     ],
     [
-      "F",
-      "O",
-      "C",
+      "A",
+      "R",
       "U",
-      "S"
+      "B",
+      "A"
     ],
     [
+      "C",
       "O",
-      "P",
-      "U",
       "S",
+      "T",
       null
     ],
     [
-      "S",
+      "O",
+      "N",
       "E",
-      "S",
-      "H",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Questionable",
-        "answer": "IFFY",
+        "clue": "How often the Mini comes out",
+        "answer": "DAILY",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Country that's about 25 times longer than it is wide",
-        "answer": "CHILE",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "iPhone setting that reduces distractions",
-        "answer": "FOCUS",
-        "row": 2,
+        "clue": "Difference between the highest and lowest values in a data set",
+        "answer": "RANGE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Magnum ___ (masterpiece)",
-        "answer": "OPUS",
-        "row": 3,
+        "clue": "Caribbean island near Venezuela",
+        "answer": "ARUBA",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Get-together, slangily",
-        "answer": "SESH",
+        "clue": "Price to pay",
+        "answer": "COST",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Jersey number worn by star linebacker Micah Parsons, the first Packer to wear it since 1926",
+        "answer": "ONE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Fingers crossed!",
-        "answer": "IHOPE",
+        "clue": "Constellation whose name comes from the Latin for \"dragon\"",
+        "answer": "DRACO",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "___ Burr, Sir\" (\"Hamilton\" number)",
+        "answer": "AARON",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Indoor plant whose name is one vowel off from 6-Across",
-        "answer": "FICUS",
+        "num": 3,
+        "clue": "Currently occupied, as a restroom",
+        "answer": "INUSE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "A❤ 9❤ 6❤ 4❤ 2❤, e.g.",
-        "answer": "FLUSH",
+        "num": 4,
+        "clue": "Community honored by the GLAAD Media Awards, for short",
+        "answer": "LGBT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "What \"aye\" means",
-        "answer": "YES",
+        "num": 5,
+        "clue": "___ or nay?",
+        "answer": "YEA",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Corp. money managers",
-        "answer": "CFOS",
-        "row": 1,
-        "col": 0
       }
     ]
   }
