@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "D",
-      "A",
+      null,
+      "S",
+      "W",
       "I",
-      "L",
-      "Y"
+      "M"
     ],
     [
-      "R",
-      "A",
-      "N",
-      "G",
-      "E"
-    ],
-    [
-      "A",
-      "R",
-      "U",
-      "B",
-      "A"
+      null,
+      "K",
+      "I",
+      "W",
+      "I"
     ],
     [
       "C",
-      "O",
+      "Y",
+      "N",
+      "I",
+      "C"
+    ],
+    [
+      "A",
+      "P",
+      "E",
       "S",
-      "T",
       null
     ],
     [
-      "O",
-      "N",
+      "M",
       "E",
-      null,
+      "S",
+      "H",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "How often the Mini comes out",
-        "answer": "DAILY",
+        "clue": "Ross Edgley's 1,700+-mile journey around Great Britain, for example",
+        "answer": "SWIM",
         "row": 0,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Fuzzy fruit",
+        "answer": "KIWI",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Difference between the highest and lowest values in a data set",
-        "answer": "RANGE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Caribbean island near Venezuela",
-        "answer": "ARUBA",
+        "clue": "Someone who assumes the worst intentions in everything",
+        "answer": "CYNIC",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Price to pay",
-        "answer": "COST",
+        "num": 7,
+        "clue": "Orangutans, e.g.",
+        "answer": "APES",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Jersey number worn by star linebacker Micah Parsons, the first Packer to wear it since 1926",
-        "answer": "ONE",
+        "num": 8,
+        "clue": "Work well together",
+        "answer": "MESH",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Constellation whose name comes from the Latin for \"dragon\"",
-        "answer": "DRACO",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "___ Burr, Sir\" (\"Hamilton\" number)",
-        "answer": "AARON",
+        "clue": "Former competitor of Google Hangouts",
+        "answer": "SKYPE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Currently occupied, as a restroom",
-        "answer": "INUSE",
+        "num": 2,
+        "clue": "Signature products of Napa Valley",
+        "answer": "WINES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Community honored by the GLAAD Media Awards, for short",
-        "answer": "LGBT",
+        "num": 3,
+        "clue": "Yeah, in my dreams!",
+        "answer": "IWISH",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "___ or nay?",
-        "answer": "YEA",
+        "num": 4,
+        "clue": "Open ___ night",
+        "answer": "MIC",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Something found on a Mac (that anagrams to MAC)",
+        "answer": "CAM",
+        "row": 2,
+        "col": 0
       }
     ]
   }
