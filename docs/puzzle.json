@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "S",
-      "W",
-      "I",
-      "M"
-    ],
-    [
       null,
-      "K",
-      "I",
+      "Z",
+      "O",
+      "O"
+    ],
+    [
+      "T",
       "W",
-      "I"
-    ],
-    [
-      "C",
-      "Y",
-      "N",
-      "I",
-      "C"
-    ],
-    [
       "A",
-      "P",
-      "E",
-      "S",
-      null
+      "I",
+      "N"
     ],
     [
-      "M",
       "E",
-      "S",
-      "H",
+      "A",
+      "G",
+      "L",
+      "E"
+    ],
+    [
+      "X",
+      "R",
+      "A",
+      "Y",
+      "S"
+    ],
+    [
+      "T",
+      "N",
+      "T",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Ross Edgley's 1,700+-mile journey around Great Britain, for example",
-        "answer": "SWIM",
+        "clue": "Not such a wild place to see an elephant",
+        "answer": "ZOO",
         "row": 0,
-        "col": 1
+        "col": 2
       },
       {
-        "num": 5,
-        "clue": "Fuzzy fruit",
-        "answer": "KIWI",
+        "num": 4,
+        "clue": "Mark who wrote \"Man was made at the end of the week's work, when God was tired",
+        "answer": "TWAIN",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Someone who assumes the worst intentions in everything",
-        "answer": "CYNIC",
+        "clue": "Symbol on the U.S. quarter",
+        "answer": "EAGLE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Orangutans, e.g.",
-        "answer": "APES",
+        "clue": "Parts of a dental exam",
+        "answer": "XRAYS",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Work well together",
-        "answer": "MESH",
+        "clue": "What Wile E. Coyote is always exploding himself with",
+        "answer": "TNT",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Former competitor of Google Hangouts",
-        "answer": "SKYPE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Signature products of Napa Valley",
-        "answer": "WINES",
+        "clue": "Big name in restaurant ratings",
+        "answer": "ZAGAT",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Yeah, in my dreams!",
-        "answer": "IWISH",
+        "num": 2,
+        "clue": "Like your hands after eating potato chips, perhaps",
+        "answer": "OILY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Open ___ night",
-        "answer": "MIC",
+        "num": 3,
+        "clue": "Lowest numbers in sudoku",
+        "answer": "ONES",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "Something found on a Mac (that anagrams to MAC)",
-        "answer": "CAM",
-        "row": 2,
+        "num": 4,
+        "clue": "Reach out with your fingers?",
+        "answer": "TEXT",
+        "row": 1,
         "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Give an alert",
+        "answer": "WARN",
+        "row": 1,
+        "col": 1
       }
     ]
   }
