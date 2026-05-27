@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "Z",
-      "O",
-      "O"
-    ],
-    [
-      "T",
-      "W",
+      "P",
       "A",
       "I",
-      "N"
-    ],
-    [
-      "E",
-      "A",
-      "G",
-      "L",
-      "E"
-    ],
-    [
-      "X",
       "R",
+      null
+    ],
+    [
+      "H",
       "A",
-      "Y",
+      "R",
+      "E",
+      null
+    ],
+    [
+      "D",
+      "R",
+      "O",
+      "P",
       "S"
     ],
     [
-      "T",
+      "S",
+      "O",
       "N",
-      "T",
+      "I",
+      "A"
+    ],
+    [
       null,
-      null
+      "N",
+      "Y",
+      "N",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Not such a wild place to see an elephant",
-        "answer": "ZOO",
+        "clue": "Unit of scissors, underwear or AirPods",
+        "answer": "PAIR",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 4,
-        "clue": "Mark who wrote \"Man was made at the end of the week's work, when God was tired",
-        "answer": "TWAIN",
+        "num": 5,
+        "clue": "Rabbit relative",
+        "answer": "HARE",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Symbol on the U.S. quarter",
-        "answer": "EAGLE",
+        "clue": "The circled letters in this puzzle, e.g.",
+        "answer": "DROPS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Parts of a dental exam",
-        "answer": "XRAYS",
+        "num": 8,
+        "clue": "Justice Sotomayor",
+        "answer": "SONIA",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "What Wile E. Coyote is always exploding himself with",
-        "answer": "TNT",
+        "num": 9,
+        "clue": "Letters in a Big Apple address",
+        "answer": "NYNY",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Big name in restaurant ratings",
-        "answer": "ZAGAT",
+        "clue": "High degrees, for short",
+        "answer": "PHDS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Quarterback Rodgers",
+        "answer": "AARON",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "A hardware store with a broken doorknob is an example of it",
+        "answer": "IRONY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Like your hands after eating potato chips, perhaps",
-        "answer": "OILY",
+        "num": 4,
+        "clue": "Affix again, as the tail on the donkey",
+        "answer": "REPIN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Lowest numbers in sudoku",
-        "answer": "ONES",
-        "row": 0,
+        "num": 7,
+        "clue": "Hey, I just thought of something ...",
+        "answer": "SAY",
+        "row": 2,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Reach out with your fingers?",
-        "answer": "TEXT",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Give an alert",
-        "answer": "WARN",
-        "row": 1,
-        "col": 1
       }
     ]
   }
