@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "P",
-      "A",
-      "I",
-      "R",
-      null
-    ],
-    [
-      "H",
-      "A",
-      "R",
-      "E",
-      null
-    ],
-    [
-      "D",
-      "R",
+      null,
+      "T",
+      "W",
       "O",
-      "P",
       "S"
     ],
     [
-      "S",
-      "O",
-      "N",
-      "I",
-      "A"
+      "W",
+      "H",
+      "A",
+      "L",
+      "E"
     ],
     [
-      null,
-      "N",
+      "R",
+      "E",
+      "L",
+      "A",
+      "X"
+    ],
+    [
+      "A",
+      "R",
+      "T",
       "Y",
-      "N",
-      "Y"
+      null
+    ],
+    [
+      "P",
+      "E",
+      "Z",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Unit of scissors, underwear or AirPods",
-        "answer": "PAIR",
+        "clue": "Rare U.S. bills",
+        "answer": "TWOS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Rabbit relative",
-        "answer": "HARE",
+        "clue": "94-foot-long model at the American Museum of Natural History",
+        "answer": "WHALE",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "The circled letters in this puzzle, e.g.",
-        "answer": "DROPS",
+        "clue": "Cool it, okay!",
+        "answer": "RELAX",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Justice Sotomayor",
-        "answer": "SONIA",
+        "num": 7,
+        "clue": "Bohemian",
+        "answer": "ARTY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Letters in a Big Apple address",
-        "answer": "NYNY",
+        "num": 8,
+        "clue": "Candy in a dispenser",
+        "answer": "PEZ",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "High degrees, for short",
-        "answer": "PHDS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Quarterback Rodgers",
-        "answer": "AARON",
+        "clue": "When repeated, \"It'll be all right",
+        "answer": "THERE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "A hardware store with a broken doorknob is an example of it",
-        "answer": "IRONY",
+        "num": 2,
+        "clue": "Classic ballroom dance",
+        "answer": "WALTZ",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Affix again, as the tail on the donkey",
-        "answer": "REPIN",
+        "num": 3,
+        "clue": "Maker of the Regenerist Micro-Sculpting Cream",
+        "answer": "OLAY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Hey, I just thought of something ...",
-        "answer": "SAY",
-        "row": 2,
+        "num": 4,
+        "clue": "Reason for an R rating",
+        "answer": "SEX",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Tortilla sandwich",
+        "answer": "WRAP",
+        "row": 1,
+        "col": 0
       }
     ]
   }
