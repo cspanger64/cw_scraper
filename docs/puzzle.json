@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "T",
-      "W",
-      "O",
-      "S"
-    ],
-    [
-      "W",
-      "H",
+      "M",
       "A",
-      "L",
-      "E"
-    ],
-    [
-      "R",
-      "E",
-      "L",
-      "A",
-      "X"
-    ],
-    [
-      "A",
-      "R",
-      "T",
-      "Y",
-      null
+      "S",
+      "H"
     ],
     [
       "P",
+      "A",
+      "N",
+      "K",
+      "O"
+    ],
+    [
+      "O",
+      "T",
+      "T",
       "E",
-      "Z",
-      null,
-      null
+      "R"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "W",
+      "S"
+    ],
+    [
+      "H",
+      "E",
+      "S",
+      "S",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Rare U.S. bills",
-        "answer": "TWOS",
+        "clue": "Bangers and ___, classic British pub fare",
+        "answer": "MASH",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "94-foot-long model at the American Museum of Natural History",
-        "answer": "WHALE",
+        "clue": "Crumbs used for coating",
+        "answer": "PANKO",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Cool it, okay!",
-        "answer": "RELAX",
+        "clue": "Animal that can use tools to open shells",
+        "answer": "OTTER",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Bohemian",
-        "answer": "ARTY",
+        "clue": "Dwells on angry feelings",
+        "answer": "STEWS",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Candy in a dispenser",
-        "answer": "PEZ",
+        "clue": "Author Hermann who writes disparagingly about crossword puzzles in \"The Glass Bead Game",
+        "answer": "HESSE",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "When repeated, \"It'll be all right",
-        "answer": "THERE",
+        "clue": "Alternative to glossy",
+        "answer": "MATTE",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Classic ballroom dance",
-        "answer": "WALTZ",
+        "clue": "Poker payments",
+        "answer": "ANTES",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Maker of the Regenerist Micro-Sculpting Cream",
-        "answer": "OLAY",
+        "clue": "Depicts unfairly, as data",
+        "answer": "SKEWS",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Reason for an R rating",
-        "answer": "SEX",
+        "clue": "Basketball shooting game named for an animal",
+        "answer": "HORSE",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Tortilla sandwich",
-        "answer": "WRAP",
+        "clue": "Expensively elegant",
+        "answer": "POSH",
         "row": 1,
         "col": 0
       }
