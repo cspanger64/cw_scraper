@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "M",
-      "A",
-      "S",
-      "H"
+      "D",
+      "O",
+      "I",
+      "N"
     ],
     [
+      null,
+      "U",
       "P",
-      "A",
-      "N",
-      "K",
+      "T",
       "O"
     ],
     [
       "O",
-      "T",
-      "T",
+      "C",
       "E",
-      "R"
+      "A",
+      "N"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "L",
+      null
     ],
     [
       "S",
       "T",
-      "E",
-      "W",
-      "S"
-    ],
-    [
-      "H",
-      "E",
-      "S",
-      "S",
-      "E"
+      "A",
+      "Y",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Bangers and ___, classic British pub fare",
-        "answer": "MASH",
+        "clue": "Whatcha ___?",
+        "answer": "DOIN",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Crumbs used for coating",
-        "answer": "PANKO",
+        "clue": "Whatcha ___?",
+        "answer": "UPTO",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Animal that can use tools to open shells",
-        "answer": "OTTER",
+        "clue": "Ecosystem that includes the bristlemouth, the most common vertebrate on Earth (roughly 1 quadrillion organisms)",
+        "answer": "OCEAN",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Dwells on angry feelings",
-        "answer": "STEWS",
+        "clue": "Marx who wrote \"Das Kapital",
+        "answer": "KARL",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Author Hermann who writes disparagingly about crossword puzzles in \"The Glass Bead Game",
-        "answer": "HESSE",
+        "clue": "Period at a hotel",
+        "answer": "STAY",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Alternative to glossy",
-        "answer": "MATTE",
+        "clue": "Old gold coin of Europe",
+        "answer": "DUCAT",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Poker payments",
-        "answer": "ANTES",
+        "clue": "Performance at Milan's La Scala or Naples's Teatro di San Carlo",
+        "answer": "OPERA",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Depicts unfairly, as data",
-        "answer": "SKEWS",
+        "clue": "Home to Milan and Naples",
+        "answer": "ITALY",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Basketball shooting game named for an animal",
-        "answer": "HORSE",
+        "clue": "Prefix with starter or smoker",
+        "answer": "NON",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Expensively elegant",
-        "answer": "POSH",
-        "row": 1,
+        "num": 6,
+        "clue": "Approves",
+        "answer": "OKS",
+        "row": 2,
         "col": 0
       }
     ]
