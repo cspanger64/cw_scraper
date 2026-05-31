@@ -1,42 +1,70 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
-      "D",
-      "O",
-      "I",
-      "N"
-    ],
-    [
-      null,
-      "U",
-      "P",
-      "T",
-      "O"
-    ],
-    [
-      "O",
-      "C",
-      "E",
-      "A",
-      "N"
-    ],
-    [
-      "K",
-      "A",
+      "G",
       "R",
-      "L",
+      "A",
+      "S",
+      "S",
       null
     ],
     [
       "S",
-      "T",
+      "L",
+      "U",
+      "R",
+      "P",
+      "E",
+      "E"
+    ],
+    [
+      "P",
       "A",
-      "Y",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      null,
+      "D",
+      "O",
+      "G"
+    ],
+    [
+      "M",
+      "I",
+      "L",
+      "L",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      null,
+      "N",
+      "E",
+      "E",
+      "R",
+      "A",
+      null
+    ],
+    [
+      null,
+      "G",
+      "R",
+      "A",
+      "S",
+      "S",
       null
     ]
   ],
@@ -44,75 +72,117 @@
     "across": [
       {
         "num": 1,
-        "clue": "Whatcha ___?",
-        "answer": "DOIN",
+        "clue": "It's always greener on the other side of the grid",
+        "answer": "GRASS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Whatcha ___?",
-        "answer": "UPTO",
-        "row": 1,
-        "col": 1
-      },
-      {
         "num": 6,
-        "clue": "Ecosystem that includes the bristlemouth, the most common vertebrate on Earth (roughly 1 quadrillion organisms)",
-        "answer": "OCEAN",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Marx who wrote \"Das Kapital",
-        "answer": "KARL",
-        "row": 3,
+        "clue": "7-Eleven frozen drink",
+        "answer": "SLURPEE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Period at a hotel",
-        "answer": "STAY",
+        "clue": "Getting a D or better",
+        "answer": "PASSING",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Sculpture or painting",
+        "answer": "ART",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Poker-playing animal in a classic painting",
+        "answer": "DOG",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 11,
+        "clue": "High Life beers, e.g.",
+        "answer": "MILLERS",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Democratic political figure ___ Tanden",
+        "answer": "NEERA",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 14,
+        "clue": "See 1-Across",
+        "answer": "GRASS",
+        "row": 6,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Old gold coin of Europe",
-        "answer": "DUCAT",
+        "clue": "Blindingly obvious",
+        "answer": "GLARING",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Performance at Milan's La Scala or Naples's Teatro di San Carlo",
-        "answer": "OPERA",
+        "clue": "Cattle ___ (Wild West thief)",
+        "answer": "RUSTLER",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Home to Milan and Naples",
-        "answer": "ITALY",
+        "clue": "Letters between \"cues\" and \"esses",
+        "answer": "ARS",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Prefix with starter or smoker",
-        "answer": "NON",
+        "clue": "They spend a lot of time on the web",
+        "answer": "SPIDERS",
         "row": 0,
         "col": 4
       },
       {
+        "num": 5,
+        "clue": "Married women, in Madrid",
+        "answer": "SENORAS",
+        "row": 0,
+        "col": 5
+      },
+      {
         "num": 6,
-        "clue": "Approves",
-        "answer": "OKS",
-        "row": 2,
+        "clue": "Text that gets the reply \"STOP,\" say",
+        "answer": "SPAM",
+        "row": 1,
         "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Staple grocery purchase",
+        "answer": "EGGS",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 12,
+        "clue": "Broadway star ___ Michele",
+        "answer": "LEA",
+        "row": 4,
+        "col": 3
       }
     ]
   }
