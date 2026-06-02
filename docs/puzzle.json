@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
+      null,
+      null,
       "C",
-      "U",
-      "F",
-      "F",
-      "S"
-    ],
-    [
-      "A",
-      "P",
-      "R",
-      "I",
-      "L"
-    ],
-    [
-      "S",
-      "T",
-      "O",
-      "L",
-      "E"
-    ],
-    [
-      "T",
-      "O",
-      "Y",
-      "E",
-      "D"
+      "H",
+      "A"
     ],
     [
       null,
-      "P",
+      "C",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "B",
       "O",
-      "T",
+      "O",
+      "M",
+      null
+    ],
+    [
+      "D",
+      "O",
+      "S",
+      null,
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Ends of dress shirt sleeves",
-        "answer": "CUFFS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Month when the N.B.A. and N.H.L. playoffs start, typically",
-        "answer": "APRIL",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Pilfered",
-        "answer": "STOLE",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Played (with)",
-        "answer": "TOYED",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Well, isn't that the ___ calling the kettle black!",
-        "answer": "POT",
-        "row": 4,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Performers in a play",
-        "answer": "CAST",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Gimme five!",
-        "answer": "UPTOP",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Soft serve alternative, familiarly",
-        "answer": "FROYO",
+        "clue": "When tripled, playful syllables sung after \"Happy birthday to you!",
+        "answer": "CHA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Boneless steakhouse order",
-        "answer": "FILET",
+        "clue": "Burn on the grill",
+        "answer": "CHAR",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "___ City, nickname for Baltimore",
+        "answer": "CHARM",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Explosion's sound",
+        "answer": "BOOM",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Half of cuatro",
+        "answer": "DOS",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Utter pandemonium",
+        "answer": "CHAOS",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Damage, as a reputation",
+        "answer": "HARM",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Winter ride",
-        "answer": "SLED",
+        "num": 3,
+        "clue": "Spot for a tattoo sleeve",
+        "answer": "ARM",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Jimmy ___ (high-end footwear brand)",
+        "answer": "CHOO",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Ingredient in some relaxing gummies, for short",
+        "answer": "CBD",
+        "row": 2,
+        "col": 0
       }
     ]
   }
