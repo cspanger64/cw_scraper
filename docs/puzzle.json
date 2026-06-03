@@ -7,35 +7,35 @@
     [
       null,
       null,
-      "C",
-      "H",
-      "A"
-    ],
-    [
-      null,
-      "C",
-      "H",
-      "A",
-      "R"
-    ],
-    [
-      "C",
-      "H",
-      "A",
-      "R",
-      "M"
-    ],
-    [
-      "B",
-      "O",
-      "O",
-      "M",
-      null
-    ],
-    [
-      "D",
-      "O",
       "S",
+      "U",
+      "P"
+    ],
+    [
+      "S",
+      "A",
+      "Y",
+      "N",
+      "O"
+    ],
+    [
+      "E",
+      "U",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "C",
+      "R",
+      "U",
+      "S",
+      "T"
+    ],
+    [
+      "T",
+      "A",
+      "P",
       null,
       null
     ]
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "When tripled, playful syllables sung after \"Happy birthday to you!",
-        "answer": "CHA",
+        "clue": "Slangy greeting",
+        "answer": "SUP",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Burn on the grill",
-        "answer": "CHAR",
+        "clue": "Turn down an offer",
+        "answer": "SAYNO",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "___ City, nickname for Baltimore",
-        "answer": "CHARM",
-        "row": 2,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Explosion's sound",
-        "answer": "BOOM",
-        "row": 3,
+        "clue": "Banknotes across the Atlantic",
+        "answer": "EUROS",
+        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Half of cuatro",
-        "answer": "DOS",
+        "clue": "Part of pizza that roughly 20% of people don't eat, according to YouGov polling",
+        "answer": "CRUST",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Interact with a smartphone screen",
+        "answer": "TAP",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Utter pandemonium",
-        "answer": "CHAOS",
+        "clue": "Many a Starbucks flavoring",
+        "answer": "SYRUP",
         "row": 0,
         "col": 2
       },
       {
         "num": 2,
-        "clue": "Damage, as a reputation",
-        "answer": "HARM",
+        "clue": "\"___, dos, tres, catorce!\" (famously inaccurate start to U2's \"Vertigo\")",
+        "answer": "UNOS",
         "row": 0,
         "col": 3
       },
       {
         "num": 3,
-        "clue": "Spot for a tattoo sleeve",
-        "answer": "ARM",
+        "clue": "Tweet, e.g.",
+        "answer": "POST",
         "row": 0,
         "col": 4
       },
       {
         "num": 4,
-        "clue": "Jimmy ___ (high-end footwear brand)",
-        "answer": "CHOO",
+        "clue": "Religious offshoot",
+        "answer": "SECT",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Ingredient in some relaxing gummies, for short",
-        "answer": "CBD",
-        "row": 2,
-        "col": 0
+        "clue": "Overall vibe",
+        "answer": "AURA",
+        "row": 1,
+        "col": 1
       }
     ]
   }
