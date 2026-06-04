@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
+      "L",
       "S",
-      "U",
-      "P"
-    ],
-    [
-      "S",
-      "A",
-      "Y",
-      "N",
-      "O"
-    ],
-    [
-      "E",
-      "U",
-      "R",
-      "O",
-      "S"
-    ],
-    [
-      "C",
-      "R",
-      "U",
-      "S",
-      "T"
-    ],
-    [
-      "T",
-      "A",
-      "P",
+      "D",
       null,
       null
+    ],
+    [
+      "I",
+      "C",
+      "E",
+      "D",
+      null
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      null,
+      "R",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      null,
+      null,
+      "T",
+      "O",
+      "O"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Slangy greeting",
-        "answer": "SUP",
+        "clue": "Drug taken in tabs",
+        "answer": "LSD",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
         "num": 4,
-        "clue": "Turn down an offer",
-        "answer": "SAYNO",
+        "clue": "Like some coffees and sprained ankles",
+        "answer": "ICED",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Banknotes across the Atlantic",
-        "answer": "EUROS",
+        "clue": "It covers 8-Across, both in this puzzle and in a popular game",
+        "answer": "PAPER",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Part of pizza that roughly 20% of people don't eat, according to YouGov polling",
-        "answer": "CRUST",
+        "num": 8,
+        "clue": "See 6-Across",
+        "answer": "ROCK",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Interact with a smartphone screen",
-        "answer": "TAP",
+        "num": 9,
+        "clue": "Also",
+        "answer": "TOO",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Many a Starbucks flavoring",
-        "answer": "SYRUP",
+        "clue": "Body part that might become \"fat\" after a fight",
+        "answer": "LIP",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "The Lion King\" villain",
+        "answer": "SCAR",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Train station",
+        "answer": "DEPOT",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "\"___, dos, tres, catorce!\" (famously inaccurate start to U2's \"Vertigo\")",
-        "answer": "UNOS",
-        "row": 0,
+        "num": 5,
+        "clue": "The Chrysler Building's architectural style, informally",
+        "answer": "DECO",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Tweet, e.g.",
-        "answer": "POST",
-        "row": 0,
+        "num": 7,
+        "clue": "Old-time film studio",
+        "answer": "RKO",
+        "row": 2,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Religious offshoot",
-        "answer": "SECT",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Overall vibe",
-        "answer": "AURA",
-        "row": 1,
-        "col": 1
       }
     ]
   }
