@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "L",
-      "S",
-      "D",
       null,
-      null
+      null,
+      "G",
+      "A",
+      "S"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "T",
+      "H"
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      "O",
+      "O"
     ],
     [
       "I",
       "C",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "R",
       "E",
       "D",
+      null,
       null
-    ],
-    [
-      "P",
-      "A",
-      "P",
-      "E",
-      "R"
-    ],
-    [
-      null,
-      "R",
-      "O",
-      "C",
-      "K"
-    ],
-    [
-      null,
-      null,
-      "T",
-      "O",
-      "O"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Drug taken in tabs",
-        "answer": "LSD",
+        "clue": "It takes you from E to F (and starts with G!)",
+        "answer": "GAS",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
         "num": 4,
-        "clue": "Like some coffees and sprained ankles",
-        "answer": "ICED",
+        "clue": "Animal that has a symbiotic relationship with green algae, which grows in its fur",
+        "answer": "SLOTH",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "It covers 8-Across, both in this puzzle and in a popular game",
-        "answer": "PAPER",
+        "clue": "Societal no-no",
+        "answer": "TABOO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "See 6-Across",
-        "answer": "ROCK",
+        "num": 7,
+        "clue": "Sorry, unavailable then",
+        "answer": "ICANT",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Also",
-        "answer": "TOO",
+        "num": 8,
+        "clue": "Color associated with passion",
+        "answer": "RED",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Body part that might become \"fat\" after a fight",
-        "answer": "LIP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "The Lion King\" villain",
-        "answer": "SCAR",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Train station",
-        "answer": "DEPOT",
+        "clue": "Turn in the fridge, maybe",
+        "answer": "GOBAD",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "The Chrysler Building's architectural style, informally",
-        "answer": "DECO",
-        "row": 1,
+        "num": 2,
+        "clue": "Lots and lots",
+        "answer": "ATON",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Old-time film studio",
-        "answer": "RKO",
-        "row": 2,
+        "num": 3,
+        "clue": "Something a bartender or basketball player might make",
+        "answer": "SHOT",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Mix, as a sauce",
+        "answer": "STIR",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Frilly material",
+        "answer": "LACE",
+        "row": 1,
+        "col": 1
       }
     ]
   }
