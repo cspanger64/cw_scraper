@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "G",
-      "A",
-      "S"
-    ],
-    [
-      "S",
-      "L",
-      "O",
-      "T",
-      "H"
-    ],
-    [
-      "T",
-      "A",
-      "B",
-      "O",
-      "O"
-    ],
-    [
-      "I",
       "C",
-      "A",
-      "N",
-      "T"
+      "R",
+      "I",
+      "S",
+      "P"
     ],
     [
-      "R",
+      "H",
+      "O",
+      "N",
       "E",
+      "Y"
+    ],
+    [
+      "A",
+      "L",
       "D",
-      null,
-      null
+      "E",
+      "R"
+    ],
+    [
+      "F",
+      "L",
+      "U",
+      "M",
+      "E"
+    ],
+    [
+      "E",
+      "S",
+      "S",
+      "E",
+      "X"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "It takes you from E to F (and starts with G!)",
-        "answer": "GAS",
+        "clue": "Fruity dessert named for its crunch",
+        "answer": "CRISP",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Animal that has a symbiotic relationship with green algae, which grows in its fur",
-        "answer": "SLOTH",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Societal no-no",
-        "answer": "TABOO",
-        "row": 2,
+        "clue": "Beehive product",
+        "answer": "HONEY",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Sorry, unavailable then",
-        "answer": "ICANT",
-        "row": 3,
+        "clue": "Tree whose wood is used to make Fender guitars",
+        "answer": "ALDER",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Color associated with passion",
-        "answer": "RED",
+        "clue": "Log ___ (water park ride)",
+        "answer": "FLUME",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "English county whose name sounds like the 19th and 24th letters of the alphabet",
+        "answer": "ESSEX",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Turn in the fridge, maybe",
-        "answer": "GOBAD",
+        "clue": "Rub the wrong way, perhaps",
+        "answer": "CHAFE",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Starts a turn in Monopoly",
+        "answer": "ROLLS",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Longest river in South Asia (~2,000 miles)",
+        "answer": "INDUS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Lots and lots",
-        "answer": "ATON",
+        "num": 4,
+        "clue": "Ominous note on a failed exam",
+        "answer": "SEEME",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Something a bartender or basketball player might make",
-        "answer": "SHOT",
+        "num": 5,
+        "clue": "Oven-safe glassware material",
+        "answer": "PYREX",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Mix, as a sauce",
-        "answer": "STIR",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Frilly material",
-        "answer": "LACE",
-        "row": 1,
-        "col": 1
       }
     ]
   }
