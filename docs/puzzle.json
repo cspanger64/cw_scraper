@@ -1,118 +1,202 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "C",
-      "R",
-      "I",
+      "N",
+      "O",
       "S",
-      "P"
+      "W",
+      "E",
+      "A",
+      "T"
     ],
     [
-      "H",
       "O",
       "N",
-      "E",
-      "Y"
+      "T",
+      "A",
+      "R",
+      "I",
+      "O"
     ],
     [
+      "M",
+      "E",
+      "A",
+      "S",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      null,
+      null,
+      "P",
+      "A",
+      "D",
+      null,
+      null
+    ],
+    [
+      "S",
       "A",
       "L",
-      "D",
+      "T",
+      "I",
       "E",
       "R"
     ],
     [
-      "F",
+      "E",
       "L",
-      "U",
-      "M",
-      "E"
+      "E",
+      "C",
+      "T",
+      "R",
+      "O"
     ],
     [
+      "W",
+      "A",
+      "R",
+      "H",
       "E",
-      "S",
-      "S",
-      "E",
-      "X"
+      "R",
+      "O"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Fruity dessert named for its crunch",
-        "answer": "CRISP",
+        "clue": "Easy peasy!",
+        "answer": "NOSWEAT",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Beehive product",
-        "answer": "HONEY",
+        "num": 8,
+        "clue": "Great Lake whose name can be translated in Iroquoian as \"great lake",
+        "answer": "ONTARIO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Tree whose wood is used to make Fender guitars",
-        "answer": "ALDER",
+        "num": 9,
+        "clue": "Use a ruler",
+        "answer": "MEASURE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Log ___ (water park ride)",
-        "answer": "FLUME",
+        "num": 10,
+        "clue": "Word after \"brake,\" \"Brillo\" or \"bachelor",
+        "answer": "PAD",
         "row": 3,
+        "col": 2
+      },
+      {
+        "num": 11,
+        "clue": "Having more sodium",
+        "answer": "SALTIER",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "English county whose name sounds like the 19th and 24th letters of the alphabet",
-        "answer": "ESSEX",
-        "row": 4,
+        "num": 15,
+        "clue": "Spider-Man foe who gained his powers from a lightning strike",
+        "answer": "ELECTRO",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "George Washington or George Patton",
+        "answer": "WARHERO",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Rub the wrong way, perhaps",
-        "answer": "CHAFE",
+        "clue": "___ de plume",
+        "answer": "NOM",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Starts a turn in Monopoly",
-        "answer": "ROLLS",
+        "clue": "First digit of pi after the decimal",
+        "answer": "ONE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Longest river in South Asia (~2,000 miles)",
-        "answer": "INDUS",
+        "clue": "Paper pusher?",
+        "answer": "STAPLER",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Ominous note on a failed exam",
-        "answer": "SEEME",
+        "clue": "Major mountain range in Utah",
+        "answer": "WASATCH",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Oven-safe glassware material",
-        "answer": "PYREX",
+        "clue": "Well-read",
+        "answer": "ERUDITE",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "It's mostly nitrogen and oxygen",
+        "answer": "AIR",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "Wiggler in a sock",
+        "answer": "TOE",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Stitch up",
+        "answer": "SEW",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Chicken ___ king",
+        "answer": "ALA",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Make a mistake",
+        "answer": "ERR",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 14,
+        "clue": "Aussie animal, for short",
+        "answer": "ROO",
+        "row": 4,
+        "col": 6
       }
     ]
   }
