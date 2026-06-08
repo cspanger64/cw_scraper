@@ -1,202 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "N",
-      "O",
-      "S",
-      "W",
-      "E",
-      "A",
-      "T"
-    ],
-    [
-      "O",
-      "N",
-      "T",
-      "A",
-      "R",
       "I",
-      "O"
+      "N",
+      "P",
+      "J",
+      "S"
     ],
     [
-      "M",
-      "E",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H"
+    ],
+    [
       "A",
-      "S",
-      "U",
+      "D",
+      "O",
       "R",
       "E"
     ],
     [
-      null,
-      null,
-      "P",
-      "A",
       "D",
+      "U",
+      "N",
+      "E",
+      "S"
+    ],
+    [
       null,
-      null
-    ],
-    [
-      "S",
-      "A",
-      "L",
-      "T",
-      "I",
-      "E",
-      "R"
-    ],
-    [
-      "E",
-      "L",
-      "E",
-      "C",
-      "T",
-      "R",
-      "O"
-    ],
-    [
-      "W",
-      "A",
-      "R",
       "H",
       "E",
-      "R",
-      "O"
+      "W",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Easy peasy!",
-        "answer": "NOSWEAT",
+        "clue": "Dressed for bed, informally",
+        "answer": "INPJS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Great Lake whose name can be translated in Iroquoian as \"great lake",
-        "answer": "ONTARIO",
+        "num": 6,
+        "clue": "___ swing (outdoor seating)",
+        "answer": "PORCH",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Use a ruler",
-        "answer": "MEASURE",
+        "num": 7,
+        "clue": "Love a lot",
+        "answer": "ADORE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Word after \"brake,\" \"Brillo\" or \"bachelor",
-        "answer": "PAD",
+        "num": 8,
+        "clue": "Keep Off ___ (beach sign)",
+        "answer": "DUNES",
         "row": 3,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 11,
-        "clue": "Having more sodium",
-        "answer": "SALTIER",
+        "num": 9,
+        "clue": "Chop down, as a tree",
+        "answer": "HEW",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Spider-Man foe who gained his powers from a lightning strike",
-        "answer": "ELECTRO",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "George Washington or George Patton",
-        "answer": "WARHERO",
-        "row": 6,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "___ de plume",
-        "answer": "NOM",
+        "clue": "Apple device that can act as a cash register",
+        "answer": "IPAD",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "First digit of pi after the decimal",
-        "answer": "ONE",
+        "clue": "Yeah, obviously!",
+        "answer": "NODUH",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Paper pusher?",
-        "answer": "STAPLER",
+        "clue": "Lying face down",
+        "answer": "PRONE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Major mountain range in Utah",
-        "answer": "WASATCH",
+        "clue": "Abercrombie & Fitch competitor",
+        "answer": "JCREW",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Well-read",
-        "answer": "ERUDITE",
+        "clue": "___ a Bad Mama Jama\" (1981 R&B hit)",
+        "answer": "SHES",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "It's mostly nitrogen and oxygen",
-        "answer": "AIR",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "Wiggler in a sock",
-        "answer": "TOE",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Stitch up",
-        "answer": "SEW",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Chicken ___ king",
-        "answer": "ALA",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "Make a mistake",
-        "answer": "ERR",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 14,
-        "clue": "Aussie animal, for short",
-        "answer": "ROO",
-        "row": 4,
-        "col": 6
       }
     ]
   }
