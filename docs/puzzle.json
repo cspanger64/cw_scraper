@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "I",
-      "N",
-      "P",
-      "J",
-      "S"
+      "D",
+      "R",
+      "E",
+      "A",
+      "M"
     ],
     [
-      "P",
-      "O",
       "R",
-      "C",
-      "H"
+      "E",
+      "T",
+      "R",
+      "O"
     ],
     [
       "A",
-      "D",
-      "O",
-      "R",
-      "E"
-    ],
-    [
-      "D",
-      "U",
-      "N",
+      "S",
+      "H",
       "E",
       "S"
     ],
     [
-      null,
-      "H",
-      "E",
       "W",
-      null
+      "E",
+      "E",
+      "P",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "A",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Dressed for bed, informally",
-        "answer": "INPJS",
+        "clue": "What someone may attempt to explain in a long, drawn-out description",
+        "answer": "DREAM",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "___ swing (outdoor seating)",
-        "answer": "PORCH",
+        "clue": "Back in style",
+        "answer": "RETRO",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Love a lot",
-        "answer": "ADORE",
+        "clue": "Remnants in a recently used fire pit",
+        "answer": "ASHES",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Keep Off ___ (beach sign)",
-        "answer": "DUNES",
+        "clue": "Sheds tears",
+        "answer": "WEEPS",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Chop down, as a tree",
-        "answer": "HEW",
+        "clue": "Animal in need of adoption",
+        "answer": "STRAY",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Apple device that can act as a cash register",
-        "answer": "IPAD",
+        "clue": "Takes a card from the deck",
+        "answer": "DRAWS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Yeah, obviously!",
-        "answer": "NODUH",
+        "clue": "The Great Meme ___, movement to purge social media of \"brain rot",
+        "answer": "RESET",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Lying face down",
-        "answer": "PRONE",
+        "clue": "Thin air, so to speak",
+        "answer": "ETHER",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Abercrombie & Fitch competitor",
-        "answer": "JCREW",
+        "clue": "Colombian food cart dish",
+        "answer": "AREPA",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "___ a Bad Mama Jama\" (1981 R&B hit)",
-        "answer": "SHES",
+        "clue": "Green and fuzzy, as a rock",
+        "answer": "MOSSY",
         "row": 0,
         "col": 4
       }
