@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "D",
-      "R",
-      "E",
+      "C",
       "A",
-      "M"
-    ],
-    [
-      "R",
+      "V",
       "E",
-      "T",
-      "R",
-      "O"
+      null
     ],
     [
       "A",
-      "S",
-      "H",
+      "L",
+      "A",
+      "N",
+      null
+    ],
+    [
+      "R",
+      "U",
+      "L",
       "E",
       "S"
     ],
     [
-      "W",
+      null,
+      "M",
       "E",
-      "E",
-      "P",
-      "S"
+      "M",
+      "E"
     ],
     [
+      null,
       "S",
       "T",
-      "R",
-      "A",
-      "Y"
+      "Y",
+      "X"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "What someone may attempt to explain in a long, drawn-out description",
-        "answer": "DREAM",
+        "clue": "Where bats hang",
+        "answer": "CAVE",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Back in style",
-        "answer": "RETRO",
+        "num": 5,
+        "clue": "Rickman who played Snape",
+        "answer": "ALAN",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Remnants in a recently used fire pit",
-        "answer": "ASHES",
+        "num": 6,
+        "clue": "Is totally awesome",
+        "answer": "RULES",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Sheds tears",
-        "answer": "WEEPS",
+        "clue": "Image that might accompany the words \"That feeling when ...",
+        "answer": "MEME",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
         "num": 9,
-        "clue": "Animal in need of adoption",
-        "answer": "STRAY",
+        "clue": "River of the Greek underworld",
+        "answer": "STYX",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Takes a card from the deck",
-        "answer": "DRAWS",
+        "clue": "Jaguar or Mustang",
+        "answer": "CAR",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "The Great Meme ___, movement to purge social media of \"brain rot",
-        "answer": "RESET",
+        "clue": "College reunion attendees",
+        "answer": "ALUMS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Thin air, so to speak",
-        "answer": "ETHER",
+        "clue": "Parker at a ritzy hotel",
+        "answer": "VALET",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Colombian food cart dish",
-        "answer": "AREPA",
+        "clue": "Adversary",
+        "answer": "ENEMY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Green and fuzzy, as a rock",
-        "answer": "MOSSY",
-        "row": 0,
+        "num": 7,
+        "clue": "Awkward topic of discussion with a teenager",
+        "answer": "SEX",
+        "row": 2,
         "col": 4
       }
     ]
