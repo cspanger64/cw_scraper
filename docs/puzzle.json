@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "C",
-      "A",
-      "V",
-      "E",
-      null
-    ],
-    [
-      "A",
+      "G",
       "L",
       "A",
-      "N",
-      null
-    ],
-    [
-      "R",
-      "U",
-      "L",
-      "E",
+      "S",
       "S"
     ],
     [
-      null,
-      "M",
-      "E",
-      "M",
-      "E"
+      "L",
+      "U",
+      "N",
+      "C",
+      "H"
     ],
     [
-      null,
-      "S",
-      "T",
-      "Y",
-      "X"
+      "A",
+      "N",
+      "G",
+      "R",
+      "Y"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "I",
+      null
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "P",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Where bats hang",
-        "answer": "CAVE",
+        "clue": "What the Louvre Pyramid is primarily made of",
+        "answer": "GLASS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Rickman who played Snape",
-        "answer": "ALAN",
+        "num": 6,
+        "clue": "All that and a bag of chips, perhaps?",
+        "answer": "LUNCH",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Is totally awesome",
-        "answer": "RULES",
+        "num": 7,
+        "clue": "😡",
+        "answer": "ANGRY",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Image that might accompany the words \"That feeling when ...",
-        "answer": "MEME",
+        "clue": "Timbuktu's country",
+        "answer": "MALI",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "River of the Greek underworld",
-        "answer": "STYX",
+        "clue": "Kitchen work before cooking",
+        "answer": "PREP",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Jaguar or Mustang",
-        "answer": "CAR",
+        "clue": "Enjoy an outdoor vacation with extra amenities",
+        "answer": "GLAMP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "College reunion attendees",
-        "answer": "ALUMS",
+        "clue": "Moon-related",
+        "answer": "LUNAR",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Parker at a ritzy hotel",
-        "answer": "VALET",
+        "clue": "Something that can be \"acute\" or \"obtuse\"",
+        "answer": "ANGLE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Adversary",
-        "answer": "ENEMY",
+        "clue": "Medication order from a doctor, for short",
+        "answer": "SCRIP",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Awkward topic of discussion with a teenager",
-        "answer": "SEX",
-        "row": 2,
+        "num": 5,
+        "clue": "Like many children when meeting their parents' friends",
+        "answer": "SHY",
+        "row": 0,
         "col": 4
       }
     ]
