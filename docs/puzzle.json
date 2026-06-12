@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "G",
-      "L",
+      null,
       "A",
-      "S",
+      "B",
+      "C",
       "S"
     ],
     [
-      "L",
-      "U",
-      "N",
+      null,
       "C",
-      "H"
+      "O",
+      "A",
+      "L"
     ],
     [
-      "A",
+      "F",
+      "U",
       "N",
-      "G",
-      "R",
+      "N",
       "Y"
     ],
     [
-      "M",
-      "A",
-      "L",
-      "I",
+      "O",
+      "R",
+      "E",
+      "O",
       null
     ],
     [
-      "P",
-      "R",
+      "B",
+      "A",
+      "S",
       "E",
-      "P",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "What the Louvre Pyramid is primarily made of",
-        "answer": "GLASS",
+        "clue": "Kindergarten basics",
+        "answer": "ABCS",
         "row": 0,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Santa's \"present\" for naughty kids",
+        "answer": "COAL",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "All that and a bag of chips, perhaps?",
-        "answer": "LUNCH",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "😡",
-        "answer": "ANGRY",
+        "clue": "With 2-Down, body parts that are a spoonerism of \"bunny phones",
+        "answer": "FUNNY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Timbuktu's country",
-        "answer": "MALI",
+        "num": 7,
+        "clue": "Cookie with blue-and-white packaging",
+        "answer": "OREO",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Kitchen work before cooking",
-        "answer": "PREP",
+        "num": 8,
+        "clue": "Acid's opposite",
+        "answer": "BASE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Enjoy an outdoor vacation with extra amenities",
-        "answer": "GLAMP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Moon-related",
-        "answer": "LUNAR",
+        "clue": "High-end division of Honda",
+        "answer": "ACURA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Something that can be \"acute\" or \"obtuse\"",
-        "answer": "ANGLE",
+        "num": 2,
+        "clue": "See 6-Across",
+        "answer": "BONES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Medication order from a doctor, for short",
-        "answer": "SCRIP",
+        "num": 3,
+        "clue": "Something to paddle across a lake",
+        "answer": "CANOE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Like many children when meeting their parents' friends",
-        "answer": "SHY",
+        "num": 4,
+        "clue": "Sneaky",
+        "answer": "SLY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Electronic key",
+        "answer": "FOB",
+        "row": 2,
+        "col": 0
       }
     ]
   }
