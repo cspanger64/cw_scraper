@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
+      "J",
       "A",
+      "M",
       "B",
-      "C",
-      "S"
+      null
     ],
     [
-      null,
-      "C",
-      "O",
-      "A",
-      "L"
-    ],
-    [
-      "F",
-      "U",
-      "N",
-      "N",
+      "E",
+      "V",
+      "E",
+      "R",
       "Y"
     ],
     [
-      "O",
       "R",
-      "E",
-      "O",
-      null
+      "A",
+      "T",
+      "I",
+      "O"
     ],
     [
-      "B",
-      "A",
-      "S",
-      "E",
-      null
+      "K",
+      "N",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      null,
+      "T",
+      "O",
+      "K",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Kindergarten basics",
-        "answer": "ABCS",
+        "clue": "Vertical post in a doorframe",
+        "answer": "JAMB",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Santa's \"present\" for naughty kids",
-        "answer": "COAL",
+        "clue": "What \"E\" stands for in the musical mnemonic EGBDF",
+        "answer": "EVERY",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "With 2-Down, body parts that are a spoonerism of \"bunny phones",
-        "answer": "FUNNY",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Cookie with blue-and-white packaging",
-        "answer": "OREO",
-        "row": 3,
+        "clue": "6:7, e.g.",
+        "answer": "RATIO",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Acid's opposite",
-        "answer": "BASE",
-        "row": 4,
+        "clue": "Rap or tap",
+        "answer": "KNOCK",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Quick puff on a joint",
+        "answer": "TOKE",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "High-end division of Honda",
-        "answer": "ACURA",
+        "clue": "Kind of seasoning for Jamaican-style chicken",
+        "answer": "JERK",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "___-garde",
+        "answer": "AVANT",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "See 6-Across",
-        "answer": "BONES",
+        "num": 3,
+        "clue": "That makes two of us!",
+        "answer": "METOO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Something to paddle across a lake",
-        "answer": "CANOE",
+        "num": 4,
+        "clue": "Badly missed jump shot, in hoops slang",
+        "answer": "BRICK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Sneaky",
-        "answer": "SLY",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 6,
-        "clue": "Electronic key",
-        "answer": "FOB",
-        "row": 2,
-        "col": 0
+        "clue": "Oxen's harness",
+        "answer": "YOKE",
+        "row": 1,
+        "col": 4
       }
     ]
   }
