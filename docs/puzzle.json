@@ -1,86 +1,41 @@
 {
   "size": [
-    8,
-    8
+    5,
+    5
   ],
   "grid": [
     [
-      "H",
-      "A",
-      "L",
-      "T",
       null,
       null,
-      null,
-      null
-    ],
-    [
-      "A",
-      "L",
-      "O",
+      "P",
       "E",
-      null,
-      null,
-      null,
-      null
-    ],
-    [
-      "I",
-      "T",
-      "L",
-      "L",
-      "P",
-      "A",
-      "S",
-      "S"
-    ],
-    [
-      "M",
-      "I",
-      "L",
-      null,
-      null,
-      "M",
-      "O",
-      "E"
-    ],
-    [
-      "U",
-      "M",
-      "P",
-      null,
-      null,
-      "G",
-      "L",
       "P"
     ],
     [
-      "P",
-      "E",
+      "S",
+      "M",
       "A",
-      "S",
-      "H",
-      "O",
-      "O",
-      "T"
-    ],
-    [
-      null,
-      "S",
-      "H",
-      "E",
-      "A",
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      "S",
-      "H",
-      "E",
       "L",
-      null,
+      "L"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "M",
+      "A"
+    ],
+    [
+      "I",
+      "T",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "T",
+      "H",
+      "E",
       null,
       null
     ]
@@ -89,145 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Sentry's \"Stop!",
-        "answer": "HALT",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "___ vera (succulent)",
-        "answer": "ALOE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "That feeling should fade",
-        "answer": "ITLLPASS",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "$1,000,000, informally",
-        "answer": "MIL",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "One of the Three Stooges",
-        "answer": "MOE",
-        "row": 3,
-        "col": 5
-      },
-      {
-        "num": 12,
-        "clue": "Caller of balls and strikes",
-        "answer": "UMP",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "___-1 (class of drugs that includes Ozempic and Wegovy)",
-        "answer": "GLP",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 14,
-        "clue": "Crunchy tendril used in Asian cuisine",
-        "answer": "PEASHOOT",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "___ Stadium, former home of the Mets",
-        "answer": "SHEA",
-        "row": 6,
-        "col": 1
-      },
-      {
-        "num": 18,
-        "clue": "Silverstein who wrote \"The Giving Tree",
-        "answer": "SHEL",
-        "row": 7,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Student's slip",
-        "answer": "HALLPASS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "The \"A\" of GOAT",
-        "answer": "ALL",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Chop (off)",
-        "answer": "LOP",
+        "clue": "Energy in one's step",
+        "answer": "PEP",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Collective objective ... or what the ends of 1-Down, 6-Across and 14-Across lead to",
-        "answer": "TEAMGOAL",
-        "row": 0,
-        "col": 3
+        "clue": "S, for a tee",
+        "answer": "SMALL",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Okay, it's my turn",
-        "answer": "IMUP",
+        "clue": "Philosophical idea of \"What goes around comes back around\"",
+        "answer": "KARMA",
         "row": 2,
-        "col": 5
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "The \"T\" of GOAT",
-        "answer": "TIME",
-        "row": 2,
-        "col": 6
-      },
-      {
-        "num": 8,
-        "clue": "All by oneself",
-        "answer": "SOLO",
-        "row": 2,
-        "col": 7
-      },
-      {
-        "num": 9,
-        "clue": "Month #9: Abbr.",
-        "answer": "SEPT",
+        "clue": "Oh, you wanna go! Let's go!",
+        "answer": "ITSON",
         "row": 3,
         "col": 0
       },
       {
-        "num": 15,
-        "clue": "Librarian's warning",
-        "answer": "SHH",
-        "row": 5,
+        "num": 8,
+        "clue": "What do Alexander the Great and Winnie the Pooh have in common?",
+        "answer": "THE",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Break down grammatically",
+        "answer": "PARSE",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Favorite Muppet of little kids",
+        "answer": "ELMO",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 3,
+        "clue": "Blueprint",
+        "answer": "PLAN",
+        "row": 0,
         "col": 4
       },
       {
-        "num": 16,
-        "clue": "Tee-___ (giggle)",
-        "answer": "HEE",
-        "row": 6,
-        "col": 2
+        "num": 4,
+        "clue": "Short comedic sketch",
+        "answer": "SKIT",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "70-minute section of the SAT",
+        "answer": "MATH",
+        "row": 1,
+        "col": 1
       }
     ]
   }
