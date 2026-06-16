@@ -1,41 +1,69 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
       null,
+      null,
       "P",
-      "E",
-      "P"
+      "U",
+      "T",
+      null
     ],
     [
-      "S",
-      "M",
-      "A",
-      "L",
-      "L"
+      null,
+      null,
+      "P",
+      "U",
+      "T",
+      "T",
+      null
     ],
     [
-      "K",
+      null,
+      "P",
+      "U",
+      "T",
+      "T",
+      "Y",
+      null
+    ],
+    [
+      "C",
       "A",
       "R",
-      "M",
-      "A"
-    ],
-    [
-      "I",
       "T",
-      "S",
-      "O",
-      "N"
-    ],
-    [
-      "T",
-      "H",
       "E",
+      "L",
+      null
+    ],
+    [
+      "A",
+      "N",
+      "G",
+      "E",
+      "R",
+      null,
+      null
+    ],
+    [
+      "B",
+      "E",
+      "E",
+      "R",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
       null,
       null
     ]
@@ -44,75 +72,89 @@
     "across": [
       {
         "num": 1,
-        "clue": "Energy in one's step",
-        "answer": "PEP",
+        "clue": "Postponed, with \"off",
+        "answer": "PUT",
         "row": 0,
-        "col": 2
+        "col": 3
       },
       {
         "num": 4,
-        "clue": "S, for a tee",
-        "answer": "SMALL",
+        "clue": "Mini-golf stroke",
+        "answer": "PUTT",
         "row": 1,
-        "col": 0
+        "col": 2
+      },
+      {
+        "num": 5,
+        "clue": "Silly ___ (classic toy)",
+        "answer": "PUTTY",
+        "row": 2,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Philosophical idea of \"What goes around comes back around\"",
-        "answer": "KARMA",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Oh, you wanna go! Let's go!",
-        "answer": "ITSON",
+        "clue": "Syndicate of drug dealers",
+        "answer": "CARTEL",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "What do Alexander the Great and Winnie the Pooh have in common?",
-        "answer": "THE",
+        "num": 7,
+        "clue": "Inside Out\" emotion whose head bursts into flame",
+        "answer": "ANGER",
         "row": 4,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Corona or Coors",
+        "answer": "BEER",
+        "row": 5,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Break down grammatically",
-        "answer": "PARSE",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 2,
-        "clue": "Favorite Muppet of little kids",
-        "answer": "ELMO",
+        "clue": "Aimlessly spend time around the house",
+        "answer": "PUTTER",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Blueprint",
-        "answer": "PLAN",
+        "num": 2,
+        "clue": "Say",
+        "answer": "UTTER",
         "row": 0,
         "col": 4
       },
       {
+        "num": 3,
+        "clue": "Texter's sign-off",
+        "answer": "TTYL",
+        "row": 0,
+        "col": 5
+      },
+      {
         "num": 4,
-        "clue": "Short comedic sketch",
-        "answer": "SKIT",
+        "clue": "Completely get rid of",
+        "answer": "PURGE",
         "row": 1,
-        "col": 0
+        "col": 2
       },
       {
         "num": 5,
-        "clue": "70-minute section of the SAT",
-        "answer": "MATH",
-        "row": 1,
+        "clue": "Window section",
+        "answer": "PANE",
+        "row": 2,
         "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Alternative to the subway",
+        "answer": "CAB",
+        "row": 3,
+        "col": 0
       }
     ]
   }
