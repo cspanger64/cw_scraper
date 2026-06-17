@@ -1,160 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      null,
-      null,
-      null,
-      "P",
-      "U",
-      "T",
-      null
+      "M",
+      "A",
+      "S",
+      "O",
+      "N"
     ],
     [
-      null,
-      null,
-      "P",
+      "A",
       "U",
       "T",
-      "T",
-      null
-    ],
-    [
-      null,
-      "P",
-      "U",
-      "T",
-      "T",
-      "Y",
-      null
+      "O",
+      "S"
     ],
     [
       "C",
+      "R",
       "A",
-      "R",
-      "T",
-      "E",
-      "L",
-      null
+      "Z",
+      "Y"
     ],
     [
+      "H",
       "A",
-      "N",
-      "G",
+      "V",
       "E",
-      "R",
-      null,
-      null
-    ],
-    [
-      "B",
-      "E",
-      "E",
-      "R",
-      null,
-      null,
-      null
+      "N"
     ],
     [
       null,
       null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "E",
+      "S",
+      "C"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Postponed, with \"off",
-        "answer": "PUT",
+        "clue": "Worker who sticks a thick mix on bricks",
+        "answer": "MASON",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Mini-golf stroke",
-        "answer": "PUTT",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 5,
-        "clue": "Silly ___ (classic toy)",
-        "answer": "PUTTY",
-        "row": 2,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Syndicate of drug dealers",
-        "answer": "CARTEL",
-        "row": 3,
+        "clue": "Volvos or VWs",
+        "answer": "AUTOS",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Inside Out\" emotion whose head bursts into flame",
-        "answer": "ANGER",
-        "row": 4,
+        "clue": "Wow, that's wild!",
+        "answer": "CRAZY",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Corona or Coors",
-        "answer": "BEER",
-        "row": 5,
+        "clue": "Peaceful place",
+        "answer": "HAVEN",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Key above ~ on a Mac",
+        "answer": "ESC",
+        "row": 4,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Aimlessly spend time around the house",
-        "answer": "PUTTER",
+        "clue": "___ 1 (speed of sound)",
+        "answer": "MACH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Emanating glow",
+        "answer": "AURA",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Fend (off)",
+        "answer": "STAVE",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Seeps slowly",
+        "answer": "OOZES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "Say",
-        "answer": "UTTER",
+        "num": 5,
+        "clue": "Boy band with the 2000 hit \"It's Gonna Be Me",
+        "answer": "NSYNC",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 3,
-        "clue": "Texter's sign-off",
-        "answer": "TTYL",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 4,
-        "clue": "Completely get rid of",
-        "answer": "PURGE",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 5,
-        "clue": "Window section",
-        "answer": "PANE",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Alternative to the subway",
-        "answer": "CAB",
-        "row": 3,
-        "col": 0
       }
     ]
   }
