@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "M",
-      "A",
-      "S",
-      "O",
-      "N"
-    ],
-    [
-      "A",
+      "Q",
       "U",
-      "T",
-      "O",
+      "I",
+      "P",
       "S"
     ],
     [
-      "C",
-      "R",
+      "U",
+      "S",
+      "M",
       "A",
-      "Z",
+      "P"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "L",
       "Y"
     ],
     [
-      "H",
-      "A",
-      "V",
-      "E",
-      "N"
+      "L",
+      "O",
+      "G",
+      "O",
+      null
     ],
     [
-      null,
-      null,
+      "T",
+      "O",
       "E",
-      "S",
-      "C"
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Worker who sticks a thick mix on bricks",
-        "answer": "MASON",
+        "clue": "Witty one-liners",
+        "answer": "QUIPS",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Volvos or VWs",
-        "answer": "AUTOS",
+        "clue": "Common poster in a geography class",
+        "answer": "USMAP",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Wow, that's wild!",
-        "answer": "CRAZY",
+        "clue": "Country that's won the World Cup four times (but failed to qualify in 2018, 2022 and 2026)",
+        "answer": "ITALY",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Peaceful place",
-        "answer": "HAVEN",
+        "clue": "The one for Starbucks has a wavy-haired mermaid",
+        "answer": "LOGO",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Key above ~ on a Mac",
-        "answer": "ESC",
+        "clue": "___ socks (1970s fad)",
+        "answer": "TOE",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "___ 1 (speed of sound)",
-        "answer": "MACH",
+        "clue": "Patchwork blanket",
+        "answer": "QUILT",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Emanating glow",
-        "answer": "AURA",
+        "clue": "We feel the same!",
+        "answer": "USTOO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Fend (off)",
-        "answer": "STAVE",
+        "clue": "Word after spitting or mirror",
+        "answer": "IMAGE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Seeps slowly",
-        "answer": "OOZES",
+        "clue": "___ Alto, Calif.",
+        "answer": "PALO",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Boy band with the 2000 hit \"It's Gonna Be Me",
-        "answer": "NSYNC",
+        "clue": "Secret agent",
+        "answer": "SPY",
         "row": 0,
         "col": 4
       }
