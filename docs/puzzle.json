@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "Q",
-      "U",
-      "I",
-      "P",
-      "S"
-    ],
-    [
-      "U",
-      "S",
-      "M",
+      "B",
       "A",
-      "P"
+      "D",
+      null,
+      null
     ],
     [
-      "I",
-      "T",
       "A",
       "L",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "D",
+      "A",
       "Y"
     ],
     [
-      "L",
-      "O",
-      "G",
-      "O",
-      null
-    ],
-    [
+      "S",
       "T",
       "O",
-      "E",
+      "V",
+      "E"
+    ],
+    [
       null,
-      null
+      null,
+      "S",
+      "Y",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Witty one-liners",
-        "answer": "QUIPS",
+        "clue": "Pop music's ___ Bunny",
+        "answer": "BAD",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Common poster in a geography class",
-        "answer": "USMAP",
+        "num": 4,
+        "clue": "Unaccompanied",
+        "answer": "ALONE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Country that's won the World Cup four times (but failed to qualify in 2018, 2022 and 2026)",
-        "answer": "ITALY",
+        "clue": "Date circled in blue on a Google Calendar",
+        "answer": "TODAY",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "The one for Starbucks has a wavy-haired mermaid",
-        "answer": "LOGO",
+        "clue": "Kitchen appliance with burners",
+        "answer": "STOVE",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "___ socks (1970s fad)",
-        "answer": "TOE",
+        "clue": "The \"S\" of GPS: Abbr.",
+        "answer": "SYS",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Patchwork blanket",
-        "answer": "QUILT",
+        "clue": "Takes a turn at the plate",
+        "answer": "BATS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "We feel the same!",
-        "answer": "USTOO",
+        "clue": "Tons and tons",
+        "answer": "ALOT",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Word after spitting or mirror",
-        "answer": "IMAGE",
+        "clue": "Extinct flightless pigeons (don't worry, you've heard of this answer!)",
+        "answer": "DODOS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "___ Alto, Calif.",
-        "answer": "PALO",
-        "row": 0,
+        "num": 5,
+        "clue": "Dark shade of blue",
+        "answer": "NAVY",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Secret agent",
-        "answer": "SPY",
-        "row": 0,
+        "num": 6,
+        "clue": "Googly ___",
+        "answer": "EYES",
+        "row": 1,
         "col": 4
       }
     ]
