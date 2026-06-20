@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "B",
-      "A",
-      "D",
       null,
-      null
-    ],
-    [
-      "A",
-      "L",
-      "O",
-      "N",
-      "E"
-    ],
-    [
-      "T",
-      "O",
-      "D",
-      "A",
-      "Y"
-    ],
-    [
       "S",
-      "T",
+      "K",
+      "E",
+      "W"
+    ],
+    [
+      null,
+      "L",
       "O",
       "V",
       "E"
     ],
     [
-      null,
-      null,
-      "S",
-      "Y",
+      "V",
+      "I",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "O",
+      "M",
+      "E",
+      "N",
       "S"
+    ],
+    [
+      "L",
+      "E",
+      "A",
+      "S",
+      "H"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Pop music's ___ Bunny",
-        "answer": "BAD",
+        "clue": "Distort, as data",
+        "answer": "SKEW",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Unaccompanied",
-        "answer": "ALONE",
+        "num": 5,
+        "clue": "Give a \u0000\u0000 on a text thread",
+        "answer": "LOVE",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "Date circled in blue on a Google Calendar",
-        "answer": "TODAY",
+        "num": 6,
+        "clue": "Like a post that's been shared a bajillion times",
+        "answer": "VIRAL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Kitchen appliance with burners",
-        "answer": "STOVE",
+        "num": 7,
+        "clue": "Signs of things to come",
+        "answer": "OMENS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "The \"S\" of GPS: Abbr.",
-        "answer": "SYS",
+        "num": 8,
+        "clue": "Dog walker's restraint",
+        "answer": "LEASH",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Takes a turn at the plate",
-        "answer": "BATS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Tons and tons",
-        "answer": "ALOT",
+        "clue": "Snail's trail",
+        "answer": "SLIME",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Extinct flightless pigeons (don't worry, you've heard of this answer!)",
-        "answer": "DODOS",
+        "num": 2,
+        "clue": "Home to kimchi and Kim Jong Un",
+        "answer": "KOREA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Dark shade of blue",
-        "answer": "NAVY",
-        "row": 1,
+        "num": 3,
+        "clue": "Bob ___ (restaurant chain)",
+        "answer": "EVANS",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Googly ___",
-        "answer": "EYES",
-        "row": 1,
+        "num": 4,
+        "clue": "Like the phrase \"pen gwyn\" (\"white head\"), from which the penguin gets its name",
+        "answer": "WELSH",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Loudness dial: Abbr.",
+        "answer": "VOL",
+        "row": 2,
+        "col": 0
       }
     ]
   }
