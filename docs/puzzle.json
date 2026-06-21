@@ -1,118 +1,188 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      null,
+      "I",
+      "T",
       "S",
-      "K",
-      "E",
-      "W"
+      null,
+      null,
+      null,
+      null
     ],
     [
-      null,
-      "L",
+      "N",
       "O",
-      "V",
+      "T",
+      null,
+      "K",
+      "I",
+      "D"
+    ],
+    [
+      "T",
+      "W",
+      "O",
+      "F",
+      "A",
+      "C",
       "E"
     ],
     [
-      "V",
-      "I",
       "R",
-      "A",
-      "L"
-    ],
-    [
-      "O",
+      "E",
+      "G",
+      "I",
       "M",
       "E",
-      "N",
       "S"
     ],
     [
-      "L",
-      "E",
+      "O",
+      "R",
+      "I",
+      "G",
       "A",
+      "M",
+      "I"
+    ],
+    [
       "S",
-      "H"
+      "S",
+      "E",
+      null,
+      "L",
+      "A",
+      "G"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "A",
+      "N",
+      "N"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Distort, as data",
-        "answer": "SKEW",
+        "clue": "The \"I\" of TGIF",
+        "answer": "ITS",
         "row": 0,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 4,
+        "clue": "Psych!",
+        "answer": "NOT",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Give a \u0000\u0000 on a text thread",
-        "answer": "LOVE",
+        "clue": "Baby goat",
+        "answer": "KID",
         "row": 1,
-        "col": 1
+        "col": 4
       },
       {
-        "num": 6,
-        "clue": "Like a post that's been shared a bajillion times",
-        "answer": "VIRAL",
+        "num": 8,
+        "clue": "Batman villain played by Aaron Eckhart in \"The Dark Knight",
+        "answer": "TWOFACE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Signs of things to come",
-        "answer": "OMENS",
+        "num": 10,
+        "clue": "Repressive governments",
+        "answer": "REGIMES",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Dog walker's restraint",
-        "answer": "LEASH",
+        "num": 11,
+        "clue": "Folding art",
+        "answer": "ORIGAMI",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Opposite direction of NNW",
+        "answer": "SSE",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Streaming issue caused by slow wi-fi",
+        "answer": "LAG",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "Raggedy ___ (doll)",
+        "answer": "ANN",
+        "row": 6,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Snail's trail",
-        "answer": "SLIME",
+        "clue": "Icebreakers, e.g.",
+        "answer": "INTROS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "The Two ___\" (second installment of the \"Lord of the Rings\" trilogy)",
+        "answer": "TOWERS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Home to kimchi and Kim Jong Un",
-        "answer": "KOREA",
+        "num": 3,
+        "clue": "Cigar, informally",
+        "answer": "STOGIE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Bob ___ (restaurant chain)",
-        "answer": "EVANS",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Like the phrase \"pen gwyn\" (\"white head\"), from which the penguin gets its name",
-        "answer": "WELSH",
-        "row": 0,
+        "num": 5,
+        "clue": "Presidential candidate Harris",
+        "answer": "KAMALA",
+        "row": 1,
         "col": 4
       },
       {
         "num": 6,
-        "clue": "Loudness dial: Abbr.",
-        "answer": "VOL",
+        "clue": "2026 #1 album for Drake",
+        "answer": "ICEMAN",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "Word after \"interior\" or \"intelligent",
+        "answer": "DESIGN",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 9,
+        "clue": "Kind of tree that the Buddha is said to have meditated under",
+        "answer": "FIG",
         "row": 2,
-        "col": 0
+        "col": 3
       }
     ]
   }
