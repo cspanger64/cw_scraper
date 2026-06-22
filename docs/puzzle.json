@@ -1,188 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "I",
-      "T",
-      "S",
-      null,
-      null,
-      null,
-      null
-    ],
-    [
-      "N",
-      "O",
-      "T",
-      null,
-      "K",
-      "I",
-      "D"
-    ],
-    [
-      "T",
-      "W",
-      "O",
-      "F",
-      "A",
-      "C",
-      "E"
-    ],
-    [
-      "R",
-      "E",
-      "G",
-      "I",
-      "M",
-      "E",
-      "S"
-    ],
-    [
-      "O",
-      "R",
-      "I",
-      "G",
-      "A",
-      "M",
-      "I"
-    ],
-    [
-      "S",
-      "S",
-      "E",
       null,
       "L",
       "A",
-      "G"
+      "B",
+      null
+    ],
+    [
+      "D",
+      "A",
+      "I",
+      "R",
+      "Y"
+    ],
+    [
+      "A",
+      "T",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "A",
+      "Y"
     ],
     [
       null,
-      null,
-      null,
-      null,
-      "A",
-      "N",
-      "N"
+      "R",
+      "E",
+      "D",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "The \"I\" of TGIF",
-        "answer": "ITS",
+        "clue": "Black\" or \"Yellow\" dog, familiarly",
+        "answer": "LAB",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "Psych!",
-        "answer": "NOT",
+        "clue": "No-no for the lactose intolerant",
+        "answer": "DAIRY",
         "row": 1,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Baby goat",
-        "answer": "KID",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 8,
-        "clue": "Batman villain played by Aaron Eckhart in \"The Dark Knight",
-        "answer": "TWOFACE",
+        "num": 6,
+        "clue": "On the ocean",
+        "answer": "ATSEA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Repressive governments",
-        "answer": "REGIMES",
+        "num": 7,
+        "clue": "Subway commuter's annoyance",
+        "answer": "DELAY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Folding art",
-        "answer": "ORIGAMI",
+        "num": 8,
+        "clue": "Like the logos of Marvel and Netflix",
+        "answer": "RED",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Opposite direction of NNW",
-        "answer": "SSE",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Streaming issue caused by slow wi-fi",
-        "answer": "LAG",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 14,
-        "clue": "Raggedy ___ (doll)",
-        "answer": "ANN",
-        "row": 6,
-        "col": 4
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Icebreakers, e.g.",
-        "answer": "INTROS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "The Two ___\" (second installment of the \"Lord of the Rings\" trilogy)",
-        "answer": "TOWERS",
+        "clue": "See ya!",
+        "answer": "LATER",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Cigar, informally",
-        "answer": "STOGIE",
+        "num": 2,
+        "clue": "Pathway for an airplane beverage cart",
+        "answer": "AISLE",
         "row": 0,
         "col": 2
       },
       {
+        "num": 3,
+        "clue": "No-no for the gluten-free",
+        "answer": "BREAD",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 4,
+        "clue": "Apt palindrome for Father's Day",
+        "answer": "DAD",
+        "row": 1,
+        "col": 0
+      },
+      {
         "num": 5,
-        "clue": "Presidential candidate Harris",
-        "answer": "KAMALA",
+        "clue": "Apt palindrome for Father's Day",
+        "answer": "YAY",
         "row": 1,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "2026 #1 album for Drake",
-        "answer": "ICEMAN",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "Word after \"interior\" or \"intelligent",
-        "answer": "DESIGN",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 9,
-        "clue": "Kind of tree that the Buddha is said to have meditated under",
-        "answer": "FIG",
-        "row": 2,
-        "col": 3
       }
     ]
   }
