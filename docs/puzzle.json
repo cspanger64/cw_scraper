@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "C",
-      "H",
-      "E",
-      "W",
-      "Y"
+      "U",
+      "M",
+      "P",
+      "S",
+      null
     ],
     [
+      "N",
+      "O",
+      "A",
+      "H",
+      null
+    ],
+    [
+      "C",
+      "O",
       "R",
       "A",
-      "D",
-      "I",
-      "O"
+      "L"
     ],
     [
-      "U",
-      "N",
-      "I",
-      "F",
-      "Y"
-    ],
-    [
-      "S",
-      "O",
-      "C",
-      "I",
-      "O"
-    ],
-    [
-      "H",
-      "I",
-      "T",
       null,
-      null
+      "S",
+      "I",
+      "R",
+      "I"
+    ],
+    [
+      null,
+      "E",
+      "S",
+      "P",
+      "N"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Like jerky and dried fruit",
-        "answer": "CHEWY",
+        "clue": "Baseball officials",
+        "answer": "UMPS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Technology that Marconi introduced to the Vatican in 1931, in order to broadcast the pope's blessings worldwide",
-        "answer": "RADIO",
+        "num": 5,
+        "clue": "Singer/songwriter Kahan with the 2026 #1 album \\\"The Great Divide",
+        "answer": "NOAH",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Bring together as one",
-        "answer": "UNIFY",
+        "num": 6,
+        "clue": "Shade of orangeish pink",
+        "answer": "CORAL",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Prefix with -path or -political",
-        "answer": "SOCIO",
+        "clue": "Voice of the smartphone generation?",
+        "answer": "SIRI",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
         "num": 9,
-        "clue": "Successful song",
-        "answer": "HIT",
+        "clue": "Partner channel of ABC",
+        "answer": "ESPN",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Clobber",
-        "answer": "CRUSH",
+        "clue": "Someone giving off old guy vibes, in Gen Z slang",
+        "answer": "UNC",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Capital of Vietnam",
-        "answer": "HANOI",
+        "clue": "Tallest animal in North America",
+        "answer": "MOOSE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Monarch's official decree",
-        "answer": "EDICT",
+        "clue": "Setting for \\\"Ratatouille",
+        "answer": "PARIS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "In-flight \"perk\" that's notoriously unstable",
-        "answer": "WIFI",
+        "clue": "#, in music",
+        "answer": "SHARP",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Toy on a string",
-        "answer": "YOYO",
-        "row": 0,
+        "num": 7,
+        "clue": "___-Manuel Miranda",
+        "answer": "LIN",
+        "row": 2,
         "col": 4
       }
     ]
