@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
+      null,
+      null,
+      "G",
       "U",
-      "M",
-      "P",
+      "N"
+    ],
+    [
       "S",
-      null
-    ],
-    [
-      "N",
-      "O",
-      "A",
-      "H",
-      null
-    ],
-    [
       "C",
       "O",
       "R",
+      "E"
+    ],
+    [
+      "T",
+      "O",
       "A",
-      "L"
-    ],
-    [
-      null,
       "S",
-      "I",
-      "R",
-      "I"
+      "T"
     ],
     [
-      null,
+      "A",
+      "T",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "Y",
       "E",
       "S",
-      "P",
-      "N"
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Baseball officials",
-        "answer": "UMPS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Singer/songwriter Kahan with the 2026 #1 album \\\"The Great Divide",
-        "answer": "NOAH",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Shade of orangeish pink",
-        "answer": "CORAL",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Voice of the smartphone generation?",
-        "answer": "SIRI",
-        "row": 3,
-        "col": 1
-      },
-      {
-        "num": 9,
-        "clue": "Partner channel of ABC",
-        "answer": "ESPN",
-        "row": 4,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Someone giving off old guy vibes, in Gen Z slang",
-        "answer": "UNC",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Tallest animal in North America",
-        "answer": "MOOSE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Setting for \\\"Ratatouille",
-        "answer": "PARIS",
+        "clue": "Race starter's equipment",
+        "answer": "GUN",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "#, in music",
-        "answer": "SHARP",
+        "clue": "1-1, for one",
+        "answer": "SCORE",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Wedding speech made with a drink in hand",
+        "answer": "TOAST",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Book of maps",
+        "answer": "ATLAS",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Trivia question: Has Brazil appeared at every World Cup?",
+        "answer": "YES",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "World Cup highlights",
+        "answer": "GOALS",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "___ Major",
+        "answer": "URSA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "___-Manuel Miranda",
-        "answer": "LIN",
-        "row": 2,
+        "num": 3,
+        "clue": "Things found at either end of a soccer pitch",
+        "answer": "NETS",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Time at a hotel",
+        "answer": "STAY",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "___ d'Ivoire (African nation in the World Cup)",
+        "answer": "COTE",
+        "row": 1,
+        "col": 1
       }
     ]
   }
