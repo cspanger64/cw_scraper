@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
+      "O",
+      "M",
       "G",
-      "U",
-      "N"
+      null,
+      null
     ],
     [
-      "S",
-      "C",
-      "O",
+      "F",
+      "I",
       "R",
-      "E"
-    ],
-    [
-      "T",
-      "O",
-      "A",
       "S",
       "T"
     ],
     [
-      "A",
-      "T",
+      "F",
       "L",
-      "A",
-      "S"
+      "O",
+      "O",
+      "R"
     ],
     [
-      "Y",
-      "E",
-      "S",
       null,
-      null
+      "E",
+      "U",
+      "R",
+      "O"
+    ],
+    [
+      null,
+      "S",
+      "P",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Race starter's equipment",
-        "answer": "GUN",
+        "clue": "Texter's \"Wow!",
+        "answer": "OMG",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
         "num": 4,
-        "clue": "1-1, for one",
-        "answer": "SCORE",
+        "clue": "With 7-Across, something often marked with a star in elevators",
+        "answer": "FIRST",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Wedding speech made with a drink in hand",
-        "answer": "TOAST",
+        "num": 7,
+        "clue": "See 4-Across",
+        "answer": "FLOOR",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Book of maps",
-        "answer": "ATLAS",
+        "num": 8,
+        "clue": "Currency of Ireland and Italy",
+        "answer": "EURO",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Trivia question: Has Brazil appeared at every World Cup?",
-        "answer": "YES",
+        "num": 9,
+        "clue": "Went illegally fast",
+        "answer": "SPED",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "World Cup highlights",
-        "answer": "GOALS",
+        "clue": "Not working",
+        "answer": "OFF",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "A marathon has a little over 26",
+        "answer": "MILES",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Airline boarding section",
+        "answer": "GROUP",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "___ Major",
-        "answer": "URSA",
-        "row": 0,
+        "num": 5,
+        "clue": "Feeling it the next day",
+        "answer": "SORE",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Things found at either end of a soccer pitch",
-        "answer": "NETS",
-        "row": 0,
+        "num": 6,
+        "clue": "Walked",
+        "answer": "TROD",
+        "row": 1,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Time at a hotel",
-        "answer": "STAY",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "___ d'Ivoire (African nation in the World Cup)",
-        "answer": "COTE",
-        "row": 1,
-        "col": 1
       }
     ]
   }
