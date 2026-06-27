@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "O",
-      "M",
-      "G",
-      null,
-      null
+      "W",
+      "A",
+      "T",
+      "C",
+      "H"
     ],
     [
-      "F",
       "I",
-      "R",
-      "S",
-      "T"
-    ],
-    [
-      "F",
-      "L",
-      "O",
-      "O",
-      "R"
-    ],
-    [
-      null,
-      "E",
-      "U",
-      "R",
+      "D",
+      "A",
+      "H",
       "O"
     ],
     [
-      null,
-      "S",
-      "P",
+      "N",
       "E",
-      "D"
+      "X",
+      "U",
+      "S"
+    ],
+    [
+      "E",
+      "L",
+      "E",
+      "C",
+      "T"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "K",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Texter's \"Wow!",
-        "answer": "OMG",
+        "clue": "Where you'll find two hands on one arm",
+        "answer": "WATCH",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "With 7-Across, something often marked with a star in elevators",
-        "answer": "FIRST",
+        "num": 6,
+        "clue": "State that's home to Shoshone Falls",
+        "answer": "IDAHO",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "See 4-Across",
-        "answer": "FLOOR",
+        "clue": "Linking point",
+        "answer": "NEXUS",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Currency of Ireland and Italy",
-        "answer": "EURO",
+        "clue": "Vote into office",
+        "answer": "ELECT",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Went illegally fast",
-        "answer": "SPED",
+        "clue": "Seats for office workers",
+        "answer": "DESKS",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Not working",
-        "answer": "OFF",
+        "clue": "___ and dined",
+        "answer": "WINED",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "A marathon has a little over 26",
-        "answer": "MILES",
+        "clue": "Singer of \"Hello\" and \"Skyfall\"",
+        "answer": "ADELE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Airline boarding section",
-        "answer": "GROUP",
+        "clue": "Some paycheck withholdings",
+        "answer": "TAXES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Feeling it the next day",
-        "answer": "SORE",
-        "row": 1,
+        "num": 4,
+        "clue": "Apt name for a pet groundhog?",
+        "answer": "CHUCK",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Walked",
-        "answer": "TROD",
-        "row": 1,
+        "num": 5,
+        "clue": "S.N.L. V.I.P.s",
+        "answer": "HOSTS",
+        "row": 0,
         "col": 4
       }
     ]
