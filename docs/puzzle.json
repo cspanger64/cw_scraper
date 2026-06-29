@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "W",
       "A",
-      "T",
+      "H",
+      "H",
+      null,
+      null
+    ],
+    [
+      "B",
+      "E",
+      "A",
       "C",
       "H"
     ],
     [
-      "I",
-      "D",
-      "A",
-      "H",
-      "O"
-    ],
-    [
-      "N",
-      "E",
-      "X",
-      "U",
-      "S"
-    ],
-    [
-      "E",
-      "L",
-      "E",
-      "C",
-      "T"
-    ],
-    [
-      "D",
-      "E",
       "S",
-      "K",
-      "S"
+      "A",
+      "D",
+      "L",
+      "Y"
+    ],
+    [
+      null,
+      "R",
+      "E",
+      "U",
+      "P"
+    ],
+    [
+      null,
+      "T",
+      "R",
+      "E",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Where you'll find two hands on one arm",
-        "answer": "WATCH",
+        "clue": "Sound of relaxation",
+        "answer": "AHH",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "State that's home to Shoshone Falls",
-        "answer": "IDAHO",
+        "num": 4,
+        "clue": "Summer vacation destination",
+        "answer": "BEACH",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Linking point",
-        "answer": "NEXUS",
+        "clue": "In some bad news ...",
+        "answer": "SADLY",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Vote into office",
-        "answer": "ELECT",
+        "clue": "Extend, as a contract",
+        "answer": "REUP",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
         "num": 9,
-        "clue": "Seats for office workers",
-        "answer": "DESKS",
+        "clue": "Flying squirrel's landing point",
+        "answer": "TREE",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "___ and dined",
-        "answer": "WINED",
+        "clue": "Muscles exercised by crunches",
+        "answer": "ABS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Singer of \"Hello\" and \"Skyfall\"",
-        "answer": "ADELE",
+        "clue": "What the Tin Man wants from the Wizard of Oz",
+        "answer": "HEART",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Some paycheck withholdings",
-        "answer": "TAXES",
+        "clue": "Bill of HBO's \"Barry",
+        "answer": "HADER",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Apt name for a pet groundhog?",
-        "answer": "CHUCK",
-        "row": 0,
+        "num": 5,
+        "clue": "You're reading one",
+        "answer": "CLUE",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "S.N.L. V.I.P.s",
-        "answer": "HOSTS",
-        "row": 0,
+        "num": 6,
+        "clue": "Super-excited, in slang",
+        "answer": "HYPE",
+        "row": 1,
         "col": 4
       }
     ]
