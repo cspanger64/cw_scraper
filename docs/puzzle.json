@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "A",
-      "H",
-      "H",
       null,
+      "M",
+      "U",
+      "M",
       null
     ],
     [
-      "B",
-      "E",
+      "M",
+      "O",
+      "M",
       "A",
-      "C",
-      "H"
+      null
     ],
     [
-      "S",
       "A",
-      "D",
-      "L",
+      "G",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "M",
+      "U",
+      "M",
+      "M",
       "Y"
     ],
     [
-      null,
-      "R",
-      "E",
-      "U",
-      "P"
-    ],
-    [
-      null,
-      "T",
-      "R",
-      "E",
-      "E"
+      "A",
+      "L",
+      "I",
+      "S",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sound of relaxation",
-        "answer": "AHH",
+        "clue": "Quiet, or a flower",
+        "answer": "MUM",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "Summer vacation destination",
-        "answer": "BEACH",
+        "clue": "N.Y.C. home of van Gogh's \"The Starry Night",
+        "answer": "MOMA",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "In some bad news ...",
-        "answer": "SADLY",
+        "num": 5,
+        "clue": "Seriously? We're still doing this?",
+        "answer": "AGAIN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Extend, as a contract",
-        "answer": "REUP",
+        "num": 7,
+        "clue": "Pyramid inhabitant",
+        "answer": "MUMMY",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Flying squirrel's landing point",
-        "answer": "TREE",
+        "num": 8,
+        "clue": "Top-tier, as celebrities",
+        "answer": "ALIST",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Muscles exercised by crunches",
-        "answer": "ABS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "What the Tin Man wants from the Wizard of Oz",
-        "answer": "HEART",
+        "clue": "Super-rich individual",
+        "answer": "MOGUL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Bill of HBO's \"Barry",
-        "answer": "HADER",
+        "num": 2,
+        "clue": "Savory flavor, as in kimchi and soy sauce",
+        "answer": "UMAMI",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "You're reading one",
-        "answer": "CLUE",
-        "row": 1,
+        "num": 3,
+        "clue": "Seriously injures",
+        "answer": "MAIMS",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Super-excited, in slang",
-        "answer": "HYPE",
+        "num": 4,
+        "clue": "Baby's first word, maybe",
+        "answer": "MAMA",
         "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Parent company of The Athletic: Abbr.",
+        "answer": "NYT",
+        "row": 2,
         "col": 4
       }
     ]
