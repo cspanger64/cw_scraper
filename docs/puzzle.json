@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "M",
-      "U",
-      "M",
-      null
-    ],
-    [
-      "M",
-      "O",
-      "M",
+      "B",
       "A",
-      null
+      "S",
+      "H"
     ],
     [
+      "W",
       "A",
       "G",
-      "A",
-      "I",
-      "N"
-    ],
-    [
-      "M",
-      "U",
-      "M",
-      "M",
-      "Y"
+      "Y",
+      "U"
     ],
     [
       "A",
       "L",
-      "I",
-      "S",
-      "T"
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "U",
+      "P"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "P",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Quiet, or a flower",
-        "answer": "MUM",
+        "clue": "Big party",
+        "answer": "BASH",
         "row": 0,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "N.Y.C. home of van Gogh's \"The Starry Night",
-        "answer": "MOMA",
+        "num": 5,
+        "clue": "Pricey variety of beef that translates to \"Japanese cow",
+        "answer": "WAGYU",
         "row": 1,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Seriously? We're still doing this?",
-        "answer": "AGAIN",
+        "num": 6,
+        "clue": "Unwelcome sound at 7 a.m., perhaps",
+        "answer": "ALARM",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Pyramid inhabitant",
-        "answer": "MUMMY",
+        "clue": "Really make excited",
+        "answer": "REVUP",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Top-tier, as celebrities",
-        "answer": "ALIST",
+        "clue": "Get ready (for)",
+        "answer": "PREP",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Super-rich individual",
-        "answer": "MOGUL",
+        "clue": "Farm machine that bundles hay",
+        "answer": "BALER",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Savory flavor, as in kimchi and soy sauce",
-        "answer": "UMAMI",
+        "clue": "Plant used to make mezcal",
+        "answer": "AGAVE",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Seriously injures",
-        "answer": "MAIMS",
+        "clue": "Pancake topper",
+        "answer": "SYRUP",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Baby's first word, maybe",
-        "answer": "MAMA",
-        "row": 1,
-        "col": 0
+        "clue": "Prominent feature of a camel",
+        "answer": "HUMP",
+        "row": 0,
+        "col": 4
       },
       {
-        "num": 6,
-        "clue": "Parent company of The Athletic: Abbr.",
-        "answer": "NYT",
-        "row": 2,
-        "col": 4
+        "num": 5,
+        "clue": "Bend out of shape, as wood",
+        "answer": "WARP",
+        "row": 1,
+        "col": 0
       }
     ]
   }
