@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "B",
-      "A",
+      null,
       "S",
-      "H"
+      "I",
+      "T"
     ],
     [
-      "W",
-      "A",
-      "G",
-      "Y",
-      "U"
+      null,
+      "C",
+      "H",
+      "O",
+      "O"
     ],
     [
-      "A",
-      "L",
-      "A",
-      "R",
-      "M"
-    ],
-    [
-      "R",
+      "T",
+      "H",
       "E",
-      "V",
       "U",
-      "P"
+      "N"
     ],
     [
-      "P",
-      "R",
       "E",
-      "P",
+      "E",
+      "L",
+      "S",
+      null
+    ],
+    [
+      "N",
+      "F",
+      "L",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Big party",
-        "answer": "BASH",
+        "clue": "Down, doggy!",
+        "answer": "SIT",
         "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "When doubled, kid's term for a train",
+        "answer": "CHOO",
+        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Pricey variety of beef that translates to \"Japanese cow",
-        "answer": "WAGYU",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Unwelcome sound at 7 a.m., perhaps",
-        "answer": "ALARM",
+        "clue": "T unisia, H aiti, E cuador, U ruguay, N orway",
+        "answer": "THEUN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Really make excited",
-        "answer": "REVUP",
+        "num": 6,
+        "clue": "Wriggly swimmers",
+        "answer": "EELS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Get ready (for)",
-        "answer": "PREP",
+        "num": 7,
+        "clue": "N iners, F alcons, L ions",
+        "answer": "NFL",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Farm machine that bundles hay",
-        "answer": "BALER",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Plant used to make mezcal",
-        "answer": "AGAVE",
+        "clue": "Beachcomber's find",
+        "answer": "SHELL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Pancake topper",
-        "answer": "SYRUP",
+        "num": 2,
+        "clue": "Debtor's notes",
+        "answer": "IOUS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Prominent feature of a camel",
-        "answer": "HUMP",
+        "num": 3,
+        "clue": "2,000 pounds",
+        "answer": "TON",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Bend out of shape, as wood",
-        "answer": "WARP",
+        "num": 4,
+        "clue": "Professional who might win a James Beard award",
+        "answer": "CHEF",
         "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Lionel Messi's jersey number",
+        "answer": "TEN",
+        "row": 2,
         "col": 0
       }
     ]
