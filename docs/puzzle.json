@@ -1,41 +1,69 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
+      "A",
+      "V",
+      "G",
       null,
-      "S",
-      "I",
-      "T"
+      null,
+      null
     ],
     [
       null,
+      "D",
+      "E",
+      "L",
+      "A",
+      null,
+      null
+    ],
+    [
       "C",
-      "H",
-      "O",
-      "O"
-    ],
-    [
-      "T",
-      "H",
-      "E",
-      "U",
-      "N"
-    ],
-    [
-      "E",
-      "E",
+      "A",
+      "N",
+      "A",
       "L",
       "S",
       null
     ],
     [
-      "N",
-      "F",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      null
+    ],
+    [
+      "D",
+      "E",
+      "C",
       "L",
+      "A",
+      "W",
+      null
+    ],
+    [
+      null,
+      null,
+      "E",
+      "Y",
+      "E",
+      "S",
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
       null,
       null
     ]
@@ -44,75 +72,89 @@
     "across": [
       {
         "num": 1,
-        "clue": "Down, doggy!",
-        "answer": "SIT",
+        "clue": "The \"A\" of G.P.A.: Abbr.",
+        "answer": "AVG",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "When doubled, kid's term for a train",
-        "answer": "CHOO",
+        "clue": "Fashion's Oscar ___ Renta",
+        "answer": "DELA",
         "row": 1,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "T unisia, H aiti, E cuador, U ruguay, N orway",
-        "answer": "THEUN",
+        "num": 6,
+        "clue": "Waterways traveled by gondola in 2-Down",
+        "answer": "CANALS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Wriggly swimmers",
-        "answer": "EELS",
+        "num": 8,
+        "clue": "The Ponte di Rialto in 2-Down, e.g.",
+        "answer": "BRIDGE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "N iners, F alcons, L ions",
-        "answer": "NFL",
+        "num": 9,
+        "clue": "Remove, as nails from a cat",
+        "answer": "DECLAW",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Pair of peepers",
+        "answer": "EYES",
+        "row": 5,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Beachcomber's find",
-        "answer": "SHELL",
+        "clue": "On ___ (how some pranks are done)",
+        "answer": "ADARE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Italian city that's the subject of this puzzle",
+        "answer": "VENICE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Debtor's notes",
-        "answer": "IOUS",
+        "num": 3,
+        "clue": "More than happy to!",
+        "answer": "GLADLY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "2,000 pounds",
-        "answer": "TON",
-        "row": 0,
+        "num": 5,
+        "clue": "Pond scum",
+        "answer": "ALGAE",
+        "row": 1,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Professional who might win a James Beard award",
-        "answer": "CHEF",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Lionel Messi's jersey number",
-        "answer": "TEN",
+        "num": 6,
+        "clue": "Relaxant in some edibles, for short",
+        "answer": "CBD",
         "row": 2,
         "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Stitches together with needle and thread",
+        "answer": "SEWS",
+        "row": 2,
+        "col": 5
       }
     ]
   }
