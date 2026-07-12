@@ -30,7 +30,7 @@ def make_cnet_url(date=None):
     day = today.day
     weekday = today.strftime("%A").lower()  # monday, tuesday, etc.
 
-    return f"https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-{weekday}-{month_str}-{day}/"
+    return f"https://www.cnet.com/tech/todays-nyt-mini-crossword-answers-for-{weekday}-{month_str}-{day}/"
 
 if __name__ == "__main__":
     # If you pass a date as YYYY-MM-DD, use that, otherwise default to today
