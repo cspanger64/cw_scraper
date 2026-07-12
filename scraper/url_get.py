@@ -70,24 +70,24 @@ def find_todays_mini_url() -> str:
     for url in candidates:
         try:
             resp = requests.head(url, headers=HEADERS, timeout=10, allow_redirects=True)
-            print(f"[i] HEAD {url} -> {resp.status_code}")
+            print(f"[i] HEAD {url} -> {resp.status_code}", flush=True)
             if resp.status_code == 200:
                 return url
         except requests.RequestException as e:
-            print(f"[-] Error checking {url}: {e}")
+            print(f"[-] Error checking {url}: {e}", flush=True)
 
-    print("[-] None of the guessed URLs worked, falling back to hub page scrape")
+    print("[-] None of the guessed URLs worked, falling back to hub page scrape", flush=True)
 
     try:
         resp = requests.get(HUB_URL, headers=HEADERS, timeout=15)
         resp.raise_for_status()
         matches = MINI_LINK_RE.findall(resp.text)
         if matches:
-            print(f"[i] Found Mini Crossword link on hub page: {matches[0]}")
+            print(f"[i] Found Mini Crossword link on hub page: {matches[0]}", flush=True)
             return matches[0]
-        print("[-] No Mini Crossword link found on hub page either")
+        print("[-] No Mini Crossword link found on hub page either", flush=True)
     except requests.RequestException as e:
-        print(f"[-] Could not fetch hub page ({e})")
+        print(f"[-] Could not fetch hub page ({e})", flush=True)
 
     # Nothing worked -- return the first candidate anyway so the caller gets
     # a real 404 (and a clear traceback) rather than a confusing None.
@@ -99,8 +99,8 @@ if __name__ == "__main__":
         try:
             date = datetime.strptime(sys.argv[1], "%Y-%m-%d")
         except ValueError:
-            print("Please provide date as YYYY-MM-DD")
+            print("Please provide date as YYYY-MM-DD", flush=True)
             sys.exit(1)
-        print(make_cnet_url(date))
+        print(make_cnet_url(date), flush=True)
     else:
-        print(find_todays_mini_url())
+        print(find_todays_mini_url(), flush=True)

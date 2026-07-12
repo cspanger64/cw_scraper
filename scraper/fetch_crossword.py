@@ -3,12 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from typing import Dict, List, Optional
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-}
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 def _largest_from_srcset(srcset: str) -> Optional[str]:
     # srcset: "url1 768w, url2 1024w, url3 1200w"
@@ -57,34 +52,25 @@ def _extract_clues(soup: BeautifulSoup) -> List[Dict]:
     return clues
 
 def fetch_crossword(url: str, download_image: bool = False) -> Dict:
-    resp = requests.get(url, headers=HEADERS, timeout=15)
-    print(f"[i] GET {url} -> status {resp.status_code}, {len(resp.text)} bytes")
-
-    # Blow up loudly on 403/404/etc instead of silently parsing a challenge/error page
-    resp.raise_for_status()
-
-    soup = BeautifulSoup(resp.text, "html.parser")
+    html = requests.get(url, headers=HEADERS).text
+    soup = BeautifulSoup(html, "html.parser")
 
     image_url = _find_crossword_image_url(soup)
     clues = _extract_clues(soup)
 
     if download_image and image_url:
-        img_bytes = requests.get(image_url, headers=HEADERS, timeout=15).content
+        img_bytes = requests.get(image_url, headers=HEADERS).content
         with open("crossword.png", "wb") as f:
             f.write(img_bytes)
-        print(f"[+] Saved crossword.png from {image_url}")
+        print(f"[+] Saved crossword.png from {image_url}", flush=True)
 
-    print(f"[+] Found {len(clues)} clues")
-
-    if not image_url or not clues:
-        # Dump a snippet of what we actually got back so Actions logs show WHY it failed
-        # (e.g. a bot-check/consent page instead of the real article)
-        print("[-] Could not find image and/or clues. First 2000 chars of response:")
-        print(soup.prettify()[:2000])
+    print(f"[+] Found {len(clues)} clues", flush=True)
+    if not image_url:
+        print("[-] Could not find crossword image URL", flush=True)
 
     return {"image_url": image_url, "clues": clues}
 
 if __name__ == "__main__":
     url = "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-aug-29/"
     data = fetch_crossword(url, download_image=False)
-    print(data)
+    print(data, flush=True)
