@@ -30,8 +30,9 @@ jobs:
       - name: Generate puzzle.json
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PYTHONUNBUFFERED: "1"
         run: |
-          python -m scraper.run
+          python -u -m scraper.run
 
       - name: Commit updated puzzle if changed
         run: |
