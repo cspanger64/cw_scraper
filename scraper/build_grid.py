@@ -111,21 +111,40 @@ def _try_size(rows: int, cols: int, across: List[Dict], down: List[Dict]) -> Opt
     return None
 
 
-def build_grid(across: List[Dict], down: List[Dict], sizes=(5, 7, 6, 8, 9)) -> Tuple[int, int, List[List[Optional[str]]]]:
+def build_grid(across: List[Dict], down: List[Dict], max_dim: int = 9) -> Tuple[int, int, List[List[Optional[str]]]]:
     """
     across, down: lists of {"num": int, "answer": str} (answer = letters only,
     no spaces -- strip spaces from multi-word answers before calling this).
     Returns (rows, cols, grid) where grid[r][c] is an uppercase letter or None.
+
+    Does not assume a square grid (a plain 5x5/7x7 guess would miss the rare
+    non-square Mini). Instead, bounds the search using the actual clue data:
+    the longest across answer is a hard lower bound on the column count, and
+    the longest down answer is a hard lower bound on the row count. Sizes are
+    tried smallest-first, since the Mini is virtually always as small as the
+    clues allow.
     """
     across = sorted(across, key=lambda x: x["num"])
     down = sorted(down, key=lambda x: x["num"])
 
-    for size in sizes:
-        result = _try_size(size, size, across, down)
+    min_cols = max((len(e["answer"]) for e in across), default=1)
+    min_rows = max((len(e["answer"]) for e in down), default=1)
+
+    candidates = sorted(
+        (
+            (r, c)
+            for r in range(min_rows, max_dim + 1)
+            for c in range(min_cols, max_dim + 1)
+        ),
+        key=lambda rc: (rc[0] * rc[1], abs(rc[0] - rc[1])),  # smallest area first, squarest first
+    )
+
+    for rows, cols in candidates:
+        result = _try_size(rows, cols, across, down)
         if result:
-            return size, size, result
+            return rows, cols, result
 
     raise ValueError(
-        f"Could not reconstruct a grid for sizes {sizes} from "
-        f"{len(across)} across / {len(down)} down clues"
+        f"Could not reconstruct a grid (rows>={min_rows}, cols>={min_cols}, "
+        f"max_dim={max_dim}) from {len(across)} across / {len(down)} down clues"
     )
