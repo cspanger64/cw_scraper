@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "C",
-      "E",
+      "J",
+      "U",
+      "M",
+      "B",
       "O"
     ],
     [
       "A",
-      "W",
+      "M",
       "O",
-      "R",
-      "D"
+      "U",
+      "R"
     ],
     [
-      "C",
-      "H",
-      "O",
-      "R",
-      "D"
-    ],
-    [
-      "T",
-      "O",
-      "W",
-      "E",
-      "L"
-    ],
-    [
-      "S",
+      "F",
       "A",
-      "N",
-      "D",
-      "Y"
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "G",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "L",
+      "E",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Top of an org. chart",
-        "answer": "CEO",
+        "clue": "___ shrimp (classic oxymoron)",
+        "answer": "JUMBO",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Terse way of saying \"I'd like to speak with you",
-        "answer": "AWORD",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Grouping of musical notes",
-        "answer": "CHORD",
-        "row": 2,
+        "clue": "Love, to a Frenchman",
+        "answer": "AMOUR",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Roll on a pool chair",
-        "answer": "TOWEL",
-        "row": 3,
+        "clue": "Tale from Aesop",
+        "answer": "FABLE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Like one's feet after a beach day",
-        "answer": "SANDY",
+        "clue": "Friend, to a Spaniard",
+        "answer": "AMIGO",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Provokes, with “up",
+        "answer": "RILES",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Jointly manage",
-        "answer": "COOWN",
+        "clue": "Disney villain between Gaston and Scar",
+        "answer": "JAFAR",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "The so-called “fifth taste",
+        "answer": "UMAMI",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Gas brand that merged with Exxon",
+        "answer": "MOBIL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Made a mistake",
-        "answer": "ERRED",
+        "num": 4,
+        "clue": "Stick out noticeably",
+        "answer": "BULGE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "In a strange way",
-        "answer": "ODDLY",
+        "num": 5,
+        "clue": "Milkshake mix-ins that might get stuck in your straw",
+        "answer": "OREOS",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "___ of the Apostles (Bible book)",
-        "answer": "ACTS",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Mind blown!",
-        "answer": "WHOA",
-        "row": 1,
-        "col": 1
       }
     ]
   }
