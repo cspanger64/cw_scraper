@@ -29,7 +29,6 @@ jobs:
 
       - name: Generate puzzle.json
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           PYTHONUNBUFFERED: "1"
         run: |
           python -u -m scraper.run
