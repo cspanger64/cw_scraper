@@ -1,6 +1,5 @@
 # scraper/url_get.py
 from datetime import datetime, timedelta
-import re
 import sys
 
 import requests
@@ -11,69 +10,45 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-HUB_URL = "https://www.cnet.com/feature/daily-puzzle-answers/"
-
-# Matches both the old /tech/gaming/... path and the new /tech/... path,
-# and both "today's" and "todays" spellings, since CNET has served both
-# variants inconsistently.
-MINI_LINK_RE = re.compile(
-    r"https://www\.cnet\.com/tech/(?:gaming/)?todays?-nyt-mini-crossword-answers-for-[a-z0-9\-]+/?",
-    re.IGNORECASE,
-)
-
-MONTHS = {
-    1: "jan", 2: "feb", 3: "march", 4: "april", 5: "may", 6: "june",
-    7: "july", 8: "aug", 9: "sept", 10: "oct", 11: "nov", 12: "dec",  # CNET uses "sept", not "sep"
-}
-
-PATH_VARIANTS = ["tech", "tech/gaming"]
+# Forbes' NYT Mini recap has (so far) been consistently written by Kris Holt.
+# If Forbes rotates authors again in the future, this is the one thing that
+# would need updating.
+FORBES_AUTHOR = "krisholt"
 
 
-def _candidate_urls_for_date(date) -> list:
-    month_str = MONTHS[date.month]
-    day = date.day
+def _slug_for_date(date) -> str:
     weekday = date.strftime("%A").lower()
-    # CNET has been observed publishing weekend articles while it's still the
-    # previous day (Sunday's puzzle unlocks Saturday 6pm ET), which produces a
-    # slug with the PREVIOUS day's weekday name but the CORRECT day number,
-    # e.g. "saturday-july-12" for a puzzle actually dated Sunday July 12.
-    mismatched_weekday = (date - timedelta(1)).strftime("%A").lower()
-
-    urls = []
-    for path in PATH_VARIANTS:
-        urls.append(f"https://www.cnet.com/{path}/todays-nyt-mini-crossword-answers-for-{weekday}-{month_str}-{day}/")
-    for path in PATH_VARIANTS:
-        urls.append(f"https://www.cnet.com/{path}/todays-nyt-mini-crossword-answers-for-{mismatched_weekday}-{month_str}-{day}/")
-    return urls
+    month = date.strftime("%B").lower()
+    day = date.day
+    return f"nyt-mini-crossword-answers-{weekday}-{month}-{day}"
 
 
-def make_cnet_url(date=None):
+def make_forbes_url(date) -> str:
     """
-    Builds a best-guess CNET crossword answer URL for a given date
-    (defaults to yesterday, since that's usually the safer guess).
-    Kept for backwards compatibility / manual testing; find_todays_mini_url()
-    is the one actually used by run.py.
+    Builds the Forbes NYT Mini answers URL for a given puzzle date.
+    Forbes publishes the article the evening before the puzzle's date, so the
+    URL's date path (year/month/day) is one day earlier than the puzzle date
+    itself, while the slug uses the puzzle's actual date, e.g.:
+      puzzle for Monday June 15, 2026 ->
+      https://www.forbes.com/sites/krisholt/2026/06/14/nyt-mini-crossword-answers-monday-june-15/
     """
-    if date is None:
-        date = datetime.today() - timedelta(1)
-    return _candidate_urls_for_date(date)[0]
+    publish_date = date - timedelta(1)
+    slug = _slug_for_date(date)
+    return (
+        f"https://www.forbes.com/sites/{FORBES_AUTHOR}/"
+        f"{publish_date.year}/{publish_date.month:02d}/{publish_date.day:02d}/"
+        f"{slug}/"
+    )
 
 
 def find_todays_mini_url() -> str:
     """
-    CNET's URL slug has proven unstable on two independent axes:
-      - the path segment (sometimes /tech/gaming/..., sometimes /tech/...)
-      - the weekday name in the slug (has been off-by-one from the real
-        calendar weekday before)
-    Rather than bet on one guess, build every plausible candidate (both
-    path variants x both date offsets) and use whichever one actually
-    resolves with a 200. Falls back to scraping CNET's hub page if none
-    of the candidates work.
+    Tries today's date first. Since GitHub Actions runs in UTC and Forbes
+    publishes in US time, also tries yesterday/tomorrow as a safety net for
+    timezone edge cases right around midnight.
     """
     today = datetime.today()
-    candidates = []
-    for offset in (0, 1):  # try today, then yesterday (publish-day offset)
-        candidates.extend(_candidate_urls_for_date(today - timedelta(offset)))
+    candidates = [make_forbes_url(today - timedelta(days=d)) for d in (0, -1, 1)]
 
     for url in candidates:
         try:
@@ -84,21 +59,8 @@ def find_todays_mini_url() -> str:
         except requests.RequestException as e:
             print(f"[-] Error checking {url}: {e}", flush=True)
 
-    print("[-] None of the guessed URLs worked, falling back to hub page scrape", flush=True)
-
-    try:
-        resp = requests.get(HUB_URL, headers=HEADERS, timeout=15)
-        resp.raise_for_status()
-        matches = MINI_LINK_RE.findall(resp.text)
-        if matches:
-            print(f"[i] Found Mini Crossword link on hub page: {matches[0]}", flush=True)
-            return matches[0]
-        print("[-] No Mini Crossword link found on hub page either", flush=True)
-    except requests.RequestException as e:
-        print(f"[-] Could not fetch hub page ({e})", flush=True)
-
-    # Nothing worked -- return the first candidate anyway so the caller gets
-    # a real 404 (and a clear traceback) rather than a confusing None.
+    print("[-] None of the guessed URLs worked, returning today's guess anyway "
+          "so the caller gets a real error to diagnose", flush=True)
     return candidates[0]
 
 
@@ -109,6 +71,6 @@ if __name__ == "__main__":
         except ValueError:
             print("Please provide date as YYYY-MM-DD", flush=True)
             sys.exit(1)
-        print(make_cnet_url(date), flush=True)
+        print(make_forbes_url(date), flush=True)
     else:
         print(find_todays_mini_url(), flush=True)
