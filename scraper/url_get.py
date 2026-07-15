@@ -33,10 +33,18 @@ def _candidate_urls_for_date(date) -> list:
     month_str = MONTHS[date.month]
     day = date.day
     weekday = date.strftime("%A").lower()
-    return [
-        f"https://www.cnet.com/{path}/todays-nyt-mini-crossword-answers-for-{weekday}-{month_str}-{day}/"
-        for path in PATH_VARIANTS
-    ]
+    # CNET has been observed publishing weekend articles while it's still the
+    # previous day (Sunday's puzzle unlocks Saturday 6pm ET), which produces a
+    # slug with the PREVIOUS day's weekday name but the CORRECT day number,
+    # e.g. "saturday-july-12" for a puzzle actually dated Sunday July 12.
+    mismatched_weekday = (date - timedelta(1)).strftime("%A").lower()
+
+    urls = []
+    for path in PATH_VARIANTS:
+        urls.append(f"https://www.cnet.com/{path}/todays-nyt-mini-crossword-answers-for-{weekday}-{month_str}-{day}/")
+    for path in PATH_VARIANTS:
+        urls.append(f"https://www.cnet.com/{path}/todays-nyt-mini-crossword-answers-for-{mismatched_weekday}-{month_str}-{day}/")
+    return urls
 
 
 def make_cnet_url(date=None):
