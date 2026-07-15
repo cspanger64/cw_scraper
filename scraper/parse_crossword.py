@@ -1,122 +1,66 @@
-import os
-from openai import OpenAI
-from dotenv import load_dotenv
-import json
+# scraper/parse_crossword.py
+import re
+from typing import List, Dict
 
-# Load environment variables
-load_dotenv()
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+try:
+    from scraper.build_grid import build_grid
+except ImportError:
+    from build_grid import build_grid
 
-PROMPT = """
-You are given an image of a completed 5x5 or 7x7 crossword sqaure and its list of clues and answers.
-Your task is to output a single JSON object describing the crossword puzzle in the image.
-Only use the answers provided in the clue list. 
 
-STRICT FORMAT RULES:
-- "size": [rows, cols] → the exact grid size of the puzzle. Detect this from the image, it will be 5x5 or 7x7.
-- "grid": a 2D array of shape [rows][cols]. Each cell must contain:
-  - an uppercase letter if it is filled with an answer letter
-  - null if the cell is black/empty
-- "clues": {
-    "across": [ { "num": number, "clue": text, "answer": word, "row": r, "col": c }, ... ],
-    "down":   [ { "num": number, "clue": text, "answer": word, "row": r, "col": c }, ... ]
-  }
-  - "num" must match the clue numbering in the puzzle.
-  - "row" and "col" are the 0-based coordinates of the first letter of the answer.
-  - "answer" must exactly match the filled letters in the grid.
+def parse_crossword(clues: List[Dict]) -> dict:
+    """
+    Builds the full puzzle JSON (size, grid, clues w/ row+col) purely from
+    scraped clue/answer text -- no image or AI call needed. Grid layout is
+    reconstructed deterministically from clue numbers + answer lengths via
+    build_grid().
 
-OUTPUT:
-- Only return valid JSON.
-- The "grid" must be exactly the true puzzle size with no padding rows or columns.
-- The "clues" must align with the grid.
-- The output must match exactly what is in the image.
-"""
+    clues: list of {"position": "1A"/"6D", "clue": str, "answer": str}
+    """
+    across_raw, down_raw = [], []
+    for c in clues:
+        m = re.match(r"^(\d+)([AD])$", c["position"])
+        if not m:
+            raise ValueError(f"Bad clue position: {c['position']!r}")
+        num = int(m.group(1))
+        direction = m.group(2)
+        answer = c["answer"].replace(" ", "").upper()
+        entry = {"num": num, "clue": c["clue"], "answer": answer}
+        (across_raw if direction == "A" else down_raw).append(entry)
 
-SCHEMA = {
-    "name": "crossword_schema",
-    "schema": {
-        "type": "object",
-        "properties": {
-            "size": {
-                "type": "array",
-                "items": {"type": "integer"},
-                "minItems": 2,
-                "maxItems": 2,
-                "additionalItems": False
-            },
-            "grid": {
-                "type": "array",
-                "items": {
-                    "type": "array",
-                    "items": {
-                        "type": ["string", "null"],
-                        "maxLength": 1
-                    },
-                    "additionalItems": False
-                }
-            },
-            "clues": {
-                "type": "object",
-                "properties": {
-                    "across": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "num": {"type": "integer"},
-                                "clue": {"type": "string"},
-                                "answer": {"type": "string"},
-                                "row": {"type": "integer"},
-                                "col": {"type": "integer"}
-                            },
-                            "required": ["num", "clue", "answer", "row", "col"],
-                            "additionalProperties": False
-                        }
-                    },
-                    "down": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "num": {"type": "integer"},
-                                "clue": {"type": "string"},
-                                "answer": {"type": "string"},
-                                "row": {"type": "integer"},
-                                "col": {"type": "integer"}
-                            },
-                            "required": ["num", "clue", "answer", "row", "col"],
-                            "additionalProperties": False
-                        }
-                    }
-                },
-                "required": ["across", "down"],
-                "additionalProperties": False
-            }
-        },
-        "required": ["size", "grid", "clues"],
-        "additionalProperties": False
-    },
-    "strict": True
-}
-
-def parse_crossword(image_url: str, clues: list[dict]) -> dict:
-    """Send crossword image + clues to GPT and return structured JSON."""
-    resp = client.chat.completions.create(
-        model="gpt-5-mini",
-        messages=[
-            {"role": "system", "content": PROMPT},
-            {"role": "user", "content": [
-                {
-                    "type": "text",
-                    "text": f"Here are the extracted clues and answers:\n{json.dumps(clues, indent=2)}"
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {"url": image_url}
-                }
-            ]}
-        ],
-        response_format={"type": "json_schema", "json_schema": SCHEMA}
+    rows, cols, grid = build_grid(
+        [{"num": e["num"], "answer": e["answer"]} for e in across_raw],
+        [{"num": e["num"], "answer": e["answer"]} for e in down_raw],
     )
 
-    return json.loads(resp.choices[0].message.content)
+    # Re-derive each clue number's (row, col) start position by scanning the
+    # reconstructed grid using the same standard numbering rule build_grid used.
+    number_positions = {}
+    number = 1
+    for r in range(rows):
+        for c in range(cols):
+            if grid[r][c] is None:
+                continue
+            starts_across = (c == 0 or grid[r][c - 1] is None) and (c + 1 < cols and grid[r][c + 1] is not None)
+            starts_down = (r == 0 or grid[r - 1][c] is None) and (r + 1 < rows and grid[r + 1][c] is not None)
+            if starts_across or starts_down:
+                number_positions[number] = (r, c)
+                number += 1
+
+    def to_output(entries):
+        out = []
+        for e in sorted(entries, key=lambda x: x["num"]):
+            if e["num"] not in number_positions:
+                raise ValueError(f"Reconstructed grid has no cell numbered {e['num']}")
+            r, c = number_positions[e["num"]]
+            out.append({"num": e["num"], "clue": e["clue"], "answer": e["answer"], "row": r, "col": c})
+        return out
+
+    return {
+        "size": [rows, cols],
+        "grid": grid,
+        "clues": {
+            "across": to_output(across_raw),
+            "down": to_output(down_raw),
+        },
+    }

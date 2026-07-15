@@ -1,10 +1,10 @@
 import json
+import os
 import sys
 import traceback
 from scraper.url_get import find_todays_mini_url
 from scraper.fetch_crossword import fetch_crossword
 from scraper.parse_crossword import parse_crossword
-import os
 
 
 def log(*args):
@@ -14,19 +14,16 @@ def log(*args):
 def main():
     url = find_todays_mini_url()
     log(f"Fetching crossword from: {url}")
-    data = fetch_crossword(url, download_image=True)
+    data = fetch_crossword(url)
 
-    image_url = data["image_url"]
     clues = data["clues"]
+    log(f"Found {len(clues)} clues")
 
-    log("Image URL:", image_url)
-    log("Clues:", clues)
-
-    if not image_url or not clues:
-        log("[-] Missing image or clues, aborting.")
+    if not clues:
+        log("[-] No clues found, aborting.")
         sys.exit(1)
 
-    puzzle_json = parse_crossword(image_url, clues)
+    puzzle_json = parse_crossword(clues)
 
     os.makedirs("docs", exist_ok=True)
     with open("docs/puzzle.json", "w", encoding="utf-8") as f:
