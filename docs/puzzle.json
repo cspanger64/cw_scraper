@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "J",
-      "U",
-      "M",
-      "B",
-      "O"
-    ],
-    [
-      "A",
-      "M",
-      "O",
-      "U",
+      null,
+      "T",
+      "L",
+      "D",
       "R"
     ],
     [
-      "F",
-      "A",
-      "B",
       "L",
+      "O",
+      "I",
+      "R",
       "E"
     ],
     [
-      "A",
-      "M",
       "I",
-      "G",
-      "O"
+      "N",
+      "B",
+      "O",
+      "X"
     ],
     [
-      "R",
-      "I",
-      "L",
+      "Z",
       "E",
-      "S"
+      "R",
+      "O",
+      null
+    ],
+    [
+      "A",
+      "S",
+      "A",
+      "P",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ shrimp (classic oxymoron)",
-        "answer": "JUMBO",
+        "clue": "In summary …,” in internet shorthand",
+        "answer": "TLDR",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Love, to a Frenchman",
-        "answer": "AMOUR",
+        "num": 5,
+        "clue": "___ Valley (French wine area)",
+        "answer": "LOIRE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Tale from Aesop",
-        "answer": "FABLE",
+        "num": 6,
+        "clue": "With 7-Across, aspirational state to achieve in one’s work email",
+        "answer": "INBOX",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Friend, to a Spaniard",
-        "answer": "AMIGO",
+        "num": 7,
+        "clue": "See 6-Across",
+        "answer": "ZERO",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Provokes, with “up",
-        "answer": "RILES",
+        "num": 8,
+        "clue": "Right away!",
+        "answer": "ASAP",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Disney villain between Gaston and Scar",
-        "answer": "JAFAR",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "The so-called “fifth taste",
-        "answer": "UMAMI",
+        "clue": "Sounds before going to voicemail",
+        "answer": "TONES",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Gas brand that merged with Exxon",
-        "answer": "MOBIL",
+        "num": 2,
+        "clue": "Zodiac sign in early autumn",
+        "answer": "LIBRA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Stick out noticeably",
-        "answer": "BULGE",
+        "num": 3,
+        "clue": "Sag",
+        "answer": "DROOP",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Milkshake mix-ins that might get stuck in your straw",
-        "answer": "OREOS",
+        "num": 4,
+        "clue": "Pet name on a par with Fido and Rover",
+        "answer": "REX",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Actress/singer Minnelli",
+        "answer": "LIZA",
+        "row": 1,
+        "col": 0
       }
     ]
   }
