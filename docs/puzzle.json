@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "T",
-      "L",
-      "D",
-      "R"
-    ],
-    [
-      "L",
-      "O",
-      "I",
-      "R",
+      null,
+      "Q",
+      "U",
       "E"
     ],
     [
+      null,
+      "J",
+      "U",
+      "L",
+      "Y"
+    ],
+    [
+      "J",
+      "U",
       "I",
+      "C",
+      "E"
+    ],
+    [
+      "A",
       "N",
-      "B",
-      "O",
-      "X"
-    ],
-    [
-      "Z",
+      "T",
       "E",
-      "R",
-      "O",
-      null
+      "S"
     ],
     [
-      "A",
-      "S",
-      "A",
-      "P",
+      "M",
+      "O",
+      "O",
+      "R",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "In summary …,” in internet shorthand",
-        "answer": "TLDR",
+        "clue": "Spanish question word",
+        "answer": "QUE",
         "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "National Ice Cream Month and National Hot Dog Month",
+        "answer": "JULY",
+        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "___ Valley (French wine area)",
-        "answer": "LOIRE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "With 7-Across, aspirational state to achieve in one’s work email",
-        "answer": "INBOX",
+        "clue": "Battery life, informally",
+        "answer": "JUICE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "See 6-Across",
-        "answer": "ZERO",
+        "num": 6,
+        "clue": "Poker buy-ins",
+        "answer": "ANTES",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Right away!",
-        "answer": "ASAP",
+        "num": 7,
+        "clue": "Tie up, as a ship",
+        "answer": "MOOR",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Sounds before going to voicemail",
-        "answer": "TONES",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Zodiac sign in early autumn",
-        "answer": "LIBRA",
+        "clue": "Only world capital that starts with “Q",
+        "answer": "QUITO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Sag",
-        "answer": "DROOP",
+        "num": 2,
+        "clue": "Painful sore",
+        "answer": "ULCER",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Pet name on a par with Fido and Rover",
-        "answer": "REX",
+        "num": 3,
+        "clue": "Snake ___ (dice roll)",
+        "answer": "EYES",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Actress/singer Minnelli",
-        "answer": "LIZA",
+        "num": 4,
+        "clue": "The daughter of Saturn, sister of Jupiter and mother to Mars, in Roman myth",
+        "answer": "JUNO",
         "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Traffic snarl",
+        "answer": "JAM",
+        "row": 2,
         "col": 0
       }
     ]
