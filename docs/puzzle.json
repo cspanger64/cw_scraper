@@ -1,42 +1,70 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
       null,
-      "Q",
-      "U",
+      null,
+      "C",
+      "A",
+      "S",
       "E"
     ],
     [
       null,
-      "J",
-      "U",
-      "L",
-      "Y"
+      null,
+      "A",
+      "R",
+      "R",
+      "O",
+      "W"
     ],
     [
-      "J",
-      "U",
+      null,
       "I",
       "C",
+      "I",
+      "C",
+      "L",
       "E"
     ],
     [
+      "C",
+      "H",
       "A",
-      "N",
-      "T",
-      "E",
+      "C",
+      "H",
+      "A",
       "S"
     ],
     [
-      "M",
-      "O",
-      "O",
+      "H",
+      "A",
+      "C",
+      "K",
+      "E",
       "R",
+      null
+    ],
+    [
+      "I",
+      "V",
+      "I",
+      "E",
+      "S",
+      null,
+      null
+    ],
+    [
+      "N",
+      "E",
+      "A",
+      "T",
+      null,
+      null,
       null
     ]
   ],
@@ -44,74 +72,102 @@
     "across": [
       {
         "num": 1,
-        "clue": "Spanish question word",
-        "answer": "QUE",
+        "clue": "24 cans of beer",
+        "answer": "CASE",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "National Ice Cream Month and National Hot Dog Month",
-        "answer": "JULY",
-        "row": 1,
-        "col": 1
+        "col": 3
       },
       {
         "num": 5,
-        "clue": "Battery life, informally",
-        "answer": "JUICE",
-        "row": 2,
-        "col": 0
+        "clue": "⬆ or ⬇",
+        "answer": "ARROW",
+        "row": 1,
+        "col": 2
       },
       {
         "num": 6,
-        "clue": "Poker buy-ins",
-        "answer": "ANTES",
+        "clue": "Cold spike?",
+        "answer": "ICICLE",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Dance steps after “Right foot, let’s stomp! Left foot, let’s stomp!",
+        "answer": "CHACHAS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Tie up, as a ship",
-        "answer": "MOOR",
+        "num": 8,
+        "clue": "Cybersecurity menace",
+        "answer": "HACKER",
         "row": 4,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Columbia, Dartmouth, Harvard, etc.",
+        "answer": "IVIES",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Cool!",
+        "answer": "NEAT",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Only world capital that starts with “Q",
-        "answer": "QUITO",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 2,
-        "clue": "Painful sore",
-        "answer": "ULCER",
+        "clue": "A sport, or an insect",
+        "answer": "CRICKET",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Snake ___ (dice roll)",
-        "answer": "EYES",
+        "num": 2,
+        "clue": "Parts of the McDonald’s logo",
+        "answer": "ARCHES",
         "row": 0,
         "col": 4
       },
       {
+        "num": 3,
+        "clue": "Renewable energy option",
+        "answer": "SOLAR",
+        "row": 0,
+        "col": 5
+      },
+      {
         "num": 4,
-        "clue": "The daughter of Saturn, sister of Jupiter and mother to Mars, in Roman myth",
-        "answer": "JUNO",
-        "row": 1,
-        "col": 1
+        "clue": "Female sheep",
+        "answer": "EWES",
+        "row": 0,
+        "col": 6
       },
       {
         "num": 5,
-        "clue": "Traffic snarl",
-        "answer": "JAM",
+        "clue": "Thorny tree that’s a favorite of giraffes",
+        "answer": "ACACIA",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "num": 6,
+        "clue": "___ my reasons …",
+        "answer": "IHAVE",
         "row": 2,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Place for hair in “The Three Little Pigs",
+        "answer": "CHIN",
+        "row": 3,
         "col": 0
       }
     ]
