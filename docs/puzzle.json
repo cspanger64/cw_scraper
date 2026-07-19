@@ -1,69 +1,41 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
       null,
-      null,
-      "C",
-      "A",
-      "S",
-      "E"
-    ],
-    [
-      null,
-      null,
-      "A",
-      "R",
-      "R",
+      "D",
       "O",
-      "W"
+      "G"
     ],
     [
-      null,
-      "I",
-      "C",
-      "I",
-      "C",
-      "L",
+      "R",
+      "H",
+      "Y",
+      "M",
       "E"
     ],
     [
       "C",
-      "H",
-      "A",
-      "C",
-      "H",
-      "A",
-      "S"
-    ],
-    [
-      "H",
-      "A",
-      "C",
-      "K",
-      "E",
-      "R",
-      null
-    ],
-    [
+      "O",
+      "L",
       "I",
-      "V",
-      "I",
-      "E",
-      "S",
-      null,
-      null
+      "N"
     ],
     [
-      "N",
-      "E",
+      "P",
+      "L",
       "A",
       "T",
-      null,
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "N",
       null,
       null
     ]
@@ -72,103 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "24 cans of beer",
-        "answer": "CASE",
+        "clue": "Downward ___ (basic yoga pose)",
+        "answer": "DOG",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "⬆ or ⬇",
-        "answer": "ARROW",
-        "row": 1,
         "col": 2
       },
       {
+        "num": 4,
+        "clue": "What “Sing Sing” and “Bling Ring” do",
+        "answer": "RHYME",
+        "row": 1,
+        "col": 0
+      },
+      {
         "num": 6,
-        "clue": "Cold spike?",
-        "answer": "ICICLE",
+        "clue": "Comic Jost",
+        "answer": "COLIN",
         "row": 2,
-        "col": 1
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Dance steps after “Right foot, let’s stomp! Left foot, let’s stomp!",
-        "answer": "CHACHAS",
+        "clue": "Artfully present, as food at a restaurant",
+        "answer": "PLATE",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Cybersecurity menace",
-        "answer": "HACKER",
+        "clue": "Start of a countdown",
+        "answer": "TEN",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Columbia, Dartmouth, Harvard, etc.",
-        "answer": "IVIES",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Cool!",
-        "answer": "NEAT",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "A sport, or an insect",
-        "answer": "CRICKET",
+        "clue": "Like a Rolling Stone” singer",
+        "answer": "DYLAN",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Leave out",
+        "answer": "OMIT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "Parts of the McDonald’s logo",
-        "answer": "ARCHES",
+        "num": 3,
+        "clue": "Something “edited” by CRISPR",
+        "answer": "GENE",
         "row": 0,
         "col": 4
       },
       {
-        "num": 3,
-        "clue": "Renewable energy option",
-        "answer": "SOLAR",
-        "row": 0,
-        "col": 5
-      },
-      {
         "num": 4,
-        "clue": "Female sheep",
-        "answer": "EWES",
-        "row": 0,
-        "col": 6
+        "clue": "Proof of purchase: Abbr.",
+        "answer": "RCPT",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Thorny tree that’s a favorite of giraffes",
-        "answer": "ACACIA",
+        "clue": "Mini-golf target",
+        "answer": "HOLE",
         "row": 1,
-        "col": 2
-      },
-      {
-        "num": 6,
-        "clue": "___ my reasons …",
-        "answer": "IHAVE",
-        "row": 2,
         "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Place for hair in “The Three Little Pigs",
-        "answer": "CHIN",
-        "row": 3,
-        "col": 0
       }
     ]
   }
