@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      null,
-      "D",
-      "O",
+      "P",
+      "I",
+      "N",
       "G"
     ],
     [
-      "R",
-      "H",
-      "Y",
-      "M",
-      "E"
-    ],
-    [
-      "C",
+      "S",
       "O",
-      "L",
-      "I",
-      "N"
-    ],
-    [
-      "P",
-      "L",
-      "A",
-      "T",
-      "E"
-    ],
-    [
-      "T",
-      "E",
       "N",
-      null,
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "E",
+      "Y"
+    ],
+    [
+      "E",
+      "X",
+      "E",
+      "S",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Downward ___ (basic yoga pose)",
-        "answer": "DOG",
+        "clue": "Sound of an online message",
+        "answer": "PING",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "What “Sing Sing” and “Bling Ring” do",
-        "answer": "RHYME",
+        "num": 5,
+        "clue": "Underwater detection device",
+        "answer": "SONAR",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Comic Jost",
-        "answer": "COLIN",
+        "clue": "Chicago’s ___ Presidential Center",
+        "answer": "OBAMA",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Artfully present, as food at a restaurant",
-        "answer": "PLATE",
+        "clue": "Appropriate anagram of VENMO, if you change the “V’ to a “Y",
+        "answer": "MONEY",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Start of a countdown",
-        "answer": "TEN",
+        "clue": "Potentially awkward wedding guests",
+        "answer": "EXES",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Like a Rolling Stone” singer",
-        "answer": "DYLAN",
+        "clue": "Destination for mail that doesn’t go to your home address, perhaps",
+        "answer": "POBOX",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Ridiculous",
+        "answer": "INANE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Leave out",
-        "answer": "OMIT",
+        "num": 3,
+        "clue": "Things debated by expectant parents",
+        "answer": "NAMES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Something “edited” by CRISPR",
-        "answer": "GENE",
+        "num": 4,
+        "clue": "Color of an overcast sky",
+        "answer": "GRAY",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Proof of purchase: Abbr.",
-        "answer": "RCPT",
+        "num": 5,
+        "clue": "___ assembly required",
+        "answer": "SOME",
         "row": 1,
         "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Mini-golf target",
-        "answer": "HOLE",
-        "row": 1,
-        "col": 1
       }
     ]
   }
