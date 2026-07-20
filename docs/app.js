@@ -49,18 +49,28 @@ function buildNumbering(puzzle) {
   return startNums;
 }
 
-/* Fit the grid to the viewport so it never overflows, on any grid size. */
+/* Fit the grid so it never overflows, on any grid size, on any device.
+   On touch, #grid-wrap is a real flex-allocated box (see CSS), so we can
+   measure it directly and never overlap the clue bar / keyboard. On
+   desktop, #grid-wrap shrink-wraps its content instead, so it has no
+   size to measure yet -- fall back to a viewport-based estimate there. */
 function fitCellSize(rows, cols) {
+  const wrap = document.getElementById('grid-wrap');
   const isTouch = document.body.classList.contains('touch');
-  const vw = window.innerWidth;
-  const vh = window.innerHeight;
-  const reserved = isTouch ? 260 : 170; // header + clue bar + (keyboard on touch)
-  const availableW = Math.min(vw - 24, 640);
-  const availableH = vh - reserved;
   const gap = cols > 7 ? 3 : 6;
+
+  let availableW, availableH;
+  if (isTouch) {
+    availableW = wrap.clientWidth - 16;
+    availableH = wrap.clientHeight - 16;
+  } else {
+    availableW = Math.min(window.innerWidth - 380, 640); // leave room for the side clue lists
+    availableH = window.innerHeight - 220;                // leave room for header + clue bar
+  }
+
   const sizeByW = Math.floor((availableW - gap * (cols + 1)) / cols);
   const sizeByH = Math.floor((availableH - gap * (rows + 1)) / rows);
-  const size = Math.max(28, Math.min(56, sizeByW, sizeByH));
+  const size = Math.max(24, Math.min(56, sizeByW, sizeByH));
   document.documentElement.style.setProperty('--cell-size', `${size}px`);
   document.documentElement.style.setProperty('--gap', `${gap}px`);
 }
@@ -117,6 +127,10 @@ function buildUI(puzzle) {
 
   const slotsA = slotsAcross();
   const slotsD = slotsDown();
+  // Combined in the same order as the two clue lists are displayed:
+  // all across (in grid order), then all down (in grid order). Cycling
+  // walks this single list so 1A,6A,7A,8A,9A -> 1D,2D,3D,4D,5D -> back to 1A.
+  const allSlots = [...slotsA, ...slotsD];
 
   const textA = new Map((clues?.across || []).map(x => [x.num, x]));
   const textD = new Map((clues?.down || []).map(x => [x.num, x]));
@@ -246,10 +260,15 @@ function buildUI(puzzle) {
   }
 
   function cycleClue(delta) {
-    const list = active.dir === 'across' ? slotsA : slotsD;
-    if (!list.length) return;
-    const next = (active.index + delta + list.length) % list.length;
-    setActive(active.dir, next);
+    if (!allSlots.length) return;
+    const curSlot = (active.dir === 'across' ? slotsA : slotsD)[active.index];
+    const curCombinedIdx = allSlots.findIndex(s => s.dir === active.dir && s.num === curSlot?.num);
+    const from = curCombinedIdx >= 0 ? curCombinedIdx : 0;
+    const nextCombinedIdx = (from + delta + allSlots.length) % allSlots.length;
+    const target = allSlots[nextCombinedIdx];
+    const arr = target.dir === 'across' ? slotsA : slotsD;
+    const idx = arr.findIndex(s => s.num === target.num);
+    setActive(target.dir, idx);
   }
 
   function move(r, c) {

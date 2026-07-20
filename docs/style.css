@@ -123,23 +123,69 @@ main {
 #across li, #down li { cursor: pointer; padding: 2px 0; }
 #across li.active, #down li.active { background: var(--word-hl); border-radius: 4px; font-weight: 600; }
 
-/* on-screen keyboard: touch devices only */
-#keyboard-wrap { display: none; }
+/* ===== Touch / mobile layout =====
+   Real flexbox filling the viewport height, so the clue bar and keyboard
+   can never overlap or go off-screen regardless of device/keyboard height --
+   no guessed pixel offsets. */
+body.touch {
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+body.touch header { flex: 0 0 auto; }
+body.touch main {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 8px 0;
+  gap: 0;
+}
+body.touch #side-column { display: none; }
+body.touch #puzzle-column {
+  flex: 1 1 auto;
+  min-height: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+body.touch #grid-wrap {
+  flex: 1 1 auto;
+  min-height: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+body.touch #clue-bar {
+  flex: 0 0 auto;
+  width: 100%;
+  border-radius: 0;
+  background: var(--accent);
+  color: #fff;
+  padding: 12px 6px;
+  box-shadow: none;
+}
+body.touch #clue-num { color: rgba(255,255,255,.85); }
+body.touch #clue-text { white-space: normal; font-size: 15px; font-weight: 600; }
+body.touch #clue-nav button { background: transparent; border: none; color: #fff; font-size: 20px; }
 body.touch #keyboard-wrap {
   display: flex;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: var(--kbd-bg);
-  border-top: 1px solid #e3e6eb;
-  padding: 10px 8px 14px;
+  position: static;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
-  z-index: 1000;
+  padding: 10px 8px 14px;
+  background: var(--kbd-bg);
+  border-top: 1px solid #e3e6eb;
 }
-body.touch main { padding-bottom: 220px; }
 
+#keyboard-wrap { display: none; }
 .kbd-row { display: flex; gap: 6px; justify-content: center; }
 .kbd-key {
   background: var(--kbd-key);
