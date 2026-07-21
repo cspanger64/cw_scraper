@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "P",
+      "S",
       "I",
-      "N",
-      "G"
+      "K",
+      "H",
+      "S"
     ],
     [
-      "S",
-      "O",
+      "I",
+      "K",
       "N",
-      "A",
-      "R"
+      "O",
+      "W"
     ],
     [
-      "O",
-      "B",
-      "A",
+      "G",
+      "E",
+      "I",
+      "C",
+      "O"
+    ],
+    [
       "M",
-      "A"
+      "A",
+      "C",
+      "H",
+      "O"
     ],
     [
-      "M",
-      "O",
-      "N",
-      "E",
-      "Y"
-    ],
-    [
-      "E",
-      "X",
-      "E",
+      "A",
       "S",
-      null
+      "K",
+      "I",
+      "N"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sound of an online message",
-        "answer": "PING",
+        "clue": "Roughly 20 million people in India, religiously",
+        "answer": "SIKHS",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Underwater detection device",
-        "answer": "SONAR",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Chicago’s ___ Presidential Center",
-        "answer": "OBAMA",
-        "row": 2,
+        "clue": "No need to remind me",
+        "answer": "IKNOW",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Appropriate anagram of VENMO, if you change the “V’ to a “Y",
-        "answer": "MONEY",
-        "row": 3,
+        "clue": "Insurance company whose mascot helped to solve a crossword in a 2025 ad",
+        "answer": "GEICO",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Potentially awkward wedding guests",
-        "answer": "EXES",
+        "clue": "Ultra-masculine",
+        "answer": "MACHO",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Invite to enter",
+        "answer": "ASKIN",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Destination for mail that doesn’t go to your home address, perhaps",
-        "answer": "POBOX",
+        "clue": "Greek “S",
+        "answer": "SIGMA",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Swedish furniture stores",
+        "answer": "IKEAS",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Ridiculous",
-        "answer": "INANE",
+        "num": 3,
+        "clue": "2026 N.B.A champion",
+        "answer": "KNICK",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Things debated by expectant parents",
-        "answer": "NAMES",
+        "num": 4,
+        "clue": "Vietnamese revolutionary ___ Minh",
+        "answer": "HOCHI",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Color of an overcast sky",
-        "answer": "GRAY",
+        "num": 5,
+        "clue": "Faint after eye contact with one’s crush, say",
+        "answer": "SWOON",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "___ assembly required",
-        "answer": "SOME",
-        "row": 1,
-        "col": 0
       }
     ]
   }
