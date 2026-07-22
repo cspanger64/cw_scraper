@@ -4,7 +4,7 @@
   --bg: #f7f7f9;
   --fg: #222;
   --accent: #0a66ff;
-  --clue-bar-bg: #5b9da0;  /* softer/lighter blue than --accent, just for the clue bar */
+  --clue-bar-bg: #ff0000;  /* softer/lighter blue than --accent, just for the clue bar */
   --muted: #888;
   --ok: #2e7d32;
   --bad: #c62828;
