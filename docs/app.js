@@ -59,19 +59,20 @@ function fitCellSize(rows, cols) {
   const isTouch = document.body.classList.contains('touch');
   const gap = cols > 7 ? 3 : 6;
 
-  let availableW, availableH;
+  let availableW, availableH, maxSize;
   if (isTouch) {
-    availableW = wrap.clientWidth - 16;
-    availableH = wrap.clientHeight - 16 - 24; // extra safety margin so the
-                                               // clue bar always stays clear
+    availableW = wrap.clientWidth - 32;
+    availableH = wrap.clientHeight - 32;
+    maxSize = 38; // deliberately small and fixed, not just measurement-derived
   } else {
     availableW = Math.min(window.innerWidth - 380, 640); // leave room for the side clue lists
     availableH = window.innerHeight - 220;                // leave room for header + clue bar
+    maxSize = 56;
   }
 
   const sizeByW = Math.floor((availableW - gap * (cols + 1)) / cols);
   const sizeByH = Math.floor((availableH - gap * (rows + 1)) / rows);
-  const size = Math.max(24, Math.min(56, sizeByW, sizeByH));
+  const size = Math.max(20, Math.min(maxSize, sizeByW, sizeByH));
   document.documentElement.style.setProperty('--cell-size', `${size}px`);
   document.documentElement.style.setProperty('--gap', `${gap}px`);
 }
