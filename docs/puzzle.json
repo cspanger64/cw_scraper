@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "S",
-      "I",
-      "K",
+      null,
+      null,
       "H",
-      "S"
-    ],
-    [
-      "I",
-      "K",
-      "N",
-      "O",
-      "W"
-    ],
-    [
-      "G",
       "E",
-      "I",
-      "C",
-      "O"
-    ],
-    [
-      "M",
-      "A",
-      "C",
-      "H",
-      "O"
-    ],
-    [
-      "A",
-      "S",
-      "K",
-      "I",
       "N"
+    ],
+    [
+      null,
+      "L",
+      "A",
+      "D",
+      "Y"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "D",
+      "Y"
+    ],
+    [
+      "A",
+      "I",
+      "D",
+      "Y",
+      null
+    ],
+    [
+      "D",
+      "R",
+      "Y",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Roughly 20 million people in India, religiously",
-        "answer": "SIKHS",
+        "clue": "Mother chicken",
+        "answer": "HEN",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 6,
-        "clue": "No need to remind me",
-        "answer": "IKNOW",
+        "num": 4,
+        "clue": "Word after “leading” and “first",
+        "answer": "LADY",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "Insurance company whose mascot helped to solve a crossword in a 2025 ad",
-        "answer": "GEICO",
+        "num": 5,
+        "clue": "Just peachy … or a hint to the two letters that appear most often in this grid",
+        "answer": "DANDY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Ultra-masculine",
-        "answer": "MACHO",
+        "num": 6,
+        "clue": "Bryant of “S.N.L.” fame",
+        "answer": "AIDY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Invite to enter",
-        "answer": "ASKIN",
+        "num": 7,
+        "clue": "Like overcooked chicken",
+        "answer": "DRY",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Greek “S",
-        "answer": "SIGMA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Swedish furniture stores",
-        "answer": "IKEAS",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "2026 N.B.A champion",
-        "answer": "KNICK",
+        "clue": "Helpful",
+        "answer": "HANDY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Vietnamese revolutionary ___ Minh",
-        "answer": "HOCHI",
+        "num": 2,
+        "clue": "Swirl of water",
+        "answer": "EDDY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Faint after eye contact with one’s crush, say",
-        "answer": "SWOON",
+        "num": 3,
+        "clue": "The Yankees, on scoreboards",
+        "answer": "NYY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Supervillain’s hideout",
+        "answer": "LAIR",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "___ joke",
+        "answer": "DAD",
+        "row": 2,
+        "col": 0
       }
     ]
   }
