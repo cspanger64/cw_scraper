@@ -168,7 +168,12 @@ main {
    can never overlap or go off-screen regardless of device/keyboard height --
    no guessed pixel offsets. */
 body.touch {
-  height: 100dvh;
+  height: 100vh;   /* fallback for older browsers */
+  height: 100svh;  /* "small" viewport height: always assumes Safari's
+                       bottom bar is fully expanded (the worst case), so
+                       the layout can never be taller than what's actually
+                       visible, even if the bar's real height changes
+                       without a resize event firing in time */
   display: flex;
   flex-direction: column;
   overflow-y: auto;

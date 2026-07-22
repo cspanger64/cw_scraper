@@ -62,7 +62,8 @@ function fitCellSize(rows, cols) {
   let availableW, availableH;
   if (isTouch) {
     availableW = wrap.clientWidth - 16;
-    availableH = wrap.clientHeight - 16;
+    availableH = wrap.clientHeight - 16 - 24; // extra safety margin so the
+                                               // clue bar always stays clear
   } else {
     availableW = Math.min(window.innerWidth - 380, 640); // leave room for the side clue lists
     availableH = window.innerHeight - 220;                // leave room for header + clue bar
