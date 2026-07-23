@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "H",
-      "E",
-      "N"
-    ],
-    [
-      null,
-      "L",
-      "A",
-      "D",
-      "Y"
-    ],
-    [
-      "D",
+      "B",
       "A",
       "N",
-      "D",
-      "Y"
+      "J",
+      "O"
     ],
     [
       "A",
-      "I",
-      "D",
-      "Y",
-      null
+      "L",
+      "E",
+      "C",
+      "K"
     ],
     [
-      "D",
+      "S",
+      "T",
+      "A",
       "R",
-      "Y",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "T",
+      "E",
+      "D"
+    ],
+    [
       null,
+      "R",
+      "O",
+      "W",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Mother chicken",
-        "answer": "HEN",
+        "clue": "Instrument in the bluegrass classic “Foggy Mountain Breakdown",
+        "answer": "BANJO",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Word after “leading” and “first",
-        "answer": "LADY",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Just peachy … or a hint to the two letters that appear most often in this grid",
-        "answer": "DANDY",
-        "row": 2,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Bryant of “S.N.L.” fame",
-        "answer": "AIDY",
-        "row": 3,
+        "clue": "Smart ___ (wise guy)",
+        "answer": "ALECK",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Like overcooked chicken",
-        "answer": "DRY",
-        "row": 4,
+        "clue": "Compete in a contest that’s lost by blinking",
+        "answer": "STARE",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Strongly disliked",
+        "answer": "HATED",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "One of eight on a chessboard, or five in a Mini crossword",
+        "answer": "ROW",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Helpful",
-        "answer": "HANDY",
+        "clue": "Criticize harshly",
+        "answer": "BASH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Where wedding rings are exchanged",
+        "answer": "ALTAR",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Cool beans!",
+        "answer": "NEATO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Swirl of water",
-        "answer": "EDDY",
+        "num": 4,
+        "clue": "Preppy clothing brand",
+        "answer": "JCREW",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "The Yankees, on scoreboards",
-        "answer": "NYY",
+        "num": 5,
+        "clue": "Gave the green light",
+        "answer": "OKED",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Supervillain’s hideout",
-        "answer": "LAIR",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "___ joke",
-        "answer": "DAD",
-        "row": 2,
-        "col": 0
       }
     ]
   }
