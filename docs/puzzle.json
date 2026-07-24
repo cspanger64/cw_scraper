@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "B",
-      "A",
-      "N",
-      "J",
-      "O"
-    ],
-    [
-      "A",
-      "L",
-      "E",
-      "C",
-      "K"
-    ],
-    [
       "S",
-      "T",
-      "A",
-      "R",
-      "E"
+      "H",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "H",
+      "E",
+      "L",
+      "L",
+      "O"
     ],
     [
       "H",
       "A",
-      "T",
-      "E",
-      "D"
+      "L",
+      "A",
+      "L"
     ],
     [
       null,
-      "R",
-      "O",
-      "W",
-      null
+      "T",
+      "I",
+      "M",
+      "E"
+    ],
+    [
+      null,
+      "H",
+      "E",
+      "A",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Instrument in the bluegrass classic “Foggy Mountain Breakdown",
-        "answer": "BANJO",
+        "clue": "What SpongeBob uses as a telephone",
+        "answer": "SHELL",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Smart ___ (wise guy)",
-        "answer": "ALECK",
+        "clue": "Telephone answering word",
+        "answer": "HELLO",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Compete in a contest that’s lost by blinking",
-        "answer": "STARE",
+        "clue": "Following Islamic dietary laws",
+        "answer": "HALAL",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Strongly disliked",
-        "answer": "HATED",
+        "clue": "Watch’s display",
+        "answer": "TIME",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
         "num": 9,
-        "clue": "One of eight on a chessboard, or five in a Mini crossword",
-        "answer": "ROW",
+        "clue": "Watch your ___!",
+        "answer": "HEAD",
         "row": 4,
         "col": 1
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Criticize harshly",
-        "answer": "BASH",
+        "clue": "Quiet, you!",
+        "answer": "SHH",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Where wedding rings are exchanged",
-        "answer": "ALTAR",
+        "clue": "Coffee ___ Bar Crunch (classic Ben & Jerry’s flavor)",
+        "answer": "HEATH",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Cool beans!",
-        "answer": "NEATO",
+        "clue": "Actress Kemper of “The Office",
+        "answer": "ELLIE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Preppy clothing brand",
-        "answer": "JCREW",
+        "clue": "Peruvian pack animal",
+        "answer": "LLAMA",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Gave the green light",
-        "answer": "OKED",
+        "clue": "Reacted to a funny meme, informally",
+        "answer": "LOLED",
         "row": 0,
         "col": 4
       }
