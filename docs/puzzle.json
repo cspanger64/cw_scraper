@@ -1,118 +1,202 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "S",
-      "H",
+      "G",
+      "O",
+      "G",
       "E",
-      "L",
-      "L"
+      "T",
+      "E",
+      "M"
     ],
     [
-      "H",
-      "E",
-      "L",
-      "L",
-      "O"
+      "A",
+      "I",
+      "R",
+      "D",
+      "R",
+      "O",
+      "P"
     ],
     [
-      "H",
-      "A",
+      "G",
       "L",
-      "A",
-      "L"
+      "U",
+      "E",
+      "I",
+      "N",
+      "G"
     ],
     [
       null,
+      null,
+      "N",
+      "B",
+      "A",
+      null,
+      null
+    ],
+    [
+      "U",
+      "P",
       "T",
       "I",
-      "M",
-      "E"
+      "G",
+      "H",
+      "T"
     ],
     [
-      null,
-      "H",
+      "S",
+      "T",
       "E",
+      "R",
+      "E",
+      "O",
+      "S"
+    ],
+    [
+      "B",
       "A",
-      "D"
+      "D",
+      "I",
+      "D",
+      "E",
+      "A"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "What SpongeBob uses as a telephone",
-        "answer": "SHELL",
+        "clue": "Good luck out there!",
+        "answer": "GOGETEM",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Telephone answering word",
-        "answer": "HELLO",
+        "num": 8,
+        "clue": "File-sharing method between two Apple devices",
+        "answer": "AIRDROP",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Following Islamic dietary laws",
-        "answer": "HALAL",
+        "num": 9,
+        "clue": "Sticking together with paste",
+        "answer": "GLUEING",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Watch’s display",
-        "answer": "TIME",
+        "num": 10,
+        "clue": "Org. with a draft lottery",
+        "answer": "NBA",
         "row": 3,
-        "col": 1
+        "col": 2
       },
       {
-        "num": 9,
-        "clue": "Watch your ___!",
-        "answer": "HEAD",
+        "num": 11,
+        "clue": "Unable to relax",
+        "answer": "UPTIGHT",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Surround sound systems",
+        "answer": "STEREOS",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "I wouldn’t do that if I were you",
+        "answer": "BADIDEA",
+        "row": 6,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Quiet, you!",
-        "answer": "SHH",
+        "clue": "Running joke",
+        "answer": "GAG",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Coffee ___ Bar Crunch (classic Ben & Jerry’s flavor)",
-        "answer": "HEATH",
+        "clue": "Commodity whose price has risen sharply in 2026",
+        "answer": "OIL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Actress Kemper of “The Office",
-        "answer": "ELLIE",
+        "clue": "Made a sound of exertion",
+        "answer": "GRUNTED",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Peruvian pack animal",
-        "answer": "LLAMA",
+        "clue": "Ayo of “The Bear",
+        "answer": "EDEBIRI",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Reacted to a funny meme, informally",
-        "answer": "LOLED",
+        "clue": "Assessed for priority, as in the E.R.",
+        "answer": "TRIAGED",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Extremely long time",
+        "answer": "EON",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "Fuel economy meas.",
+        "answer": "MPG",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Alternative to a lightning cable",
+        "answer": "USB",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Book fair group, for short",
+        "answer": "PTA",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Soil-loosening tool",
+        "answer": "HOE",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 14,
+        "clue": "Org. that issues Known Traveler Numbers",
+        "answer": "TSA",
+        "row": 4,
+        "col": 6
       }
     ]
   }
