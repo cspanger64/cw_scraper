@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "A",
-      "R",
-      "M",
       null,
+      "B",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "B",
+      "R",
+      "A",
+      "V",
+      "O"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "D",
       null
     ],
     [
-      "G",
-      "E",
-      "E",
       "S",
-      "E"
-    ],
-    [
-      "E",
-      "X",
-      "T",
-      "O",
-      "L"
-    ],
-    [
-      "S",
-      "E",
-      "O",
-      "U",
-      "L"
-    ],
-    [
+      "K",
+      "Y",
       null,
-      "S",
-      "O",
-      "L",
-      "E"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "One of five for most starfish",
-        "answer": "ARM",
+        "clue": "Letter after alpha, in the Greek alphabet",
+        "answer": "BETA",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Fliers in a V",
-        "answer": "GEESE",
+        "num": 5,
+        "clue": "Letter after Alfa, in the NATO phonetic alphabet",
+        "answer": "BRAVO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Sing the praises of",
-        "answer": "EXTOL",
+        "num": 6,
+        "clue": "Barrier reef organism",
+        "answer": "CORAL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Capital of South Korea",
-        "answer": "SEOUL",
+        "num": 7,
+        "clue": "Bout of sniffling and sneezing, say",
+        "answer": "COLD",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Bottom of a shoe",
-        "answer": "SOLE",
+        "num": 8,
+        "clue": "Blue expanse",
+        "answer": "SKY",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Around 14-29, for most members of Gen Z",
-        "answer": "AGES",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "T. ___ (fearsome dinos)",
-        "answer": "REXES",
+        "clue": "Babbling” body of water",
+        "answer": "BROOK",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Yeah, same!",
-        "answer": "METOO",
+        "num": 2,
+        "clue": "Before expected",
+        "answer": "EARLY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "2020 Pixar movie",
-        "answer": "SOUL",
-        "row": 1,
+        "num": 3,
+        "clue": "Broadcast commercial, for short",
+        "answer": "TVAD",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "French fashion magazine",
-        "answer": "ELLE",
-        "row": 1,
+        "num": 4,
+        "clue": "Big name in early email",
+        "answer": "AOL",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Brings into an email thread discreetly",
+        "answer": "BCCS",
+        "row": 1,
+        "col": 0
       }
     ]
   }
