@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "P",
-      "L",
-      "A",
-      "Y"
+      "S",
+      "O",
+      "C",
+      "K",
+      null
     ],
     [
-      null,
+      "C",
       "R",
-      "O",
-      "S",
+      "U",
+      "N",
+      "K"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "E",
       "E"
     ],
     [
-      "B",
-      "O",
-      "O",
-      "K",
-      "S"
-    ],
-    [
-      "P",
-      "O",
-      "S",
-      "E",
-      null
-    ],
-    [
+      "R",
       "A",
-      "F",
+      "V",
       "E",
-      "W",
-      null
+      "N"
+    ],
+    [
+      null,
+      "N",
+      "E",
+      "S",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Work’s opposite",
-        "answer": "PLAY",
+        "clue": "Half of a clothing pair",
+        "answer": "SOCK",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Glass-encased flower in “Beauty and the Beast",
-        "answer": "ROSE",
+        "clue": "Early 2000s hip-hop subgenre for songs like “Get Low” and “Yeah!",
+        "answer": "CRUNK",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Stack on a nightstand",
-        "answer": "BOOKS",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Tree or cobra, in yoga class",
-        "answer": "POSE",
-        "row": 3,
+        "clue": "Concur",
+        "answer": "AGREE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Not that many",
-        "answer": "AFEW",
-        "row": 4,
+        "clue": "Baltimore N.F.L. player",
+        "answer": "RAVEN",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Tree house, of a sort",
+        "answer": "NEST",
+        "row": 4,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Measure of alcoholic content",
-        "answer": "PROOF",
+        "clue": "Harry Potter’s defining mark",
+        "answer": "SCAR",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Lungs or liver",
+        "answer": "ORGAN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Feeling relaxed",
-        "answer": "LOOSE",
+        "num": 3,
+        "clue": "Dangerous stretch of a mountain road",
+        "answer": "CURVE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Slightly crooked",
-        "answer": "ASKEW",
+        "num": 4,
+        "clue": "Body parts touched after the shoulders, in song",
+        "answer": "KNEES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Rarely true response to “Have you read our terms and conditions?",
-        "answer": "YES",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 6,
-        "clue": "___-free (label on water bottles)",
-        "answer": "BPA",
-        "row": 2,
-        "col": 0
+        "clue": "Clark ___ a.k.a. Superman",
+        "answer": "KENT",
+        "row": 1,
+        "col": 4
       }
     ]
   }
