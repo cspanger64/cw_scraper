@@ -1,118 +1,188 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "S",
-      "O",
-      "C",
-      "K",
-      null
-    ],
-    [
-      "C",
-      "R",
-      "U",
-      "N",
-      "K"
-    ],
-    [
-      "A",
-      "G",
-      "R",
+      null,
+      null,
+      "D",
       "E",
-      "E"
-    ],
-    [
-      "R",
+      "C",
       "A",
-      "V",
-      "E",
-      "N"
+      "F"
     ],
     [
       null,
+      "C",
+      "I",
+      "C",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "M",
+      "O",
+      "N",
+      "D",
+      "S"
+    ],
+    [
+      "D",
+      "A",
+      "P",
+      null,
       "N",
       "E",
-      "S",
       "T"
+    ],
+    [
+      "M",
+      "U",
+      "L",
+      "L",
+      "E",
+      "D",
+      null
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "S",
+      null,
+      null
+    ],
+    [
+      "T",
+      "E",
+      "S",
+      "T",
+      null,
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Half of a clothing pair",
-        "answer": "SOCK",
+        "clue": "Coffee choice before bed",
+        "answer": "DECAF",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 5,
-        "clue": "Early 2000s hip-hop subgenre for songs like “Get Low” and “Yeah!",
-        "answer": "CRUNK",
+        "num": 6,
+        "clue": "Recurring bug?",
+        "answer": "CICADA",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 7,
-        "clue": "Concur",
-        "answer": "AGREE",
+        "clue": "California’s most valuable crop, just barely edging out grapes",
+        "answer": "ALMONDS",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Baltimore N.F.L. player",
-        "answer": "RAVEN",
+        "clue": "Fist pound",
+        "answer": "DAP",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Tree house, of a sort",
-        "answer": "NEST",
+        "clue": "Back of a soccer goal",
+        "answer": "NET",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Carefully thought (over)",
+        "answer": "MULLED",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Brain sparks",
+        "answer": "IDEAS",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Something that might end after “Pencils down!",
+        "answer": "TEST",
+        "row": 6,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Harry Potter’s defining mark",
-        "answer": "SCAR",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Lungs or liver",
-        "answer": "ORGAN",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Dangerous stretch of a mountain road",
-        "answer": "CURVE",
+        "clue": "Indentations at the end of a smile",
+        "answer": "DIMPLES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Body parts touched after the shoulders, in song",
-        "answer": "KNEES",
+        "num": 2,
+        "clue": "Green: Prefix",
+        "answer": "ECO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Clark ___ a.k.a. Superman",
-        "answer": "KENT",
-        "row": 1,
+        "num": 3,
+        "clue": "Film festival with the Palme d’Or",
+        "answer": "CANNES",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "No ___ sugar (product claim)",
+        "answer": "ADDED",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "Speedy",
+        "answer": "FAST",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "Anthropic’s A.I. assistant",
+        "answer": "CLAUDE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Own up to",
+        "answer": "ADMIT",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Back muscle, for short",
+        "answer": "LAT",
+        "row": 4,
+        "col": 3
       }
     ]
   }
