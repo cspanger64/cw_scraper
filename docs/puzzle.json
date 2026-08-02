@@ -1,188 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      null,
-      null,
-      "D",
-      "E",
-      "C",
-      "A",
-      "F"
+      "W",
+      "I",
+      "F",
+      "I",
+      null
     ],
     [
-      null,
+      "S",
       "C",
       "I",
-      "C",
-      "A",
-      "D",
-      "A"
+      "F",
+      "I"
     ],
     [
+      "J",
+      "E",
       "A",
-      "L",
-      "M",
-      "O",
       "N",
-      "D",
       "S"
     ],
     [
-      "D",
-      "A",
-      "P",
       null,
-      "N",
-      "E",
-      "T"
-    ],
-    [
-      "M",
-      "U",
-      "L",
-      "L",
-      "E",
-      "D",
-      null
-    ],
-    [
-      "I",
-      "D",
-      "E",
-      "A",
-      "S",
-      null,
-      null
-    ],
-    [
-      "T",
-      "E",
       "S",
       "T",
+      "O",
+      "P"
+    ],
+    [
       null,
       null,
-      null
+      "S",
+      "T",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Coffee choice before bed",
-        "answer": "DECAF",
+        "clue": "Something you might ask for while staying over at a friend’s house",
+        "answer": "WIFI",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 6,
-        "clue": "Recurring bug?",
-        "answer": "CICADA",
+        "num": 5,
+        "clue": "Genre for “Stranger Things",
+        "answer": "SCIFI",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "California’s most valuable crop, just barely edging out grapes",
-        "answer": "ALMONDS",
+        "clue": "Unlikely pants to wear to a wedding",
+        "answer": "JEANS",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Fist pound",
-        "answer": "DAP",
+        "clue": "Octagonal sign word",
+        "answer": "STOP",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
         "num": 9,
-        "clue": "Back of a soccer goal",
-        "answer": "NET",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 10,
-        "clue": "Carefully thought (over)",
-        "answer": "MULLED",
+        "clue": "Where sows are housed",
+        "answer": "STY",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Brain sparks",
-        "answer": "IDEAS",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Something that might end after “Pencils down!",
-        "answer": "TEST",
-        "row": 6,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Indentations at the end of a smile",
-        "answer": "DIMPLES",
+        "clue": "Newspaper that covers the stock market, for short",
+        "answer": "WSJ",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Puts a cold pack on",
+        "answer": "ICES",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Official decrees",
+        "answer": "FIATS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Green: Prefix",
-        "answer": "ECO",
+        "num": 4,
+        "clue": "Otherwise …",
+        "answer": "IFNOT",
         "row": 0,
         "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Film festival with the Palme d’Or",
-        "answer": "CANNES",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "No ___ sugar (product claim)",
-        "answer": "ADDED",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "Speedy",
-        "answer": "FAST",
-        "row": 0,
-        "col": 6
       },
       {
         "num": 6,
-        "clue": "Anthropic’s A.I. assistant",
-        "answer": "CLAUDE",
+        "clue": "Words before “with my little eye,” in a game",
+        "answer": "ISPY",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Own up to",
-        "answer": "ADMIT",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "Back muscle, for short",
-        "answer": "LAT",
-        "row": 4,
-        "col": 3
+        "col": 4
       }
     ]
   }
