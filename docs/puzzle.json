@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "W",
-      "I",
-      "F",
-      "I",
-      null
-    ],
-    [
-      "S",
-      "C",
-      "I",
-      "F",
-      "I"
-    ],
-    [
-      "J",
-      "E",
-      "A",
-      "N",
-      "S"
-    ],
-    [
       null,
+      "P",
+      "Y",
+      "R",
+      "O"
+    ],
+    [
       "S",
-      "T",
-      "O",
+      "L",
+      "E",
+      "E",
       "P"
     ],
     [
-      null,
-      null,
-      "S",
+      "H",
+      "A",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "O",
+      "I",
+      "L",
+      "Y",
+      null
+    ],
+    [
+      "E",
       "T",
-      "Y"
+      "S",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Something you might ask for while staying over at a friend’s house",
-        "answer": "WIFI",
+        "clue": "Fire enthusiast, slangily",
+        "answer": "PYRO",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Genre for “Stranger Things",
-        "answer": "SCIFI",
+        "clue": "Q: Why did the farmer ___ under his tractor?",
+        "answer": "SLEEP",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Unlikely pants to wear to a wedding",
-        "answer": "JEANS",
+        "num": 6,
+        "clue": "Many buildings on campus",
+        "answer": "HALLS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Octagonal sign word",
-        "answer": "STOP",
+        "num": 7,
+        "clue": "A: So he could wake up ___ in the morning!",
+        "answer": "OILY",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "Where sows are housed",
-        "answer": "STY",
+        "num": 8,
+        "clue": "Aliens, for short",
+        "answer": "ETS",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Newspaper that covers the stock market, for short",
-        "answer": "WSJ",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Puts a cold pack on",
-        "answer": "ICES",
+        "clue": "Braid, to a Brit",
+        "answer": "PLAIT",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Official decrees",
-        "answer": "FIATS",
+        "num": 2,
+        "clue": "Hollers",
+        "answer": "YELLS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Otherwise …",
-        "answer": "IFNOT",
+        "num": 3,
+        "clue": "Depend (on)",
+        "answer": "RELY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Words before “with my little eye,” in a game",
-        "answer": "ISPY",
-        "row": 1,
+        "num": 4,
+        "clue": "Photo ___ (publicity events)",
+        "answer": "OPS",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "One of two often sold in a box",
+        "answer": "SHOE",
+        "row": 1,
+        "col": 0
       }
     ]
   }
