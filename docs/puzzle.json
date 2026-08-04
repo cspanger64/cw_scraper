@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "P",
-      "Y",
+      "G",
       "R",
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "A",
+      "U",
+      "D",
+      "I",
       "O"
     ],
     [
-      "S",
+      "F",
       "L",
+      "I",
       "E",
-      "E",
-      "P"
-    ],
-    [
-      "H",
-      "A",
-      "L",
-      "L",
       "S"
     ],
     [
-      "O",
-      "I",
-      "L",
-      "Y",
-      null
+      "F",
+      "E",
+      "N",
+      "C",
+      "E"
     ],
     [
       "E",
-      "T",
-      "S",
-      null,
-      null
+      "D",
+      "G",
+      "E",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Fire enthusiast, slangily",
-        "answer": "PYRO",
+        "clue": "Put in persistent hard work",
+        "answer": "GRIND",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Q: Why did the farmer ___ under his tractor?",
-        "answer": "SLEEP",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Many buildings on campus",
-        "answer": "HALLS",
-        "row": 2,
+        "clue": "The “A” of A/V",
+        "answer": "AUDIO",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "A: So he could wake up ___ in the morning!",
-        "answer": "OILY",
-        "row": 3,
+        "clue": "Buzzers by the trash",
+        "answer": "FLIES",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Aliens, for short",
-        "answer": "ETS",
+        "clue": "What was always seen blocking Wilson’s face, on “Home Improvement",
+        "answer": "FENCE",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Outer boundaries",
+        "answer": "EDGES",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Braid, to a Brit",
-        "answer": "PLAIT",
+        "clue": "Politician’s stumble",
+        "answer": "GAFFE",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Was totally awesome",
+        "answer": "RULED",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Hollers",
-        "answer": "YELLS",
+        "num": 3,
+        "clue": "What bar bouncers spend all night doing",
+        "answer": "IDING",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Depend (on)",
-        "answer": "RELY",
+        "num": 4,
+        "clue": "Nephew’s sister",
+        "answer": "NIECE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Photo ___ (publicity events)",
-        "answer": "OPS",
+        "num": 5,
+        "clue": "Units of a vaccine",
+        "answer": "DOSES",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "One of two often sold in a box",
-        "answer": "SHOE",
-        "row": 1,
-        "col": 0
       }
     ]
   }
