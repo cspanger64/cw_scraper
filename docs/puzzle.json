@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "G",
+      null,
+      "W",
+      "H",
+      "E",
+      "T"
+    ],
+    [
+      "W",
+      "H",
+      "E",
       "R",
-      "I",
-      "N",
-      "D"
-    ],
-    [
-      "A",
-      "U",
-      "D",
-      "I",
-      "O"
-    ],
-    [
-      "F",
-      "L",
-      "I",
-      "E",
-      "S"
-    ],
-    [
-      "F",
-      "E",
-      "N",
-      "C",
       "E"
     ],
     [
+      "W",
       "E",
+      "I",
+      "R",
+      "D"
+    ],
+    [
+      "W",
+      "A",
       "D",
-      "G",
       "E",
-      "S"
+      "D"
+    ],
+    [
+      null,
+      "T",
+      "I",
+      "D",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Put in persistent hard work",
-        "answer": "GRIND",
+        "clue": "Stimulate, as the appetite",
+        "answer": "WHET",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "The “A” of A/V",
-        "answer": "AUDIO",
+        "num": 5,
+        "clue": "___ did the time go?",
+        "answer": "WHERE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Buzzers by the trash",
-        "answer": "FLIES",
+        "num": 6,
+        "clue": "Hmm, strange …",
+        "answer": "WEIRD",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "What was always seen blocking Wilson’s face, on “Home Improvement",
-        "answer": "FENCE",
+        "num": 7,
+        "clue": "Walked through water",
+        "answer": "WADED",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Outer boundaries",
-        "answer": "EDGES",
+        "num": 8,
+        "clue": "Neat and orderly",
+        "answer": "TIDY",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Politician’s stumble",
-        "answer": "GAFFE",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Was totally awesome",
-        "answer": "RULED",
+        "clue": "Crop on the South Dakota state quarter",
+        "answer": "WHEAT",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "What bar bouncers spend all night doing",
-        "answer": "IDING",
+        "num": 2,
+        "clue": "Saturday Night Live” alum Gardner",
+        "answer": "HEIDI",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Nephew’s sister",
-        "answer": "NIECE",
+        "num": 3,
+        "clue": "Made a mistake",
+        "answer": "ERRED",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Units of a vaccine",
-        "answer": "DOSES",
+        "num": 4,
+        "clue": "Child’s bear",
+        "answer": "TEDDY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Repeated letters in a U.R.L. address",
+        "answer": "WWW",
+        "row": 1,
+        "col": 0
       }
     ]
   }
