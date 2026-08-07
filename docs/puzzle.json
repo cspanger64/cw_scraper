@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "W",
-      "H",
-      "E",
-      "T"
+      "M",
+      "A",
+      "C",
+      null
     ],
     [
-      "W",
-      "H",
-      "E",
+      "C",
+      "O",
+      "L",
+      "O",
+      "R"
+    ],
+    [
+      "A",
       "R",
+      "G",
+      "U",
       "E"
     ],
     [
-      "W",
-      "E",
-      "I",
-      "R",
-      "D"
-    ],
-    [
-      "W",
+      "B",
+      "O",
       "A",
-      "D",
-      "E",
+      "R",
       "D"
     ],
     [
       null,
+      "N",
+      "E",
       "T",
-      "I",
-      "D",
-      "Y"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Stimulate, as the appetite",
-        "answer": "WHET",
+        "clue": "Apple computer",
+        "answer": "MAC",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "___ did the time go?",
-        "answer": "WHERE",
+        "num": 4,
+        "clue": "What the Kansas scenes lack that the Oz scenes do not, in “The Wizard of Oz",
+        "answer": "COLOR",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Hmm, strange …",
-        "answer": "WEIRD",
+        "clue": "Quarrel (with)",
+        "answer": "ARGUE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Walked through water",
-        "answer": "WADED",
+        "clue": "Get on an airplane",
+        "answer": "BOARD",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Neat and orderly",
-        "answer": "TIDY",
+        "clue": "Nothing but ___!",
+        "answer": "NET",
         "row": 4,
         "col": 1
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Crop on the South Dakota state quarter",
-        "answer": "WHEAT",
+        "clue": "Nincompoop",
+        "answer": "MORON",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Saturday Night Live” alum Gardner",
-        "answer": "HEIDI",
+        "clue": "Bottom of the aquatic food chain",
+        "answer": "ALGAE",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Made a mistake",
-        "answer": "ERRED",
+        "clue": "Pickleball venue",
+        "answer": "COURT",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Child’s bear",
-        "answer": "TEDDY",
-        "row": 0,
-        "col": 4
+        "clue": "Yellow symbol of N.Y.C.",
+        "answer": "CAB",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Repeated letters in a U.R.L. address",
-        "answer": "WWW",
+        "clue": "Like the logos of Stanford and Harvard",
+        "answer": "RED",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
