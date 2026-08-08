@@ -1,42 +1,70 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
-      "M",
+      null,
+      "S",
+      "T",
       "A",
-      "C",
-      null
-    ],
-    [
-      "C",
-      "O",
-      "L",
-      "O",
-      "R"
-    ],
-    [
-      "A",
-      "R",
-      "G",
-      "U",
-      "E"
-    ],
-    [
-      "B",
-      "O",
-      "A",
-      "R",
-      "D"
+      "F",
+      "F"
     ],
     [
       null,
-      "N",
+      "M",
+      "A",
+      "R",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "P",
       "E",
+      "L",
+      "I",
+      "C",
+      "A",
+      "N"
+    ],
+    [
+      "O",
+      "A",
       "T",
+      null,
+      "B",
+      "U",
+      "D"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "S",
+      "O",
+      "N",
+      null
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "P",
+      "O",
+      "T",
+      null
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "A",
+      "K",
+      null,
       null
     ]
   ],
@@ -44,75 +72,117 @@
     "across": [
       {
         "num": 1,
-        "clue": "Apple computer",
-        "answer": "MAC",
+        "clue": "Five lines on sheet music",
+        "answer": "STAFF",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "What the Kansas scenes lack that the Oz scenes do not, in “The Wizard of Oz",
-        "answer": "COLOR",
-        "row": 1,
-        "col": 0
+        "col": 2
       },
       {
         "num": 6,
-        "clue": "Quarrel (with)",
-        "answer": "ARGUE",
+        "clue": "Material for the Venus de Milo and Michelangelo’s David",
+        "answer": "MARBLE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Bird that helps to rescue Nemo in “Finding Nemo",
+        "answer": "PELICAN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Get on an airplane",
-        "answer": "BOARD",
+        "num": 8,
+        "clue": "___ milk",
+        "answer": "OAT",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Nothing but ___!",
-        "answer": "NET",
+        "num": 9,
+        "clue": "Pal",
+        "answer": "BUD",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Collective way of singing",
+        "answer": "UNISON",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Metal container that’s a synonym for “insignificant",
+        "answer": "TINPOT",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Rare” order at a restaurant",
+        "answer": "STEAK",
+        "row": 6,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Nincompoop",
-        "answer": "MORON",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Bottom of the aquatic food chain",
-        "answer": "ALGAE",
+        "clue": "Square cracker",
+        "answer": "SALTINE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Pickleball venue",
-        "answer": "COURT",
+        "num": 2,
+        "clue": "Three: Prefix",
+        "answer": "TRI",
         "row": 0,
         "col": 3
       },
       {
+        "num": 3,
+        "clue": "What often starts with an apple and ends with a zebra",
+        "answer": "ABCBOOK",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 4,
-        "clue": "Yellow symbol of N.Y.C.",
-        "answer": "CAB",
-        "row": 1,
-        "col": 0
+        "clue": "Show off",
+        "answer": "FLAUNT",
+        "row": 0,
+        "col": 5
       },
       {
         "num": 5,
-        "clue": "Like the logos of Stanford and Harvard",
-        "answer": "RED",
+        "clue": "Ward (off)",
+        "answer": "FEND",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "Be sincere",
+        "answer": "MEANIT",
         "row": 1,
-        "col": 4
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Throws a hissy-fit",
+        "answer": "POUTS",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Destination for a mother-daughter day, perhaps",
+        "answer": "SPA",
+        "row": 4,
+        "col": 3
       }
     ]
   }
