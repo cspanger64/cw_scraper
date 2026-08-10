@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "S",
-      "M",
-      "U",
-      "S",
-      "H"
+      null,
+      null,
+      "T",
+      "A",
+      "P"
     ],
     [
       "H",
-      "I",
-      "P",
-      "P",
+      "O",
+      "W",
+      "T",
       "O"
     ],
     [
-      "U",
+      "O",
       "N",
-      "T",
       "I",
-      "L"
+      "O",
+      "N"
     ],
     [
       "S",
-      "T",
-      "O",
-      "K",
-      "E"
+      "U",
+      "N",
+      "N",
+      "Y"
     ],
     [
-      "H",
-      "Y",
-      "P",
       "E",
-      "D"
+      "S",
+      "S",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Flatten, informally",
-        "answer": "SMUSH",
+        "clue": "___ to pay (modern prompt)",
+        "answer": "TAP",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 6,
-        "clue": "African mammal that can weigh up to 10,000 pounds",
-        "answer": "HIPPO",
+        "num": 4,
+        "clue": "Helpful book genre",
+        "answer": "HOWTO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "___ next time!",
-        "answer": "UNTIL",
+        "num": 6,
+        "clue": "Source of the headline “Study: Dolphins Not So Intelligent on Land,” with “The",
+        "answer": "ONION",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Add fuel to, as a fire",
-        "answer": "STOKE",
+        "num": 7,
+        "clue": "Summer forecast",
+        "answer": "SUNNY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Really talked (up)",
-        "answer": "HYPED",
+        "num": 8,
+        "clue": "Curvy shape",
+        "answer": "ESS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Quiet!",
-        "answer": "SHUSH",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Like many green mouthwashes",
-        "answer": "MINTY",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Request that precedes “down low … too slow!",
-        "answer": "UPTOP",
+        "clue": "The sisters on “Sister, Sister” or the brothers on “Property Brothers",
+        "answer": "TWINS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Powerful volleyball hit",
-        "answer": "SPIKE",
+        "num": 2,
+        "clue": "Lots and lots",
+        "answer": "ATON",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Sank, as a putt",
-        "answer": "HOLED",
+        "num": 3,
+        "clue": "Pay (up)",
+        "answer": "PONY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Fire truck attachment",
+        "answer": "HOSE",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Heavy burden",
+        "answer": "ONUS",
+        "row": 1,
+        "col": 1
       }
     ]
   }
