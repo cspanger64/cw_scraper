@@ -3,25 +3,74 @@
 /* ====== Timer ====== */
 let timerInterval;
 let startTime;
+let elapsedBeforePause = 0;
 let timerRunning = false;
+let paused = false;
 
 function startTimer() {
   clearInterval(timerInterval);
   startTime = Date.now();
+  elapsedBeforePause = 0;
   timerRunning = true;
+  paused = false;
   updateTimerDisplay();
   timerInterval = setInterval(updateTimerDisplay, 1000);
+  updatePauseBtn();
 }
 function updateTimerDisplay() {
-  const elapsed = Date.now() - startTime;
+  const elapsed = elapsedBeforePause + (paused || !timerRunning ? 0 : Date.now() - startTime);
   const minutes = Math.floor(elapsed / 60000);
   const seconds = Math.floor((elapsed % 60000) / 1000);
   const el = document.getElementById("timer");
   if (el) el.textContent = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
 }
+function pauseTimer() {
+  if (paused || !timerRunning) return;
+  elapsedBeforePause += Date.now() - startTime;
+  paused = true;
+  clearInterval(timerInterval);
+  updateTimerDisplay();
+  updatePauseBtn();
+  showPauseOverlay(true);
+}
+function resumeTimer() {
+  if (!paused) return;
+  startTime = Date.now();
+  paused = false;
+  timerInterval = setInterval(updateTimerDisplay, 1000);
+  updatePauseBtn();
+  showPauseOverlay(false);
+}
+function togglePause() {
+  if (paused) resumeTimer(); else pauseTimer();
+}
+function updatePauseBtn() {
+  const btn = document.getElementById('pause-btn');
+  if (btn) btn.textContent = paused ? 'Resume' : 'Pause';
+}
 function stopTimer() {
   clearInterval(timerInterval);
   timerRunning = false;
+}
+
+/* Covers the grid with a "Paused" overlay and blocks input while paused --
+   built dynamically so no HTML changes are needed. */
+let pauseOverlayEl = null;
+function showPauseOverlay(show) {
+  const wrap = document.getElementById('grid-wrap');
+  if (!wrap) return;
+  if (show) {
+    if (!pauseOverlayEl) {
+      pauseOverlayEl = document.createElement('div');
+      pauseOverlayEl.id = 'pause-overlay';
+      pauseOverlayEl.textContent = 'Paused -- tap to resume';
+      pauseOverlayEl.addEventListener('click', () => resumeTimer());
+    }
+    wrap.style.position = wrap.style.position || 'relative';
+    wrap.appendChild(pauseOverlayEl);
+  } else if (pauseOverlayEl && pauseOverlayEl.parentNode) {
+    pauseOverlayEl.parentNode.removeChild(pauseOverlayEl);
+  }
 }
 
 /* ====== Load puzzle ====== */
@@ -177,6 +226,7 @@ function buildUI(puzzle) {
   }
 
   function onCellClick(r, c) {
+    if (paused) return;
     const key = coordsKey(r, c);
     if (lastClicked === key) {
       active.dir = active.dir === 'across' ? 'down' : 'across';
@@ -262,6 +312,7 @@ function buildUI(puzzle) {
   }
 
   function cycleClue(delta) {
+    if (paused) return;
     if (!allSlots.length) return;
     const curSlot = (active.dir === 'across' ? slotsA : slotsD)[active.index];
     const curCombinedIdx = allSlots.findIndex(s => s.dir === active.dir && s.num === curSlot?.num);
@@ -290,9 +341,21 @@ function buildUI(puzzle) {
     const slot = slots[active.index];
     if (!slot) return;
     const idx = slot.coords.findIndex(([rr, cc]) => rr === r && cc === c);
-    if (idx >= 0 && idx < slot.coords.length - 1) {
-      move(...slot.coords[idx + 1]);
-    } else if (idx === slot.coords.length - 1) {
+    if (idx < 0) return;
+
+    // Skip forward over cells that already have a letter (e.g. filled in
+    // from the crossing word), landing on the next empty one instead.
+    let nextIdx = idx + 1;
+    while (nextIdx < slot.coords.length) {
+      const [nr, nc] = slot.coords[nextIdx];
+      const entry = cells.get(coordsKey(nr, nc));
+      if (!entry.value) break;
+      nextIdx++;
+    }
+
+    if (nextIdx < slot.coords.length) {
+      move(...slot.coords[nextIdx]);
+    } else {
       if (active.dir === 'across') {
         if (active.index < slotsA.length - 1) setActive('across', active.index + 1);
         else if (slotsD.length > 0) setActive('down', 0);
@@ -325,12 +388,14 @@ function buildUI(puzzle) {
      BOTH the physical keyboard and the on-screen keyboard, so nothing
      double-fires. ---- */
   function typeLetter(ch) {
+    if (paused) return;
     if (!activeCellKey) return;
     setCellValue(activeCellKey, ch);
     moveNext();
     autoCheck();
   }
   function doBackspace() {
+    if (paused) return;
     if (!activeCellKey) return;
     const entry = cells.get(activeCellKey);
     if (entry && entry.value) {
@@ -361,10 +426,7 @@ function buildUI(puzzle) {
           setTimeout(() => alert(`All correct!\nTime: ${finalTime}`), 40);
         }
       } else {
-        if (!alreadyShownIncorrect) {
-          alreadyShownIncorrect = true;
-          setTimeout(() => alert('Sorry, something is still wrong.'), 40);
-        }
+        alreadyShownIncorrect = true;
         for (const [key, entry] of cells.entries()) {
           const [r, c] = key.split(',').map(Number);
           const want = (grid[r][c] || '').toUpperCase();
@@ -382,6 +444,7 @@ function buildUI(puzzle) {
 
   /* ---- Check / Reveal / Clear ---- */
   document.getElementById('check').onclick = () => {
+    if (paused) return;
     const slots = active.dir === 'across' ? slotsA : slotsD;
     const slot = slots[active.index];
     if (!slot) return;
@@ -399,11 +462,15 @@ function buildUI(puzzle) {
   };
 
   document.getElementById('reveal').onclick = () => {
-    for (const [key, entry] of cells.entries()) {
-      const [r, c] = key.split(',').map(Number);
-      setCellValue(key, grid[r][c] || '');
+    if (paused) return;
+    const slots = active.dir === 'across' ? slotsA : slotsD;
+    const slot = slots[active.index];
+    if (!slot) return;
+    for (const [r, c] of slot.coords) {
+      setCellValue(coordsKey(r, c), grid[r][c] || '');
     }
     autoCheck();
+    moveNext();
   };
 
   document.getElementById('clear').onclick = () => {
@@ -411,8 +478,8 @@ function buildUI(puzzle) {
     solved = false; alreadyShownIncorrect = false;
   };
 
-  const startBtn = document.getElementById('start-btn');
-  if (startBtn) startBtn.onclick = () => startTimer();
+  const pauseBtn = document.getElementById('pause-btn');
+  if (pauseBtn) pauseBtn.onclick = () => togglePause();
 
   if (slotsA.length > 0) { active.dir = 'across'; setActive('across', 0); }
 

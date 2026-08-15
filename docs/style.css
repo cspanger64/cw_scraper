@@ -4,7 +4,7 @@
   --bg: #f7f7f9;
   --fg: #222;
   --accent: #0a66ff;
-  --clue-bar-bg: #ff0000;  /* softer/lighter blue than --accent, just for the clue bar */
+  --clue-bar-bg: #5b9df0;  /* softer/lighter blue than --accent, just for the clue bar */
   --muted: #888;
   --ok: #2e7d32;
   --bad: #c62828;
@@ -257,4 +257,21 @@ body.touch #keyboard-wrap {
   header { padding: 10px; }
   header h1 { font-size: 16px; }
   #keyboard-wrap { padding: 8px 6px 12px; }
+}
+
+/* Pause overlay -- covers the grid, blocks the view of letters while paused */
+#pause-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(255,255,255,0.92);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--fg);
+  cursor: pointer;
+  z-index: 10;
+  border-radius: inherit;
 }
