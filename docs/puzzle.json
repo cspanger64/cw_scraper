@@ -1,118 +1,174 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      null,
-      null,
-      "T",
-      "A",
-      "P"
-    ],
-    [
-      "H",
+      "C",
       "O",
-      "W",
-      "T",
-      "O"
-    ],
-    [
       "O",
-      "N",
-      "I",
-      "O",
-      "N"
-    ],
-    [
-      "S",
-      "U",
-      "N",
-      "N",
-      "Y"
-    ],
-    [
-      "E",
-      "S",
+      "P",
       "S",
       null,
       null
+    ],
+    [
+      "O",
+      "H",
+      "W",
+      "O",
+      "W",
+      null,
+      null
+    ],
+    [
+      "R",
+      "I",
+      "N",
+      "S",
+      "E",
+      null,
+      null
+    ],
+    [
+      "D",
+      "O",
+      "G",
+      "T",
+      "A",
+      "G",
+      "S"
+    ],
+    [
+      null,
+      null,
+      "O",
+      "U",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      null,
+      null,
+      "A",
+      "R",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      null,
+      null,
+      "L",
+      "E",
+      "T",
+      "B",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ to pay (modern prompt)",
-        "answer": "TAP",
+        "clue": "Stores owned and run by their workers",
+        "answer": "COOPS",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Helpful book genre",
-        "answer": "HOWTO",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Source of the headline “Study: Dolphins Not So Intelligent on Land,” with “The",
-        "answer": "ONION",
-        "row": 2,
+        "clue": "“Huh, wasn’t expecting that!”",
+        "answer": "OHWOW",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Summer forecast",
-        "answer": "SUNNY",
-        "row": 3,
+        "clue": "Run under a faucet",
+        "answer": "RINSE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Curvy shape",
-        "answer": "ESS",
-        "row": 4,
+        "clue": "Metal identifiers in the military",
+        "answer": "DOGTAGS",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Bit of music that plays as a podcast ends",
+        "answer": "OUTRO",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 12,
+        "clue": "Font similar to Helvetica",
+        "answer": "ARIAL",
+        "row": 5,
+        "col": 2
+      },
+      {
+        "num": 13,
+        "clue": "Leave alone",
+        "answer": "LETBE",
+        "row": 6,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "The sisters on “Sister, Sister” or the brothers on “Property Brothers",
-        "answer": "TWINS",
+        "clue": "Cut the ___ (cancel cable)",
+        "answer": "CORD",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Dayton’s state",
+        "answer": "OHIO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Game-changing mistake for a World Cup defender",
+        "answer": "OWNGOAL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Lots and lots",
-        "answer": "ATON",
+        "num": 4,
+        "clue": "Slouching is a bad form of this",
+        "answer": "POSTURE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Pay (up)",
-        "answer": "PONY",
+        "num": 5,
+        "clue": "Worry about the small stuff",
+        "answer": "SWEATIT",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Fire truck attachment",
-        "answer": "HOSE",
-        "row": 1,
-        "col": 0
+        "num": 9,
+        "clue": "Snatch",
+        "answer": "GRAB",
+        "row": 3,
+        "col": 5
       },
       {
-        "num": 5,
-        "clue": "Heavy burden",
-        "answer": "ONUS",
-        "row": 1,
-        "col": 1
+        "num": 10,
+        "clue": "___ Survivor, title for each winner of “Survivor”",
+        "answer": "SOLE",
+        "row": 3,
+        "col": 6
       }
     ]
   }
