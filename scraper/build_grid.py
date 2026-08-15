@@ -1,17 +1,10 @@
 """
 Reconstructs a crossword grid (which cells are black, which letters go where)
 purely from the clue numbers, directions, and answers -- no image needed.
-
-This works because standard crossword numbering is deterministic: cells are
-numbered in reading order (left-to-right, top-to-bottom), and a cell gets a
-number if and only if it starts an across entry and/or a down entry. Given
-the full ordered list of across/down (number, answer) pairs, there's exactly
-one grid layout (for a given size) consistent with that numbering -- so we
-can search for it.
 """
 from typing import List, Dict, Optional, Tuple
 
-State = Optional[Tuple[str, int]]  # (letters, index_of_next_letter_to_place) or None
+State = Optional[Tuple[str, int]]
 
 
 def _try_size(rows: int, cols: int, across: List[Dict], down: List[Dict]) -> Optional[List[List[Optional[str]]]]:
@@ -37,7 +30,6 @@ def _try_size(rows: int, cols: int, across: List[Dict], down: List[Dict]) -> Opt
 
         for white in choices:
             if not white:
-                # BLACK: only reachable when neither word is active here
                 if solve(r, c + 1, ai, di, number, None):
                     return True
                 continue
@@ -45,7 +37,6 @@ def _try_size(rows: int, cols: int, across: List[Dict], down: List[Dict]) -> Opt
             new_ai, new_di, new_number = ai, di, number
             started_across = started_down = False
 
-            # --- across letter for this cell ---
             if across_active:
                 a_letters, a_idx = row_across
                 letter_a = a_letters[a_idx]
@@ -61,7 +52,6 @@ def _try_size(rows: int, cols: int, across: List[Dict], down: List[Dict]) -> Opt
                 next_across_state = (a_letters, 1) if len(a_letters) > 1 else None
                 started_across = True
 
-            # --- down letter for this cell ---
             if down_active:
                 d_letters, d_idx = down_col[c]
                 letter_d = d_letters[d_idx]
@@ -92,7 +82,6 @@ def _try_size(rows: int, cols: int, across: List[Dict], down: List[Dict]) -> Opt
                 if down[di]["num"] != number:
                     continue
                 new_di, new_number = di + 1, number + 1
-            # else: continuing both, no new number
 
             grid[r][c] = letter_a
             saved_down_col_c = down_col[c]
@@ -112,18 +101,6 @@ def _try_size(rows: int, cols: int, across: List[Dict], down: List[Dict]) -> Opt
 
 
 def build_grid(across: List[Dict], down: List[Dict], max_dim: int = 9) -> Tuple[int, int, List[List[Optional[str]]]]:
-    """
-    across, down: lists of {"num": int, "answer": str} (answer = letters only,
-    no spaces -- strip spaces from multi-word answers before calling this).
-    Returns (rows, cols, grid) where grid[r][c] is an uppercase letter or None.
-
-    Does not assume a square grid (a plain 5x5/7x7 guess would miss the rare
-    non-square Mini). Instead, bounds the search using the actual clue data:
-    the longest across answer is a hard lower bound on the column count, and
-    the longest down answer is a hard lower bound on the row count. Sizes are
-    tried smallest-first, since the Mini is virtually always as small as the
-    clues allow.
-    """
     across = sorted(across, key=lambda x: x["num"])
     down = sorted(down, key=lambda x: x["num"])
 
@@ -136,7 +113,7 @@ def build_grid(across: List[Dict], down: List[Dict], max_dim: int = 9) -> Tuple[
             for r in range(min_rows, max_dim + 1)
             for c in range(min_cols, max_dim + 1)
         ),
-        key=lambda rc: (rc[0] * rc[1], abs(rc[0] - rc[1])),  # smallest area first, squarest first
+        key=lambda rc: (rc[0] * rc[1], abs(rc[0] - rc[1])),
     )
 
     for rows, cols in candidates:

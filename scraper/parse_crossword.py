@@ -1,4 +1,3 @@
-# scraper/parse_crossword.py
 import re
 from typing import List, Dict
 
@@ -9,14 +8,6 @@ except ImportError:
 
 
 def parse_crossword(clues: List[Dict]) -> dict:
-    """
-    Builds the full puzzle JSON (size, grid, clues w/ row+col) purely from
-    scraped clue/answer text -- no image or AI call needed. Grid layout is
-    reconstructed deterministically from clue numbers + answer lengths via
-    build_grid().
-
-    clues: list of {"position": "1A"/"6D", "clue": str, "answer": str}
-    """
     across_raw, down_raw = [], []
     for c in clues:
         m = re.match(r"^(\d+)([AD])$", c["position"])
@@ -33,8 +24,6 @@ def parse_crossword(clues: List[Dict]) -> dict:
         [{"num": e["num"], "answer": e["answer"]} for e in down_raw],
     )
 
-    # Re-derive each clue number's (row, col) start position by scanning the
-    # reconstructed grid using the same standard numbering rule build_grid used.
     number_positions = {}
     number = 1
     for r in range(rows):
