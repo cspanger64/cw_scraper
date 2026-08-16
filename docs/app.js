@@ -426,15 +426,13 @@ function buildUI(puzzle) {
           setTimeout(() => alert(`All correct!\nTime: ${finalTime}`), 40);
         }
       } else {
-        alreadyShownIncorrect = true;
-        for (const [key, entry] of cells.entries()) {
-          const [r, c] = key.split(',').map(Number);
-          const want = (grid[r][c] || '').toUpperCase();
-          const got = (entry.value || '').toUpperCase();
-          entry.el.classList.remove('correct', 'incorrect');
-          if (got && got !== want) entry.el.classList.add('incorrect');
-          else if (got && got === want) entry.el.classList.add('correct');
+        if (!alreadyShownIncorrect) {
+          alreadyShownIncorrect = true;
+          setTimeout(() => alert('Something is still wrong.'), 40);
         }
+        // Deliberately no red/green coloring here -- that would give away
+        // exactly which letters are wrong. Only the Check button (scoped
+        // to the selected word) is allowed to reveal that.
       }
     } else {
       alreadyShownIncorrect = false;
