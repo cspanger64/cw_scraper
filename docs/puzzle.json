@@ -1,70 +1,42 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "C",
-      "O",
-      "O",
-      "P",
-      "S",
       null,
-      null
-    ],
-    [
-      "O",
-      "H",
-      "W",
-      "O",
-      "W",
-      null,
-      null
-    ],
-    [
-      "R",
-      "I",
-      "N",
-      "S",
       "E",
-      null,
-      null
-    ],
-    [
-      "D",
-      "O",
       "G",
-      "T",
-      "A",
       "G",
       "S"
     ],
     [
-      null,
-      null,
-      "O",
+      "S",
+      "Q",
       "U",
-      "T",
-      "R",
-      "O"
+      "A",
+      "T"
     ],
     [
-      null,
-      null,
+      "P",
+      "U",
+      "T",
+      "T",
+      "Y"
+    ],
+    [
+      "E",
       "A",
-      "R",
-      "I",
-      "A",
+      "S",
+      "E",
       "L"
     ],
     [
-      null,
-      null,
+      "C",
       "L",
-      "E",
-      "T",
-      "B",
+      "Y",
+      "D",
       "E"
     ]
   ],
@@ -72,103 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Stores owned and run by their workers",
-        "answer": "COOPS",
+        "clue": "Brownie ingredients",
+        "answer": "EGGS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "“Huh, wasn’t expecting that!”",
-        "answer": "OHWOW",
+        "num": 5,
+        "clue": "Gym rep on leg day",
+        "answer": "SQUAT",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Run under a faucet",
-        "answer": "RINSE",
+        "num": 6,
+        "clue": "“Silly” stuff",
+        "answer": "PUTTY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Metal identifiers in the military",
-        "answer": "DOGTAGS",
+        "num": 7,
+        "clue": "Stand for a painter",
+        "answer": "EASEL",
         "row": 3,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Bit of music that plays as a podcast ends",
-        "answer": "OUTRO",
+        "num": 8,
+        "clue": "Bonnie and ___, classic crime couple",
+        "answer": "CLYDE",
         "row": 4,
-        "col": 2
-      },
-      {
-        "num": 12,
-        "clue": "Font similar to Helvetica",
-        "answer": "ARIAL",
-        "row": 5,
-        "col": 2
-      },
-      {
-        "num": 13,
-        "clue": "Leave alone",
-        "answer": "LETBE",
-        "row": 6,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Cut the ___ (cancel cable)",
-        "answer": "CORD",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Dayton’s state",
-        "answer": "OHIO",
+        "clue": "=",
+        "answer": "EQUAL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Game-changing mistake for a World Cup defender",
-        "answer": "OWNGOAL",
+        "num": 2,
+        "clue": "Courageous",
+        "answer": "GUTSY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Slouching is a bad form of this",
-        "answer": "POSTURE",
+        "num": 3,
+        "clue": "Fenced in, as a private community",
+        "answer": "GATED",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Worry about the small stuff",
-        "answer": "SWEATIT",
+        "num": 4,
+        "clue": "What “each of us already has, all we need to do is find it,” per Diane von Furstenberg",
+        "answer": "STYLE",
         "row": 0,
         "col": 4
       },
       {
-        "num": 9,
-        "clue": "Snatch",
-        "answer": "GRAB",
-        "row": 3,
-        "col": 5
-      },
-      {
-        "num": 10,
-        "clue": "___ Survivor, title for each winner of “Survivor”",
-        "answer": "SOLE",
-        "row": 3,
-        "col": 6
+        "num": 5,
+        "clue": "Contractor’s detail, for short",
+        "answer": "SPEC",
+        "row": 1,
+        "col": 0
       }
     ]
   }
