@@ -18,6 +18,16 @@ HEADERS = {
                   "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://www.google.com/",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+    "sec-ch-ua": '"Chromium";v="126", "Not.A/Brand";v="24", "Google Chrome";v="126"',
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": '"Windows"',
 }
 
 POS_RE = re.compile(r"^(\d+)([AD])$")
@@ -64,7 +74,10 @@ def _extract_answer(text: str):
 
 
 def fetch_crossword(url: str) -> Dict:
-    resp = requests.get(url, headers=HEADERS, timeout=15)
+    session = requests.Session()
+    session.headers.update(HEADERS)
+
+    resp = session.get(url, timeout=15)
     print(f"[i] GET {url} -> status {resp.status_code}, {len(resp.text)} bytes", flush=True)
     resp.raise_for_status()
 
@@ -80,7 +93,7 @@ def fetch_crossword(url: str) -> Dict:
     clues = []
     for stub in clue_stubs:
         try:
-            r2 = requests.get(stub["url"], headers=HEADERS, timeout=15)
+            r2 = session.get(stub["url"], timeout=15)
             r2.raise_for_status()
             page_text = BeautifulSoup(r2.text, "html.parser").get_text(" ")
             answer = _extract_answer(page_text)
