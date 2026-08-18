@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "E",
-      "G",
-      "G",
-      "S"
-    ],
-    [
       "S",
-      "Q",
-      "U",
-      "A",
-      "T"
+      "P",
+      "O",
+      "O",
+      "N"
     ],
     [
       "P",
+      "L",
       "U",
       "T",
-      "T",
-      "Y"
+      "O"
     ],
     [
-      "E",
+      "L",
       "A",
-      "S",
+      "T",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "T",
       "E",
       "L"
     ],
     [
-      "C",
-      "L",
-      "Y",
-      "D",
-      "E"
+      "T",
+      "E",
+      "A",
+      "R",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Brownie ingredients",
-        "answer": "EGGS",
+        "clue": "Big ___ (cuddling partner)",
+        "answer": "SPOON",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Gym rep on leg day",
-        "answer": "SQUAT",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "“Silly” stuff",
-        "answer": "PUTTY",
-        "row": 2,
+        "clue": "Mickey Mouse’s pet dog",
+        "answer": "PLUTO",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Stand for a painter",
-        "answer": "EASEL",
-        "row": 3,
+        "clue": "Foamy coffee order",
+        "answer": "LATTE",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Bonnie and ___, classic crime couple",
-        "answer": "CLYDE",
+        "clue": "Inside information, informally",
+        "answer": "INTEL",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Blue streams down a yellow emoji’s face",
+        "answer": "TEARS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "=",
-        "answer": "EQUAL",
+        "clue": "Divide, as the check",
+        "answer": "SPLIT",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "It comes with wings on the side",
+        "answer": "PLANE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Courageous",
-        "answer": "GUTSY",
+        "num": 3,
+        "clue": "“Get ___ town!”",
+        "answer": "OUTTA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Fenced in, as a private community",
-        "answer": "GATED",
+        "num": 4,
+        "clue": "Furry animal seen swimming around a kelp forest",
+        "answer": "OTTER",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "What “each of us already has, all we need to do is find it,” per Diane von Furstenberg",
-        "answer": "STYLE",
+        "num": 5,
+        "clue": "Christmas carols",
+        "answer": "NOELS",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Contractor’s detail, for short",
-        "answer": "SPEC",
-        "row": 1,
-        "col": 0
       }
     ]
   }
