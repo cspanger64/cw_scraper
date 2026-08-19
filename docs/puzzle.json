@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "S",
-      "P",
-      "O",
-      "O",
-      "N"
-    ],
-    [
-      "P",
-      "L",
+      null,
+      "D",
+      "R",
       "U",
-      "T",
-      "O"
+      "M"
     ],
     [
-      "L",
-      "A",
-      "T",
-      "T",
+      "B",
+      "R",
+      "I",
+      "N",
       "E"
     ],
     [
+      "L",
       "I",
-      "N",
+      "F",
       "T",
-      "E",
-      "L"
+      "S"
     ],
     [
-      "T",
-      "E",
       "A",
-      "R",
+      "L",
+      "T",
+      "O",
       "S"
+    ],
+    [
+      "M",
+      "L",
+      "S",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Big ___ (cuddling partner)",
-        "answer": "SPOON",
+        "clue": "Instrument with an iconic solo in Phil Collins’s “In the Air Tonight”",
+        "answer": "DRUM",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Mickey Mouse’s pet dog",
-        "answer": "PLUTO",
+        "num": 5,
+        "clue": "It’s in a pickle",
+        "answer": "BRINE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Foamy coffee order",
-        "answer": "LATTE",
+        "num": 6,
+        "clue": "Elevators, in British English",
+        "answer": "LIFTS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Inside information, informally",
-        "answer": "INTEL",
+        "num": 7,
+        "clue": "Certain choir voices",
+        "answer": "ALTOS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Blue streams down a yellow emoji’s face",
-        "answer": "TEARS",
+        "num": 8,
+        "clue": "Sports org. for the Chicago Fire and New York Red Bulls: Abbr.",
+        "answer": "MLS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Divide, as the check",
-        "answer": "SPLIT",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "It comes with wings on the side",
-        "answer": "PLANE",
+        "clue": "Carpentry tool",
+        "answer": "DRILL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "“Get ___ town!”",
-        "answer": "OUTTA",
+        "num": 2,
+        "clue": "Personal fallouts",
+        "answer": "RIFTS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Furry animal seen swimming around a kelp forest",
-        "answer": "OTTER",
+        "num": 3,
+        "clue": "“Do ___ others …” (start of the Golden Rule)",
+        "answer": "UNTO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Christmas carols",
-        "answer": "NOELS",
+        "num": 4,
+        "clue": "Pickle",
+        "answer": "MESS",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "“Kapow!”",
+        "answer": "BLAM",
+        "row": 1,
+        "col": 0
       }
     ]
   }
