@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "D",
-      "R",
-      "U",
-      "M"
-    ],
-    [
+      "L",
+      "A",
       "B",
-      "R",
-      "I",
-      "N",
-      "E"
+      null
     ],
     [
       "L",
       "I",
-      "F",
-      "T",
+      "N",
+      "U",
       "S"
     ],
     [
       "A",
-      "L",
-      "T",
-      "O",
-      "S"
+      "G",
+      "G",
+      "R",
+      "O"
     ],
     [
-      "M",
-      "L",
       "S",
+      "H",
+      "E",
+      "L",
+      "L"
+    ],
+    [
       null,
+      "T",
+      "R",
+      "Y",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Instrument with an iconic solo in Phil Collins’s “In the Air Tonight”",
-        "answer": "DRUM",
+        "clue": "Scientist’s workplace",
+        "answer": "LAB",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "It’s in a pickle",
-        "answer": "BRINE",
+        "num": 4,
+        "clue": "Best friend of Charlie Brown",
+        "answer": "LINUS",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Elevators, in British English",
-        "answer": "LIFTS",
+        "clue": "Looking for a fight, informally",
+        "answer": "AGGRO",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Certain choir voices",
-        "answer": "ALTOS",
+        "clue": "Turtle’s hiding place",
+        "answer": "SHELL",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Sports org. for the Chicago Fire and New York Red Bulls: Abbr.",
-        "answer": "MLS",
+        "clue": "Give an effort",
+        "answer": "TRY",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Carpentry tool",
-        "answer": "DRILL",
+        "clue": "Plant food?",
+        "answer": "LIGHT",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Personal fallouts",
-        "answer": "RIFTS",
+        "clue": "“Don’t Look Back in ___” (Oasis hit)",
+        "answer": "ANGER",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "“Do ___ others …” (start of the Golden Rule)",
-        "answer": "UNTO",
+        "clue": "Large and muscular",
+        "answer": "BURLY",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Pickle",
-        "answer": "MESS",
-        "row": 0,
-        "col": 4
+        "clue": "___ Vegas",
+        "answer": "LAS",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "“Kapow!”",
-        "answer": "BLAM",
+        "clue": "Note after do, re, mi, fa …",
+        "answer": "SOL",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
