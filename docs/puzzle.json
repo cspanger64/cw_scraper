@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "L",
-      "A",
-      "B",
-      null
-    ],
-    [
-      "L",
+      "M",
       "I",
-      "N",
-      "U",
-      "S"
-    ],
-    [
-      "A",
-      "G",
-      "G",
-      "R",
-      "O"
-    ],
-    [
-      "S",
-      "H",
-      "E",
       "L",
-      "L"
+      "K"
     ],
     [
       null,
+      "A",
+      "S",
+      "I",
+      "A"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "L",
+      "Y"
+    ],
+    [
+      "A",
+      "H",
+      "I",
       "T",
-      "R",
-      "Y",
+      null
+    ],
+    [
+      "D",
+      "U",
+      "D",
+      "S",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Scientist’s workplace",
-        "answer": "LAB",
+        "clue": "With 8-Across, candy pieces that got their name after the chocolatier tried to make them perfectly round, but failed",
+        "answer": "MILK",
         "row": 0,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "Best friend of Charlie Brown",
-        "answer": "LINUS",
+        "num": 5,
+        "clue": "Home of Brunei and Bhutan",
+        "answer": "ASIA",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Looking for a fight, informally",
-        "answer": "AGGRO",
+        "clue": "Like the skin of snakes and fish",
+        "answer": "SCALY",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Turtle’s hiding place",
-        "answer": "SHELL",
+        "clue": "Take ___ (suffer financially)",
+        "answer": "AHIT",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Give an effort",
-        "answer": "TRY",
+        "clue": "See 1-Across",
+        "answer": "DUDS",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Plant food?",
-        "answer": "LIGHT",
+        "clue": "___ Picchu",
+        "answer": "MACHU",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "“Don’t Look Back in ___” (Oasis hit)",
-        "answer": "ANGER",
+        "clue": "“To repeat myself …”",
+        "answer": "ISAID",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Large and muscular",
-        "answer": "BURLY",
+        "clue": "Gentle musical melodies",
+        "answer": "LILTS",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "___ Vegas",
-        "answer": "LAS",
-        "row": 1,
-        "col": 0
+        "clue": "What “every kiss begins with,” in jewelry ads",
+        "answer": "KAY",
+        "row": 0,
+        "col": 4
       },
       {
-        "num": 5,
-        "clue": "Note after do, re, mi, fa …",
-        "answer": "SOL",
-        "row": 1,
-        "col": 4
+        "num": 6,
+        "clue": "Wearing an upside-down smile",
+        "answer": "SAD",
+        "row": 2,
+        "col": 0
       }
     ]
   }
