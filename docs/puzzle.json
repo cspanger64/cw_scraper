@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      null,
       "M",
+      "A",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "M",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "G",
+      "U",
       "I",
       "L",
-      "K"
+      "T"
     ],
     [
       null,
-      "A",
       "S",
+      "K",
       "I",
-      "A"
-    ],
-    [
-      "S",
-      "C",
-      "A",
-      "L",
-      "Y"
-    ],
-    [
-      "A",
-      "H",
-      "I",
-      "T",
       null
     ],
     [
-      "D",
-      "U",
-      "D",
-      "S",
+      null,
+      "E",
+      "Y",
+      "E",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "With 8-Across, candy pieces that got their name after the chocolatier tried to make them perfectly round, but failed",
-        "answer": "MILK",
+        "clue": "___-Dixon line",
+        "answer": "MASON",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Home of Brunei and Bhutan",
-        "answer": "ASIA",
-        "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Like the skin of snakes and fish",
-        "answer": "SCALY",
-        "row": 2,
+        "clue": "More than enough",
+        "answer": "AMPLE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Take ___ (suffer financially)",
-        "answer": "AHIT",
-        "row": 3,
+        "clue": "Obvious verdict in Shaggy’s “It Wasn’t Me”",
+        "answer": "GUILT",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "See 1-Across",
-        "answer": "DUDS",
+        "clue": "Hit the slopes",
+        "answer": "SKI",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 9,
+        "clue": "Something to “keep on the prize”",
+        "answer": "EYE",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "___ Picchu",
-        "answer": "MACHU",
+        "clue": "People or Rolling Stone, for short",
+        "answer": "MAG",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Make laugh",
+        "answer": "AMUSE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "“To repeat myself …”",
-        "answer": "ISAID",
+        "num": 3,
+        "clue": "Like the skin of a durian fruit",
+        "answer": "SPIKY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Gentle musical melodies",
-        "answer": "LILTS",
+        "num": 4,
+        "clue": "Skate park jump",
+        "answer": "OLLIE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "What “every kiss begins with,” in jewelry ads",
-        "answer": "KAY",
+        "num": 5,
+        "clue": "Part of a ping-pong table",
+        "answer": "NET",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Wearing an upside-down smile",
-        "answer": "SAD",
-        "row": 2,
-        "col": 0
       }
     ]
   }
