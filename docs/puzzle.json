@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "M",
-      "A",
-      "S",
-      "O",
-      "N"
+      "T",
+      "I",
+      "G",
+      "E",
+      "R"
     ],
     [
       "A",
       "M",
-      "P",
-      "L",
+      "U",
+      "S",
       "E"
     ],
     [
+      "C",
+      "H",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "H",
+      "I",
+      "N",
       "G",
-      "U",
-      "I",
-      "L",
-      "T"
+      "E"
     ],
     [
       null,
-      "S",
-      "K",
-      "I",
-      null
-    ],
-    [
-      null,
-      "E",
-      "Y",
-      "E",
-      null
+      "T",
+      "O",
+      "N",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___-Dixon line",
-        "answer": "MASON",
+        "clue": "Animal that appears orange to human eyes, but as a camouflaged green to deer",
+        "answer": "TIGER",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "More than enough",
-        "answer": "AMPLE",
+        "clue": "Get a smile or laugh from",
+        "answer": "AMUSE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Obvious verdict in Shaggy’s “It Wasn’t Me”",
-        "answer": "GUILT",
+        "clue": "Business with multiple locations",
+        "answer": "CHAIN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Hit the slopes",
-        "answer": "SKI",
+        "clue": "Dating app with a curvy “H” logo",
+        "answer": "HINGE",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Something to “keep on the prize”",
-        "answer": "EYE",
+        "clue": "“At the ___, please record your message …”",
+        "answer": "TONE",
         "row": 4,
         "col": 1
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "People or Rolling Stone, for short",
-        "answer": "MAG",
+        "clue": "Dashboard gauge, for short",
+        "answer": "TACH",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Make laugh",
-        "answer": "AMUSE",
+        "clue": "Dramatic cry in a game of paintball",
+        "answer": "IMHIT",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Like the skin of a durian fruit",
-        "answer": "SPIKY",
+        "clue": "Fertilizer obtained from bats",
+        "answer": "GUANO",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Skate park jump",
-        "answer": "OLLIE",
+        "clue": "Add one’s name to, as a PDF document",
+        "answer": "ESIGN",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Part of a ping-pong table",
-        "answer": "NET",
+        "clue": "Actress Zellweger",
+        "answer": "RENEE",
         "row": 0,
         "col": 4
       }
