@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "T",
-      "I",
+      null,
       "G",
       "E",
-      "R"
+      "N",
+      "X"
     ],
     [
-      "A",
-      "M",
-      "U",
-      "S",
-      "E"
+      "F",
+      "E",
+      "D",
+      "E",
+      "X"
     ],
     [
-      "C",
-      "H",
-      "A",
-      "I",
-      "N"
-    ],
-    [
-      "H",
       "I",
       "N",
-      "G",
-      "E"
+      "D",
+      "E",
+      "X"
     ],
     [
-      null,
+      "A",
+      "R",
+      "I",
+      "D",
+      null
+    ],
+    [
       "T",
-      "O",
-      "N",
-      "E"
+      "E",
+      "E",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Animal that appears orange to human eyes, but as a camouflaged green to deer",
-        "answer": "TIGER",
+        "clue": "Cohort born between 1965 and 1980, for short",
+        "answer": "GENX",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Get a smile or laugh from",
-        "answer": "AMUSE",
+        "num": 5,
+        "clue": "Shipping giant with a purple-and-orange logo",
+        "answer": "FEDEX",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Business with multiple locations",
-        "answer": "CHAIN",
+        "num": 6,
+        "clue": "Section at the end of a textbook",
+        "answer": "INDEX",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Dating app with a curvy “H” logo",
-        "answer": "HINGE",
+        "num": 7,
+        "clue": "Dry, as the desert",
+        "answer": "ARID",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "“At the ___, please record your message …”",
-        "answer": "TONE",
+        "num": 8,
+        "clue": "“___ it high and let it fly” (golfer’s mantra)",
+        "answer": "TEE",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Dashboard gauge, for short",
-        "answer": "TACH",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Dramatic cry in a game of paintball",
-        "answer": "IMHIT",
+        "clue": "Pop, rock or jazz",
+        "answer": "GENRE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Fertilizer obtained from bats",
-        "answer": "GUANO",
+        "num": 2,
+        "clue": "Comedian Murphy",
+        "answer": "EDDIE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Add one’s name to, as a PDF document",
-        "answer": "ESIGN",
+        "num": 3,
+        "clue": "Requirement",
+        "answer": "NEED",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Actress Zellweger",
-        "answer": "RENEE",
+        "num": 4,
+        "clue": "Winning line in tic-tac-toe",
+        "answer": "XXX",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Italy’s largest automaker",
+        "answer": "FIAT",
+        "row": 1,
+        "col": 0
       }
     ]
   }
