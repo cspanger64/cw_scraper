@@ -6,113 +6,113 @@
   "grid": [
     [
       null,
-      "G",
-      "E",
-      "N",
-      "X"
-    ],
-    [
-      "F",
-      "E",
-      "D",
-      "E",
-      "X"
-    ],
-    [
-      "I",
-      "N",
-      "D",
-      "E",
-      "X"
-    ],
-    [
-      "A",
-      "R",
-      "I",
-      "D",
-      null
-    ],
-    [
       "T",
-      "E",
-      "E",
-      null,
+      "I",
+      "N",
       null
+    ],
+    [
+      "D",
+      "O",
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      null,
+      null,
+      "L",
+      "E",
+      "O"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Cohort born between 1965 and 1980, for short",
-        "answer": "GENX",
+        "clue": "Only three-letter element",
+        "answer": "TIN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Shipping giant with a purple-and-orange logo",
-        "answer": "FEDEX",
+        "num": 4,
+        "clue": "Hole food",
+        "answer": "DONUT",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Section at the end of a textbook",
-        "answer": "INDEX",
+        "clue": "Section at the end of a song",
+        "answer": "OUTRO",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Dry, as the desert",
-        "answer": "ARID",
+        "clue": "Emblem topping a coat of arms",
+        "answer": "CREST",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "“___ it high and let it fly” (golfer’s mantra)",
-        "answer": "TEE",
+        "clue": "Only three-letter zodiac sign",
+        "answer": "LEO",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Pop, rock or jazz",
-        "answer": "GENRE",
+        "clue": "Visit, as a college",
+        "answer": "TOUR",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Comedian Murphy",
-        "answer": "EDDIE",
+        "clue": "Something gathered by a spy",
+        "answer": "INTEL",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Requirement",
-        "answer": "NEED",
+        "clue": "Sip slowly",
+        "answer": "NURSE",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Winning line in tic-tac-toe",
-        "answer": "XXX",
-        "row": 0,
-        "col": 4
+        "clue": "Only three-letter Disney dwarf",
+        "answer": "DOC",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Italy’s largest automaker",
-        "answer": "FIAT",
+        "clue": "Big name in high-end toilets",
+        "answer": "TOTO",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
