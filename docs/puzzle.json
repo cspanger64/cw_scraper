@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "P",
-      "O",
-      "T",
       null,
+      "T",
+      "V",
+      "S",
       null
     ],
     [
-      "I",
-      "M",
+      "D",
+      "R",
       "O",
-      "F",
-      "F"
-    ],
-    [
-      "S",
-      "N",
-      "A",
-      "I",
+      "O",
       "L"
     ],
     [
-      "A",
-      "I",
-      "S",
+      "H",
+      "O",
+      "W",
+      "T",
+      "O"
+    ],
+    [
       "L",
-      "E"
+      "O",
+      "T",
+      "T",
+      "O"
     ],
     [
       null,
-      null,
-      "T",
-      "E",
-      "X"
+      "P",
+      "O",
+      "O",
+      "P"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "A watched one never boils, it’s said",
-        "answer": "POT",
+        "clue": "Household items that come with remotes",
+        "answer": "TVS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "“See ya later!”",
-        "answer": "IMOFF",
+        "clue": "String of saliva",
+        "answer": "DROOL",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Sea ___, animal that builds the conch shell",
-        "answer": "SNAIL",
+        "num": 6,
+        "clue": "Self-help book genre",
+        "answer": "HOWTO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Airplane seating choice",
-        "answer": "AISLE",
+        "num": 7,
+        "clue": "Powerball or Mega Millions",
+        "answer": "LOTTO",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "James Talarico’s state: Abbr.",
-        "answer": "TEX",
+        "num": 8,
+        "clue": "Emoji voiced by Sir Patrick Stewart in “The Emoji Movie”",
+        "answer": "POOP",
         "row": 4,
-        "col": 2
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Leaning Tower city",
-        "answer": "PISA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "All: Prefix",
-        "answer": "OMNI",
+        "clue": "Group of Girl Scouts",
+        "answer": "TROOP",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "In the morning, a food; in the evening, a speech",
-        "answer": "TOAST",
+        "num": 2,
+        "clue": "Promise that one will",
+        "answer": "VOWTO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Something that can be AirDropped",
-        "answer": "FILE",
-        "row": 1,
+        "num": 3,
+        "clue": "___ voce (under one’s breath)",
+        "answer": "SOTTO",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Show off, as muscles",
-        "answer": "FLEX",
+        "num": 4,
+        "clue": "Big name in shipping logistics",
+        "answer": "DHL",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Shape formed by the O’s in this puzzle",
+        "answer": "LOOP",
         "row": 1,
         "col": 4
       }
