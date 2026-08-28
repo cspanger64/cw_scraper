@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
+      "P",
+      "O",
       "T",
-      "I",
-      "N",
+      null,
       null
     ],
     [
-      "D",
+      "I",
+      "M",
       "O",
-      "N",
-      "U",
-      "T"
+      "F",
+      "F"
     ],
     [
-      "O",
-      "U",
-      "T",
-      "R",
-      "O"
-    ],
-    [
-      "C",
-      "R",
-      "E",
       "S",
-      "T"
+      "N",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "A",
+      "I",
+      "S",
+      "L",
+      "E"
     ],
     [
       null,
       null,
-      "L",
+      "T",
       "E",
-      "O"
+      "X"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Only three-letter element",
-        "answer": "TIN",
+        "clue": "A watched one never boils, it’s said",
+        "answer": "POT",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 4,
-        "clue": "Hole food",
-        "answer": "DONUT",
+        "clue": "“See ya later!”",
+        "answer": "IMOFF",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Section at the end of a song",
-        "answer": "OUTRO",
+        "num": 7,
+        "clue": "Sea ___, animal that builds the conch shell",
+        "answer": "SNAIL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Emblem topping a coat of arms",
-        "answer": "CREST",
+        "num": 8,
+        "clue": "Airplane seating choice",
+        "answer": "AISLE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Only three-letter zodiac sign",
-        "answer": "LEO",
+        "num": 9,
+        "clue": "James Talarico’s state: Abbr.",
+        "answer": "TEX",
         "row": 4,
         "col": 2
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Visit, as a college",
-        "answer": "TOUR",
+        "clue": "Leaning Tower city",
+        "answer": "PISA",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "All: Prefix",
+        "answer": "OMNI",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Something gathered by a spy",
-        "answer": "INTEL",
+        "num": 3,
+        "clue": "In the morning, a food; in the evening, a speech",
+        "answer": "TOAST",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Sip slowly",
-        "answer": "NURSE",
-        "row": 0,
+        "num": 5,
+        "clue": "Something that can be AirDropped",
+        "answer": "FILE",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Only three-letter Disney dwarf",
-        "answer": "DOC",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Big name in high-end toilets",
-        "answer": "TOTO",
+        "num": 6,
+        "clue": "Show off, as muscles",
+        "answer": "FLEX",
         "row": 1,
         "col": 4
       }
