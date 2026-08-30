@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      null,
-      "T",
-      "V",
-      "S",
+      "H",
+      "A",
+      "R",
+      "P",
       null
     ],
     [
-      "D",
-      "R",
-      "O",
-      "O",
-      "L"
+      "I",
+      "V",
+      "I",
+      "E",
+      "D"
     ],
     [
-      "H",
-      "O",
-      "W",
-      "T",
-      "O"
-    ],
-    [
-      "L",
-      "O",
-      "T",
-      "T",
-      "O"
+      "P",
+      "E",
+      "P",
+      "S",
+      "I"
     ],
     [
       null,
-      "P",
+      "C",
       "O",
-      "O",
-      "P"
+      "K",
+      "E"
+    ],
+    [
+      null,
+      null,
+      "N",
+      "Y",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Household items that come with remotes",
-        "answer": "TVS",
+        "clue": "Classical instrument in the Guinness logo",
+        "answer": "HARP",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 4,
-        "clue": "String of saliva",
-        "answer": "DROOL",
+        "num": 5,
+        "clue": "Covered in vines",
+        "answer": "IVIED",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Self-help book genre",
-        "answer": "HOWTO",
+        "num": 7,
+        "clue": "8-Across competitor, in the soda aisle",
+        "answer": "PEPSI",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Powerball or Mega Millions",
-        "answer": "LOTTO",
+        "num": 8,
+        "clue": "7-Across competitor, in the soda aisle",
+        "answer": "COKE",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Emoji voiced by Sir Patrick Stewart in “The Emoji Movie”",
-        "answer": "POOP",
+        "num": 9,
+        "clue": "Owner of The Athletic, for short",
+        "answer": "NYT",
         "row": 4,
-        "col": 1
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Group of Girl Scouts",
-        "answer": "TROOP",
+        "clue": "Cool and in the know",
+        "answer": "HIP",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "French for “with”",
+        "answer": "AVEC",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Promise that one will",
-        "answer": "VOWTO",
+        "num": 3,
+        "clue": "Ruthlessly make fun of",
+        "answer": "RIPON",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "___ voce (under one’s breath)",
-        "answer": "SOTTO",
+        "num": 4,
+        "clue": "Annoying, like mosquitoes",
+        "answer": "PESKY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Big name in shipping logistics",
-        "answer": "DHL",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Shape formed by the O’s in this puzzle",
-        "answer": "LOOP",
+        "num": 6,
+        "clue": "Plan born from many a New Year’s resolution",
+        "answer": "DIET",
         "row": 1,
         "col": 4
       }
