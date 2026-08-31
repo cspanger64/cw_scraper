@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "H",
+      null,
+      null,
+      "W",
+      "E",
+      "B"
+    ],
+    [
+      null,
+      "B",
+      "E",
+      "A",
+      "U"
+    ],
+    [
+      "T",
+      "E",
       "A",
       "R",
-      "P",
-      null
+      "S"
     ],
     [
-      "I",
-      "V",
-      "I",
       "E",
-      "D"
+      "A",
+      "R",
+      "L",
+      "Y"
     ],
     [
-      "P",
-      "E",
-      "P",
-      "S",
-      "I"
-    ],
-    [
-      null,
       "C",
-      "O",
-      "K",
-      "E"
-    ],
-    [
-      null,
-      null,
-      "N",
+      "R",
       "Y",
-      "T"
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Classical instrument in the Guinness logo",
-        "answer": "HARP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Covered in vines",
-        "answer": "IVIED",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "8-Across competitor, in the soda aisle",
-        "answer": "PEPSI",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "7-Across competitor, in the soda aisle",
-        "answer": "COKE",
-        "row": 3,
-        "col": 1
-      },
-      {
-        "num": 9,
-        "clue": "Owner of The Athletic, for short",
-        "answer": "NYT",
-        "row": 4,
-        "col": 2
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Cool and in the know",
-        "answer": "HIP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "French for “with”",
-        "answer": "AVEC",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Ruthlessly make fun of",
-        "answer": "RIPON",
+        "clue": "Spider ___",
+        "answer": "WEB",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Annoying, like mosquitoes",
-        "answer": "PESKY",
+        "clue": "Quaint term for a boyfriend, from the French",
+        "answer": "BEAU",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Crocodile ___",
+        "answer": "TEARS",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "___ bird",
+        "answer": "EARLY",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "___ wolf",
+        "answer": "CRY",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Feeling tired and worn out",
+        "answer": "WEARY",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "British noble title",
+        "answer": "EARL",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Plan born from many a New Year’s resolution",
-        "answer": "DIET",
-        "row": 1,
+        "num": 3,
+        "clue": "___ bee",
+        "answer": "BUSY",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Panda ___",
+        "answer": "BEAR",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Detective, in old shorthand",
+        "answer": "TEC",
+        "row": 2,
+        "col": 0
       }
     ]
   }
