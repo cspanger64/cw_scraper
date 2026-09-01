@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      null,
-      "W",
       "E",
-      "B"
-    ],
-    [
-      null,
-      "B",
+      "Y",
       "E",
-      "A",
-      "U"
-    ],
-    [
-      "T",
-      "E",
-      "A",
-      "R",
       "S"
     ],
     [
-      "E",
-      "A",
-      "R",
-      "L",
-      "Y"
+      null,
+      "X",
+      "O",
+      "X",
+      "O"
     ],
     [
-      "C",
-      "R",
+      "B",
+      "U",
       "Y",
-      null,
+      "I",
+      "N"
+    ],
+    [
+      "I",
+      "D",
+      "O",
+      "S",
+      null
+    ],
+    [
+      "B",
+      "E",
+      "S",
+      "T",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Spider ___",
-        "answer": "WEB",
+        "clue": "Peering pair",
+        "answer": "EYES",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Quaint term for a boyfriend, from the French",
-        "answer": "BEAU",
-        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Crocodile ___",
-        "answer": "TEARS",
+        "clue": "“Hugs and kisses” sign-off",
+        "answer": "XOXO",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Support, as for a corporate plan",
+        "answer": "BUYIN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "___ bird",
-        "answer": "EARLY",
+        "num": 7,
+        "clue": "Words exchanged at the wedding altar",
+        "answer": "IDOS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "___ wolf",
-        "answer": "CRY",
+        "num": 8,
+        "clue": "Email sign-off",
+        "answer": "BEST",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Feeling tired and worn out",
-        "answer": "WEARY",
+        "clue": "Give off strongly",
+        "answer": "EXUDE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Toys on strings",
+        "answer": "YOYOS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "British noble title",
-        "answer": "EARL",
+        "num": 3,
+        "clue": "Be in the world",
+        "answer": "EXIST",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "___ bee",
-        "answer": "BUSY",
+        "num": 4,
+        "clue": "Prince Archie, to Harry and Meghan",
+        "answer": "SON",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Panda ___",
-        "answer": "BEAR",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Detective, in old shorthand",
-        "answer": "TEC",
+        "num": 6,
+        "clue": "Neckwear for a baby",
+        "answer": "BIB",
         "row": 2,
         "col": 0
       }
