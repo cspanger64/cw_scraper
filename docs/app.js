@@ -16,6 +16,7 @@ function startTimer() {
   updateTimerDisplay();
   timerInterval = setInterval(updateTimerDisplay, 1000);
   updatePauseBtn();
+  showPauseOverlay(false);
 }
 function updateTimerDisplay() {
   const elapsed = elapsedBeforePause + (paused || !timerRunning ? 0 : Date.now() - startTime);
@@ -73,10 +74,38 @@ function showPauseOverlay(show) {
   }
 }
 
+/* ====== Global input dispatcher ======
+   Registered ONCE, ever. buildUI() (called again each time the user
+   switches Mini/Midi) just reassigns `current` rather than adding new
+   listeners -- this is what prevents the double-key-input bug from
+   coming back when puzzles are switched. */
+let current = null; // { typeLetter, doBackspace, cycleClue, onResize }
+
+document.addEventListener('keydown', (e) => {
+  if (!current) return;
+  if (e.key.length === 1 && /^[a-zA-Z]$/.test(e.key)) {
+    e.preventDefault();
+    current.typeLetter(e.key);
+  } else if (e.key === 'Backspace') {
+    e.preventDefault();
+    current.doBackspace();
+  } else if (e.key === 'ArrowLeft') {
+    e.preventDefault();
+    current.cycleClue(-1);
+  } else if (e.key === 'ArrowRight') {
+    e.preventDefault();
+    current.cycleClue(1);
+  }
+});
+
+window.addEventListener('resize', () => {
+  if (current) current.onResize();
+});
+
 /* ====== Load puzzle ====== */
-async function loadPuzzle() {
-  const res = await fetch('./puzzle.json', { cache: 'no-store' });
-  if (!res.ok) throw new Error('Failed to load puzzle.json');
+async function loadPuzzle(kind) {
+  const res = await fetch(`./puzzle-${kind}.json`, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`Failed to load puzzle-${kind}.json`);
   return res.json();
 }
 
@@ -481,27 +510,17 @@ function buildUI(puzzle) {
 
   if (slotsA.length > 0) { active.dir = 'across'; setActive('across', 0); }
 
-  /* ---- physical keyboard: ONE listener only ---- */
-  document.addEventListener('keydown', (e) => {
-    if (e.key.length === 1 && /^[a-zA-Z]$/.test(e.key)) {
-      e.preventDefault();
-      typeLetter(e.key);
-    } else if (e.key === 'Backspace') {
-      e.preventDefault();
-      doBackspace();
-    } else if (e.key === 'ArrowLeft') {
-      e.preventDefault();
-      cycleClue(-1);
-    } else if (e.key === 'ArrowRight') {
-      e.preventDefault();
-      cycleClue(1);
-    }
-  });
+  /* Point the single global dispatcher at THIS puzzle's handlers, instead
+     of registering new listeners (which would stack up on every switch). */
+  current = {
+    typeLetter,
+    doBackspace,
+    cycleClue,
+    onResize: () => fitCellSize(R, C),
+  };
 
   /* ---- on-screen keyboard (touch devices) ---- */
   buildKeyboard(typeLetter, doBackspace, cycleClue);
-
-  window.addEventListener('resize', () => fitCellSize(R, C));
 }
 
 /* ===== on-screen keyboard ===== */
@@ -541,20 +560,35 @@ function buildKeyboard(typeLetter, doBackspace, cycleClue) {
   r4.appendChild(prev); r4.appendChild(back); r4.appendChild(next);
 }
 
-/* ====== init ====== */
-loadPuzzle()
-  .then(puz => {
-    try {
-      buildUI(puz);
-      startTimer();
-    } catch (err) {
-      console.error("Build UI failed:", err);
-      const el = document.getElementById('grid');
-      if (el) el.textContent = 'Failed to build puzzle UI.';
-    }
-  })
-  .catch(err => {
-    console.error("Load puzzle failed:", err);
-    const el = document.getElementById('grid');
-    if (el) el.textContent = 'Failed to load puzzle.json.';
+/* ====== init / puzzle switching ====== */
+let activeKind = 'mini';
+
+async function switchTo(kind) {
+  activeKind = kind;
+  current = null; // stop the old puzzle's input from firing mid-load
+  const titleEl = document.getElementById('puzzle-title');
+  if (titleEl) titleEl.textContent = kind === 'midi' ? 'Daily Midi Crossword' : 'Daily Mini Crossword';
+  document.querySelectorAll('.kind-toggle button').forEach(b => {
+    b.classList.toggle('active', b.dataset.kind === kind);
   });
+
+  const gridEl = document.getElementById('grid');
+  if (gridEl) gridEl.textContent = 'Loading...';
+
+  try {
+    const puz = await loadPuzzle(kind);
+    buildUI(puz);
+    startTimer();
+  } catch (err) {
+    console.error(`Load/build ${kind} failed:`, err);
+    if (gridEl) gridEl.textContent = `Failed to load ${kind} puzzle.`;
+  }
+}
+
+document.querySelectorAll('.kind-toggle button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    if (btn.dataset.kind !== activeKind) switchTo(btn.dataset.kind);
+  });
+});
+
+switchTo('mini');
