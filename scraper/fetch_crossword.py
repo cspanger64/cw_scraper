@@ -9,6 +9,7 @@
 # the reveal widget. So this is a two-stage scrape: get the clue list +
 # links from the main page, then fetch each clue's page for its answer.
 import re
+import time
 import requests
 from bs4 import BeautifulSoup, NavigableString
 from typing import Dict, List
@@ -73,13 +74,34 @@ def _extract_answer(text: str):
     return m.group("answer").strip().upper() if m else None
 
 
+def _get_with_retry(session, url, attempts=4, base_delay=3):
+    last_exc = None
+    for i in range(attempts):
+        try:
+            resp = session.get(url, timeout=15)
+            print(f"[i] GET {url} -> status {resp.status_code}, {len(resp.text)} bytes "
+                  f"(attempt {i + 1}/{attempts})", flush=True)
+            if resp.status_code == 403 and i < attempts - 1:
+                delay = base_delay * (i + 1)
+                print(f"[-] Got 403, retrying in {delay}s...", flush=True)
+                time.sleep(delay)
+                continue
+            resp.raise_for_status()
+            return resp
+        except requests.RequestException as e:
+            last_exc = e
+            if i < attempts - 1:
+                delay = base_delay * (i + 1)
+                print(f"[-] Request error ({e}), retrying in {delay}s...", flush=True)
+                time.sleep(delay)
+    raise last_exc
+
+
 def fetch_crossword(url: str) -> Dict:
     session = requests.Session()
     session.headers.update(HEADERS)
 
-    resp = session.get(url, timeout=15)
-    print(f"[i] GET {url} -> status {resp.status_code}, {len(resp.text)} bytes", flush=True)
-    resp.raise_for_status()
+    resp = _get_with_retry(session, url)
 
     soup = BeautifulSoup(resp.text, "html.parser")
     clue_stubs = _extract_clue_list(soup)
@@ -93,8 +115,7 @@ def fetch_crossword(url: str) -> Dict:
     clues = []
     for stub in clue_stubs:
         try:
-            r2 = session.get(stub["url"], timeout=15)
-            r2.raise_for_status()
+            r2 = _get_with_retry(session, stub["url"], attempts=2, base_delay=2)
             page_text = BeautifulSoup(r2.text, "html.parser").get_text(" ")
             answer = _extract_answer(page_text)
             if not answer:
