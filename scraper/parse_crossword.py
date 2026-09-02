@@ -7,7 +7,7 @@ except ImportError:
     from build_grid import build_grid
 
 
-def parse_crossword(clues: List[Dict]) -> dict:
+def parse_crossword(clues: List[Dict], max_dim: int = 9) -> dict:
     across_raw, down_raw = [], []
     for c in clues:
         m = re.match(r"^(\d+)([AD])$", c["position"])
@@ -22,6 +22,7 @@ def parse_crossword(clues: List[Dict]) -> dict:
     rows, cols, grid = build_grid(
         [{"num": e["num"], "answer": e["answer"]} for e in across_raw],
         [{"num": e["num"], "answer": e["answer"]} for e in down_raw],
+        max_dim=max_dim,
     )
 
     number_positions = {}
