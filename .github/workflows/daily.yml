@@ -27,20 +27,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generate puzzle.json
+      - name: Generate puzzle-mini.json and puzzle-midi.json
         env:
           PYTHONUNBUFFERED: "1"
         run: |
           python -u -m scraper.run
 
-      - name: Commit updated puzzle if changed
+      - name: Commit updated puzzles if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- docs/puzzle.json; then
-            git add docs/puzzle.json
-            git commit -m "Update daily puzzle: $(date -u +'%Y-%m-%d')"
+          if ! git diff --quiet -- docs/puzzle-mini.json docs/puzzle-midi.json; then
+            git add docs/puzzle-mini.json docs/puzzle-midi.json
+            git commit -m "Update daily puzzles: $(date -u +'%Y-%m-%d')"
             git push
           else
-            echo "No changes to puzzle.json"
+            echo "No changes to puzzle-mini.json or puzzle-midi.json"
           fi
