@@ -1,0 +1,119 @@
+{
+  "size": [
+    5,
+    5
+  ],
+  "grid": [
+    [
+      "L",
+      "E",
+      "T",
+      "B",
+      "E"
+    ],
+    [
+      "A",
+      "B",
+      "H",
+      "O",
+      "R"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "S",
+      "O"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      null,
+      null
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "clue": "Leave alone",
+        "answer": "LETBE",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Vehemently dislike",
+        "answer": "ABHOR",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Middle section of the body",
+        "answer": "TORSO",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Hands on your ___! Hands on your ___!” (refrain in the “Cha-Cha Slide”)",
+        "answer": "KNEES",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Iris’s place",
+        "answer": "EYE",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Crispy treat during Hanukkah",
+        "answer": "LATKE",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Expensive dark wood",
+        "answer": "EBONY",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "This clue’s number",
+        "answer": "THREE",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Big name in portable speakers",
+        "answer": "BOSE",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Greek god who shoots (and sounds like!) arrows",
+        "answer": "EROS",
+        "row": 0,
+        "col": 4
+      }
+    ]
+  }
+}

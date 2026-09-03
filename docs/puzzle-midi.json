@@ -1,0 +1,341 @@
+{
+  "size": [
+    10,
+    9
+  ],
+  "grid": [
+    [
+      "N",
+      "I",
+      "T",
+      null,
+      "S",
+      "T",
+      "A",
+      "B",
+      null
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      null,
+      "T",
+      "E",
+      "N",
+      "T",
+      null
+    ],
+    [
+      "R",
+      "O",
+      "W",
+      "B",
+      "O",
+      "A",
+      "T",
+      "S",
+      null
+    ],
+    [
+      "F",
+      "R",
+      "E",
+      "O",
+      "N",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "R",
+      "O",
+      "E",
+      "B",
+      "U",
+      "C",
+      "K"
+    ],
+    [
+      null,
+      null,
+      null,
+      "T",
+      "R",
+      "I",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "B",
+      "O",
+      "R",
+      "E",
+      null,
+      "A",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "R",
+      "H",
+      "O",
+      "D",
+      "E",
+      "S",
+      "I",
+      "A",
+      null
+    ],
+    [
+      "A",
+      "I",
+      "M",
+      null,
+      "P",
+      "E",
+      "C",
+      "K",
+      null
+    ],
+    [
+      "T",
+      "O",
+      "P",
+      null,
+      "A",
+      "S",
+      "K",
+      "S",
+      null
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "num": 1,
+        "clue": "Quibble that’s “picked",
+        "answer": "NIT",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 4,
+        "clue": "Wild guess",
+        "answer": "STAB",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 8,
+        "clue": "Alter ___",
+        "answer": "EGO",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Pitched” shelter",
+        "answer": "TENT",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Oar-propelled vessels",
+        "answer": "ROWBOATS",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Air-conditioning coolant",
+        "answer": "FREON",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Onetime retail partner of Sears",
+        "answer": "ROEBUCK",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 18,
+        "clue": "Rare hit in baseball",
+        "answer": "TRIPLE",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 19,
+        "clue": "Dull person",
+        "answer": "BORE",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 22,
+        "clue": "This 2,000 pound truck weighs ___!",
+        "answer": "ATON",
+        "row": 6,
+        "col": 5
+      },
+      {
+        "num": 23,
+        "clue": "Country now known as Zimbabwe",
+        "answer": "RHODESIA",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 25,
+        "clue": "Ready, ___, fire!",
+        "answer": "AIM",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 26,
+        "clue": "Quick kiss",
+        "answer": "PECK",
+        "row": 8,
+        "col": 4
+      },
+      {
+        "num": 27,
+        "clue": "Spinner in the final frame of “Inception",
+        "answer": "TOP",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 28,
+        "clue": "Queries",
+        "answer": "ASKS",
+        "row": 9,
+        "col": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Big name in foam darts",
+        "answer": "NERF",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Frankenstein’s assistant",
+        "answer": "IGOR",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Eiffel ___",
+        "answer": "TOWER",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Sean Penn’s character in “Fast Times at Ridgemont High,” for one",
+        "answer": "STONER",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Beverage that’s steeped",
+        "answer": "TEA",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Insect in a “farm",
+        "answer": "ANT",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Megapopular K-pop group",
+        "answer": "BTS",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 11,
+        "clue": "Kicked out",
+        "answer": "BOOTED",
+        "row": 2,
+        "col": 3
+      },
+      {
+        "num": 14,
+        "clue": "Prejudices",
+        "answer": "BIASES",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 15,
+        "clue": "Slight increase",
+        "answer": "UPTICK",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 16,
+        "clue": "Outerwear for hobbit costumes",
+        "answer": "CLOAKS",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 17,
+        "clue": "Movie character who says “I only exist within the warmth of your gaze. Without it, I’m just another blond guy who can’t do flips",
+        "answer": "KEN",
+        "row": 4,
+        "col": 8
+      },
+      {
+        "num": 19,
+        "clue": "Little snot",
+        "answer": "BRAT",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "State whose three largest cities start with the letter “C",
+        "answer": "OHIO",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "num": 21,
+        "clue": "Lopsided victory",
+        "answer": "ROMP",
+        "row": 6,
+        "col": 2
+      },
+      {
+        "num": 24,
+        "clue": "Clean air org.",
+        "answer": "EPA",
+        "row": 7,
+        "col": 4
+      }
+    ]
+  }
+}
