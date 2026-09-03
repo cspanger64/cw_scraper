@@ -37,10 +37,16 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- docs/puzzle-mini.json docs/puzzle-midi.json; then
-            git add docs/puzzle-mini.json docs/puzzle-midi.json
+          for f in docs/puzzle-mini.json docs/puzzle-midi.json; do
+            if [ -f "$f" ]; then
+              git add "$f"
+            else
+              echo "$f does not exist on disk this run, skipping"
+            fi
+          done
+          if ! git diff --cached --quiet; then
             git commit -m "Update daily puzzles: $(date -u +'%Y-%m-%d')"
             git push
           else
-            echo "No changes to puzzle-mini.json or puzzle-midi.json"
+            echo "No changes to commit"
           fi
