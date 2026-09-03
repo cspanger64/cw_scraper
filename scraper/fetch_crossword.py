@@ -1,13 +1,12 @@
 # scraper/fetch_crossword.py
 #
-# dazepuzzle.com now hides its answer letters behind an interactive
-# "reveal" widget (added ~Aug 15 2026), so the main listing page only
-# gives us clue text + a link to each clue's own page -- not the answer
-# itself. Each individual clue page, however, has an SEO-oriented FAQ
-# block that states the answer as plain text (e.g. "The most common and
-# recent 5-letter answer for '...' is COOPS."), which is NOT gated behind
-# the reveal widget. So this is a two-stage scrape: get the clue list +
-# links from the main page, then fetch each clue's page for its answer.
+# dazepuzzle.com has flip-flopped on whether the main listing page shows
+# answers as plain text or hides them behind an interactive "reveal"
+# widget (?  placeholders). Rather than assume one or the other, this
+# tries the fast single-page extraction first (answer sits right after
+# the clue link, before the word "Reveal"), and only falls back to the
+# slower per-clue-page scrape (an SEO FAQ block states the answer even
+# when the widget hides it) if that comes up empty.
 import re
 import time
 import requests
@@ -33,6 +32,17 @@ HEADERS = {
 
 POS_RE = re.compile(r"^(\d+)([AD])$")
 
+# Fast path: "1A ... Crossword Clue \n LETBE \n Reveal" -- the answer sits
+# in plain text right before the literal word "Reveal", when the site
+# isn't gating it.
+SINGLE_STAGE_RE = re.compile(
+    r"""(?P<num>\d+)(?P<dir>[AD])\s*\n+\s*
+        (?P<clue>[^\n]+?)\s*Crossword\s*Clue\s*\n+\s*
+        (?P<answer>[A-Z]{2,})\s*\n+\s*
+        Reveal""",
+    re.VERBOSE,
+)
+
 ANSWER_RE = re.compile(
     r"""most\s+(?:common\s+and\s+recent|recent|common)\s+\d+-letter\s+answer\s+for\s+".*?"\s+is\s+
         (?P<answer>[A-Z]+(?:\s[A-Z]+)*)\.""",
@@ -44,6 +54,23 @@ ANSWER_RE_FALLBACK = re.compile(
     r"""\d+-letter\s+answer\s+to\s+.*?\s+is\s+(?P<answer>[A-Z]+(?:\s[A-Z]+)*)\.""",
     re.VERBOSE,
 )
+
+
+def _extract_clues_single_stage(soup: BeautifulSoup) -> List[Dict]:
+    text = soup.get_text("\n")
+    clues = []
+    seen = set()
+    for m in SINGLE_STAGE_RE.finditer(text):
+        pos = f"{m.group('num')}{m.group('dir')}"
+        if pos in seen:
+            continue
+        seen.add(pos)
+        clues.append({
+            "position": pos,
+            "clue": m.group("clue").strip().strip("\u201c\u201d\"' "),
+            "answer": m.group("answer").strip().upper(),
+        })
+    return clues
 
 
 def _extract_clue_list(soup: BeautifulSoup) -> List[Dict]:
@@ -102,8 +129,17 @@ def fetch_crossword(url: str) -> Dict:
     session.headers.update(HEADERS)
 
     resp = _get_with_retry(session, url)
-
     soup = BeautifulSoup(resp.text, "html.parser")
+
+    fast_clues = _extract_clues_single_stage(soup)
+    if fast_clues:
+        print(f"[+] Fast path: found {len(fast_clues)} clues with answers directly "
+              f"on the main page (no per-clue fetches needed)", flush=True)
+        return {"clues": fast_clues}
+
+    print("[-] Fast path found nothing (site may be gating answers behind "
+          "the reveal widget) -- falling back to per-clue page scrape", flush=True)
+
     clue_stubs = _extract_clue_list(soup)
     print(f"[+] Found {len(clue_stubs)} clue links on main page", flush=True)
 
@@ -113,9 +149,12 @@ def fetch_crossword(url: str) -> Dict:
         return {"clues": []}
 
     clues = []
-    for stub in clue_stubs:
+    for i, stub in enumerate(clue_stubs):
+        if i > 0:
+            time.sleep(0.8)  # throttle -- this is what was tripping the rate
+                              # limiter on Midi's ~27-30 clue pages
         try:
-            r2 = _get_with_retry(session, stub["url"], attempts=2, base_delay=2)
+            r2 = _get_with_retry(session, stub["url"], attempts=3, base_delay=3)
             page_text = BeautifulSoup(r2.text, "html.parser").get_text(" ")
             answer = _extract_answer(page_text)
             if not answer:
