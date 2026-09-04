@@ -32,17 +32,6 @@ HEADERS = {
 
 POS_RE = re.compile(r"^(\d+)([AD])$")
 
-# Fast path: "1A ... Crossword Clue \n LETBE \n Reveal" -- the answer sits
-# in plain text right before the literal word "Reveal", when the site
-# isn't gating it.
-SINGLE_STAGE_RE = re.compile(
-    r"""(?P<num>\d+)(?P<dir>[AD])\s*\n+\s*
-        (?P<clue>[^\n]+?)\s*Crossword\s*Clue\s*\n+\s*
-        (?P<answer>[A-Z]{2,})\s*\n+\s*
-        Reveal""",
-    re.VERBOSE,
-)
-
 ANSWER_RE = re.compile(
     r"""most\s+(?:common\s+and\s+recent|recent|common)\s+\d+-letter\s+answer\s+for\s+".*?"\s+is\s+
         (?P<answer>[A-Z]+(?:\s[A-Z]+)*)\.""",
@@ -56,20 +45,88 @@ ANSWER_RE_FALLBACK = re.compile(
 )
 
 
+ANSWER_TOKEN_RE = re.compile(r"^[A-Z]{2,}$")
+NOISE_TOKENS = {"REVEAL", "HINTS", "REVEALALL", "ACROSS", "DOWN"}
+
+
 def _extract_clues_single_stage(soup: BeautifulSoup) -> List[Dict]:
-    text = soup.get_text("\n")
+    """Walk the DOM in document order (same robust approach as
+    _extract_clue_list): for each '1A' label, find the next clue link,
+    then keep scanning forward for the first plausible all-caps answer
+    token before hitting the next position label. This tolerates minor
+    HTML differences around individual clues (e.g. the boundary clue
+    between the Across and Down sections) that broke a stricter
+    'answer immediately before the word Reveal' regex before."""
+def _extract_clues_single_stage(soup: BeautifulSoup) -> List[Dict]:
+    """Stream through the page word-by-word (not node-by-node -- text can
+    be split across DOM nodes in ways that vary per clue, which is what
+    broke an earlier, more rigid version of this). State machine:
+      idle -> saw a '1A'-style token -> pos_found
+      pos_found -> accumulate words until literal 'Crossword Clue' -> clue_found
+      clue_found -> first all-caps 2+ letter word starts the answer -> answer_found
+      answer_found -> keep appending consecutive all-caps words (multi-word
+                       answers like "TEAM GOAL") until noise/next clue
+    """
     clues = []
-    seen = set()
-    for m in SINGLE_STAGE_RE.finditer(text):
-        pos = f"{m.group('num')}{m.group('dir')}"
-        if pos in seen:
+    pending_pos = None
+    pending_clue_words: List[str] = []
+    clue_text = ""
+    answer_words: List[str] = []
+    state = "idle"
+
+    def emit():
+        if pending_pos and answer_words:
+            clues.append({"position": pending_pos, "clue": clue_text, "answer": " ".join(answer_words)})
+
+    for node in soup.descendants:
+        if not isinstance(node, NavigableString):
             continue
-        seen.add(pos)
-        clues.append({
-            "position": pos,
-            "clue": m.group("clue").strip().strip("\u201c\u201d\"' "),
-            "answer": m.group("answer").strip().upper(),
-        })
+        for w in str(node).split():
+            if POS_RE.match(w):
+                if state == "answer_found":
+                    emit()
+                pending_pos = w
+                pending_clue_words = []
+                answer_words = []
+                state = "pos_found"
+                continue
+
+            if state == "pos_found":
+                pending_clue_words.append(w)
+                if (w.rstrip(".,!?") == "Clue" and len(pending_clue_words) >= 2
+                        and pending_clue_words[-2].rstrip(".,!?") == "Crossword"):
+                    clue_text = " ".join(pending_clue_words[:-2]).strip()
+                    state = "clue_found"
+                continue
+
+            token = w.upper().strip(".,!?\"'\u2018\u2019\u201c\u201d")
+
+            if state == "clue_found":
+                if token in NOISE_TOKENS or not token:
+                    continue
+                if ANSWER_TOKEN_RE.match(token):
+                    answer_words = [token]
+                    state = "answer_found"
+                continue
+
+            if state == "answer_found":
+                if token in NOISE_TOKENS or not token:
+                    emit()
+                    pending_pos = None
+                    answer_words = []
+                    state = "idle"
+                elif ANSWER_TOKEN_RE.match(token):
+                    answer_words.append(token)
+                else:
+                    emit()
+                    pending_pos = None
+                    answer_words = []
+                    state = "idle"
+                continue
+
+    if state == "answer_found":
+        emit()
+
     return clues
 
 
@@ -132,27 +189,29 @@ def fetch_crossword(url: str) -> Dict:
     soup = BeautifulSoup(resp.text, "html.parser")
 
     fast_clues = _extract_clues_single_stage(soup)
-    if fast_clues:
-        print(f"[+] Fast path: found {len(fast_clues)} clues with answers directly "
-              f"on the main page (no per-clue fetches needed)", flush=True)
-        return {"clues": fast_clues}
+    all_stubs = _extract_clue_list(soup)  # position+clue+url for every clue on the page
 
-    print("[-] Fast path found nothing (site may be gating answers behind "
-          "the reveal widget) -- falling back to per-clue page scrape", flush=True)
+    fast_positions = {c["position"] for c in fast_clues}
+    all_positions = {s["position"] for s in all_stubs}
+    missing_positions = all_positions - fast_positions
 
-    clue_stubs = _extract_clue_list(soup)
-    print(f"[+] Found {len(clue_stubs)} clue links on main page", flush=True)
+    print(f"[+] Fast path: found {len(fast_clues)}/{len(all_positions)} clues with answers "
+          f"directly on the main page", flush=True)
+    if missing_positions:
+        print(f"[-] Fast path missing: {sorted(missing_positions)} -- will fetch these "
+              f"individually", flush=True)
 
-    if not clue_stubs:
-        print("[-] Could not find any clue links. First 2000 chars of response:", flush=True)
-        print(soup.prettify()[:2000], flush=True)
-        return {"clues": []}
+    if not fast_clues:
+        print("[-] Fast path found nothing at all (site may be gating answers behind "
+              "the reveal widget) -- falling back to per-clue page scrape for everything", flush=True)
+        missing_positions = all_positions  # fetch every clue the slow way
 
-    clues = []
-    for i, stub in enumerate(clue_stubs):
+    clues = list(fast_clues)
+    missing_stubs = [s for s in all_stubs if s["position"] in missing_positions]
+
+    for i, stub in enumerate(missing_stubs):
         if i > 0:
-            time.sleep(0.8)  # throttle -- this is what was tripping the rate
-                              # limiter on Midi's ~27-30 clue pages
+            time.sleep(0.8)  # throttle -- avoid tripping the rate limiter
         try:
             r2 = _get_with_retry(session, stub["url"], attempts=3, base_delay=3)
             page_text = BeautifulSoup(r2.text, "html.parser").get_text(" ")
@@ -161,11 +220,11 @@ def fetch_crossword(url: str) -> Dict:
                 print(f"[-] No answer found on {stub['url']}", flush=True)
                 continue
             clues.append({"position": stub["position"], "clue": stub["clue"], "answer": answer})
-            print(f"[i] {stub['position']}: {stub['clue']!r} -> {answer}", flush=True)
+            print(f"[i] (fallback) {stub['position']}: {stub['clue']!r} -> {answer}", flush=True)
         except requests.RequestException as e:
             print(f"[-] Error fetching {stub['url']}: {e}", flush=True)
 
-    print(f"[+] Found {len(clues)} clues with answers", flush=True)
+    print(f"[+] Found {len(clues)}/{len(all_positions)} total clues with answers", flush=True)
     return {"clues": clues}
 
 
