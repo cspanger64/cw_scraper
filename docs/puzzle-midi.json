@@ -178,7 +178,7 @@
       },
       {
         "num": 21,
-        "clue": "That’s my impression",
+        "clue": "“That’s my impression”",
         "answer": "SOIGATHER",
         "row": 6,
         "col": 0
@@ -250,7 +250,7 @@
       },
       {
         "num": 6,
-        "clue": "Tate McRae song with the lyric “We make up, then we break up, then they swear they’ll never call me",
+        "clue": "Tate McRae song with the lyric “We make up, then we break up, then they swear they’ll never call me”",
         "answer": "EXES",
         "row": 0,
         "col": 7
@@ -292,7 +292,7 @@
       },
       {
         "num": 18,
-        "clue": "That’s not good!",
+        "clue": "“That’s not good!”",
         "answer": "UHOH",
         "row": 5,
         "col": 6
