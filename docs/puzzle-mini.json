@@ -1,118 +1,188 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
+      "A",
       "L",
-      "E",
-      "T",
-      "B",
-      "E"
+      "A",
+      "S",
+      "K",
+      "A",
+      null
     ],
     [
-      "A",
-      "B",
-      "H",
+      "C",
       "O",
+      "M",
+      "M",
+      "O",
+      "N",
+      null
+    ],
+    [
+      "L",
+      "O",
+      "N",
+      "E",
+      "L",
+      "Y",
+      null
+    ],
+    [
+      null,
+      null,
+      "E",
+      "L",
+      "K",
+      null,
+      null
+    ],
+    [
+      null,
+      "I",
+      "S",
+      "L",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      null,
+      "D",
+      "I",
+      "E",
+      "T",
+      "E",
       "R"
     ],
     [
-      "T",
-      "O",
-      "R",
-      "S",
-      "O"
-    ],
-    [
-      "K",
-      "N",
-      "E",
-      "E",
-      "S"
-    ],
-    [
-      "E",
-      "Y",
-      "E",
       null,
-      null
+      "K",
+      "A",
+      "R",
+      "A",
+      "T",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Leave alone",
-        "answer": "LETBE",
+        "clue": "Its state quarter features a grizzly bear catching a salmon",
+        "answer": "ALASKA",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Vehemently dislike",
-        "answer": "ABHOR",
+        "num": 7,
+        "clue": "Run-of-the-mill",
+        "answer": "COMMON",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Middle section of the body",
-        "answer": "TORSO",
+        "num": 8,
+        "clue": "Needing a friend",
+        "answer": "LONELY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Hands on your ___! Hands on your ___!” (refrain in the “Cha-Cha Slide”)",
-        "answer": "KNEES",
+        "num": 9,
+        "clue": "Grazing animal in the Rockies",
+        "answer": "ELK",
         "row": 3,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 9,
-        "clue": "Iris’s place",
-        "answer": "EYE",
+        "num": 10,
+        "clue": "Freestanding counter at the center of a kitchen",
+        "answer": "ISLAND",
         "row": 4,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Eating plan participant",
+        "answer": "DIETER",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 14,
+        "clue": "Class with colored belts",
+        "answer": "KARATE",
+        "row": 6,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Crispy treat during Hanukkah",
-        "answer": "LATKE",
+        "clue": "Knee injury site, for short",
+        "answer": "ACL",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Expensive dark wood",
-        "answer": "EBONY",
+        "clue": "Brit’s bathroom",
+        "answer": "LOO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "This clue’s number",
-        "answer": "THREE",
+        "clue": "Memory loss issue",
+        "answer": "AMNESIA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Big name in portable speakers",
-        "answer": "BOSE",
+        "clue": "Nose, by function",
+        "answer": "SMELLER",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Greek god who shoots (and sounds like!) arrows",
-        "answer": "EROS",
+        "clue": "Major Indian city that’s the capital of West Bengal",
+        "answer": "KOLKATA",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "“___ given Sunday!” (football fan’s maxim)",
+        "answer": "ANY",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 10,
+        "clue": "Texting equivalent of a shrug",
+        "answer": "IDK",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 11,
+        "clue": "After taxes",
+        "answer": "NET",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 12,
+        "clue": "“Dr.” who co-founded Death Row Records",
+        "answer": "DRE",
+        "row": 4,
+        "col": 6
       }
     ]
   }

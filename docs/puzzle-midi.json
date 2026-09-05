@@ -1,329 +1,361 @@
 {
   "size": [
-    9,
+    10,
     9
   ],
   "grid": [
     [
+      "N",
+      "S",
+      "F",
+      "W",
+      null,
+      "S",
+      "C",
       "A",
-      "T",
+      "B"
+    ],
+    [
+      "V",
       "E",
+      "R",
+      "A",
+      null,
+      "N",
+      "A",
+      "P",
+      "A"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "S",
+      null,
+      "A",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "D",
+      "A",
+      "S",
+      "H",
+      null,
+      "P",
+      "I",
+      "C",
+      "S"
+    ],
+    [
+      "I",
+      "N",
+      "C",
       null,
       null,
+      null,
+      "C",
+      "H",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "O",
+      "N",
       "E",
-      "Y",
+      "D",
+      "O",
       "E",
       "S"
     ],
     [
-      "L",
-      "A",
-      "X",
       null,
       null,
-      "L",
-      "U",
-      "X",
-      "E"
+      null,
+      "O",
+      "D",
+      "E",
+      null,
+      null,
+      null
     ],
     [
-      "A",
-      "X",
+      "T",
       "E",
       "D",
-      null,
-      "F",
-      "L",
-      "E",
-      "X"
-    ],
-    [
-      "N",
-      "I",
-      "C",
-      "E",
       "T",
-      "I",
-      "E",
-      "S",
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "F",
-      "E",
-      "N",
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      "X",
-      "B",
-      "O",
-      "X",
-      null,
       "U",
-      "M",
-      "P"
-    ],
-    [
-      "S",
-      "O",
-      "I",
-      "G",
-      "A",
-      "T",
-      "H",
+      "R",
+      "N",
       "E",
       "R"
     ],
     [
-      "O",
-      "X",
-      "O",
-      null,
-      "N",
       "A",
+      "L",
       "O",
-      "M",
-      "I"
+      "E",
+      null,
+      "B",
+      "E",
+      "E",
+      "F"
     ],
     [
-      "N",
-      "O",
+      "B",
+      "M",
+      "W",
       "S",
       null,
-      null,
-      "C",
-      "H",
-      "E",
-      "X"
+      "Y",
+      "O",
+      "L",
+      "K"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Spent time in a dining hall",
-        "answer": "ATE",
+        "clue": "Initialism meaning “Refrain from opening this link at the office!”",
+        "answer": "NSFW",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "👀",
-        "answer": "EYES",
+        "num": 5,
+        "clue": "Sign of a scrape’s healing",
+        "answer": "SCAB",
         "row": 0,
         "col": 5
-      },
-      {
-        "num": 8,
-        "clue": "Busiest airport on the West Coast, familiarly",
-        "answer": "LAX",
-        "row": 1,
-        "col": 0
       },
       {
         "num": 9,
-        "clue": "Opulent",
-        "answer": "LUXE",
+        "clue": "Designer Wang",
+        "answer": "VERA",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "California’s ___ Valley",
+        "answer": "NAPA",
         "row": 1,
         "col": 5
       },
       {
-        "num": 10,
-        "clue": "Got rid of",
-        "answer": "AXED",
+        "num": 11,
+        "clue": "Midmonth day",
+        "answer": "IDES",
         "row": 2,
         "col": 0
       },
       {
         "num": 12,
-        "clue": "Show off, in modern slang",
-        "answer": "FLEX",
+        "clue": "“‘Tis a pity …”",
+        "answer": "ALAS",
         "row": 2,
         "col": 5
       },
       {
         "num": 13,
-        "clue": "Complimentary champagne and plush robes, in a hotel room",
-        "answer": "NICETIES",
+        "clue": "– or —",
+        "answer": "DASH",
         "row": 3,
         "col": 0
       },
       {
+        "num": 14,
+        "clue": "Static Insta posts",
+        "answer": "PICS",
+        "row": 3,
+        "col": 5
+      },
+      {
         "num": 15,
-        "clue": "Wetland",
-        "answer": "FEN",
+        "clue": "“Monsters, ___” (2001 film)",
+        "answer": "INC",
         "row": 4,
-        "col": 3
+        "col": 0
       },
       {
         "num": 16,
-        "clue": "Microsoft gaming console",
-        "answer": "XBOX",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 18,
-        "clue": "Official who is calling the “strikes” in this puzzle’s grid?",
-        "answer": "UMP",
-        "row": 5,
+        "clue": "Comedian Margaret",
+        "answer": "CHO",
+        "row": 4,
         "col": 6
       },
       {
+        "num": 17,
+        "clue": "“You know, because that’s totally normal”",
+        "answer": "ASONEDOES",
+        "row": 5,
+        "col": 0
+      },
+      {
         "num": 21,
-        "clue": "“That’s my impression”",
-        "answer": "SOIGATHER",
+        "clue": "Poem of praise",
+        "answer": "ODE",
         "row": 6,
-        "col": 0
+        "col": 3
       },
       {
-        "num": 23,
-        "clue": "Palindromic kitchen brand",
-        "answer": "OXO",
+        "num": 22,
+        "clue": "Media mogul who founded CNN … or a hint to this puzzle’s shaded names",
+        "answer": "TEDTURNER",
         "row": 7,
         "col": 0
       },
       {
-        "num": 24,
-        "clue": "Supermodel Campbell",
-        "answer": "NAOMI",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 25,
-        "clue": "Rejections",
-        "answer": "NOS",
+        "num": 28,
+        "clue": "Lotion additive",
+        "answer": "ALOE",
         "row": 8,
         "col": 0
       },
       {
-        "num": 26,
-        "clue": "Common cereal in homemade trail mix",
-        "answer": "CHEX",
+        "num": 29,
+        "clue": "Burger joint meat",
+        "answer": "BEEF",
         "row": 8,
+        "col": 5
+      },
+      {
+        "num": 30,
+        "clue": "Audi alternatives",
+        "answer": "BMWS",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 31,
+        "clue": "Colored egg component",
+        "answer": "YOLK",
+        "row": 9,
         "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Actor Rickman or Ritchson",
-        "answer": "ALAN",
+        "clue": "Tech giant whose name consists of three U.S. state postal abbreviations",
+        "answer": "NVIDIA",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Cab",
-        "answer": "TAXI",
+        "clue": "Cars that typically have four doors",
+        "answer": "SEDANS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "C.O.O. or C.F.O.",
-        "answer": "EXEC",
+        "clue": "Painting executed on a wet plaster surface",
+        "answer": "FRESCO",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Like some North Pole workers",
-        "answer": "ELFIN",
+        "clue": "___ and fold (type of laundry service)",
+        "answer": "WASH",
         "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "Christmastime",
-        "answer": "YULE",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "Tate McRae song with the lyric “We make up, then we break up, then they swear they’ll never call me”",
-        "answer": "EXES",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "Health class topic",
-        "answer": "SEX",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 11,
-        "clue": "Clear, as a windshield",
-        "answer": "DEFOG",
-        "row": 2,
         "col": 3
       },
       {
-        "num": 14,
-        "clue": "Houston football player",
-        "answer": "TEXAN",
-        "row": 3,
-        "col": 4
+        "num": 5,
+        "clue": "Onesie fastener",
+        "answer": "SNAP",
+        "row": 0,
+        "col": 5
       },
       {
-        "num": 16,
-        "clue": "Love letter sign-off",
-        "answer": "XOXO",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 17,
-        "clue": "Parts of social media profiles",
-        "answer": "BIOS",
-        "row": 5,
-        "col": 2
-      },
-      {
-        "num": 18,
-        "clue": "“That’s not good!”",
-        "answer": "UHOH",
-        "row": 5,
+        "num": 6,
+        "clue": "Cat with multicolored patches",
+        "answer": "CALICO",
+        "row": 0,
         "col": 6
       },
       {
-        "num": 19,
-        "clue": "Distracted Boyfriend or Expanding Brain",
-        "answer": "MEME",
-        "row": 5,
+        "num": 7,
+        "clue": "Indigenous people of the Southwest",
+        "answer": "APACHE",
+        "row": 0,
         "col": 7
       },
       {
-        "num": 20,
-        "clue": "Grand ___ (motor race)",
-        "answer": "PRIX",
-        "row": 5,
+        "num": 8,
+        "clue": "Opera singers with deep voices",
+        "answer": "BASSOS",
+        "row": 0,
         "col": 8
       },
       {
-        "num": 21,
-        "clue": "Daughter’s brother",
-        "answer": "SON",
-        "row": 6,
-        "col": 0
+        "num": 18,
+        "clue": "Post-it memos",
+        "answer": "NOTES",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 19,
+        "clue": "University website suffix",
+        "answer": "EDU",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 20,
+        "clue": "Certain horse race or hat",
+        "answer": "DERBY",
+        "row": 5,
+        "col": 5
       },
       {
         "num": 22,
-        "clue": "Tic-___-toe",
-        "answer": "TAC",
-        "row": 6,
-        "col": 5
+        "clue": "Indentation key",
+        "answer": "TAB",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 23,
+        "clue": "Tree with oblong-shaped leaves",
+        "answer": "ELM",
+        "row": 7,
+        "col": 1
+      },
+      {
+        "num": 24,
+        "clue": "The “D” of Wall Street’s D.J.I.A.",
+        "answer": "DOW",
+        "row": 7,
+        "col": 2
+      },
+      {
+        "num": 25,
+        "clue": "Opposite of paleo-",
+        "answer": "NEO",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "num": 26,
+        "clue": "Slippery as an ___",
+        "answer": "EEL",
+        "row": 7,
+        "col": 7
+      },
+      {
+        "num": 27,
+        "clue": "’60s attorney general who was also a president’s brother, for short",
+        "answer": "RFK",
+        "row": 7,
+        "col": 8
       }
     ]
   }
