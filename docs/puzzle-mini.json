@@ -1,188 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
+      null,
+      null,
+      "R",
       "A",
-      "L",
-      "A",
-      "S",
-      "K",
-      "A",
-      null
+      "W"
     ],
     [
-      "C",
+      "J",
       "O",
-      "M",
-      "M",
-      "O",
-      "N",
-      null
+      "U",
+      "L",
+      "E"
     ],
     [
-      "L",
-      "O",
-      "N",
+      "A",
+      "R",
+      "G",
+      "U",
+      "E"
+    ],
+    [
+      "W",
       "E",
-      "L",
-      "Y",
-      null
-    ],
-    [
-      null,
-      null,
-      "E",
-      "L",
-      "K",
-      null,
-      null
-    ],
-    [
-      null,
-      "I",
-      "S",
-      "L",
-      "A",
-      "N",
+      "B",
+      "M",
       "D"
     ],
     [
+      "S",
+      "O",
+      "Y",
       null,
-      "D",
-      "I",
-      "E",
-      "T",
-      "E",
-      "R"
-    ],
-    [
-      null,
-      "K",
-      "A",
-      "R",
-      "A",
-      "T",
-      "E"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Its state quarter features a grizzly bear catching a salmon",
-        "answer": "ALASKA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Run-of-the-mill",
-        "answer": "COMMON",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Needing a friend",
-        "answer": "LONELY",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Grazing animal in the Rockies",
-        "answer": "ELK",
-        "row": 3,
-        "col": 2
-      },
-      {
-        "num": 10,
-        "clue": "Freestanding counter at the center of a kitchen",
-        "answer": "ISLAND",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "Eating plan participant",
-        "answer": "DIETER",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 14,
-        "clue": "Class with colored belts",
-        "answer": "KARATE",
-        "row": 6,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Knee injury site, for short",
-        "answer": "ACL",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Brit’s bathroom",
-        "answer": "LOO",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Memory loss issue",
-        "answer": "AMNESIA",
+        "clue": "Like sashimi and steak tartare",
+        "answer": "RAW",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Nose, by function",
-        "answer": "SMELLER",
+        "clue": "Unit of energy symbolized by a “J”",
+        "answer": "JOULE",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Debate back and forth",
+        "answer": "ARGUE",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Online source for health diagnoses",
+        "answer": "WEBMD",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Yo ___ (Spanish “I am”)",
+        "answer": "SOY",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "National sport of New Zealand",
+        "answer": "RUGBY",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Graduate, for short",
+        "answer": "ALUM",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Major Indian city that’s the capital of West Bengal",
-        "answer": "KOLKATA",
+        "num": 3,
+        "clue": "Garden intruder",
+        "answer": "WEED",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "“___ given Sunday!” (football fan’s maxim)",
-        "answer": "ANY",
-        "row": 0,
-        "col": 5
+        "num": 4,
+        "clue": "Hit 1975 film shot largely on location in Martha’s Vineyard",
+        "answer": "JAWS",
+        "row": 1,
+        "col": 0
       },
       {
-        "num": 10,
-        "clue": "Texting equivalent of a shrug",
-        "answer": "IDK",
-        "row": 4,
+        "num": 5,
+        "clue": "Black-and-white cookie",
+        "answer": "OREO",
+        "row": 1,
         "col": 1
-      },
-      {
-        "num": 11,
-        "clue": "After taxes",
-        "answer": "NET",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 12,
-        "clue": "“Dr.” who co-founded Death Row Records",
-        "answer": "DRE",
-        "row": 4,
-        "col": 6
       }
     ]
   }
