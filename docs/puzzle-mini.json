@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      null,
-      "R",
-      "A",
-      "W"
-    ],
-    [
-      "J",
-      "O",
-      "U",
-      "L",
-      "E"
-    ],
-    [
-      "A",
-      "R",
-      "G",
-      "U",
-      "E"
-    ],
-    [
-      "W",
-      "E",
-      "B",
-      "M",
-      "D"
-    ],
-    [
       "S",
-      "O",
-      "Y",
+      "A",
+      "W",
+      null
+    ],
+    [
+      "E",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "E",
+      "U"
+    ],
+    [
+      "R",
+      "E",
+      "L",
+      "A",
+      "X"
+    ],
+    [
       null,
+      "S",
+      "E",
+      "T",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Like sashimi and steak tartare",
-        "answer": "RAW",
+        "clue": "Tool with teeth",
+        "answer": "SAW",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "Unit of energy symbolized by a “J”",
-        "answer": "JOULE",
+        "clue": "Number of rows on a chessboard",
+        "answer": "EIGHT",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Debate back and forth",
-        "answer": "ARGUE",
+        "clue": "Common Wordle starting word",
+        "answer": "ADIEU",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Online source for health diagnoses",
-        "answer": "WEBMD",
+        "clue": "Kick back",
+        "answer": "RELAX",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Yo ___ (Spanish “I am”)",
-        "answer": "SOY",
+        "clue": "Band’s grouping of songs",
+        "answer": "SET",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "National sport of New Zealand",
-        "answer": "RUGBY",
+        "clue": "French fries and coleslaw, for two",
+        "answer": "SIDES",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Fleet of foot",
+        "answer": "AGILE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Graduate, for short",
-        "answer": "ALUM",
+        "num": 3,
+        "clue": "Resource in the game Catan",
+        "answer": "WHEAT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Garden intruder",
-        "answer": "WEED",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 4,
-        "clue": "Hit 1975 film shot largely on location in Martha’s Vineyard",
-        "answer": "JAWS",
+        "clue": "Body part in the heart of “heart”",
+        "answer": "EAR",
         "row": 1,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Black-and-white cookie",
-        "answer": "OREO",
+        "clue": "Attire for a black-tie wedding",
+        "answer": "TUX",
         "row": 1,
-        "col": 1
+        "col": 4
       }
     ]
   }
