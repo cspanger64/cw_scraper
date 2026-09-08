@@ -5,309 +5,323 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "C",
-      "O",
-      "L",
-      "O",
-      "R",
-      null,
-      null
-    ],
-    [
-      null,
-      "M",
       "A",
-      "R",
-      "I",
-      "N",
-      "E",
       "S",
+      "S",
+      null,
+      "H",
+      "A",
+      "W",
+      null,
       null
     ],
     [
-      "B",
-      "U",
-      "M",
-      "B",
+      "P",
+      "H",
       "L",
-      "E",
+      null,
       "B",
-      "E",
-      "E"
-    ],
-    [
-      "O",
-      "L",
-      "E",
-      null,
-      null,
-      null,
-      "E",
       "R",
+      "A",
+      "S",
       "S"
     ],
     [
+      "P",
+      "R",
+      "O",
+      "T",
+      "O",
+      "T",
+      "Y",
+      "P",
+      "E"
+    ],
+    [
+      "S",
+      "U",
+      "M",
+      "O",
+      null,
+      null,
+      "M",
+      "E",
+      "W"
+    ],
+    [
+      null,
+      "G",
+      "O",
+      "T",
+      "O",
+      "T",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      null,
+      null,
+      null,
+      "E",
       "W",
       "E",
-      "L",
-      "L",
-      "I",
-      "L",
-      "L",
-      "B",
-      "E"
-    ],
-    [
-      null,
-      null,
-      null,
-      "A",
-      "M",
-      "O",
       null,
       null,
       null
     ],
     [
-      "S",
+      "D",
       "O",
-      "C",
-      "I",
-      "A",
-      "L",
-      "C",
       "U",
-      "E"
-    ],
-    [
-      "S",
-      "P",
-      "I",
-      "N",
-      "C",
+      "B",
       "L",
-      "A",
-      "S",
+      "E",
+      "O",
+      "T",
       "S"
     ],
     [
-      "E",
-      "T",
+      "A",
+      "U",
+      "R",
       "A",
       null,
-      null,
-      null,
+      "N",
+      "A",
+      "M",
+      "E"
+    ],
+    [
       "B",
-      "B",
-      "Q"
+      "I",
+      "N",
+      "G",
+      null,
+      "S",
+      "K",
+      "I",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "“The place where our brain and the universe meet,” per Cézanne",
-        "answer": "COLOR",
+        "clue": "Ending with half or hard",
+        "answer": "ASS",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 6,
-        "clue": "“Semper Fi” group",
-        "answer": "MARINES",
+        "num": 4,
+        "clue": "Hem and ___ (be indecisive)",
+        "answer": "HAW",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 7,
+        "clue": "Airport code for the City of Brotherly Love",
+        "answer": "PHL",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 8,
-        "clue": "Black-and-yellow buzzer",
-        "answer": "BUMBLEBEE",
+        "clue": "Military higher-ups, collectively",
+        "answer": "BRASS",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 11,
+        "clue": "Experimental model",
+        "answer": "PROTOTYPE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Bullfight cheer",
-        "answer": "OLE",
+        "num": 13,
+        "clue": "Sport whose competitors are known as rikishi",
+        "answer": "SUMO",
         "row": 3,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Some verbal hesitations",
-        "answer": "ERS",
+        "num": 14,
+        "clue": "Cat’s quiet call",
+        "answer": "MEW",
         "row": 3,
         "col": 6
       },
       {
-        "num": 12,
-        "clue": "“Who’da thunk it?!”",
-        "answer": "WELLILLBE",
+        "num": 15,
+        "clue": "“Please, have at it!”",
+        "answer": "GOTOTOWN",
         "row": 4,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 16,
-        "clue": "“Yo te ___” (“I love you,” in Spanish)",
-        "answer": "AMO",
+        "num": 18,
+        "clue": "Sheepish mother?",
+        "answer": "EWE",
         "row": 5,
         "col": 3
       },
       {
-        "num": 17,
-        "clue": "Nonverbal signal expressed in conversation",
-        "answer": "SOCIALCUE",
+        "num": 19,
+        "clue": "N.B.A. rarities, for short … or what 11- and 15-Across contain",
+        "answer": "DOUBLEOTS",
         "row": 6,
         "col": 0
       },
       {
-        "num": 23,
-        "clue": "Group activity where you may be going nowhere fast?",
-        "answer": "SPINCLASS",
+        "num": 25,
+        "clue": "___ loss (hit to one’s coolness, in Gen Z slang)",
+        "answer": "AURA",
         "row": 7,
         "col": 0
       },
       {
-        "num": 24,
-        "clue": "“when do u land?”",
-        "answer": "ETA",
+        "num": 26,
+        "clue": "Penny, Kenny or Jenny",
+        "answer": "NAME",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 27,
+        "clue": "Default search engine for Microsoft Edge",
+        "answer": "BING",
         "row": 8,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "Labor Day cookout, e.g. … or a phonetic hint to the shaded squares, when read from top to bottom",
-        "answer": "BBQ",
+        "num": 28,
+        "clue": "Variety show bit",
+        "answer": "SKIT",
         "row": 8,
-        "col": 6
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Herbivore with a hump or two",
-        "answer": "CAMEL",
+        "clue": "Home screen array",
+        "answer": "APPS",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
         "num": 2,
-        "clue": "Sphere",
-        "answer": "ORB",
+        "clue": "[No clue]",
+        "answer": "SHRUG",
         "row": 0,
-        "col": 3
+        "col": 1
       },
       {
         "num": 3,
-        "clue": "Rap’s ___ Uzi Vert",
-        "answer": "LIL",
+        "clue": "What some action film scenes and sports replays are shown in",
+        "answer": "SLOMO",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "“Curb Your Enthusiasm” airer",
+        "answer": "HBO",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Number of times England has won the World Cup",
-        "answer": "ONE",
+        "num": 5,
+        "clue": "The “A” of MoMA",
+        "answer": "ART",
         "row": 0,
         "col": 5
       },
       {
-        "num": 5,
-        "clue": "Rise up against authority",
-        "answer": "REBEL",
+        "num": 6,
+        "clue": "Robotaxi company based in Silicon Valley",
+        "answer": "WAYMO",
         "row": 0,
         "col": 6
       },
       {
-        "num": 6,
-        "clue": "Stubborn as a ___",
-        "answer": "MULE",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Native of Belgrade",
-        "answer": "SERB",
+        "num": 9,
+        "clue": "Shoot, as lava from a volcano",
+        "answer": "SPEW",
         "row": 1,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "Elegant add-on over wrapping paper",
-        "answer": "BOW",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Suffix with Japan or Vietnam",
-        "answer": "ESE",
-        "row": 2,
+        "num": 10,
+        "clue": "Stitched",
+        "answer": "SEWN",
+        "row": 1,
         "col": 8
       },
       {
-        "num": 13,
-        "clue": "Reclined",
-        "answer": "LAIN",
-        "row": 4,
+        "num": 12,
+        "clue": "Common trade show freebie",
+        "answer": "TOTEBAG",
+        "row": 2,
         "col": 3
       },
       {
-        "num": 14,
-        "clue": "Apple desktop computer",
-        "answer": "IMAC",
+        "num": 16,
+        "clue": "Woodsy ___, mascot who says “Give a hoot! Don’t pollute!”",
+        "answer": "OWL",
         "row": 4,
         "col": 4
       },
       {
-        "num": 15,
-        "clue": "Veg out",
-        "answer": "LOLL",
+        "num": 17,
+        "clue": "Stereotypically angsty individuals",
+        "answer": "TEENS",
         "row": 4,
         "col": 5
       },
       {
-        "num": 17,
-        "clue": "Opposite of NNW",
-        "answer": "SSE",
+        "num": 19,
+        "clue": "Dollop",
+        "answer": "DAB",
         "row": 6,
         "col": 0
       },
       {
-        "num": 18,
-        "clue": "Decide (to)",
-        "answer": "OPT",
+        "num": 20,
+        "clue": "French assent",
+        "answer": "OUI",
         "row": 6,
         "col": 1
       },
       {
-        "num": 19,
-        "clue": "Government org. based near the Potomac River",
-        "answer": "CIA",
+        "num": 21,
+        "clue": "Coffee container",
+        "answer": "URN",
         "row": 6,
         "col": 2
       },
       {
-        "num": 20,
-        "clue": "Taxi",
-        "answer": "CAB",
+        "num": 22,
+        "clue": "Sturdy shade tree",
+        "answer": "OAK",
         "row": 6,
         "col": 6
       },
       {
-        "num": 21,
-        "clue": "Kind of charging port, for short",
-        "answer": "USB",
+        "num": 23,
+        "clue": "“OMG, I do NOT need to know that!”",
+        "answer": "TMI",
         "row": 6,
         "col": 7
       },
       {
-        "num": 22,
-        "clue": "Lawyer’s title: Abbr.",
-        "answer": "ESQ",
+        "num": 24,
+        "clue": "Tennis match division",
+        "answer": "SET",
         "row": 6,
         "col": 8
       }

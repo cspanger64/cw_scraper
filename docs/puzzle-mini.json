@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "S",
+      "F",
+      "L",
       "A",
-      "W",
+      "G"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "X",
+      "A"
+    ],
+    [
+      "B",
+      "O",
+      "G",
+      "E",
+      "Y"
+    ],
+    [
+      "B",
+      "O",
+      "I",
+      "L",
       null
     ],
     [
-      "E",
-      "I",
-      "G",
-      "H",
-      "T"
-    ],
-    [
       "A",
-      "D",
-      "I",
-      "E",
-      "U"
-    ],
-    [
       "R",
-      "E",
-      "L",
-      "A",
-      "X"
-    ],
-    [
-      null,
-      "S",
-      "E",
       "T",
+      null,
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Tool with teeth",
-        "answer": "SAW",
+        "clue": "The Stars and Stripes, e.g.",
+        "answer": "FLAG",
         "row": 0,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "Number of rows on a chessboard",
-        "answer": "EIGHT",
+        "num": 5,
+        "clue": "Wake word for an Amazon device",
+        "answer": "ALEXA",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Common Wordle starting word",
-        "answer": "ADIEU",
+        "clue": "+1 score in golf",
+        "answer": "BOGEY",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Kick back",
-        "answer": "RELAX",
+        "clue": "Prepare water for pasta",
+        "answer": "BOIL",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Band’s grouping of songs",
-        "answer": "SET",
+        "clue": "Some wall decorations",
+        "answer": "ART",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "French fries and coleslaw, for two",
-        "answer": "SIDES",
+        "clue": "Elevator selection",
+        "answer": "FLOOR",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Fleet of foot",
-        "answer": "AGILE",
+        "clue": "Not phony, informally",
+        "answer": "LEGIT",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Resource in the game Catan",
-        "answer": "WHEAT",
+        "clue": "Figure skating jump",
+        "answer": "AXEL",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Body part in the heart of “heart”",
-        "answer": "EAR",
-        "row": 1,
-        "col": 0
+        "clue": "Half of a portmanteau combined with “-borhood”",
+        "answer": "GAY",
+        "row": 0,
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Attire for a black-tie wedding",
-        "answer": "TUX",
+        "clue": "“Dancing Queen” band",
+        "answer": "ABBA",
         "row": 1,
-        "col": 4
+        "col": 0
       }
     ]
   }
