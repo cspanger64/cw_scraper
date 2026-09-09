@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "F",
-      "L",
+      "P",
       "A",
-      "G"
+      "T",
+      "S"
     ],
     [
-      "A",
-      "L",
+      "H",
+      "I",
+      "T",
+      "U",
+      "P"
+    ],
+    [
       "E",
       "X",
+      "T",
+      "R",
       "A"
     ],
     [
-      "B",
-      "O",
-      "G",
-      "E",
-      "Y"
-    ],
-    [
-      "B",
-      "O",
-      "I",
-      "L",
-      null
-    ],
-    [
+      "H",
       "A",
+      "W",
+      "K",
+      "S"
+    ],
+    [
+      "E",
       "R",
-      "T",
-      null,
+      "O",
+      "S",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "The Stars and Stripes, e.g.",
-        "answer": "FLAG",
+        "clue": "Gentle, comforting touches",
+        "answer": "PATS",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Wake word for an Amazon device",
-        "answer": "ALEXA",
+        "clue": "Give a call or text, informally",
+        "answer": "HITUP",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "+1 score in golf",
-        "answer": "BOGEY",
+        "clue": "Background actor",
+        "answer": "EXTRA",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Prepare water for pasta",
-        "answer": "BOIL",
+        "clue": "Avid war advocates",
+        "answer": "HAWKS",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Some wall decorations",
-        "answer": "ART",
+        "clue": "Greek god of love",
+        "answer": "EROS",
         "row": 4,
         "col": 0
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Elevator selection",
-        "answer": "FLOOR",
+        "clue": "Studio behind “Coco” and “Cars”",
+        "answer": "PIXAR",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Not phony, informally",
-        "answer": "LEGIT",
+        "clue": "When some late lunches begin",
+        "answer": "ATTWO",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Figure skating jump",
-        "answer": "AXEL",
+        "clue": "___ and Caicos",
+        "answer": "TURKS",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Half of a portmanteau combined with “-borhood”",
-        "answer": "GAY",
+        "clue": "Luxury health retreats",
+        "answer": "SPAS",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "“Dancing Queen” band",
-        "answer": "ABBA",
+        "clue": "Snickering laugh",
+        "answer": "HEHE",
         "row": 1,
         "col": 0
       }

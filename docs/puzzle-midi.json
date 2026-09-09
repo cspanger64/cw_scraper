@@ -1,329 +1,352 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
+      "C",
+      "O",
       "A",
-      "S",
-      "S",
+      "T",
       null,
-      "H",
+      null,
+      null,
+      "C",
+      "O",
+      "T"
+    ],
+    [
       "A",
-      "W",
+      "R",
+      "M",
+      "O",
+      "R",
       null,
-      null
+      null,
+      "O",
+      "A",
+      "R"
     ],
     [
       "P",
-      "H",
-      "L",
+      "E",
+      "P",
+      "P",
+      "E",
+      "R",
       null,
-      "B",
-      "R",
-      "A",
       "S",
-      "S"
-    ],
-    [
-      "P",
-      "R",
-      "O",
-      "T",
-      "O",
-      "T",
-      "Y",
-      "P",
+      "H",
       "E"
     ],
     [
       "S",
+      "O",
+      "S",
+      null,
+      "H",
+      "I",
+      "A",
+      "T",
       "U",
-      "M",
-      "O",
-      null,
-      null,
-      "M",
-      "E",
-      "W"
-    ],
-    [
-      null,
-      "G",
-      "O",
-      "T",
-      "O",
-      "T",
-      "O",
-      "W",
-      "N"
+      "S"
     ],
     [
       null,
       null,
       null,
+      "S",
       "E",
-      "W",
-      "E",
+      "T",
+      "S",
       null,
       null,
       null
     ],
     [
+      null,
+      null,
+      "A",
+      "M",
+      "A",
+      "Z",
+      "I",
+      "N",
+      "G",
+      null
+    ],
+    [
+      "Z",
+      "I",
+      "P",
+      "I",
+      "T",
+      null,
       "D",
       "O",
-      "U",
-      "B",
-      "L",
-      "E",
       "O",
-      "T",
-      "S"
+      "M"
     ],
     [
-      "A",
-      "U",
-      "R",
-      "A",
+      "I",
+      "D",
+      "O",
+      "L",
+      "S",
       null,
-      "N",
-      "A",
-      "M",
+      "E",
+      "L",
+      "S",
       "E"
     ],
     [
-      "B",
-      "I",
-      "N",
-      "G",
+      "T",
+      "A",
+      "P",
+      "E",
       null,
-      "S",
-      "K",
-      "I",
-      "T"
+      null,
+      null,
+      "A",
+      "H",
+      "H"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Ending with half or hard",
-        "answer": "ASS",
+        "clue": "Cold weather layer",
+        "answer": "COAT",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Hem and ___ (be indecisive)",
-        "answer": "HAW",
+        "num": 5,
+        "clue": "Easily movable bed",
+        "answer": "COT",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 7,
-        "clue": "Airport code for the City of Brotherly Love",
-        "answer": "PHL",
-        "row": 1,
-        "col": 0
+        "col": 7
       },
       {
         "num": 8,
-        "clue": "Military higher-ups, collectively",
-        "answer": "BRASS",
+        "clue": "What squires helped knights put on",
+        "answer": "ARMOR",
         "row": 1,
-        "col": 4
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Rower’s implement",
+        "answer": "OAR",
+        "row": 1,
+        "col": 7
       },
       {
         "num": 11,
-        "clue": "Experimental model",
-        "answer": "PROTOTYPE",
+        "clue": "Spice in a grinder",
+        "answer": "PEPPER",
         "row": 2,
         "col": 0
       },
       {
         "num": 13,
-        "clue": "Sport whose competitors are known as rikishi",
-        "answer": "SUMO",
+        "clue": "“___ Drives Me Crazy” (Fine Young Cannibals hit)",
+        "answer": "SHE",
+        "row": 2,
+        "col": 7
+      },
+      {
+        "num": 14,
+        "clue": "“Help!”",
+        "answer": "SOS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "Cat’s quiet call",
-        "answer": "MEW",
-        "row": 3,
-        "col": 6
-      },
-      {
         "num": 15,
-        "clue": "“Please, have at it!”",
-        "answer": "GOTOTOWN",
-        "row": 4,
-        "col": 1
+        "clue": "Temporary break",
+        "answer": "HIATUS",
+        "row": 3,
+        "col": 4
       },
       {
-        "num": 18,
-        "clue": "Sheepish mother?",
-        "answer": "EWE",
-        "row": 5,
+        "num": 17,
+        "clue": "Play backdrops",
+        "answer": "SETS",
+        "row": 4,
         "col": 3
       },
       {
-        "num": 19,
-        "clue": "N.B.A. rarities, for short … or what 11- and 15-Across contain",
-        "answer": "DOUBLEOTS",
+        "num": 18,
+        "clue": "Fantastic",
+        "answer": "AMAZING",
+        "row": 5,
+        "col": 2
+      },
+      {
+        "num": 21,
+        "clue": "“Quiet, you!”",
+        "answer": "ZIPIT",
         "row": 6,
         "col": 0
       },
       {
+        "num": 23,
+        "clue": "___ and gloom",
+        "answer": "DOOM",
+        "row": 6,
+        "col": 6
+      },
+      {
         "num": 25,
-        "clue": "___ loss (hit to one’s coolness, in Gen Z slang)",
-        "answer": "AURA",
+        "clue": "People put on pedestals",
+        "answer": "IDOLS",
         "row": 7,
         "col": 0
       },
       {
         "num": 26,
-        "clue": "Penny, Kenny or Jenny",
-        "answer": "NAME",
+        "clue": "“What ___ can I do?”",
+        "answer": "ELSE",
         "row": 7,
-        "col": 5
+        "col": 6
       },
       {
         "num": 27,
-        "clue": "Default search engine for Microsoft Edge",
-        "answer": "BING",
+        "clue": "Something a marathon winner runs through at the end of a race",
+        "answer": "TAPE",
         "row": 8,
         "col": 0
       },
       {
         "num": 28,
-        "clue": "Variety show bit",
-        "answer": "SKIT",
+        "clue": "“That feels gooood”",
+        "answer": "AHH",
         "row": 8,
-        "col": 5
+        "col": 7
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Home screen array",
-        "answer": "APPS",
+        "clue": "ALL ___ (FEATURE OF THIS CLUE)",
+        "answer": "CAPS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "[No clue]",
-        "answer": "SHRUG",
+        "clue": "Crumbly topping for froyo",
+        "answer": "OREO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "What some action film scenes and sports replays are shown in",
-        "answer": "SLOMO",
+        "clue": "Electric guitar accessories",
+        "answer": "AMPS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "“Curb Your Enthusiasm” airer",
-        "answer": "HBO",
+        "clue": "Appropriate grid location for this answer",
+        "answer": "TOP",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "The “A” of MoMA",
-        "answer": "ART",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Robotaxi company based in Silicon Valley",
-        "answer": "WAYMO",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 9,
-        "clue": "Shoot, as lava from a volcano",
-        "answer": "SPEW",
-        "row": 1,
-        "col": 7
-      },
-      {
-        "num": 10,
-        "clue": "Stitched",
-        "answer": "SEWN",
-        "row": 1,
-        "col": 8
-      },
-      {
-        "num": 12,
-        "clue": "Common trade show freebie",
-        "answer": "TOTEBAG",
-        "row": 2,
         "col": 3
       },
       {
-        "num": 16,
-        "clue": "Woodsy ___, mascot who says “Give a hoot! Don’t pollute!”",
-        "answer": "OWL",
-        "row": 4,
+        "num": 5,
+        "clue": "Price",
+        "answer": "COST",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 6,
+        "clue": "Most-populous Hawaiian island",
+        "answer": "OAHU",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 7,
+        "clue": "Uno + dos",
+        "answer": "TRES",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 9,
+        "clue": "Puts in the microwave, as leftovers",
+        "answer": "REHEATS",
+        "row": 1,
         "col": 4
       },
       {
-        "num": 17,
-        "clue": "Stereotypically angsty individuals",
-        "answer": "TEENS",
-        "row": 4,
+        "num": 12,
+        "clue": "Cracker brand in a red box",
+        "answer": "RITZ",
+        "row": 2,
         "col": 5
       },
       {
+        "num": 16,
+        "clue": "Out of the way",
+        "answer": "ASIDE",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "num": 17,
+        "clue": "Frown turned upside down",
+        "answer": "SMILE",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 18,
+        "clue": "Each",
+        "answer": "APOP",
+        "row": 5,
+        "col": 2
+      },
+      {
         "num": 19,
-        "clue": "Dollop",
-        "answer": "DAB",
+        "clue": "Bourbon Street’s locale, informally",
+        "answer": "NOLA",
+        "row": 5,
+        "col": 7
+      },
+      {
+        "num": 20,
+        "clue": "“Golly gee!”",
+        "answer": "GOSH",
+        "row": 5,
+        "col": 8
+      },
+      {
+        "num": 21,
+        "clue": "Pimple",
+        "answer": "ZIT",
         "row": 6,
         "col": 0
       },
       {
-        "num": 20,
-        "clue": "French assent",
-        "answer": "OUI",
+        "num": 22,
+        "clue": "Civil rights leader ___ B. Wells",
+        "answer": "IDA",
         "row": 6,
         "col": 1
       },
       {
-        "num": 21,
-        "clue": "Coffee container",
-        "answer": "URN",
-        "row": 6,
-        "col": 2
-      },
-      {
-        "num": 22,
-        "clue": "Sturdy shade tree",
-        "answer": "OAK",
-        "row": 6,
-        "col": 6
-      },
-      {
-        "num": 23,
-        "clue": "“OMG, I do NOT need to know that!”",
-        "answer": "TMI",
-        "row": 6,
-        "col": 7
-      },
-      {
         "num": 24,
-        "clue": "Tennis match division",
-        "answer": "SET",
+        "clue": "“It’s just so-so”",
+        "answer": "MEH",
         "row": 6,
-        "col": 8
+        "col": 9
       }
     ]
   }
