@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "P",
+      "D",
+      "N",
       "A",
-      "T",
+      null
+    ],
+    [
+      "J",
+      "E",
+      "A",
+      "N",
       "S"
     ],
     [
-      "H",
+      "U",
+      "N",
       "I",
       "T",
-      "U",
-      "P"
+      "E"
     ],
     [
-      "E",
-      "X",
-      "T",
-      "R",
-      "A"
-    ],
-    [
-      "H",
-      "A",
-      "W",
-      "K",
-      "S"
-    ],
-    [
-      "E",
-      "R",
+      "D",
+      "I",
+      "V",
       "O",
-      "S",
-      null
+      "T"
+    ],
+    [
+      "O",
+      "M",
+      "E",
+      "N",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Gentle, comforting touches",
-        "answer": "PATS",
+        "clue": "Humans share about 99% of it with chimps",
+        "answer": "DNA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Give a call or text, informally",
-        "answer": "HITUP",
+        "num": 4,
+        "clue": "Blue attire made of 1-Down",
+        "answer": "JEANS",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Background actor",
-        "answer": "EXTRA",
+        "clue": "Bring together",
+        "answer": "UNITE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Avid war advocates",
-        "answer": "HAWKS",
+        "clue": "Chunk taken out of a golf fairway",
+        "answer": "DIVOT",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Greek god of love",
-        "answer": "EROS",
+        "clue": "Foreboding signs",
+        "answer": "OMENS",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Studio behind “Coco” and “Cars”",
-        "answer": "PIXAR",
+        "clue": "Blue material in 4-Across",
+        "answer": "DENIM",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "When some late lunches begin",
-        "answer": "ATTWO",
+        "clue": "Gullible",
+        "answer": "NAIVE",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "___ and Caicos",
-        "answer": "TURKS",
+        "clue": "___ Chigurh, Javier Bardem’s Oscar-winning role in “No Country for Old Men”",
+        "answer": "ANTON",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Luxury health retreats",
-        "answer": "SPAS",
-        "row": 0,
-        "col": 4
+        "clue": "Olympic martial art",
+        "answer": "JUDO",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Snickering laugh",
-        "answer": "HEHE",
+        "clue": "Theater backdrops",
+        "answer": "SETS",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
