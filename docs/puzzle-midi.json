@@ -5,61 +5,49 @@
   ],
   "grid": [
     [
-      "C",
-      "O",
+      "M",
       "A",
-      "T",
+      "G",
+      "I",
       null,
       null,
-      null,
-      "C",
-      "O",
+      "L",
+      "I",
+      "S",
       "T"
     ],
     [
-      "A",
-      "R",
-      "M",
       "O",
-      "R",
-      null,
-      null,
-      "O",
-      "A",
-      "R"
-    ],
-    [
-      "P",
+      "X",
       "E",
-      "P",
-      "P",
-      "E",
-      "R",
+      "N",
       null,
-      "S",
-      "H",
-      "E"
-    ],
-    [
-      "S",
-      "O",
-      "S",
-      null,
-      "H",
-      "I",
-      "A",
       "T",
-      "U",
+      "A",
+      "S",
+      "K",
       "S"
     ],
     [
-      null,
-      null,
-      null,
+      "C",
+      "E",
+      "N",
       "S",
+      "O",
+      "R",
+      "S",
+      "H",
+      "I",
+      "P"
+    ],
+    [
+      null,
+      "L",
       "E",
       "T",
-      "S",
+      "L",
+      "I",
+      "E",
       null,
       null,
       null
@@ -67,285 +55,283 @@
     [
       null,
       null,
+      null,
       "A",
+      "D",
+      "O",
+      "R",
+      "B",
+      "S",
+      null
+    ],
+    [
+      "I",
       "M",
       "A",
-      "Z",
-      "I",
-      "N",
       "G",
-      null
-    ],
-    [
-      "Z",
-      "I",
-      "P",
-      "I",
-      "T",
+      "E",
       null,
-      "D",
-      "O",
-      "O",
-      "M"
+      "B",
+      "E",
+      "E",
+      "T"
     ],
     [
-      "I",
-      "D",
+      "T",
       "O",
-      "L",
+      "U",
+      "R",
       "S",
       null,
       "E",
       "L",
-      "S",
+      "L",
       "E"
     ],
     [
-      "T",
-      "A",
-      "P",
       "E",
-      null,
-      null,
+      "N",
+      "D",
+      "A",
+      "T",
       null,
       "A",
-      "H",
-      "H"
+      "L",
+      "M",
+      "A"
+    ],
+    [
+      "M",
+      "A",
+      "I",
+      "M",
+      null,
+      null,
+      "M",
+      "A",
+      "A",
+      "M"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Cold weather layer",
-        "answer": "COAT",
+        "clue": "“The Gift of the ___”",
+        "answer": "MAGI",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Easily movable bed",
-        "answer": "COT",
+        "clue": "Grocery shopper’s memory aid",
+        "answer": "LIST",
         "row": 0,
-        "col": 7
+        "col": 6
       },
       {
-        "num": 8,
-        "clue": "What squires helped knights put on",
-        "answer": "ARMOR",
+        "num": 9,
+        "clue": "Plow-pulling animals",
+        "answer": "OXEN",
         "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Rower’s implement",
-        "answer": "OAR",
+        "clue": "Things to do",
+        "answer": "TASKS",
         "row": 1,
-        "col": 7
+        "col": 5
       },
       {
         "num": 11,
-        "clue": "Spice in a grinder",
-        "answer": "PEPPER",
+        "clue": "Banning books or limiting free speech, for example",
+        "answer": "CENSORSHIP",
         "row": 2,
         "col": 0
       },
       {
         "num": 13,
-        "clue": "“___ Drives Me Crazy” (Fine Young Cannibals hit)",
-        "answer": "SHE",
-        "row": 2,
-        "col": 7
+        "clue": "Not disturb, as sleeping dogs",
+        "answer": "LETLIE",
+        "row": 3,
+        "col": 1
       },
       {
         "num": 14,
-        "clue": "“Help!”",
-        "answer": "SOS",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Temporary break",
-        "answer": "HIATUS",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 17,
-        "clue": "Play backdrops",
-        "answer": "SETS",
+        "clue": "“So cute!,” cutesily",
+        "answer": "ADORBS",
         "row": 4,
         "col": 3
       },
       {
-        "num": 18,
-        "clue": "Fantastic",
-        "answer": "AMAZING",
+        "num": 17,
+        "clue": "Public relations concern",
+        "answer": "IMAGE",
         "row": 5,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 21,
-        "clue": "“Quiet, you!”",
-        "answer": "ZIPIT",
+        "num": 20,
+        "clue": "Red vegetable in borscht",
+        "answer": "BEET",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 22,
+        "clue": "Promotes an album in many arenas, say",
+        "answer": "TOURS",
         "row": 6,
         "col": 0
       },
       {
         "num": 23,
-        "clue": "___ and gloom",
-        "answer": "DOOM",
+        "clue": "French fashion magazine",
+        "answer": "ELLE",
         "row": 6,
         "col": 6
       },
       {
-        "num": 25,
-        "clue": "People put on pedestals",
-        "answer": "IDOLS",
+        "num": 24,
+        "clue": "Conclude by",
+        "answer": "ENDAT",
         "row": 7,
         "col": 0
       },
       {
-        "num": 26,
-        "clue": "“What ___ can I do?”",
-        "answer": "ELSE",
+        "num": 25,
+        "clue": "___ mater",
+        "answer": "ALMA",
         "row": 7,
         "col": 6
       },
       {
-        "num": 27,
-        "clue": "Something a marathon winner runs through at the end of a race",
-        "answer": "TAPE",
+        "num": 26,
+        "clue": "Seriously wound",
+        "answer": "MAIM",
         "row": 8,
         "col": 0
       },
       {
-        "num": 28,
-        "clue": "“That feels gooood”",
-        "answer": "AHH",
+        "num": 27,
+        "clue": "Palindromic term of address",
+        "answer": "MAAM",
         "row": 8,
-        "col": 7
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "ALL ___ (FEATURE OF THIS CLUE)",
-        "answer": "CAPS",
+        "clue": "Comfy shoe, for short",
+        "answer": "MOC",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Crumbly topping for froyo",
-        "answer": "OREO",
+        "clue": "Figure skating jump",
+        "answer": "AXEL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Electric guitar accessories",
-        "answer": "AMPS",
+        "clue": "Basic unit of heredity",
+        "answer": "GENE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Appropriate grid location for this answer",
-        "answer": "TOP",
+        "clue": "App often shortened to its first five letters",
+        "answer": "INSTAGRAM",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Price",
-        "answer": "COST",
+        "clue": "Glowing obstacle in some heist movies",
+        "answer": "LASERBEAM",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "“Sorta” suffix",
+        "answer": "ISH",
         "row": 0,
         "col": 7
       },
       {
-        "num": 6,
-        "clue": "Most-populous Hawaiian island",
-        "answer": "OAHU",
+        "num": 7,
+        "clue": "Hit the slopes",
+        "answer": "SKI",
         "row": 0,
         "col": 8
       },
       {
-        "num": 7,
-        "clue": "Uno + dos",
-        "answer": "TRES",
+        "num": 8,
+        "clue": "Baker’s measure: Abbr.",
+        "answer": "TSP",
         "row": 0,
         "col": 9
       },
       {
-        "num": 9,
-        "clue": "Puts in the microwave, as leftovers",
-        "answer": "REHEATS",
+        "num": 10,
+        "clue": "Threesome",
+        "answer": "TRIO",
         "row": 1,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "Cracker brand in a red box",
-        "answer": "RITZ",
-        "row": 2,
         "col": 5
       },
       {
+        "num": 12,
+        "clue": "Firstborn",
+        "answer": "OLDEST",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "Protagonist in the “Twilight” series",
+        "answer": "BELLA",
+        "row": 4,
+        "col": 7
+      },
+      {
         "num": 16,
-        "clue": "Out of the way",
-        "answer": "ASIDE",
-        "row": 3,
-        "col": 6
+        "clue": "Alabama city in civil rights history",
+        "answer": "SELMA",
+        "row": 4,
+        "col": 8
       },
       {
         "num": 17,
-        "clue": "Frown turned upside down",
-        "answer": "SMILE",
-        "row": 4,
-        "col": 3
+        "clue": "One object … or two celebrities?",
+        "answer": "ITEM",
+        "row": 5,
+        "col": 0
       },
       {
         "num": 18,
-        "clue": "Each",
-        "answer": "APOP",
+        "clue": "___ Lisa Vito, iconic character played by Marisa Tomei in “My Cousin Vinny”",
+        "answer": "MONA",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 19,
+        "clue": "Automaker with a four-ring logo",
+        "answer": "AUDI",
         "row": 5,
         "col": 2
       },
       {
-        "num": 19,
-        "clue": "Bourbon Street’s locale, informally",
-        "answer": "NOLA",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 20,
-        "clue": "“Golly gee!”",
-        "answer": "GOSH",
-        "row": 5,
-        "col": 8
-      },
-      {
         "num": 21,
-        "clue": "Pimple",
-        "answer": "ZIT",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 22,
-        "clue": "Civil rights leader ___ B. Wells",
-        "answer": "IDA",
-        "row": 6,
-        "col": 1
-      },
-      {
-        "num": 24,
-        "clue": "“It’s just so-so”",
-        "answer": "MEH",
-        "row": 6,
+        "clue": "There’s no “I” in it, so they say",
+        "answer": "TEAM",
+        "row": 5,
         "col": 9
       }
     ]
