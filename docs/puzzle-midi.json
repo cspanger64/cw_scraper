@@ -1,338 +1,308 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "M",
-      "A",
-      "G",
-      "I",
-      null,
-      null,
-      "L",
-      "I",
-      "S",
-      "T"
-    ],
-    [
-      "O",
-      "X",
-      "E",
-      "N",
       null,
       "T",
+      "R",
+      "I",
       "A",
-      "S",
-      "K",
-      "S"
+      "L",
+      null,
+      null,
+      null
     ],
     [
-      "C",
-      "E",
-      "N",
-      "S",
-      "O",
-      "R",
       "S",
       "H",
       "I",
-      "P"
-    ],
-    [
-      null,
-      "L",
-      "E",
-      "T",
-      "L",
-      "I",
-      "E",
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "A",
-      "D",
-      "O",
-      "R",
-      "B",
-      "S",
-      null
-    ],
-    [
-      "I",
-      "M",
-      "A",
-      "G",
-      "E",
-      null,
-      "B",
-      "E",
-      "E",
-      "T"
-    ],
-    [
-      "T",
-      "O",
-      "U",
-      "R",
-      "S",
-      null,
-      "E",
-      "L",
-      "L",
-      "E"
-    ],
-    [
-      "E",
       "N",
       "D",
-      "A",
-      "T",
-      null,
-      "A",
-      "L",
-      "M",
-      "A"
+      "I",
+      "G",
+      "S",
+      null
     ],
     [
+      "P",
+      "A",
+      "D",
+      "K",
+      "E",
+      "E",
       "M",
+      "A",
+      "O"
+    ],
+    [
+      "A",
+      "W",
+      "E",
+      "S",
+      null,
+      null,
+      "E",
+      "L",
+      "K"
+    ],
+    [
+      null,
+      null,
+      null,
+      "T",
+      "B",
+      "O",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "U",
+      "P",
       "A",
       "I",
-      "M",
+      "R",
       null,
       null,
+      null
+    ],
+    [
+      "S",
+      "C",
+      "R",
+      "I",
+      "B",
+      "B",
+      "L",
+      "E",
+      null
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "N",
+      null,
+      "I",
+      "A",
       "M",
+      null
+    ],
+    [
+      "P",
       "A",
-      "A",
-      "M"
+      "Y",
+      "S",
+      null,
+      "T",
+      "W",
+      "O",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "“The Gift of the ___”",
-        "answer": "MAGI",
+        "clue": "___ and error",
+        "answer": "TRIAL",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 5,
-        "clue": "Grocery shopper’s memory aid",
-        "answer": "LIST",
-        "row": 0,
-        "col": 6
+        "num": 6,
+        "clue": "Big blowout parties",
+        "answer": "SHINDIGS",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Plow-pulling animals",
-        "answer": "OXEN",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Things to do",
-        "answer": "TASKS",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 11,
-        "clue": "Banning books or limiting free speech, for example",
-        "answer": "CENSORSHIP",
+        "clue": "Thai entree with wide rice noodles",
+        "answer": "PADKEEMAO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Not disturb, as sleeping dogs",
-        "answer": "LETLIE",
+        "num": 11,
+        "clue": "Completely wows",
+        "answer": "AWES",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 14,
-        "clue": "“So cute!,” cutesily",
-        "answer": "ADORBS",
+        "num": 12,
+        "clue": "Relative of a moose",
+        "answer": "ELK",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "num": 13,
+        "clue": "Steakhouse choices named for a letter",
+        "answer": "TBONES",
         "row": 4,
         "col": 3
       },
       {
-        "num": 17,
-        "clue": "Public relations concern",
-        "answer": "IMAGE",
+        "num": 16,
+        "clue": "Foreign helper around the house",
+        "answer": "AUPAIR",
         "row": 5,
         "col": 0
       },
       {
-        "num": 20,
-        "clue": "Red vegetable in borscht",
-        "answer": "BEET",
-        "row": 5,
-        "col": 6
+        "num": 19,
+        "clue": "Jot (down)",
+        "answer": "SCRIBBLE",
+        "row": 6,
+        "col": 0
       },
       {
         "num": 22,
-        "clue": "Promotes an album in many arenas, say",
-        "answer": "TOURS",
-        "row": 6,
+        "clue": "Country music legend Jackson",
+        "answer": "ALAN",
+        "row": 7,
         "col": 0
       },
       {
         "num": 23,
-        "clue": "French fashion magazine",
-        "answer": "ELLE",
-        "row": 6,
-        "col": 6
+        "clue": "“… or so ___ told”",
+        "answer": "IAM",
+        "row": 7,
+        "col": 5
       },
       {
         "num": 24,
-        "clue": "Conclude by",
-        "answer": "ENDAT",
-        "row": 7,
+        "clue": "Picks up the bill",
+        "answer": "PAYS",
+        "row": 8,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "___ mater",
-        "answer": "ALMA",
-        "row": 7,
-        "col": 6
-      },
-      {
-        "num": 26,
-        "clue": "Seriously wound",
-        "answer": "MAIM",
+        "clue": "Approximate percentage of the global population with red hair",
+        "answer": "TWO",
         "row": 8,
-        "col": 0
-      },
-      {
-        "num": 27,
-        "clue": "Palindromic term of address",
-        "answer": "MAAM",
-        "row": 8,
-        "col": 6
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Comfy shoe, for short",
-        "answer": "MOC",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Figure skating jump",
-        "answer": "AXEL",
+        "clue": "Defrost",
+        "answer": "THAW",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Basic unit of heredity",
-        "answer": "GENE",
+        "num": 2,
+        "clue": "Amusement park attraction",
+        "answer": "RIDE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "App often shortened to its first five letters",
-        "answer": "INSTAGRAM",
+        "num": 3,
+        "clue": "Smudges from a leaky pen",
+        "answer": "INKSTAINS",
         "row": 0,
         "col": 3
       },
       {
+        "num": 4,
+        "clue": "Commercial suffix with Power",
+        "answer": "ADE",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 5,
-        "clue": "Glowing obstacle in some heist movies",
-        "answer": "LASERBEAM",
+        "clue": "“This clue does not contain the letters E, L or I,” e.g.",
+        "answer": "LIE",
         "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "“Sorta” suffix",
-        "answer": "ISH",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "Hit the slopes",
-        "answer": "SKI",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 8,
-        "clue": "Baker’s measure: Abbr.",
-        "answer": "TSP",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 10,
-        "clue": "Threesome",
-        "answer": "TRIO",
-        "row": 1,
         "col": 5
       },
       {
-        "num": 12,
-        "clue": "Firstborn",
-        "answer": "OLDEST",
+        "num": 6,
+        "clue": "Spot for a massage",
+        "answer": "SPA",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Nickname for a New York football team",
+        "answer": "GMEN",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 8,
+        "clue": "Black Friday enticement",
+        "answer": "SALE",
+        "row": 1,
+        "col": 7
+      },
+      {
+        "num": 10,
+        "clue": "Approves",
+        "answer": "OKS",
         "row": 2,
+        "col": 8
+      },
+      {
+        "num": 14,
+        "clue": "Protective wear for a baby or a lobster eater",
+        "answer": "BIB",
+        "row": 4,
         "col": 4
       },
       {
         "num": 15,
-        "clue": "Protagonist in the “Twilight” series",
-        "answer": "BELLA",
+        "clue": "Path around the sun, say",
+        "answer": "ORBIT",
         "row": 4,
-        "col": 7
+        "col": 5
       },
       {
         "num": 16,
-        "clue": "Alabama city in civil rights history",
-        "answer": "SELMA",
-        "row": 4,
-        "col": 8
-      },
-      {
-        "num": 17,
-        "clue": "One object … or two celebrities?",
-        "answer": "ITEM",
+        "clue": "“I need this now!”",
+        "answer": "ASAP",
         "row": 5,
         "col": 0
       },
       {
-        "num": 18,
-        "clue": "___ Lisa Vito, iconic character played by Marisa Tomei in “My Cousin Vinny”",
-        "answer": "MONA",
+        "num": 17,
+        "clue": "State sch. south of Bel Air",
+        "answer": "UCLA",
         "row": 5,
         "col": 1
       },
       {
-        "num": 19,
-        "clue": "Automaker with a four-ring logo",
-        "answer": "AUDI",
+        "num": 18,
+        "clue": "🙏",
+        "answer": "PRAY",
         "row": 5,
         "col": 2
       },
       {
+        "num": 20,
+        "clue": "What a future attorney studies",
+        "answer": "LAW",
+        "row": 6,
+        "col": 6
+      },
+      {
         "num": 21,
-        "clue": "There’s no “I” in it, so they say",
-        "answer": "TEAM",
-        "row": 5,
-        "col": 9
+        "clue": "Genre for Taking Back Sunday",
+        "answer": "EMO",
+        "row": 6,
+        "col": 7
       }
     ]
   }

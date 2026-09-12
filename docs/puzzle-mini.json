@@ -1,118 +1,195 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "R",
+      "O",
+      "Y",
+      "S",
+      "T",
       "E",
-      "B",
-      "U",
+      "R",
       "S"
     ],
     [
-      "I",
-      "D",
-      "A",
-      "H",
-      "O"
-    ],
-    [
-      "D",
-      "E",
       "C",
-      "A",
-      "F"
-    ],
-    [
-      "S",
-      "N",
       "O",
-      "U",
+      "P",
+      "I",
+      "L",
+      "O",
       "T"
     ],
     [
-      null,
-      "S",
+      "T",
+      "U",
+      "R",
       "N",
-      "L",
+      "K",
+      "E",
+      "Y"
+    ],
+    [
+      "A",
+      "W",
+      "A",
+      "Y",
+      null,
+      null,
       null
+    ],
+    [
+      "V",
+      "I",
+      "N",
+      "T",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "G",
+      "I",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      null,
+      null,
+      null,
+      "M",
+      "A",
+      "L",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Picture puzzle where 👁️ + ❤️ + 🐑 means “I love you”",
-        "answer": "REBUS",
+        "clue": "If you order “ostriche” on an Italian menu, you actually get these",
+        "answer": "OYSTERS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Its license plates read “Famous Potatoes”",
-        "answer": "IDAHO",
+        "num": 8,
+        "clue": "Microsoft’s A.I. assistant",
+        "answer": "COPILOT",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "After-dinner coffee order",
-        "answer": "DECAF",
+        "num": 9,
+        "clue": "Move-in-ready, as a house for sale",
+        "answer": "TURNKEY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Distinctive feature of an aardvark",
-        "answer": "SNOUT",
+        "num": 10,
+        "clue": "Home’s opposite, on scoreboards",
+        "answer": "AWAY",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Long-running show with a cold open, familiarly",
-        "answer": "SNL",
+        "num": 11,
+        "clue": "Old and classic, as a car",
+        "answer": "VINTAGE",
         "row": 4,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "They’re revved with a “Vroom!”",
+        "answer": "ENGINES",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "M, on a form",
+        "answer": "MALE",
+        "row": 6,
+        "col": 3
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Frees (of)",
-        "answer": "RIDS",
+        "clue": "Span from C to C, in music",
+        "answer": "OCTAVE",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Utopian places",
-        "answer": "EDENS",
+        "clue": "“Fine, I give up”",
+        "answer": "YOUWIN",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "“I’ll bring home the turkey if you bring home the ___” (Weezer lyric)",
-        "answer": "BACON",
+        "clue": "Pounced",
+        "answer": "SPRANG",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Big name in moving trucks",
-        "answer": "UHAUL",
+        "clue": "Young boy saved by Scrooge’s change of heart",
+        "answer": "TINYTIM",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Word before ware or ball",
-        "answer": "SOFT",
+        "clue": "Antlered animal of the Rockies",
+        "answer": "ELK",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Fish eggs",
+        "answer": "ROE",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "Home with a trough of slop",
+        "answer": "STY",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 12,
+        "clue": "Actress de Armas",
+        "answer": "ANA",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 13,
+        "clue": "Stylist’s goo",
+        "answer": "GEL",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 14,
+        "clue": "Suffix with Vietnam and Senegal",
+        "answer": "ESE",
+        "row": 4,
+        "col": 6
       }
     ]
   }
