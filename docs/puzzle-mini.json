@@ -1,195 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "O",
-      "Y",
-      "S",
-      "T",
-      "E",
+      "C",
+      "A",
+      "P",
       "R",
-      "S"
+      "I"
     ],
     [
-      "C",
-      "O",
-      "P",
+      "A",
+      "L",
+      "L",
       "I",
+      "N"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "C",
+      "K"
+    ],
+    [
       "L",
       "O",
-      "T"
-    ],
-    [
-      "T",
-      "U",
-      "R",
       "N",
-      "K",
       "E",
-      "Y"
-    ],
-    [
-      "A",
-      "W",
-      "A",
-      "Y",
-      null,
-      null,
       null
     ],
     [
-      "V",
-      "I",
-      "N",
-      "T",
-      "A",
-      "G",
-      "E"
-    ],
-    [
       "E",
-      "N",
-      "G",
-      "I",
-      "N",
+      "Y",
       "E",
-      "S"
-    ],
-    [
       null,
-      null,
-      null,
-      "M",
-      "A",
-      "L",
-      "E"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "If you order “ostriche” on an Italian menu, you actually get these",
-        "answer": "OYSTERS",
+        "clue": "___ Sun (juice drink)",
+        "answer": "CAPRI",
         "row": 0,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Microsoft’s A.I. assistant",
-        "answer": "COPILOT",
+        "num": 6,
+        "clue": "Maximum poker bet",
+        "answer": "ALLIN",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Move-in-ready, as a house for sale",
-        "answer": "TURNKEY",
+        "num": 7,
+        "clue": "With 9-Across, injury treated with a raw steak in old cartoons",
+        "answer": "BLACK",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Home’s opposite, on scoreboards",
-        "answer": "AWAY",
+        "num": 8,
+        "clue": "Only",
+        "answer": "LONE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Old and classic, as a car",
-        "answer": "VINTAGE",
+        "num": 9,
+        "clue": "With 7-Across, application on a football player’s face",
+        "answer": "EYE",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "They’re revved with a “Vroom!”",
-        "answer": "ENGINES",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "M, on a form",
-        "answer": "MALE",
-        "row": 6,
-        "col": 3
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Span from C to C, in music",
-        "answer": "OCTAVE",
+        "clue": "The “C” of CNN",
+        "answer": "CABLE",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "“Fine, I give up”",
-        "answer": "YOUWIN",
+        "clue": "Metal mixture",
+        "answer": "ALLOY",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Pounced",
-        "answer": "SPRANG",
+        "clue": "What Superman is mistaken for",
+        "answer": "PLANE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Young boy saved by Scrooge’s change of heart",
-        "answer": "TINYTIM",
+        "clue": "“___ is great when you’re hungry and you want 2,000 of something”: Mitch Hedberg",
+        "answer": "RICE",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Antlered animal of the Rockies",
-        "answer": "ELK",
+        "clue": "Printer’s supply",
+        "answer": "INK",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Fish eggs",
-        "answer": "ROE",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "Home with a trough of slop",
-        "answer": "STY",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 12,
-        "clue": "Actress de Armas",
-        "answer": "ANA",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "Stylist’s goo",
-        "answer": "GEL",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 14,
-        "clue": "Suffix with Vietnam and Senegal",
-        "answer": "ESE",
-        "row": 4,
-        "col": 6
       }
     ]
   }

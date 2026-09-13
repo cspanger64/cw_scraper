@@ -5,188 +5,202 @@
   ],
   "grid": [
     [
-      null,
-      "T",
-      "R",
-      "I",
-      "A",
-      "L",
+      "S",
+      "E",
+      "C",
       null,
       null,
-      null
+      "O",
+      "P",
+      "E",
+      "N"
     ],
     [
-      "S",
+      "O",
+      "A",
       "H",
-      "I",
-      "N",
-      "D",
+      "U",
+      null,
+      "C",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "B",
+      "R",
       "I",
       "G",
-      "S",
+      "H",
+      "T",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      null,
+      null,
+      null,
+      "L",
+      "I",
+      "E",
+      null,
+      null,
       null
     ],
     [
-      "P",
+      null,
+      "E",
+      "V",
+      "I",
+      "L",
+      "T",
+      "W",
+      "I",
+      "N"
+    ],
+    [
+      null,
+      "L",
       "A",
+      "N",
       "D",
-      "K",
-      "E",
-      "E",
-      "M",
+      null,
       "A",
-      "O"
-    ],
-    [
-      "A",
-      "W",
-      "E",
-      "S",
-      null,
-      null,
-      "E",
-      "L",
-      "K"
-    ],
-    [
-      null,
-      null,
-      null,
-      "T",
-      "B",
-      "O",
       "N",
-      "E",
-      "S"
+      "I"
     ],
     [
-      "A",
+      "B",
+      "L",
       "U",
-      "P",
-      "A",
-      "I",
-      "R",
-      null,
-      null,
-      null
-    ],
-    [
-      "S",
-      "C",
-      "R",
-      "I",
-      "B",
-      "B",
-      "L",
       "E",
-      null
-    ],
-    [
-      "A",
-      "L",
       "A",
       "N",
-      null,
-      "I",
-      "A",
-      "M",
-      null
+      "G",
+      "E",
+      "L"
     ],
     [
-      "P",
-      "A",
-      "Y",
+      "O",
+      "I",
+      "L",
       "S",
       null,
-      "T",
-      "W",
+      "B",
       "O",
-      null
+      "R",
+      "E"
+    ],
+    [
+      "W",
+      "E",
+      "T",
+      "S",
+      null,
+      "A",
+      "N",
+      "T",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ and error",
-        "answer": "TRIAL",
+        "clue": "“Hold on a ___!”",
+        "answer": "SEC",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 6,
-        "clue": "Big blowout parties",
-        "answer": "SHINDIGS",
+        "num": 4,
+        "clue": "Welcoming neon sign at a 24-hour diner",
+        "answer": "OPEN",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 8,
+        "clue": "Hawaiian island where Obama was born",
+        "answer": "OAHU",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Thai entree with wide rice noodles",
-        "answer": "PADKEEMAO",
+        "num": 10,
+        "clue": "Subterranean area",
+        "answer": "CAVE",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 11,
+        "clue": "What color you might turn when embarrassed",
+        "answer": "BRIGHTRED",
         "row": 2,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Completely wows",
-        "answer": "AWES",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Relative of a moose",
-        "answer": "ELK",
-        "row": 3,
-        "col": 6
-      },
-      {
         "num": 13,
-        "clue": "Steakhouse choices named for a letter",
-        "answer": "TBONES",
-        "row": 4,
+        "clue": "Tell a falsehood",
+        "answer": "LIE",
+        "row": 3,
         "col": 3
       },
       {
-        "num": 16,
-        "clue": "Foreign helper around the house",
-        "answer": "AUPAIR",
-        "row": 5,
-        "col": 0
+        "num": 14,
+        "clue": "Facetious scapegoat for a bad mistake, maybe",
+        "answer": "EVILTWIN",
+        "row": 4,
+        "col": 1
       },
       {
         "num": 19,
-        "clue": "Jot (down)",
-        "answer": "SCRIBBLE",
+        "clue": "Secure, as a job",
+        "answer": "LAND",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 20,
+        "clue": "“In or Out” singer DiFranco",
+        "answer": "ANI",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 21,
+        "clue": "Navy stunt pilot",
+        "answer": "BLUEANGEL",
         "row": 6,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Country music legend Jackson",
-        "answer": "ALAN",
+        "num": 23,
+        "clue": "Canola and corn products",
+        "answer": "OILS",
         "row": 7,
         "col": 0
       },
       {
-        "num": 23,
-        "clue": "“… or so ___ told”",
-        "answer": "IAM",
+        "num": 24,
+        "clue": "Yawnfest",
+        "answer": "BORE",
         "row": 7,
         "col": 5
       },
       {
-        "num": 24,
-        "clue": "Picks up the bill",
-        "answer": "PAYS",
+        "num": 25,
+        "clue": "Soaks with water",
+        "answer": "WETS",
         "row": 8,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "Approximate percentage of the global population with red hair",
-        "answer": "TWO",
+        "num": 26,
+        "clue": "Hill-building insects",
+        "answer": "ANTS",
         "row": 8,
         "col": 5
       }
@@ -194,115 +208,115 @@
     "down": [
       {
         "num": 1,
-        "clue": "Defrost",
-        "answer": "THAW",
+        "clue": "Break down crying",
+        "answer": "SOB",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 2,
-        "clue": "Amusement park attraction",
-        "answer": "RIDE",
+        "clue": "Place for a stud or a ring",
+        "answer": "EAR",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 3,
-        "clue": "Smudges from a leaky pen",
-        "answer": "INKSTAINS",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Commercial suffix with Power",
-        "answer": "ADE",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "“This clue does not contain the letters E, L or I,” e.g.",
-        "answer": "LIE",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Spot for a massage",
-        "answer": "SPA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Nickname for a New York football team",
-        "answer": "GMEN",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 8,
-        "clue": "Black Friday enticement",
-        "answer": "SALE",
-        "row": 1,
-        "col": 7
-      },
-      {
-        "num": 10,
-        "clue": "Approves",
-        "answer": "OKS",
-        "row": 2,
-        "col": 8
-      },
-      {
-        "num": 14,
-        "clue": "Protective wear for a baby or a lobster eater",
-        "answer": "BIB",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 15,
-        "clue": "Path around the sun, say",
-        "answer": "ORBIT",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 16,
-        "clue": "“I need this now!”",
-        "answer": "ASAP",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "State sch. south of Bel Air",
-        "answer": "UCLA",
-        "row": 5,
         "col": 1
       },
       {
-        "num": 18,
-        "clue": "🙏",
-        "answer": "PRAY",
-        "row": 5,
+        "num": 3,
+        "clue": "Life force, to an acupuncturist",
+        "answer": "CHI",
+        "row": 0,
         "col": 2
       },
       {
-        "num": 20,
-        "clue": "What a future attorney studies",
-        "answer": "LAW",
-        "row": 6,
+        "num": 4,
+        "clue": "Trio + five",
+        "answer": "OCTET",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "Golfer’s target",
+        "answer": "PAR",
+        "row": 0,
         "col": 6
       },
       {
-        "num": 21,
-        "clue": "Genre for Taking Back Sunday",
-        "answer": "EMO",
-        "row": 6,
+        "num": 6,
+        "clue": "Adam and ___",
+        "answer": "EVE",
+        "row": 0,
         "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "“The Simpsons” neighbor Flanders",
+        "answer": "NED",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 9,
+        "clue": "Initial problem for a storied duckling",
+        "answer": "UGLINESS",
+        "row": 1,
+        "col": 3
+      },
+      {
+        "num": 12,
+        "clue": "Broom-___ (comics witch)",
+        "answer": "HILDA",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "___ the Elephant (New York Liberty mascot with an alliterative name)",
+        "answer": "ELLIE",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 15,
+        "clue": "Bank storage space with heavy security",
+        "answer": "VAULT",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 16,
+        "clue": "Hayride vehicle",
+        "answer": "WAGON",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 17,
+        "clue": "Nonreactive, as some gases",
+        "answer": "INERT",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 18,
+        "clue": "“Frasier” brother",
+        "answer": "NILES",
+        "row": 4,
+        "col": 8
+      },
+      {
+        "num": 21,
+        "clue": "Acknowledge an ovation, in a way",
+        "answer": "BOW",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 22,
+        "clue": "Org. that discourages traveling?",
+        "answer": "NBA",
+        "row": 6,
+        "col": 5
       }
     ]
   }
