@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
+      null,
+      null,
+      "C",
+      "B",
+      "S"
+    ],
+    [
+      null,
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    [
       "C",
       "A",
-      "P",
-      "R",
-      "I"
+      "M",
+      "E",
+      "O"
     ],
     [
       "A",
-      "L",
-      "L",
+      "S",
       "I",
+      "A",
       "N"
     ],
     [
-      "B",
-      "L",
-      "A",
-      "C",
-      "K"
-    ],
-    [
-      "L",
+      "R",
       "O",
-      "N",
-      "E",
-      null
-    ],
-    [
-      "E",
-      "Y",
-      "E",
-      null,
-      null
+      "C",
+      "K",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ Sun (juice drink)",
-        "answer": "CAPRI",
+        "clue": "Channel for “Survivor” and “Big Brother”",
+        "answer": "CBS",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 6,
-        "clue": "Maximum poker bet",
-        "answer": "ALLIN",
+        "num": 4,
+        "clue": "Dessert wine",
+        "answer": "PORT",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "With 9-Across, injury treated with a raw steak in old cartoons",
-        "answer": "BLACK",
+        "num": 5,
+        "clue": "Alfred Hitchcock famously made one in 40 of his 53 films",
+        "answer": "CAMEO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Only",
-        "answer": "LONE",
+        "num": 6,
+        "clue": "Like elephants distinguished by their smaller rounded ears",
+        "answer": "ASIAN",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "With 7-Across, application on a football player’s face",
-        "answer": "EYE",
+        "num": 7,
+        "clue": "“The ___ Horror Show,” 2026 Broadway revival with nine Tony nominations",
+        "answer": "ROCKY",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "The “C” of CNN",
-        "answer": "CABLE",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Metal mixture",
-        "answer": "ALLOY",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "What Superman is mistaken for",
-        "answer": "PLANE",
+        "clue": "Word before relief, book or strip",
+        "answer": "COMIC",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "“___ is great when you’re hungry and you want 2,000 of something”: Mitch Hedberg",
-        "answer": "RICE",
+        "num": 2,
+        "clue": "Snap (off)",
+        "answer": "BREAK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Printer’s supply",
-        "answer": "INK",
+        "num": 3,
+        "clue": "Cold and unfeeling",
+        "answer": "STONY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "El ___, West Texas metropolis",
+        "answer": "PASO",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Expensive gift for a 16th birthday",
+        "answer": "CAR",
+        "row": 2,
+        "col": 0
       }
     ]
   }

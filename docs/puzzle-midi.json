@@ -5,316 +5,302 @@
   ],
   "grid": [
     [
-      "S",
-      "E",
+      "F",
+      "A",
       "C",
+      "T",
       null,
       null,
-      "O",
-      "P",
-      "E",
-      "N"
+      "A",
+      "L",
+      "A"
     ],
     [
-      "O",
       "A",
-      "H",
-      "U",
+      "L",
+      "I",
+      "A",
+      "S",
       null,
       "C",
-      "A",
-      "V",
-      "E"
+      "I",
+      "S"
     ],
     [
       "B",
-      "R",
+      "L",
+      "A",
+      "C",
+      "K",
+      "P",
       "I",
-      "G",
-      "H",
-      "T",
-      "R",
-      "E",
-      "D"
+      "N",
+      "K"
     ],
     [
       null,
       null,
       null,
+      "T",
+      "I",
+      "L",
+      "D",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "A",
+      "M",
+      null,
+      null,
+      "S",
+      "W",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "L",
+      "B",
+      null,
+      "A",
+      "G",
+      "O"
+    ],
+    [
       "L",
       "I",
+      "L",
+      "Y",
+      "R",
+      "O",
+      "S",
       "E",
-      null,
+      null
+    ],
+    [
+      "C",
+      "A",
+      "T",
+      "F",
+      "I",
+      "S",
+      "H",
       null,
       null
     ],
     [
-      null,
       "E",
-      "V",
-      "I",
       "L",
+      "A",
       "T",
-      "W",
-      "I",
-      "N"
-    ],
-    [
-      null,
-      "L",
-      "A",
-      "N",
-      "D",
-      null,
-      "A",
-      "N",
-      "I"
-    ],
-    [
-      "B",
-      "L",
-      "U",
       "E",
-      "A",
-      "N",
-      "G",
-      "E",
-      "L"
-    ],
-    [
-      "O",
-      "I",
-      "L",
       "S",
       null,
-      "B",
-      "O",
-      "R",
-      "E"
-    ],
-    [
-      "W",
-      "E",
-      "T",
-      "S",
       null,
-      "A",
-      "N",
-      "T",
-      "S"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "“Hold on a ___!”",
-        "answer": "SEC",
+        "clue": "That’s no lie!",
+        "answer": "FACT",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Welcoming neon sign at a 24-hour diner",
-        "answer": "OPEN",
+        "num": 5,
+        "clue": "Pie ___ mode",
+        "answer": "ALA",
         "row": 0,
-        "col": 5
+        "col": 6
       },
       {
         "num": 8,
-        "clue": "Hawaiian island where Obama was born",
-        "answer": "OAHU",
+        "clue": "2000s spy thriller series starring Jennifer Garner",
+        "answer": "ALIAS",
         "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Subterranean area",
-        "answer": "CAVE",
+        "clue": "Gender prefix",
+        "answer": "CIS",
         "row": 1,
-        "col": 5
+        "col": 6
       },
       {
         "num": 11,
-        "clue": "What color you might turn when embarrassed",
-        "answer": "BRIGHTRED",
+        "clue": "K-pop group with the hit song “How You Like That” [Colors]",
+        "answer": "BLACKPINK",
         "row": 2,
         "col": 0
       },
       {
         "num": 13,
-        "clue": "Tell a falsehood",
-        "answer": "LIE",
+        "clue": "~~~",
+        "answer": "TILDES",
         "row": 3,
         "col": 3
       },
       {
         "num": 14,
-        "clue": "Facetious scapegoat for a bad mistake, maybe",
-        "answer": "EVILTWIN",
+        "clue": "Construction project for beavers",
+        "answer": "DAM",
         "row": 4,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 19,
-        "clue": "Secure, as a job",
-        "answer": "LAND",
+        "num": 17,
+        "clue": "Hit with a rolled-up magazine, maybe",
+        "answer": "SWAT",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 18,
+        "clue": "Big name in floss",
+        "answer": "ORALB",
         "row": 5,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 20,
-        "clue": "“In or Out” singer DiFranco",
-        "answer": "ANI",
+        "num": 21,
+        "clue": "“A long, long time ___ …”",
+        "answer": "AGO",
         "row": 5,
         "col": 6
       },
       {
-        "num": 21,
-        "clue": "Navy stunt pilot",
-        "answer": "BLUEANGEL",
+        "num": 22,
+        "clue": "Actress Depp of 2024’s “Nosferatu” [Flowers]",
+        "answer": "LILYROSE",
         "row": 6,
         "col": 0
       },
       {
-        "num": 23,
-        "clue": "Canola and corn products",
-        "answer": "OILS",
+        "num": 24,
+        "clue": "Deceive with a fake digital dating profile [Animals]",
+        "answer": "CATFISH",
         "row": 7,
         "col": 0
-      },
-      {
-        "num": 24,
-        "clue": "Yawnfest",
-        "answer": "BORE",
-        "row": 7,
-        "col": 5
       },
       {
         "num": 25,
-        "clue": "Soaks with water",
-        "answer": "WETS",
+        "clue": "Makes super happy",
+        "answer": "ELATES",
         "row": 8,
         "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Hill-building insects",
-        "answer": "ANTS",
-        "row": 8,
-        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Break down crying",
-        "answer": "SOB",
+        "clue": "“Terrif!”",
+        "answer": "FAB",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Place for a stud or a ring",
-        "answer": "EAR",
+        "clue": "100%",
+        "answer": "ALL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Life force, to an acupuncturist",
-        "answer": "CHI",
+        "clue": "Langley-based spy grp.",
+        "answer": "CIA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Trio + five",
-        "answer": "OCTET",
+        "clue": "Useful skill in de-escalation",
+        "answer": "TACT",
         "row": 0,
-        "col": 5
+        "col": 3
       },
       {
         "num": 5,
-        "clue": "Golfer’s target",
-        "answer": "PAR",
+        "clue": "Denim treatment used in punk fashion",
+        "answer": "ACIDWASH",
         "row": 0,
         "col": 6
       },
       {
         "num": 6,
-        "clue": "Adam and ___",
-        "answer": "EVE",
+        "clue": "Ancestry",
+        "answer": "LINEAGE",
         "row": 0,
         "col": 7
       },
       {
         "num": 7,
-        "clue": "“The Simpsons” neighbor Flanders",
-        "answer": "NED",
+        "clue": "Sends an invite for",
+        "answer": "ASKSTO",
         "row": 0,
         "col": 8
       },
       {
         "num": 9,
-        "clue": "Initial problem for a storied duckling",
-        "answer": "UGLINESS",
+        "clue": "Bit of sports equipment with a binding",
+        "answer": "SKI",
         "row": 1,
-        "col": 3
-      },
-      {
-        "num": 12,
-        "clue": "Broom-___ (comics witch)",
-        "answer": "HILDA",
-        "row": 2,
         "col": 4
       },
       {
+        "num": 12,
+        "clue": "Counterpart to “thx”",
+        "answer": "PLS",
+        "row": 2,
+        "col": 5
+      },
+      {
         "num": 14,
-        "clue": "___ the Elephant (New York Liberty mascot with an alliterative name)",
-        "answer": "ELLIE",
+        "clue": "___ & Gabbana, Italian fashion label",
+        "answer": "DOLCE",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Alternative to Helvetica",
+        "answer": "ARIAL",
         "row": 4,
         "col": 1
       },
       {
-        "num": 15,
-        "clue": "Bank storage space with heavy security",
-        "answer": "VAULT",
+        "num": 16,
+        "clue": "Island nation between Italy and Libya",
+        "answer": "MALTA",
         "row": 4,
         "col": 2
       },
       {
-        "num": 16,
-        "clue": "Hayride vehicle",
-        "answer": "WAGON",
-        "row": 4,
-        "col": 6
+        "num": 19,
+        "clue": "Uber competitor",
+        "answer": "LYFT",
+        "row": 5,
+        "col": 3
       },
       {
-        "num": 17,
-        "clue": "Nonreactive, as some gases",
-        "answer": "INERT",
-        "row": 4,
-        "col": 7
+        "num": 20,
+        "clue": "Gooey cheese",
+        "answer": "BRIE",
+        "row": 5,
+        "col": 4
       },
       {
-        "num": 18,
-        "clue": "“Frasier” brother",
-        "answer": "NILES",
-        "row": 4,
-        "col": 8
-      },
-      {
-        "num": 21,
-        "clue": "Acknowledge an ovation, in a way",
-        "answer": "BOW",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 22,
-        "clue": "Org. that discourages traveling?",
-        "answer": "NBA",
+        "num": 23,
+        "clue": "Spy org. that preceded 3-Down",
+        "answer": "OSS",
         "row": 6,
         "col": 5
       }
