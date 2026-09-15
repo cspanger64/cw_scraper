@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "C",
-      "B",
-      "S"
-    ],
-    [
-      null,
-      "P",
       "O",
-      "R",
-      "T"
-    ],
-    [
-      "C",
-      "A",
-      "M",
-      "E",
-      "O"
-    ],
-    [
-      "A",
-      "S",
+      "B",
+      "V",
       "I",
+      null
+    ],
+    [
+      "F",
+      "E",
+      "E",
+      "T",
+      null
+    ],
+    [
+      "F",
       "A",
+      "L",
+      "S",
+      "E"
+    ],
+    [
+      null,
+      "C",
+      "M",
+      "O",
       "N"
     ],
     [
-      "R",
-      "O",
-      "C",
-      "K",
-      "Y"
+      null,
+      "H",
+      "A",
+      "N",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Channel for “Survivor” and “Big Brother”",
-        "answer": "CBS",
+        "clue": "“That’s a no-brainer!,” slangily",
+        "answer": "OBVI",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Dessert wine",
-        "answer": "PORT",
-        "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Alfred Hitchcock famously made one in 40 of his 53 films",
-        "answer": "CAMEO",
-        "row": 2,
+        "clue": "5,280 in a mile",
+        "answer": "FEET",
+        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Like elephants distinguished by their smaller rounded ears",
-        "answer": "ASIAN",
-        "row": 3,
+        "clue": "F, on a test",
+        "answer": "FALSE",
+        "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "“The ___ Horror Show,” 2026 Broadway revival with nine Tony nominations",
-        "answer": "ROCKY",
+        "num": 8,
+        "clue": "“Give me a break!”",
+        "answer": "CMON",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 9,
+        "clue": "“Don’t walk” symbol at a crosswalk",
+        "answer": "HAND",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Word before relief, book or strip",
-        "answer": "COMIC",
+        "clue": "Brand of bug spray with an exclamation point in its name",
+        "answer": "OFF",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Long ___, Calif.",
+        "answer": "BEACH",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Brainy member of the Scooby-Doo gang",
+        "answer": "VELMA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Snap (off)",
-        "answer": "BREAK",
+        "num": 4,
+        "clue": "“Let’s do this thing”",
+        "answer": "ITSON",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Cold and unfeeling",
-        "answer": "STONY",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "El ___, West Texas metropolis",
-        "answer": "PASO",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Expensive gift for a 16th birthday",
-        "answer": "CAR",
+        "num": 7,
+        "clue": "Conclusion",
+        "answer": "END",
         "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }
