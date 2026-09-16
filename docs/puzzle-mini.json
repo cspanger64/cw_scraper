@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "O",
-      "B",
-      "V",
-      "I",
-      null
-    ],
-    [
-      "F",
-      "E",
-      "E",
-      "T",
-      null
-    ],
-    [
-      "F",
-      "A",
-      "L",
-      "S",
-      "E"
-    ],
-    [
-      null,
-      "C",
       "M",
-      "O",
+      "A",
+      "V",
+      null,
+      null
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "A",
+      "I"
+    ],
+    [
+      "T",
+      "I",
+      "T",
+      "A",
       "N"
     ],
     [
       null,
-      "H",
-      "A",
+      "L",
+      "I",
       "N",
-      "D"
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "“That’s a no-brainer!,” slangily",
-        "answer": "OBVI",
+        "clue": "Dallas hooper, for short",
+        "answer": "MAV",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "5,280 in a mile",
-        "answer": "FEET",
+        "num": 4,
+        "clue": "Something to R.S.V.P. to",
+        "answer": "EVENT",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "F, on a test",
-        "answer": "FALSE",
+        "num": 7,
+        "clue": "Kind of patio that shares its name with a Hawaiian island",
+        "answer": "LANAI",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "“Give me a break!”",
-        "answer": "CMON",
+        "clue": "Heavyweight in an industry",
+        "answer": "TITAN",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "“Don’t walk” symbol at a crosswalk",
-        "answer": "HAND",
+        "clue": "Straight ___, every part of every letter in this puzzle’s grid",
+        "answer": "LINE",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Brand of bug spray with an exclamation point in its name",
-        "answer": "OFF",
+        "clue": "Turn gooey, as cheese",
+        "answer": "MELT",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Long ___, Calif.",
-        "answer": "BEACH",
+        "clue": "To no ___ (unsuccessfully)",
+        "answer": "AVAIL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Brainy member of the Scooby-Doo gang",
-        "answer": "VELMA",
+        "clue": "Large size at Starbucks",
+        "answer": "VENTI",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "“Let’s do this thing”",
-        "answer": "ITSON",
-        "row": 0,
+        "num": 5,
+        "clue": "Flatbread sometimes brushed with garlic butter",
+        "answer": "NAAN",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Conclusion",
-        "answer": "END",
-        "row": 2,
+        "num": 6,
+        "clue": "Sharp part of a fork",
+        "answer": "TINE",
+        "row": 1,
         "col": 4
       }
     ]

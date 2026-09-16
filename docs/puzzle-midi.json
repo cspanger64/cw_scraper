@@ -5,304 +5,318 @@
   ],
   "grid": [
     [
-      "F",
-      "A",
-      "C",
-      "T",
-      null,
-      null,
-      "A",
-      "L",
-      "A"
-    ],
-    [
-      "A",
-      "L",
-      "I",
-      "A",
-      "S",
-      null,
-      "C",
-      "I",
-      "S"
-    ],
-    [
-      "B",
-      "L",
-      "A",
-      "C",
-      "K",
-      "P",
-      "I",
-      "N",
-      "K"
-    ],
-    [
-      null,
-      null,
-      null,
-      "T",
-      "I",
-      "L",
-      "D",
+      "Y",
       "E",
-      "S"
+      "T",
+      "I",
+      null,
+      null,
+      "T",
+      "U",
+      "B"
     ],
     [
+      "A",
       "D",
       "A",
-      "M",
-      null,
-      null,
-      "S",
-      "W",
-      "A",
-      "T"
-    ],
-    [
-      "O",
-      "R",
-      "A",
-      "L",
-      "B",
+      "P",
+      "T",
       null,
       "A",
-      "G",
+      "D",
       "O"
     ],
     [
-      "L",
-      "I",
-      "L",
-      "Y",
+      "M",
+      "U",
+      "C",
+      "H",
+      "O",
+      null,
       "R",
       "O",
-      "S",
-      "E",
-      null
+      "N"
     ],
     [
-      "C",
-      "A",
+      null,
+      null,
       "T",
-      "F",
-      "I",
-      "S",
-      "H",
+      "O",
+      "O",
+      "L",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      null,
+      null,
+      null,
+      "T",
+      "K",
+      "O",
+      null,
       null,
       null
     ],
     [
-      "E",
+      "H",
+      "O",
+      "B",
+      "O",
+      "B",
+      "A",
+      "G",
+      null,
+      null
+    ],
+    [
+      "A",
+      "K",
+      "A",
+      null,
+      "A",
+      "T",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "U",
+      "R",
+      "L",
+      null,
+      "C",
+      "H",
+      "A",
+      "I",
+      "N"
+    ],
+    [
       "L",
       "A",
-      "T",
+      "D",
+      null,
+      "K",
       "E",
-      "S",
-      null,
-      null,
-      null
+      "Y",
+      "I",
+      "N"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "That’s no lie!",
-        "answer": "FACT",
+        "clue": "Big name in upscale coolers and coffee tumblers",
+        "answer": "YETI",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Pie ___ mode",
-        "answer": "ALA",
+        "clue": "Yogurt container",
+        "answer": "TUB",
         "row": 0,
         "col": 6
       },
       {
         "num": 8,
-        "clue": "2000s spy thriller series starring Jennifer Garner",
-        "answer": "ALIAS",
+        "clue": "Go with the flow",
+        "answer": "ADAPT",
         "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Gender prefix",
-        "answer": "CIS",
+        "clue": "Big fuss",
+        "answer": "ADO",
         "row": 1,
         "col": 6
       },
       {
         "num": 11,
-        "clue": "K-pop group with the hit song “How You Like That” [Colors]",
-        "answer": "BLACKPINK",
+        "clue": "What means a lot?",
+        "answer": "MUCHO",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "~~~",
-        "answer": "TILDES",
-        "row": 3,
-        "col": 3
-      },
-      {
-        "num": 14,
-        "clue": "Construction project for beavers",
-        "answer": "DAM",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "Hit with a rolled-up magazine, maybe",
-        "answer": "SWAT",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 18,
-        "clue": "Big name in floss",
-        "answer": "ORALB",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 21,
-        "clue": "“A long, long time ___ …”",
-        "answer": "AGO",
-        "row": 5,
+        "num": 12,
+        "clue": "Harry Potter’s best friend",
+        "answer": "RON",
+        "row": 2,
         "col": 6
       },
       {
-        "num": 22,
-        "clue": "Actress Depp of 2024’s “Nosferatu” [Flowers]",
-        "answer": "LILYROSE",
+        "num": 13,
+        "clue": "The “TL” in TL;DR",
+        "answer": "TOOLONG",
+        "row": 3,
+        "col": 2
+      },
+      {
+        "num": 15,
+        "clue": "M.M.A. referee’s decision",
+        "answer": "TKO",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 16,
+        "clue": "Casual, crescent-shaped purse",
+        "answer": "HOBOBAG",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "Letters before an alias",
+        "answer": "AKA",
         "row": 6,
         "col": 0
       },
       {
+        "num": 21,
+        "clue": "Chambers of the heart",
+        "answer": "ATRIA",
+        "row": 6,
+        "col": 4
+      },
+      {
         "num": 24,
-        "clue": "Deceive with a fake digital dating profile [Animals]",
-        "answer": "CATFISH",
+        "clue": "Address with slashes, for short",
+        "answer": "URL",
         "row": 7,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Makes super happy",
-        "answer": "ELATES",
+        "clue": "Burger King or Dairy Queen",
+        "answer": "CHAIN",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "num": 26,
+        "clue": "Young fellow",
+        "answer": "LAD",
         "row": 8,
         "col": 0
+      },
+      {
+        "num": 27,
+        "clue": "Enter, as data on a computer",
+        "answer": "KEYIN",
+        "row": 8,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "“Terrif!”",
-        "answer": "FAB",
+        "clue": "Sometimes-purple root vegetable",
+        "answer": "YAM",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "100%",
-        "answer": "ALL",
+        "clue": "www.usc.___",
+        "answer": "EDU",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Langley-based spy grp.",
-        "answer": "CIA",
+        "clue": "Social grace",
+        "answer": "TACT",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Useful skill in de-escalation",
-        "answer": "TACT",
+        "clue": "Discontinued Apple app for pictures",
+        "answer": "IPHOTO",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Denim treatment used in punk fashion",
-        "answer": "ACIDWASH",
+        "clue": "Purple-flecked root vegetable",
+        "answer": "TARO",
         "row": 0,
         "col": 6
       },
       {
         "num": 6,
-        "clue": "Ancestry",
-        "answer": "LINEAGE",
+        "clue": "Chewy Japanese noodle",
+        "answer": "UDON",
         "row": 0,
         "col": 7
       },
       {
         "num": 7,
-        "clue": "Sends an invite for",
-        "answer": "ASKSTO",
+        "clue": "Smoke shop buy",
+        "answer": "BONG",
         "row": 0,
         "col": 8
       },
       {
         "num": 9,
-        "clue": "Bit of sports equipment with a binding",
-        "answer": "SKI",
+        "clue": "Rescinded",
+        "answer": "TOOKBACK",
         "row": 1,
         "col": 4
       },
       {
-        "num": 12,
-        "clue": "Counterpart to “thx”",
-        "answer": "PLS",
-        "row": 2,
+        "num": 14,
+        "clue": "Despise",
+        "answer": "LOATHE",
+        "row": 3,
         "col": 5
       },
       {
-        "num": 14,
-        "clue": "___ & Gabbana, Italian fashion label",
-        "answer": "DOLCE",
-        "row": 4,
+        "num": 16,
+        "clue": "___ video (online posting after a shopping spree)",
+        "answer": "HAUL",
+        "row": 5,
         "col": 0
       },
       {
-        "num": 15,
-        "clue": "Alternative to Helvetica",
-        "answer": "ARIAL",
-        "row": 4,
+        "num": 17,
+        "clue": "Vegetable in Creole cooking",
+        "answer": "OKRA",
+        "row": 5,
         "col": 1
       },
       {
-        "num": 16,
-        "clue": "Island nation between Italy and Libya",
-        "answer": "MALTA",
-        "row": 4,
+        "num": 18,
+        "clue": "Like George Costanza or Walter White",
+        "answer": "BALD",
+        "row": 5,
         "col": 2
       },
       {
         "num": 19,
-        "clue": "Uber competitor",
-        "answer": "LYFT",
+        "clue": "Like the skies in Seattle, much of the year",
+        "answer": "GRAY",
         "row": 5,
-        "col": 3
+        "col": 6
       },
       {
-        "num": 20,
-        "clue": "Gooey cheese",
-        "answer": "BRIE",
-        "row": 5,
-        "col": 4
+        "num": 22,
+        "clue": "Three on some clocks",
+        "answer": "III",
+        "row": 6,
+        "col": 7
       },
       {
         "num": 23,
-        "clue": "Spy org. that preceded 3-Down",
-        "answer": "OSS",
+        "clue": "___ Arbor, Mich.",
+        "answer": "ANN",
         "row": 6,
-        "col": 5
+        "col": 8
       }
     ]
   }
