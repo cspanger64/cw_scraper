@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "M",
+      "Q",
+      "U",
       "A",
-      "V",
-      null,
-      null
+      "C",
+      "K"
     ],
     [
-      "E",
-      "V",
-      "E",
+      "U",
       "N",
+      "C",
+      "L",
+      "E"
+    ],
+    [
+      "I",
+      "D",
+      "I",
+      "O",
       "T"
     ],
     [
-      "L",
-      "A",
+      "R",
+      "U",
       "N",
-      "A",
-      "I"
+      "T",
+      "O"
     ],
     [
-      "T",
-      "I",
-      "T",
-      "A",
-      "N"
-    ],
-    [
-      null,
-      "L",
-      "I",
-      "N",
-      "E"
+      "K",
+      "E",
+      "G",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Dallas hooper, for short",
-        "answer": "MAV",
+        "clue": "Noise heard in an Aflac commercial",
+        "answer": "QUACK",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Something to R.S.V.P. to",
-        "answer": "EVENT",
+        "num": 6,
+        "clue": "___ Fester, “Wednesday” character played by Fred Armisen",
+        "answer": "UNCLE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Kind of patio that shares its name with a Hawaiian island",
-        "answer": "LANAI",
+        "clue": "Total moron",
+        "answer": "IDIOT",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Heavyweight in an industry",
-        "answer": "TITAN",
+        "clue": "Total, as expenses",
+        "answer": "RUNTO",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Straight ___, every part of every letter in this puzzle’s grid",
-        "answer": "LINE",
+        "clue": "Containers for some basement parties",
+        "answer": "KEGS",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Turn gooey, as cheese",
-        "answer": "MELT",
+        "clue": "Unique mannerism",
+        "answer": "QUIRK",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "To no ___ (unsuccessfully)",
-        "answer": "AVAIL",
+        "clue": "Excessive, as criticism or punishment",
+        "answer": "UNDUE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Large size at Starbucks",
-        "answer": "VENTI",
+        "clue": "Scoring 100% on",
+        "answer": "ACING",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Flatbread sometimes brushed with garlic butter",
-        "answer": "NAAN",
-        "row": 1,
+        "num": 4,
+        "clue": "Lumps in non-homogenized milk",
+        "answer": "CLOTS",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Sharp part of a fork",
-        "answer": "TINE",
-        "row": 1,
+        "num": 5,
+        "clue": "Kind of high-fat, low-carb diet",
+        "answer": "KETO",
+        "row": 0,
         "col": 4
       }
     ]

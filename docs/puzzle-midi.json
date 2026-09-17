@@ -1,322 +1,366 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
-      "Y",
-      "E",
-      "T",
-      "I",
-      null,
-      null,
-      "T",
-      "U",
-      "B"
-    ],
-    [
-      "A",
-      "D",
-      "A",
       "P",
-      "T",
-      null,
-      "A",
-      "D",
-      "O"
-    ],
-    [
-      "M",
-      "U",
-      "C",
       "H",
-      "O",
-      null,
-      "R",
-      "O",
-      "N"
-    ],
-    [
-      null,
-      null,
-      "T",
-      "O",
-      "O",
-      "L",
-      "O",
-      "N",
-      "G"
-    ],
-    [
-      null,
-      null,
-      null,
-      "T",
-      "K",
-      "O",
-      null,
-      null,
-      null
-    ],
-    [
-      "H",
-      "O",
-      "B",
-      "O",
-      "B",
-      "A",
-      "G",
-      null,
-      null
-    ],
-    [
-      "A",
-      "K",
-      "A",
-      null,
-      "A",
-      "T",
-      "R",
       "I",
-      "A"
-    ],
-    [
-      "U",
-      "R",
-      "L",
       null,
-      "C",
-      "H",
-      "A",
-      "I",
-      "N"
-    ],
-    [
-      "L",
-      "A",
-      "D",
       null,
-      "K",
+      "L",
       "E",
-      "Y",
+      "F",
+      "T",
+      "S"
+    ],
+    [
+      "A",
+      "A",
+      "R",
+      "P",
+      null,
+      "A",
+      "V",
+      "R",
       "I",
-      "N"
+      "L"
+    ],
+    [
+      "W",
+      "H",
+      "O",
+      "A",
+      null,
+      "M",
+      "A",
+      "O",
+      "R",
+      "I"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "D",
+      "Y",
+      null,
+      "D",
+      "M",
+      "E",
+      "D"
+    ],
+    [
+      null,
+      null,
+      null,
+      "R",
+      "O",
+      "M",
+      "E",
+      null,
+      null,
+      null
+    ],
+    [
+      "T",
+      "U",
+      "X",
+      "E",
+      "D",
+      "O",
+      null,
+      "S",
+      "H",
+      "U"
+    ],
+    [
+      "O",
+      "R",
+      "B",
+      null,
+      "A",
+      "O",
+      "R",
+      "T",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      null,
+      null,
+      "R",
+      "O",
+      "U",
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "X",
+      null,
+      null,
+      "E",
+      "B",
+      "B",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Big name in upscale coolers and coffee tumblers",
-        "answer": "YETI",
+        "clue": "___ Beta Kappa",
+        "answer": "PHI",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Yogurt container",
-        "answer": "TUB",
+        "num": 4,
+        "clue": "Two of them make a U-turn",
+        "answer": "LEFTS",
         "row": 0,
-        "col": 6
+        "col": 5
       },
       {
-        "num": 8,
-        "clue": "Go with the flow",
-        "answer": "ADAPT",
+        "num": 9,
+        "clue": "Org. focused on the 50+ crowd",
+        "answer": "AARP",
         "row": 1,
         "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Big fuss",
-        "answer": "ADO",
-        "row": 1,
-        "col": 6
       },
       {
         "num": 11,
-        "clue": "What means a lot?",
-        "answer": "MUCHO",
+        "clue": "“Sk8er Boi” singer Lavigne",
+        "answer": "AVRIL",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 12,
+        "clue": "“Mind. Blown.”",
+        "answer": "WHOA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Harry Potter’s best friend",
-        "answer": "RON",
+        "num": 13,
+        "clue": "New Zealand native",
+        "answer": "MAORI",
         "row": 2,
+        "col": 5
+      },
+      {
+        "num": 14,
+        "clue": "Like the interior of a car after a beach trip, often",
+        "answer": "SANDY",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Contacted on social media, for short",
+        "answer": "DMED",
+        "row": 3,
         "col": 6
       },
       {
-        "num": 13,
-        "clue": "The “TL” in TL;DR",
-        "answer": "TOOLONG",
-        "row": 3,
-        "col": 2
-      },
-      {
-        "num": 15,
-        "clue": "M.M.A. referee’s decision",
-        "answer": "TKO",
+        "num": 17,
+        "clue": "Where all roads lead, in a classic saying suggested by this puzzle’s circled letters",
+        "answer": "ROME",
         "row": 4,
         "col": 3
       },
       {
-        "num": 16,
-        "clue": "Casual, crescent-shaped purse",
-        "answer": "HOBOBAG",
+        "num": 19,
+        "clue": "Formal wedding attire",
+        "answer": "TUXEDO",
         "row": 5,
         "col": 0
       },
       {
-        "num": 20,
-        "clue": "Letters before an alias",
-        "answer": "AKA",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 21,
-        "clue": "Chambers of the heart",
-        "answer": "ATRIA",
-        "row": 6,
-        "col": 4
-      },
-      {
-        "num": 24,
-        "clue": "Address with slashes, for short",
-        "answer": "URL",
-        "row": 7,
-        "col": 0
+        "num": 22,
+        "clue": "Moo ___ pork",
+        "answer": "SHU",
+        "row": 5,
+        "col": 7
       },
       {
         "num": 25,
-        "clue": "Burger King or Dairy Queen",
-        "answer": "CHAIN",
-        "row": 7,
-        "col": 4
+        "clue": "Shape of a marble",
+        "answer": "ORB",
+        "row": 6,
+        "col": 0
       },
       {
         "num": 26,
-        "clue": "Young fellow",
-        "answer": "LAD",
+        "clue": "Largest arteries in human bodies",
+        "answer": "AORTAS",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "num": 28,
+        "clue": "Id’s counterpart",
+        "answer": "EGO",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 29,
+        "clue": "Path from point A to point B",
+        "answer": "ROUTE",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 30,
+        "clue": "“An emotion in motion,” per Mae West",
+        "answer": "SEX",
         "row": 8,
         "col": 0
       },
       {
-        "num": 27,
-        "clue": "Enter, as data on a computer",
-        "answer": "KEYIN",
+        "num": 31,
+        "clue": "Flowed back, as the tide",
+        "answer": "EBBED",
         "row": 8,
-        "col": 4
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Sometimes-purple root vegetable",
-        "answer": "YAM",
+        "clue": "Fido’s feet",
+        "answer": "PAWS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "www.usc.___",
-        "answer": "EDU",
+        "clue": "“Too funny!”",
+        "answer": "HAHA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Social grace",
-        "answer": "TACT",
+        "clue": "Common element found in meteorites",
+        "answer": "IRON",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Discontinued Apple app for pictures",
-        "answer": "IPHOTO",
+        "clue": "On the ___ (fleeing capture)",
+        "answer": "LAM",
         "row": 0,
-        "col": 3
+        "col": 5
       },
       {
         "num": 5,
-        "clue": "Purple-flecked root vegetable",
-        "answer": "TARO",
+        "clue": "Avoid paying, as taxes",
+        "answer": "EVADE",
         "row": 0,
         "col": 6
       },
       {
         "num": 6,
-        "clue": "Chewy Japanese noodle",
-        "answer": "UDON",
+        "clue": "Cut ___ the same cloth",
+        "answer": "FROM",
         "row": 0,
         "col": 7
       },
       {
         "num": 7,
-        "clue": "Smoke shop buy",
-        "answer": "BONG",
+        "clue": "Goodyear product",
+        "answer": "TIRE",
         "row": 0,
         "col": 8
       },
       {
-        "num": 9,
-        "clue": "Rescinded",
-        "answer": "TOOKBACK",
+        "num": 8,
+        "clue": "Went down, as stocks",
+        "answer": "SLID",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 10,
+        "clue": "San Diego ballplayer",
+        "answer": "PADRE",
         "row": 1,
+        "col": 3
+      },
+      {
+        "num": 15,
+        "clue": "Green film character with a green lightsaber",
+        "answer": "YODA",
+        "row": 3,
         "col": 4
       },
       {
-        "num": 14,
-        "clue": "Despise",
-        "answer": "LOATHE",
-        "row": 3,
+        "num": 18,
+        "clue": "Demi of “The Substance”",
+        "answer": "MOORE",
+        "row": 4,
         "col": 5
       },
       {
-        "num": 16,
-        "clue": "___ video (online posting after a shopping spree)",
-        "answer": "HAUL",
+        "num": 19,
+        "clue": "Body parts touched after the knees, in a nursery song",
+        "answer": "TOES",
         "row": 5,
         "col": 0
       },
       {
-        "num": 17,
-        "clue": "Vegetable in Creole cooking",
-        "answer": "OKRA",
+        "num": 20,
+        "clue": "Egg (on)",
+        "answer": "URGE",
         "row": 5,
         "col": 1
       },
       {
-        "num": 18,
-        "clue": "Like George Costanza or Walter White",
-        "answer": "BALD",
+        "num": 21,
+        "clue": "Console for the game Forza Horizon",
+        "answer": "XBOX",
         "row": 5,
         "col": 2
       },
       {
-        "num": 19,
-        "clue": "Like the skies in Seattle, much of the year",
-        "answer": "GRAY",
-        "row": 5,
-        "col": 6
-      },
-      {
         "num": 22,
-        "clue": "Three on some clocks",
-        "answer": "III",
-        "row": 6,
+        "clue": "Souvenir from a theater ticket",
+        "answer": "STUB",
+        "row": 5,
         "col": 7
       },
       {
         "num": 23,
-        "clue": "___ Arbor, Mich.",
-        "answer": "ANN",
-        "row": 6,
+        "clue": "“Don’t ___ the player, ___ the game”",
+        "answer": "HATE",
+        "row": 5,
         "col": 8
+      },
+      {
+        "num": 24,
+        "clue": "Like many items on Facebook Marketplace",
+        "answer": "USED",
+        "row": 5,
+        "col": 9
+      },
+      {
+        "num": 27,
+        "clue": "Actor Lowe",
+        "answer": "ROB",
+        "row": 6,
+        "col": 6
       }
     ]
   }
