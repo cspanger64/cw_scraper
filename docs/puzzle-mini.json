@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "Q",
-      "U",
+      null,
+      "B",
       "A",
-      "C",
-      "K"
-    ],
-    [
-      "U",
-      "N",
-      "C",
-      "L",
-      "E"
-    ],
-    [
-      "I",
-      "D",
-      "I",
-      "O",
+      "R",
       "T"
     ],
     [
-      "R",
-      "U",
-      "N",
-      "T",
+      null,
+      "L",
+      "M",
+      "A",
       "O"
     ],
     [
-      "K",
+      "F",
+      "O",
+      "A",
+      "M",
+      "Y"
+    ],
+    [
+      "O",
+      "O",
+      "Z",
       "E",
-      "G",
-      "S",
+      null
+    ],
+    [
+      "X",
+      "M",
+      "E",
+      "N",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Noise heard in an Aflac commercial",
-        "answer": "QUACK",
+        "clue": "San Francisco’s rail system",
+        "answer": "BART",
         "row": 0,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Response to a funny text",
+        "answer": "LMAO",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "___ Fester, “Wednesday” character played by Fred Armisen",
-        "answer": "UNCLE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Total moron",
-        "answer": "IDIOT",
+        "clue": "Like beer from the tap, often",
+        "answer": "FOAMY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Total, as expenses",
-        "answer": "RUNTO",
+        "num": 7,
+        "clue": "Move like honey",
+        "answer": "OOZE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Containers for some basement parties",
-        "answer": "KEGS",
+        "num": 8,
+        "clue": "Group of Marvel superheroes",
+        "answer": "XMEN",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Unique mannerism",
-        "answer": "QUIRK",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Excessive, as criticism or punishment",
-        "answer": "UNDUE",
+        "clue": "Open up, as a flower",
+        "answer": "BLOOM",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Scoring 100% on",
-        "answer": "ACING",
+        "num": 2,
+        "clue": "Wow",
+        "answer": "AMAZE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Lumps in non-homogenized milk",
-        "answer": "CLOTS",
+        "num": 3,
+        "clue": "Noodle dish in a rich broth",
+        "answer": "RAMEN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Kind of high-fat, low-carb diet",
-        "answer": "KETO",
+        "num": 4,
+        "clue": "Happy Meal inclusion",
+        "answer": "TOY",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Animal known scientifically as “Vulpes vulpes”",
+        "answer": "FOX",
+        "row": 2,
+        "col": 0
       }
     ]
   }

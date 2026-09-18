@@ -1,365 +1,391 @@
 {
   "size": [
-    9,
+    10,
     10
   ],
   "grid": [
     [
+      null,
       "P",
-      "H",
-      "I",
+      "R",
+      "O",
+      "P",
       null,
-      null,
-      "L",
+      "B",
       "E",
-      "F",
-      "T",
+      "G",
       "S"
     ],
     [
-      "A",
-      "A",
-      "R",
-      "P",
       null,
       "A",
-      "V",
-      "R",
+      "U",
+      "D",
       "I",
-      "L"
-    ],
-    [
-      "W",
-      "H",
-      "O",
-      "A",
       null,
-      "M",
       "A",
-      "O",
-      "R",
+      "C",
+      "A",
       "I"
     ],
     [
-      "S",
-      "A",
-      "N",
-      "D",
-      "Y",
       null,
-      "D",
-      "M",
+      "C",
+      "H",
       "E",
-      "D"
+      "E",
+      "Z",
+      "W",
+      "H",
+      "I",
+      "Z"
     ],
     [
-      null,
-      null,
-      null,
+      "A",
+      "I",
       "R",
+      null,
+      null,
+      "A",
+      "L",
       "O",
-      "M",
-      "E",
+      "N",
+      "E"
+    ],
+    [
+      "S",
+      "N",
+      "O",
+      "C",
+      "A",
+      "P",
+      "S",
       null,
       null,
       null
     ],
     [
-      "T",
-      "U",
-      "X",
-      "E",
-      "D",
+      "H",
       "O",
+      "H",
+      "O",
+      "S",
+      null,
       null,
       "S",
-      "H",
-      "U"
+      "A",
+      "T"
     ],
     [
-      "O",
-      "R",
-      "B",
       null,
+      null,
+      null,
+      "P",
+      "S",
       "A",
-      "O",
+      null,
+      "N",
+      "S",
+      "A"
+    ],
+    [
+      "F",
       "R",
+      "O",
+      "O",
       "T",
-      "A",
+      "L",
+      "O",
+      "O",
+      "P",
       "S"
     ],
     [
-      "E",
-      "G",
-      "O",
-      null,
-      null,
-      "R",
-      "O",
+      "L",
       "U",
-      "T",
-      "E"
+      "L",
+      "U",
+      null,
+      "S",
+      "H",
+      "R",
+      "E",
+      "K"
     ],
     [
-      "S",
+      "Y",
       "E",
-      "X",
+      "E",
+      "T",
       null,
-      null,
+      "O",
+      "M",
       "E",
-      "B",
-      "B",
-      "E",
-      "D"
+      "N",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ Beta Kappa",
-        "answer": "PHI",
+        "clue": "Magician’s stage item, e.g.",
+        "answer": "PROP",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Two of them make a U-turn",
-        "answer": "LEFTS",
+        "num": 5,
+        "clue": "Pleads",
+        "answer": "BEGS",
         "row": 0,
-        "col": 5
-      },
-      {
-        "num": 9,
-        "clue": "Org. focused on the 50+ crowd",
-        "answer": "AARP",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "“Sk8er Boi” singer Lavigne",
-        "answer": "AVRIL",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 12,
-        "clue": "“Mind. Blown.”",
-        "answer": "WHOA",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "New Zealand native",
-        "answer": "MAORI",
-        "row": 2,
-        "col": 5
-      },
-      {
-        "num": 14,
-        "clue": "Like the interior of a car after a beach trip, often",
-        "answer": "SANDY",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Contacted on social media, for short",
-        "answer": "DMED",
-        "row": 3,
         "col": 6
       },
       {
-        "num": 17,
-        "clue": "Where all roads lead, in a classic saying suggested by this puzzle’s circled letters",
-        "answer": "ROME",
-        "row": 4,
-        "col": 3
+        "num": 9,
+        "clue": "BMW rival",
+        "answer": "AUDI",
+        "row": 1,
+        "col": 1
       },
       {
-        "num": 19,
-        "clue": "Formal wedding attire",
-        "answer": "TUXEDO",
+        "num": 10,
+        "clue": "Dark purple berry",
+        "answer": "ACAI",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Orange-yellow cracker topper",
+        "answer": "CHEEZWHIZ",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "“When Breath Becomes ___” (2016 best-selling memoir)",
+        "answer": "AIR",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Solo",
+        "answer": "ALONE",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "num": 15,
+        "clue": "Classic movie theater candy with white sprinkles",
+        "answer": "SNOCAPS",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 18,
+        "clue": "Treats that sound like something Santa would enjoy",
+        "answer": "HOHOS",
         "row": 5,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Moo ___ pork",
-        "answer": "SHU",
+        "num": 19,
+        "clue": "Pulled up a chair",
+        "answer": "SAT",
         "row": 5,
         "col": 7
       },
       {
+        "num": 22,
+        "clue": "Informative TV spot, for short",
+        "answer": "PSA",
+        "row": 6,
+        "col": 3
+      },
+      {
+        "num": 24,
+        "clue": "Government org. with a forerunner known as the Cipher Bureau",
+        "answer": "NSA",
+        "row": 6,
+        "col": 7
+      },
+      {
         "num": 25,
-        "clue": "Shape of a marble",
-        "answer": "ORB",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Largest arteries in human bodies",
-        "answer": "AORTAS",
-        "row": 6,
-        "col": 4
-      },
-      {
-        "num": 28,
-        "clue": "Id’s counterpart",
-        "answer": "EGO",
+        "clue": "Colorful cereal with a toucan mascot",
+        "answer": "FROOTLOOPS",
         "row": 7,
         "col": 0
       },
       {
         "num": 29,
-        "clue": "Path from point A to point B",
-        "answer": "ROUTE",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 30,
-        "clue": "“An emotion in motion,” per Mae West",
-        "answer": "SEX",
+        "clue": "Nickname for Louise",
+        "answer": "LULU",
         "row": 8,
         "col": 0
       },
       {
-        "num": 31,
-        "clue": "Flowed back, as the tide",
-        "answer": "EBBED",
+        "num": 30,
+        "clue": "Green ogre",
+        "answer": "SHREK",
         "row": 8,
+        "col": 5
+      },
+      {
+        "num": 31,
+        "clue": "Throw forcefully, in Gen Z slang",
+        "answer": "YEET",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 32,
+        "clue": "Signs of things to come",
+        "answer": "OMENS",
+        "row": 9,
         "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Fido’s feet",
-        "answer": "PAWS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "“Too funny!”",
-        "answer": "HAHA",
+        "clue": "Al of “The Godfather”",
+        "answer": "PACINO",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Common element found in meteorites",
-        "answer": "IRON",
+        "num": 2,
+        "clue": "Worried exclamation from Scooby-Doo",
+        "answer": "RUHROH",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "On the ___ (fleeing capture)",
-        "answer": "LAM",
+        "num": 3,
+        "clue": "Praiseful poem",
+        "answer": "ODE",
         "row": 0,
-        "col": 5
+        "col": 3
+      },
+      {
+        "num": 4,
+        "clue": "Dessert with a lattice crust, perhaps",
+        "answer": "PIE",
+        "row": 0,
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Avoid paying, as taxes",
-        "answer": "EVADE",
+        "clue": "Cries one’s eyes out",
+        "answer": "BAWLS",
         "row": 0,
         "col": 6
       },
       {
         "num": 6,
-        "clue": "Cut ___ the same cloth",
-        "answer": "FROM",
+        "clue": "Reverberation",
+        "answer": "ECHO",
         "row": 0,
         "col": 7
       },
       {
         "num": 7,
-        "clue": "Goodyear product",
-        "answer": "TIRE",
+        "clue": "“No pain, no ___” (gym rat’s motto)",
+        "answer": "GAIN",
         "row": 0,
         "col": 8
       },
       {
         "num": 8,
-        "clue": "Went down, as stocks",
-        "answer": "SLID",
+        "clue": "L, XL or XXL",
+        "answer": "SIZE",
         "row": 0,
         "col": 9
       },
       {
-        "num": 10,
-        "clue": "San Diego ballplayer",
-        "answer": "PADRE",
-        "row": 1,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "Green film character with a green lightsaber",
-        "answer": "YODA",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 18,
-        "clue": "Demi of “The Substance”",
-        "answer": "MOORE",
-        "row": 4,
+        "num": 12,
+        "clue": "Sound in a sci-fi comic",
+        "answer": "ZAP",
+        "row": 2,
         "col": 5
       },
       {
-        "num": 19,
-        "clue": "Body parts touched after the knees, in a nursery song",
-        "answer": "TOES",
-        "row": 5,
+        "num": 13,
+        "clue": "___ Wednesday",
+        "answer": "ASH",
+        "row": 3,
         "col": 0
       },
       {
-        "num": 20,
-        "clue": "Egg (on)",
-        "answer": "URGE",
-        "row": 5,
-        "col": 1
+        "num": 16,
+        "clue": "Unsatisfying excuse",
+        "answer": "COPOUT",
+        "row": 4,
+        "col": 3
       },
       {
-        "num": 21,
-        "clue": "Console for the game Forza Horizon",
-        "answer": "XBOX",
-        "row": 5,
-        "col": 2
+        "num": 17,
+        "clue": "Helper: Abbr.",
+        "answer": "ASST",
+        "row": 4,
+        "col": 4
       },
       {
-        "num": 22,
-        "clue": "Souvenir from a theater ticket",
-        "answer": "STUB",
+        "num": 19,
+        "clue": "Make 💤 sounds",
+        "answer": "SNORE",
         "row": 5,
         "col": 7
       },
       {
-        "num": 23,
-        "clue": "“Don’t ___ the player, ___ the game”",
-        "answer": "HATE",
+        "num": 20,
+        "clue": "Ski town near Buttermilk Mountain",
+        "answer": "ASPEN",
         "row": 5,
         "col": 8
       },
       {
-        "num": 24,
-        "clue": "Like many items on Facebook Marketplace",
-        "answer": "USED",
+        "num": 21,
+        "clue": "Workplace assignments",
+        "answer": "TASKS",
         "row": 5,
         "col": 9
       },
       {
-        "num": 27,
-        "clue": "Actor Lowe",
-        "answer": "ROB",
+        "num": 23,
+        "clue": "Additionally",
+        "answer": "ALSO",
         "row": 6,
+        "col": 5
+      },
+      {
+        "num": 25,
+        "clue": "Travel by plane",
+        "answer": "FLY",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 26,
+        "clue": "Regret",
+        "answer": "RUE",
+        "row": 7,
+        "col": 1
+      },
+      {
+        "num": 27,
+        "clue": "Nashville’s Grand ___ Opry",
+        "answer": "OLE",
+        "row": 7,
+        "col": 2
+      },
+      {
+        "num": 28,
+        "clue": "Unit of electrical resistance",
+        "answer": "OHM",
+        "row": 7,
         "col": 6
       }
     ]
