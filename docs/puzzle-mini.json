@@ -1,118 +1,203 @@
 {
   "size": [
-    5,
-    5
+    8,
+    6
   ],
   "grid": [
     [
-      null,
-      "B",
       "A",
+      "I",
       "R",
-      "T"
+      "B",
+      "N",
+      "B"
+    ],
+    [
+      "I",
+      "C",
+      "E",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "D",
+      "A",
+      "D",
+      "B",
+      "O",
+      "D"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "Y",
+      null,
+      null
     ],
     [
       null,
-      "L",
-      "M",
-      "A",
-      "O"
-    ],
-    [
-      "F",
-      "O",
-      "A",
-      "M",
+      null,
+      "I",
+      "T",
+      "T",
       "Y"
     ],
     [
       "O",
-      "O",
-      "Z",
-      "E",
-      null
+      "T",
+      "T",
+      "A",
+      "W",
+      "A"
     ],
     [
-      "X",
-      "M",
+      "F",
+      "O",
+      "O",
+      "L",
       "E",
-      "N",
-      null
+      "R"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "K",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "San Francisco’s rail system",
-        "answer": "BART",
+        "clue": "Vacation rental",
+        "answer": "AIRBNB",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Response to a funny text",
-        "answer": "LMAO",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Like beer from the tap, often",
-        "answer": "FOAMY",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Move like honey",
-        "answer": "OOZE",
-        "row": 3,
+        "clue": "When woolly mammoths and saber-toothed tigers roamed the earth",
+        "answer": "ICEAGE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Group of Marvel superheroes",
-        "answer": "XMEN",
+        "clue": "Father figure?",
+        "answer": "DADBOD",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Comedian Samberg",
+        "answer": "ANDY",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "___-bitty",
+        "answer": "ITTY",
         "row": 4,
+        "col": 2
+      },
+      {
+        "num": 13,
+        "clue": "Canada’s capital",
+        "answer": "OTTAWA",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "April 1st prankster",
+        "answer": "FOOLER",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Like the tongues of snakes",
+        "answer": "FORKED",
+        "row": 7,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Open up, as a flower",
-        "answer": "BLOOM",
+        "clue": "Famed opera with over 1,000 performances at the Met",
+        "answer": "AIDA",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "“As far as ___ tell …”",
+        "answer": "ICAN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Wow",
-        "answer": "AMAZE",
+        "num": 3,
+        "clue": "Frequent visitor to websites with “r/” in their names",
+        "answer": "REDDITOR",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Noodle dish in a rich broth",
-        "answer": "RAMEN",
+        "num": 4,
+        "clue": "Wittle, e.g.",
+        "answer": "BABYTALK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Happy Meal inclusion",
-        "answer": "TOY",
+        "num": 5,
+        "clue": "Many a foreign aid grp.",
+        "answer": "NGO",
         "row": 0,
         "col": 4
       },
       {
         "num": 6,
-        "clue": "Animal known scientifically as “Vulpes vulpes”",
-        "answer": "FOX",
-        "row": 2,
+        "clue": "What a convertible sofa converts into",
+        "answer": "BED",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 11,
+        "clue": "Overly cutesy",
+        "answer": "TWEE",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 12,
+        "clue": "Football field unit",
+        "answer": "YARD",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 13,
+        "clue": "Not working today",
+        "answer": "OFF",
+        "row": 5,
         "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "In addition",
+        "answer": "TOO",
+        "row": 5,
+        "col": 1
       }
     ]
   }

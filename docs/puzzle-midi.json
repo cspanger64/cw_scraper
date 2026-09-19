@@ -1,392 +1,336 @@
 {
   "size": [
-    10,
-    10
+    9,
+    9
   ],
   "grid": [
     [
-      null,
-      "P",
-      "R",
-      "O",
-      "P",
-      null,
-      "B",
-      "E",
-      "G",
-      "S"
-    ],
-    [
+      "L",
+      "A",
+      "V",
+      "A",
       null,
       "A",
-      "U",
-      "D",
-      "I",
-      null,
-      "A",
-      "C",
-      "A",
-      "I"
-    ],
-    [
-      null,
-      "C",
-      "H",
-      "E",
-      "E",
-      "Z",
       "W",
-      "H",
-      "I",
-      "Z"
+      "E",
+      "D"
     ],
     [
-      "A",
       "I",
-      "R",
+      "M",
+      "I",
+      "N",
       null,
-      null,
-      "A",
       "L",
       "O",
-      "N",
+      "V",
       "E"
     ],
     [
-      "S",
-      "N",
-      "O",
-      "C",
+      "T",
       "A",
-      "P",
-      "S",
+      "L",
+      "K",
+      "L",
+      "I",
+      "K",
+      "E",
+      "A"
+    ],
+    [
+      null,
+      null,
+      "E",
+      "L",
+      "I",
+      null,
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      null,
+      null,
+      null,
+      "E",
+      "G",
+      "G",
       null,
       null,
       null
     ],
     [
-      "H",
-      "O",
-      "H",
-      "O",
-      "S",
-      null,
-      null,
-      "S",
-      "A",
-      "T"
-    ],
-    [
-      null,
-      null,
-      null,
-      "P",
-      "S",
-      "A",
-      null,
-      "N",
-      "S",
-      "A"
-    ],
-    [
-      "F",
-      "R",
-      "O",
-      "O",
-      "T",
-      "L",
-      "O",
-      "O",
-      "P",
-      "S"
-    ],
-    [
-      "L",
-      "U",
-      "L",
-      "U",
-      null,
-      "S",
-      "H",
-      "R",
-      "E",
-      "K"
-    ],
-    [
-      "Y",
-      "E",
-      "E",
-      "T",
-      null,
       "O",
       "M",
+      "G",
+      null,
+      "H",
+      "U",
       "E",
+      null,
+      null
+    ],
+    [
+      "P",
+      "I",
+      "R",
+      "A",
+      "T",
+      "E",
+      "D",
+      "A",
+      "Y"
+    ],
+    [
+      "E",
+      "M",
+      "I",
+      "R",
+      null,
+      "S",
+      "I",
+      "D",
+      "E"
+    ],
+    [
       "N",
-      "S"
+      "E",
+      "T",
+      "S",
+      null,
+      "S",
+      "T",
+      "O",
+      "P"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Magician’s stage item, e.g.",
-        "answer": "PROP",
+        "clue": "Red-hot volcanic flow",
+        "answer": "LAVA",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Pleads",
-        "answer": "BEGS",
+        "clue": "Rendered speechless, say",
+        "answer": "AWED",
         "row": 0,
-        "col": 6
-      },
-      {
-        "num": 9,
-        "clue": "BMW rival",
-        "answer": "AUDI",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 10,
-        "clue": "Dark purple berry",
-        "answer": "ACAI",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Orange-yellow cracker topper",
-        "answer": "CHEEZWHIZ",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 13,
-        "clue": "“When Breath Becomes ___” (2016 best-selling memoir)",
-        "answer": "AIR",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "Solo",
-        "answer": "ALONE",
-        "row": 3,
         "col": 5
       },
       {
+        "num": 9,
+        "clue": "“Ready and willing!”",
+        "answer": "IMIN",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Romance",
+        "answer": "LOVE",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 11,
+        "clue": "Read with 22-Across, September 19 observance whose celebrants might shout “Shiver me timbers!”",
+        "answer": "TALKLIKEA",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Roth who directed “Hostel”",
+        "answer": "ELI",
+        "row": 3,
+        "col": 2
+      },
+      {
+        "num": 14,
+        "clue": "Rear ___",
+        "answer": "END",
+        "row": 3,
+        "col": 6
+      },
+      {
         "num": 15,
-        "clue": "Classic movie theater candy with white sprinkles",
-        "answer": "SNOCAPS",
+        "clue": "“Runny” breakfast food",
+        "answer": "EGG",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 18,
-        "clue": "Treats that sound like something Santa would enjoy",
-        "answer": "HOHOS",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 19,
-        "clue": "Pulled up a chair",
-        "answer": "SAT",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 22,
-        "clue": "Informative TV spot, for short",
-        "answer": "PSA",
-        "row": 6,
         "col": 3
       },
       {
-        "num": 24,
-        "clue": "Government org. with a forerunner known as the Cipher Bureau",
-        "answer": "NSA",
-        "row": 6,
-        "col": 7
+        "num": 17,
+        "clue": "“r u serious?? wow!!”",
+        "answer": "OMG",
+        "row": 5,
+        "col": 0
       },
       {
-        "num": 25,
-        "clue": "Colorful cereal with a toucan mascot",
-        "answer": "FROOTLOOPS",
+        "num": 20,
+        "clue": "Red, blue or green",
+        "answer": "HUE",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 22,
+        "clue": "Read with 11-Across",
+        "answer": "PIRATEDAY",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 26,
+        "clue": "Royal ruler of Kuwait or Qatar",
+        "answer": "EMIR",
         "row": 7,
         "col": 0
       },
       {
-        "num": 29,
-        "clue": "Nickname for Louise",
-        "answer": "LULU",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 30,
-        "clue": "Green ogre",
-        "answer": "SHREK",
-        "row": 8,
+        "num": 27,
+        "clue": "Right-___ up",
+        "answer": "SIDE",
+        "row": 7,
         "col": 5
       },
       {
-        "num": 31,
-        "clue": "Throw forcefully, in Gen Z slang",
-        "answer": "YEET",
-        "row": 9,
+        "num": 28,
+        "clue": "Rim attachments",
+        "answer": "NETS",
+        "row": 8,
         "col": 0
       },
       {
-        "num": 32,
-        "clue": "Signs of things to come",
-        "answer": "OMENS",
-        "row": 9,
+        "num": 29,
+        "clue": "Railroad station",
+        "answer": "STOP",
+        "row": 8,
         "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Al of “The Godfather”",
-        "answer": "PACINO",
+        "clue": "Reading subject, informally",
+        "answer": "LIT",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 2,
-        "clue": "Worried exclamation from Scooby-Doo",
-        "answer": "RUHROH",
+        "clue": "Reddit Q&A session",
+        "answer": "AMA",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 3,
-        "clue": "Praiseful poem",
-        "answer": "ODE",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Dessert with a lattice crust, perhaps",
-        "answer": "PIE",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Cries one’s eyes out",
-        "answer": "BAWLS",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "Reverberation",
-        "answer": "ECHO",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "“No pain, no ___” (gym rat’s motto)",
-        "answer": "GAIN",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 8,
-        "clue": "L, XL or XXL",
-        "answer": "SIZE",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 12,
-        "clue": "Sound in a sci-fi comic",
-        "answer": "ZAP",
-        "row": 2,
-        "col": 5
-      },
-      {
-        "num": 13,
-        "clue": "___ Wednesday",
-        "answer": "ASH",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Unsatisfying excuse",
-        "answer": "COPOUT",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 17,
-        "clue": "Helper: Abbr.",
-        "answer": "ASST",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 19,
-        "clue": "Make 💤 sounds",
-        "answer": "SNORE",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 20,
-        "clue": "Ski town near Buttermilk Mountain",
-        "answer": "ASPEN",
-        "row": 5,
-        "col": 8
-      },
-      {
-        "num": 21,
-        "clue": "Workplace assignments",
-        "answer": "TASKS",
-        "row": 5,
-        "col": 9
-      },
-      {
-        "num": 23,
-        "clue": "Additionally",
-        "answer": "ALSO",
-        "row": 6,
-        "col": 5
-      },
-      {
-        "num": 25,
-        "clue": "Travel by plane",
-        "answer": "FLY",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Regret",
-        "answer": "RUE",
-        "row": 7,
         "col": 1
       },
       {
-        "num": 27,
-        "clue": "Nashville’s Grand ___ Opry",
-        "answer": "OLE",
-        "row": 7,
+        "num": 3,
+        "clue": "Repulsive",
+        "answer": "VILE",
+        "row": 0,
         "col": 2
       },
       {
-        "num": 28,
-        "clue": "Unit of electrical resistance",
-        "answer": "OHM",
-        "row": 7,
+        "num": 4,
+        "clue": "Rolling it may cause a sprain",
+        "answer": "ANKLE",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "“Rumble in the Jungle” boxing champ Muhammad",
+        "answer": "ALI",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Rose from a nap, say",
+        "answer": "WOKE",
+        "row": 0,
         "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Roulette alternative to “odd”",
+        "answer": "EVEN",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 8,
+        "clue": "“Ringer” or “center” preceder",
+        "answer": "DEAD",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 12,
+        "clue": "Ray of ___",
+        "answer": "LIGHT",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 16,
+        "clue": "Rough estimate",
+        "answer": "GUESS",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 17,
+        "clue": "“Ready for business” store sign",
+        "answer": "OPEN",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 18,
+        "clue": "Role for one dressed in a black-and-white striped shirt",
+        "answer": "MIME",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 19,
+        "clue": "Rub together forcefully, as teeth",
+        "answer": "GRIT",
+        "row": 5,
+        "col": 2
+      },
+      {
+        "num": 21,
+        "clue": "Revise, as an article",
+        "answer": "EDIT",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 23,
+        "clue": "Rowdy cries on 11-/22-Across … or the letters that start all of the clues in this puzzle",
+        "answer": "ARS",
+        "row": 6,
+        "col": 3
+      },
+      {
+        "num": 24,
+        "clue": "Ruckus",
+        "answer": "ADO",
+        "row": 6,
+        "col": 7
+      },
+      {
+        "num": 25,
+        "clue": "“Right you are!”",
+        "answer": "YEP",
+        "row": 6,
+        "col": 8
       }
     ]
   }
