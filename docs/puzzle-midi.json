@@ -1,336 +1,429 @@
 {
   "size": [
-    9,
-    9
+    11,
+    11
   ],
   "grid": [
     [
-      "L",
       "A",
-      "V",
-      "A",
+      "T",
+      "T",
+      "E",
+      "S",
+      "T",
       null,
       "A",
-      "W",
+      "C",
+      "D",
+      "C"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "N",
+      "T",
+      "R",
+      "Y",
+      "C",
+      "L",
+      "U",
+      "B"
+    ],
+    [
+      "H",
+      "O",
+      "P",
       "E",
+      "D",
+      "I",
+      "A",
+      "M",
+      "O",
+      "N",
       "D"
     ],
     [
-      "I",
-      "M",
-      "I",
-      "N",
-      null,
-      "L",
-      "O",
-      "V",
-      "E"
-    ],
-    [
+      "E",
       "T",
       "A",
-      "L",
-      "K",
-      "L",
-      "I",
-      "K",
+      null,
+      "S",
+      "T",
+      "R",
       "E",
-      "A"
+      "S",
+      "S",
+      null
+    ],
+    [
+      null,
+      "S",
+      "C",
+      "I",
+      null,
+      "I",
+      "N",
+      "S",
+      "E",
+      "T",
+      null
     ],
     [
       null,
       null,
-      "E",
-      "L",
-      "I",
       null,
+      "P",
+      "O",
+      "P",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "T",
+      "E",
+      "A",
+      "M",
+      null,
+      "I",
+      "A",
+      "M",
+      null,
+      null
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "D",
       "E",
       "N",
-      "D"
-    ],
-    [
-      null,
-      null,
-      null,
-      "E",
-      "G",
-      "G",
-      null,
-      null,
-      null
-    ],
-    [
-      "O",
-      "M",
-      "G",
-      null,
-      "H",
-      "U",
-      "E",
-      null,
-      null
+      "S",
+      "P",
+      "A",
+      "D",
+      "E"
     ],
     [
       "P",
-      "I",
+      "U",
       "R",
-      "A",
-      "T",
+      "P",
+      "L",
       "E",
-      "D",
+      "H",
+      "E",
       "A",
-      "Y"
+      "R",
+      "T"
     ],
     [
-      "E",
-      "M",
-      "I",
-      "R",
-      null,
       "S",
-      "I",
-      "D",
-      "E"
-    ],
-    [
       "N",
+      "O",
+      "R",
       "E",
-      "T",
-      "S",
+      "D",
       null,
       "S",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      null,
       "T",
+      "R",
       "O",
-      "P"
+      "T",
+      null,
+      null,
+      null,
+      "O",
+      "W",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Red-hot volcanic flow",
-        "answer": "LAVA",
+        "clue": "Bear witness (to)",
+        "answer": "ATTEST",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Rendered speechless, say",
-        "answer": "AWED",
+        "num": 7,
+        "clue": "“Back in Black” band",
+        "answer": "ACDC",
         "row": 0,
-        "col": 5
-      },
-      {
-        "num": 9,
-        "clue": "“Ready and willing!”",
-        "answer": "IMIN",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Romance",
-        "answer": "LOVE",
-        "row": 1,
-        "col": 5
+        "col": 7
       },
       {
         "num": 11,
-        "clue": "Read with 22-Across, September 19 observance whose celebrants might shout “Shiver me timbers!”",
-        "answer": "TALKLIKEA",
-        "row": 2,
+        "clue": "🇺🇸 + ♣️ = ___?",
+        "answer": "COUNTRYCLUB",
+        "row": 1,
         "col": 0
       },
       {
         "num": 13,
-        "clue": "Roth who directed “Hostel”",
-        "answer": "ELI",
-        "row": 3,
-        "col": 2
+        "clue": "🤞 + ♦️ = ___?",
+        "answer": "HOPEDIAMOND",
+        "row": 2,
+        "col": 0
       },
       {
         "num": 14,
-        "clue": "Rear ___",
-        "answer": "END",
+        "clue": "Calculation on a bank of airport monitors, for short",
+        "answer": "ETA",
         "row": 3,
-        "col": 6
+        "col": 0
       },
       {
         "num": 15,
-        "clue": "“Runny” breakfast food",
-        "answer": "EGG",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 17,
-        "clue": "“r u serious?? wow!!”",
-        "answer": "OMG",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Red, blue or green",
-        "answer": "HUE",
-        "row": 5,
+        "clue": "Cause of worry lines, some say",
+        "answer": "STRESS",
+        "row": 3,
         "col": 4
       },
       {
-        "num": 22,
-        "clue": "Read with 11-Across",
-        "answer": "PIRATEDAY",
+        "num": 16,
+        "clue": "Bio. or chem.",
+        "answer": "SCI",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 18,
+        "clue": "Small map on a larger map",
+        "answer": "INSET",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 19,
+        "clue": "Champagne-opening sound",
+        "answer": "POP",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 21,
+        "clue": "Sports squad",
+        "answer": "TEAM",
         "row": 6,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 23,
+        "clue": "Possible response to “Are you solving a crossword?”",
+        "answer": "IAM",
+        "row": 6,
+        "col": 6
       },
       {
         "num": 26,
-        "clue": "Royal ruler of Kuwait or Qatar",
-        "answer": "EMIR",
+        "clue": "🪴 + ♠️ = ___?",
+        "answer": "GARDENSPADE",
         "row": 7,
         "col": 0
       },
       {
-        "num": 27,
-        "clue": "Right-___ up",
-        "answer": "SIDE",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 28,
-        "clue": "Rim attachments",
-        "answer": "NETS",
+        "num": 30,
+        "clue": "🟪 + ♥️ = ___?",
+        "answer": "PURPLEHEART",
         "row": 8,
         "col": 0
       },
       {
-        "num": 29,
-        "clue": "Railroad station",
-        "answer": "STOP",
-        "row": 8,
-        "col": 5
+        "num": 31,
+        "clue": "Sawed logs",
+        "answer": "SNORED",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 32,
+        "clue": "“The Lion King” villain",
+        "answer": "SCAR",
+        "row": 9,
+        "col": 7
+      },
+      {
+        "num": 33,
+        "clue": "Horse’s gait",
+        "answer": "TROT",
+        "row": 10,
+        "col": 1
+      },
+      {
+        "num": 34,
+        "clue": "Have to pay",
+        "answer": "OWE",
+        "row": 10,
+        "col": 8
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Reading subject, informally",
-        "answer": "LIT",
+        "clue": "Feel a tough workout the next day",
+        "answer": "ACHE",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Reddit Q&A session",
-        "answer": "AMA",
+        "clue": "Gentle honks",
+        "answer": "TOOTS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Repulsive",
-        "answer": "VILE",
+        "clue": "Rapper whose name is often stylized with a number",
+        "answer": "TUPAC",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Rolling it may cause a sprain",
-        "answer": "ANKLE",
+        "clue": "Opposite of WSW",
+        "answer": "ENE",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "“Rumble in the Jungle” boxing champ Muhammad",
-        "answer": "ALI",
+        "clue": "Regulations: Abbr.",
+        "answer": "STDS",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Three-sided steak cut",
+        "answer": "TRITIP",
         "row": 0,
         "col": 5
       },
       {
-        "num": 6,
-        "clue": "Rose from a nap, say",
-        "answer": "WOKE",
-        "row": 0,
-        "col": 6
-      },
-      {
         "num": 7,
-        "clue": "Roulette alternative to “odd”",
-        "answer": "EVEN",
+        "clue": "High points",
+        "answer": "ACMES",
         "row": 0,
         "col": 7
       },
       {
         "num": 8,
-        "clue": "“Ringer” or “center” preceder",
-        "answer": "DEAD",
+        "clue": "“___ but no cigar!”",
+        "answer": "CLOSE",
         "row": 0,
         "col": 8
       },
       {
+        "num": 9,
+        "clue": "Kirsten of “The Power of the Dog,” 2021",
+        "answer": "DUNST",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 10,
+        "clue": "Ingredient in some edibles, for short",
+        "answer": "CBD",
+        "row": 0,
+        "col": 10
+      },
+      {
         "num": 12,
-        "clue": "Ray of ___",
-        "answer": "LIGHT",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 16,
-        "clue": "Rough estimate",
-        "answer": "GUESS",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 17,
-        "clue": "“Ready for business” store sign",
-        "answer": "OPEN",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 18,
-        "clue": "Role for one dressed in a black-and-white striped shirt",
-        "answer": "MIME",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 19,
-        "clue": "Rub together forcefully, as teeth",
-        "answer": "GRIT",
-        "row": 5,
-        "col": 2
-      },
-      {
-        "num": 21,
-        "clue": "Revise, as an article",
-        "answer": "EDIT",
-        "row": 5,
+        "clue": "Material of interest to a knitter or kitten",
+        "answer": "YARN",
+        "row": 1,
         "col": 6
       },
       {
-        "num": 23,
-        "clue": "Rowdy cries on 11-/22-Across … or the letters that start all of the clues in this puzzle",
-        "answer": "ARS",
-        "row": 6,
+        "num": 17,
+        "clue": "Apple tablet with heavy-duty processing power",
+        "answer": "IPADPRO",
+        "row": 4,
         "col": 3
       },
       {
+        "num": 20,
+        "clue": "Eggy breakfast",
+        "answer": "OMELET",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 21,
+        "clue": "Jeer",
+        "answer": "TAUNT",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "num": 22,
+        "clue": "See the ___ of your ways",
+        "answer": "ERROR",
+        "row": 6,
+        "col": 2
+      },
+      {
+        "num": 23,
+        "clue": "More or less",
+        "answer": "ISH",
+        "row": 6,
+        "col": 6
+      },
+      {
         "num": 24,
-        "clue": "Ruckus",
-        "answer": "ADO",
+        "clue": "Orangutans and bonobos",
+        "answer": "APES",
         "row": 6,
         "col": 7
       },
       {
         "num": 25,
-        "clue": "“Right you are!”",
-        "answer": "YEP",
+        "clue": "Chain of auto repair shops",
+        "answer": "MAACO",
         "row": 6,
         "col": 8
+      },
+      {
+        "num": 26,
+        "clue": "Navigation tool in a maps app, for short",
+        "answer": "GPS",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 27,
+        "clue": "The Dutch, on soccer scoreboards",
+        "answer": "NED",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 28,
+        "clue": "Sketch",
+        "answer": "DRAW",
+        "row": 7,
+        "col": 9
+      },
+      {
+        "num": 29,
+        "clue": "French “to be”",
+        "answer": "ETRE",
+        "row": 7,
+        "col": 10
       }
     ]
   }

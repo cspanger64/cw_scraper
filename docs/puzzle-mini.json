@@ -1,203 +1,118 @@
 {
   "size": [
-    8,
-    6
+    5,
+    5
   ],
   "grid": [
     [
-      "A",
-      "I",
-      "R",
-      "B",
-      "N",
-      "B"
-    ],
-    [
-      "I",
-      "C",
-      "E",
+      null,
+      "G",
       "A",
       "G",
-      "E"
-    ],
-    [
-      "D",
-      "A",
-      "D",
-      "B",
-      "O",
-      "D"
-    ],
-    [
-      "A",
-      "N",
-      "D",
-      "Y",
-      null,
       null
     ],
     [
-      null,
-      null,
-      "I",
-      "T",
-      "T",
-      "Y"
-    ],
-    [
-      "O",
-      "T",
-      "T",
-      "A",
-      "W",
-      "A"
-    ],
-    [
-      "F",
-      "O",
-      "O",
-      "L",
+      "U",
+      "M",
+      "B",
       "E",
       "R"
     ],
     [
-      "F",
-      "O",
-      "R",
-      "K",
+      "M",
+      "A",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "D",
       "E",
       "D"
+    ],
+    [
+      null,
+      "L",
+      "E",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Vacation rental",
-        "answer": "AIRBNB",
+        "clue": "Running joke",
+        "answer": "GAG",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "When woolly mammoths and saber-toothed tigers roamed the earth",
-        "answer": "ICEAGE",
+        "num": 4,
+        "clue": "Shade of brown that becomes a shade of gold if you change its first letter to an “A”",
+        "answer": "UMBER",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Father figure?",
-        "answer": "DADBOD",
+        "num": 6,
+        "clue": "State that shares the same first and last letters with MOOSE, appropriately",
+        "answer": "MAINE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Comedian Samberg",
-        "answer": "ANDY",
+        "num": 7,
+        "clue": "Joined teams (with)",
+        "answer": "SIDED",
         "row": 3,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "___-bitty",
-        "answer": "ITTY",
+        "num": 8,
+        "clue": "“___ Misérables”",
+        "answer": "LES",
         "row": 4,
-        "col": 2
-      },
-      {
-        "num": 13,
-        "clue": "Canada’s capital",
-        "answer": "OTTAWA",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "April 1st prankster",
-        "answer": "FOOLER",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Like the tongues of snakes",
-        "answer": "FORKED",
-        "row": 7,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Famed opera with over 1,000 performances at the Met",
-        "answer": "AIDA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "“As far as ___ tell …”",
-        "answer": "ICAN",
+        "clue": "App with an envelope logo",
+        "answer": "GMAIL",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Frequent visitor to websites with “r/” in their names",
-        "answer": "REDDITOR",
+        "num": 2,
+        "clue": "Withstand",
+        "answer": "ABIDE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Wittle, e.g.",
-        "answer": "BABYTALK",
+        "num": 3,
+        "clue": "Things that might make your hair curl?",
+        "answer": "GENES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Many a foreign aid grp.",
-        "answer": "NGO",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "What a convertible sofa converts into",
-        "answer": "BED",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 11,
-        "clue": "Overly cutesy",
-        "answer": "TWEE",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "Football field unit",
-        "answer": "YARD",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 13,
-        "clue": "Not working today",
-        "answer": "OFF",
-        "row": 5,
+        "num": 4,
+        "clue": "Sounds of hesitation",
+        "answer": "UMS",
+        "row": 1,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "In addition",
-        "answer": "TOO",
-        "row": 5,
-        "col": 1
+        "num": 5,
+        "clue": "Vibrant color for a sugar maple in autumn",
+        "answer": "RED",
+        "row": 1,
+        "col": 4
       }
     ]
   }
