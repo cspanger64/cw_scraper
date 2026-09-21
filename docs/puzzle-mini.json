@@ -1,42 +1,47 @@
 {
   "size": [
     5,
-    5
+    6
   ],
   "grid": [
     [
       null,
-      "G",
+      null,
+      "V",
       "A",
-      "G",
-      null
-    ],
-    [
-      "U",
-      "M",
-      "B",
-      "E",
-      "R"
-    ],
-    [
-      "M",
-      "A",
-      "I",
       "N",
+      "S"
+    ],
+    [
+      null,
+      "H",
+      "O",
+      "P",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "P",
+      "I",
       "E"
     ],
     [
       "S",
-      "I",
-      "D",
+      "H",
       "E",
-      "D"
+      "L",
+      "L",
+      null
     ],
     [
-      null,
-      "L",
+      "Y",
+      "O",
+      "R",
       "E",
-      "S",
+      null,
       null
     ]
   ],
@@ -44,75 +49,82 @@
     "across": [
       {
         "num": 1,
-        "clue": "Running joke",
-        "answer": "GAG",
+        "clue": "Appropriate shoes to wear on moving day?",
+        "answer": "VANS",
         "row": 0,
+        "col": 2
+      },
+      {
+        "num": 5,
+        "clue": "Optimists keep them high",
+        "answer": "HOPES",
+        "row": 1,
         "col": 1
       },
       {
-        "num": 4,
-        "clue": "Shade of brown that becomes a shade of gold if you change its first letter to an “A”",
-        "answer": "UMBER",
-        "row": 1,
-        "col": 0
-      },
-      {
         "num": 6,
-        "clue": "State that shares the same first and last letters with MOOSE, appropriately",
-        "answer": "MAINE",
+        "clue": "Baked entree with a flaky crust",
+        "answer": "POTPIE",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Joined teams (with)",
-        "answer": "SIDED",
+        "clue": "Appropriate gas station to find by the beach?",
+        "answer": "SHELL",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "“___ Misérables”",
-        "answer": "LES",
+        "clue": "Days of old",
+        "answer": "YORE",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "App with an envelope logo",
-        "answer": "GMAIL",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Withstand",
-        "answer": "ABIDE",
+        "clue": "Ballot caster",
+        "answer": "VOTER",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Things that might make your hair curl?",
-        "answer": "GENES",
+        "num": 2,
+        "clue": "Appropriate store beside a farmer’s market?",
+        "answer": "APPLE",
         "row": 0,
         "col": 3
       },
       {
+        "num": 3,
+        "clue": "Actor ___ Patrick Harris",
+        "answer": "NEIL",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 4,
-        "clue": "Sounds of hesitation",
-        "answer": "UMS",
-        "row": 1,
-        "col": 0
+        "clue": "Opposite of NNW",
+        "answer": "SSE",
+        "row": 0,
+        "col": 5
       },
       {
         "num": 5,
-        "clue": "Vibrant color for a sugar maple in autumn",
-        "answer": "RED",
+        "clue": "Appropriate snack for Santa?",
+        "answer": "HOHO",
         "row": 1,
-        "col": 4
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "“Gangnam Style” rapper",
+        "answer": "PSY",
+        "row": 2,
+        "col": 0
       }
     ]
   }

@@ -1,429 +1,359 @@
 {
   "size": [
-    11,
-    11
+    9,
+    10
   ],
   "grid": [
     [
-      "A",
-      "T",
-      "T",
-      "E",
-      "S",
-      "T",
-      null,
-      "A",
-      "C",
       "D",
-      "C"
-    ],
-    [
+      "A",
+      "S",
+      "H",
+      null,
+      "S",
       "C",
-      "O",
-      "U",
-      "N",
-      "T",
       "R",
-      "Y",
-      "C",
-      "L",
       "U",
       "B"
     ],
     [
-      "H",
       "O",
-      "P",
-      "E",
-      "D",
-      "I",
+      "L",
       "A",
-      "M",
-      "O",
-      "N",
-      "D"
-    ],
-    [
-      "E",
-      "T",
-      "A",
+      "Y",
       null,
-      "S",
-      "T",
-      "R",
-      "E",
-      "S",
-      "S",
-      null
-    ],
-    [
-      null,
-      "S",
-      "C",
-      "I",
-      null,
-      "I",
-      "N",
-      "S",
-      "E",
-      "T",
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "P",
-      "O",
-      "P",
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      "T",
-      "E",
-      "A",
-      "M",
-      null,
-      "I",
-      "A",
-      "M",
-      null,
-      null
-    ],
-    [
       "G",
-      "A",
-      "R",
-      "D",
-      "E",
-      "N",
-      "S",
-      "P",
-      "A",
-      "D",
+      "L",
+      "O",
+      "B",
       "E"
     ],
     [
-      "P",
-      "U",
+      "N",
+      "O",
       "R",
-      "P",
-      "L",
+      "M",
+      null,
+      "T",
+      "U",
+      "B",
       "E",
-      "H",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "N",
+      "G",
+      null,
+      "B",
       "E",
-      "A",
       "R",
       "T"
     ],
     [
-      "S",
-      "N",
-      "O",
-      "R",
-      "E",
-      "D",
+      null,
+      null,
       null,
       "S",
-      "C",
+      "O",
+      "B",
+      "S",
+      null,
+      null,
+      null
+    ],
+    [
       "A",
-      "R"
+      "W",
+      "W",
+      null,
+      "B",
+      "E",
+      "C",
+      "K",
+      null,
+      null
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "B",
+      "I",
+      "G",
+      "E",
+      "A",
+      "S",
+      "Y"
+    ],
+    [
+      "H",
+      "I",
+      "V",
+      "E",
+      null,
+      "U",
+      "N",
+      "T",
+      "I",
+      "E"
     ],
     [
       null,
-      "T",
-      "R",
-      "O",
-      "T",
+      "Z",
+      "E",
+      "E",
       null,
-      null,
-      null,
-      "O",
-      "W",
-      "E"
+      "N",
+      "E",
+      "E",
+      "D",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Bear witness (to)",
-        "answer": "ATTEST",
+        "clue": "Make a beeline, say",
+        "answer": "DASH",
         "row": 0,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "“Back in Black” band",
-        "answer": "ACDC",
+        "num": 5,
+        "clue": "Wash vigorously",
+        "answer": "SCRUB",
         "row": 0,
-        "col": 7
+        "col": 5
       },
       {
-        "num": 11,
-        "clue": "🇺🇸 + ♣️ = ___?",
-        "answer": "COUNTRYCLUB",
+        "num": 10,
+        "clue": "Skin care brand that dropped “Oil of” from its name",
+        "answer": "OLAY",
         "row": 1,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "🤞 + ♦️ = ___?",
-        "answer": "HOPEDIAMOND",
+        "num": 11,
+        "clue": "Boston daily newspaper",
+        "answer": "GLOBE",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 12,
+        "clue": "Standard",
+        "answer": "NORM",
         "row": 2,
         "col": 0
       },
       {
+        "num": 13,
+        "clue": "Toothpaste containers",
+        "answer": "TUBES",
+        "row": 2,
+        "col": 5
+      },
+      {
         "num": 14,
-        "clue": "Calculation on a bank of airport monitors, for short",
-        "answer": "ETA",
+        "clue": "Injury from a 25-Down",
+        "answer": "STING",
         "row": 3,
         "col": 0
       },
       {
-        "num": 15,
-        "clue": "Cause of worry lines, some say",
-        "answer": "STRESS",
-        "row": 3,
-        "col": 4
-      },
-      {
         "num": 16,
-        "clue": "Bio. or chem.",
-        "answer": "SCI",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 18,
-        "clue": "Small map on a larger map",
-        "answer": "INSET",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 19,
-        "clue": "Champagne-opening sound",
-        "answer": "POP",
-        "row": 5,
-        "col": 3
-      },
-      {
-        "num": 21,
-        "clue": "Sports squad",
-        "answer": "TEAM",
-        "row": 6,
-        "col": 1
-      },
-      {
-        "num": 23,
-        "clue": "Possible response to “Are you solving a crossword?”",
-        "answer": "IAM",
-        "row": 6,
+        "clue": "Pigeon-loving character on “Sesame Street”",
+        "answer": "BERT",
+        "row": 3,
         "col": 6
       },
       {
-        "num": 26,
-        "clue": "🪴 + ♠️ = ___?",
-        "answer": "GARDENSPADE",
+        "num": 17,
+        "clue": "Cries hysterically",
+        "answer": "SOBS",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 19,
+        "clue": "“So cute!”",
+        "answer": "AWW",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 22,
+        "clue": "___ and call",
+        "answer": "BECK",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 24,
+        "clue": "Nickname for New Orleans",
+        "answer": "THEBIGEASY",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 28,
+        "clue": "Home for a 25-Down",
+        "answer": "HIVE",
         "row": 7,
         "col": 0
       },
       {
+        "num": 29,
+        "clue": "Make a knot not?",
+        "answer": "UNTIE",
+        "row": 7,
+        "col": 5
+      },
+      {
         "num": 30,
-        "clue": "🟪 + ♥️ = ___?",
-        "answer": "PURPLEHEART",
+        "clue": "One of two 10-point tiles in Scrabble",
+        "answer": "ZEE",
         "row": 8,
-        "col": 0
-      },
-      {
-        "num": 31,
-        "clue": "Sawed logs",
-        "answer": "SNORED",
-        "row": 9,
-        "col": 0
-      },
-      {
-        "num": 32,
-        "clue": "“The Lion King” villain",
-        "answer": "SCAR",
-        "row": 9,
-        "col": 7
-      },
-      {
-        "num": 33,
-        "clue": "Horse’s gait",
-        "answer": "TROT",
-        "row": 10,
         "col": 1
       },
       {
-        "num": 34,
-        "clue": "Have to pay",
-        "answer": "OWE",
-        "row": 10,
-        "col": 8
+        "num": 31,
+        "clue": "Necessities",
+        "answer": "NEEDS",
+        "row": 8,
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Feel a tough workout the next day",
-        "answer": "ACHE",
+        "clue": "Puts on, as clothing",
+        "answer": "DONS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Gentle honks",
-        "answer": "TOOTS",
+        "clue": "Many",
+        "answer": "ALOT",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Rapper whose name is often stylized with a number",
-        "answer": "TUPAC",
+        "clue": "Garment commonly worn by Bangladeshi women",
+        "answer": "SARI",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Opposite of WSW",
-        "answer": "ENE",
+        "clue": "Devotional songs",
+        "answer": "HYMNS",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Regulations: Abbr.",
-        "answer": "STDS",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Three-sided steak cut",
-        "answer": "TRITIP",
+        "clue": "“___ Pepper’s Lonely Hearts Club Band”",
+        "answer": "SGT",
         "row": 0,
         "col": 5
       },
       {
+        "num": 6,
+        "clue": "Raver’s nightlife environment",
+        "answer": "CLUBSCENE",
+        "row": 0,
+        "col": 6
+      },
+      {
         "num": 7,
-        "clue": "High points",
-        "answer": "ACMES",
+        "clue": "Cozy post-shower attire",
+        "answer": "ROBE",
         "row": 0,
         "col": 7
       },
       {
         "num": 8,
-        "clue": "“___ but no cigar!”",
-        "answer": "CLOSE",
+        "clue": "Lyft competitor",
+        "answer": "UBER",
         "row": 0,
         "col": 8
       },
       {
         "num": 9,
-        "clue": "Kirsten of “The Power of the Dog,” 2021",
-        "answer": "DUNST",
+        "clue": "Awards show superlative",
+        "answer": "BEST",
         "row": 0,
         "col": 9
       },
       {
-        "num": 10,
-        "clue": "Ingredient in some edibles, for short",
-        "answer": "CBD",
-        "row": 0,
-        "col": 10
-      },
-      {
-        "num": 12,
-        "clue": "Material of interest to a knitter or kitten",
-        "answer": "YARN",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 17,
-        "clue": "Apple tablet with heavy-duty processing power",
-        "answer": "IPADPRO",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 20,
-        "clue": "Eggy breakfast",
-        "answer": "OMELET",
-        "row": 5,
+        "num": 15,
+        "clue": "Desert whose temperatures can reach -40°F in the winter",
+        "answer": "GOBI",
+        "row": 3,
         "col": 4
       },
       {
-        "num": 21,
-        "clue": "Jeer",
-        "answer": "TAUNT",
-        "row": 6,
+        "num": 18,
+        "clue": "Underway",
+        "answer": "BEGUN",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 19,
+        "clue": "Airport code of Greece’s capital",
+        "answer": "ATH",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "“Gee ___!”",
+        "answer": "WHIZ",
+        "row": 5,
         "col": 1
       },
       {
-        "num": 22,
-        "clue": "See the ___ of your ways",
-        "answer": "ERROR",
-        "row": 6,
+        "num": 21,
+        "clue": "Contraction that sounds like a hair extension",
+        "answer": "WEVE",
+        "row": 5,
         "col": 2
       },
       {
         "num": 23,
-        "clue": "More or less",
-        "answer": "ISH",
-        "row": 6,
-        "col": 6
-      },
-      {
-        "num": 24,
-        "clue": "Orangutans and bonobos",
-        "answer": "APES",
-        "row": 6,
+        "clue": "“Kiss Me, ___” (Cole Porter musical)",
+        "answer": "KATE",
+        "row": 5,
         "col": 7
       },
       {
         "num": 25,
-        "clue": "Chain of auto repair shops",
-        "answer": "MAACO",
+        "clue": "Animal moving diagonally in this puzzle?",
+        "answer": "BEE",
+        "row": 6,
+        "col": 3
+      },
+      {
+        "num": 26,
+        "clue": "___ Vicious, punk rock icon",
+        "answer": "SID",
         "row": 6,
         "col": 8
       },
       {
-        "num": 26,
-        "clue": "Navigation tool in a maps app, for short",
-        "answer": "GPS",
-        "row": 7,
-        "col": 0
-      },
-      {
         "num": 27,
-        "clue": "The Dutch, on soccer scoreboards",
-        "answer": "NED",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 28,
-        "clue": "Sketch",
-        "answer": "DRAW",
-        "row": 7,
+        "clue": "[Nods head]",
+        "answer": "YES",
+        "row": 6,
         "col": 9
-      },
-      {
-        "num": 29,
-        "clue": "French “to be”",
-        "answer": "ETRE",
-        "row": 7,
-        "col": 10
       }
     ]
   }
