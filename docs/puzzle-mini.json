@@ -1,84 +1,79 @@
 {
   "size": [
     5,
-    6
+    5
   ],
   "grid": [
     [
       null,
-      null,
-      "V",
+      "W",
+      "E",
+      "B",
+      null
+    ],
+    [
+      "B",
+      "O",
+      "X",
+      "U",
+      "P"
+    ],
+    [
       "A",
-      "N",
-      "S"
-    ],
-    [
-      null,
-      "H",
-      "O",
-      "P",
-      "E",
-      "S"
-    ],
-    [
-      "P",
-      "O",
-      "T",
-      "P",
+      "M",
       "I",
-      "E"
+      "G",
+      "O"
     ],
     [
-      "S",
-      "H",
+      "C",
       "E",
       "L",
       "L",
-      null
+      "O"
     ],
     [
-      "Y",
-      "O",
-      "R",
+      "K",
+      "N",
       "E",
-      null,
-      null
+      "E",
+      "L"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Appropriate shoes to wear on moving day?",
-        "answer": "VANS",
+        "clue": "What fills the Venn diagram of “Spider-Man” and “the Internet”",
+        "answer": "WEB",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 5,
-        "clue": "Optimists keep them high",
-        "answer": "HOPES",
-        "row": 1,
         "col": 1
       },
       {
+        "num": 4,
+        "clue": "Pack, as a mover might",
+        "answer": "BOXUP",
+        "row": 1,
+        "col": 0
+      },
+      {
         "num": 6,
-        "clue": "Baked entree with a flaky crust",
-        "answer": "POTPIE",
+        "clue": "“Adios ___!”",
+        "answer": "AMIGO",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Appropriate gas station to find by the beach?",
-        "answer": "SHELL",
+        "clue": "Large stringed instrument",
+        "answer": "CELLO",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Days of old",
-        "answer": "YORE",
+        "clue": "Prepare to pop the question",
+        "answer": "KNEEL",
         "row": 4,
         "col": 0
       }
@@ -86,45 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Ballot caster",
-        "answer": "VOTER",
+        "clue": "Alcott’s “Little ___”",
+        "answer": "WOMEN",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Political leader unwelcome at home",
+        "answer": "EXILE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Appropriate store beside a farmer’s market?",
-        "answer": "APPLE",
+        "num": 3,
+        "clue": "Small brass instrument",
+        "answer": "BUGLE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Actor ___ Patrick Harris",
-        "answer": "NEIL",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 4,
-        "clue": "Opposite of NNW",
-        "answer": "SSE",
-        "row": 0,
-        "col": 5
+        "clue": "Support politically",
+        "answer": "BACK",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Appropriate snack for Santa?",
-        "answer": "HOHO",
+        "clue": "Site of cannonballs and bellyflops",
+        "answer": "POOL",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "“Gangnam Style” rapper",
-        "answer": "PSY",
-        "row": 2,
-        "col": 0
+        "col": 4
       }
     ]
   }

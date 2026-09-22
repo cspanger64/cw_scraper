@@ -1,359 +1,322 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "D",
-      "A",
-      "S",
-      "H",
-      null,
-      "S",
       "C",
-      "R",
-      "U",
-      "B"
-    ],
-    [
       "O",
-      "L",
+      "B",
+      "B",
+      null,
       "A",
-      "Y",
-      null,
-      "G",
-      "L",
-      "O",
-      "B",
-      "E"
+      "D",
+      "D",
+      null
     ],
     [
-      "N",
+      "C",
+      "H",
       "O",
-      "R",
-      "M",
-      null,
-      "T",
-      "U",
-      "B",
-      "E",
+      "O",
+      "C",
+      "H",
+      "O",
+      "O",
       "S"
     ],
     [
       "S",
-      "T",
-      "I",
-      "N",
-      "G",
-      null,
-      "B",
-      "E",
-      "R",
-      "T"
-    ],
-    [
-      null,
-      null,
-      null,
-      "S",
-      "O",
-      "B",
-      "S",
-      null,
-      null,
-      null
-    ],
-    [
-      "A",
-      "W",
-      "W",
-      null,
-      "B",
-      "E",
-      "C",
-      "K",
-      null,
-      null
-    ],
-    [
-      "T",
       "H",
-      "E",
-      "B",
-      "I",
-      "G",
-      "E",
       "A",
-      "S",
+      "B",
+      "O",
+      "O",
+      "Z",
+      "E",
       "Y"
     ],
     [
-      "H",
-      "I",
-      "V",
-      "E",
       null,
-      "U",
-      "N",
-      "T",
+      null,
+      null,
+      "B",
+      "A",
+      "K",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "A",
+      "R",
       "I",
+      "E",
+      "L",
+      null,
+      "D",
+      "S",
+      "T"
+    ],
+    [
+      "S",
+      "E",
+      "C",
+      "R",
+      "E",
+      "T",
+      null,
+      null,
+      null
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      null,
+      "S",
+      "A",
+      "U",
+      "C",
       "E"
     ],
     [
-      null,
-      "Z",
-      "E",
-      "E",
-      null,
-      "N",
-      "E",
-      "E",
       "D",
-      "S"
+      "O",
+      "N",
+      null,
+      "C",
+      "I",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      null,
+      "E",
+      "L",
+      "A",
+      "T",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Make a beeline, say",
-        "answer": "DASH",
+        "clue": "Kind of salad with bacon and eggs",
+        "answer": "COBB",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Wash vigorously",
-        "answer": "SCRUB",
+        "clue": "Tally up",
+        "answer": "ADD",
         "row": 0,
         "col": 5
       },
       {
-        "num": 10,
-        "clue": "Skin care brand that dropped “Oil of” from its name",
-        "answer": "OLAY",
+        "num": 8,
+        "clue": "Trains, in toddler-speak",
+        "answer": "CHOOCHOOS",
         "row": 1,
         "col": 0
       },
       {
         "num": 11,
-        "clue": "Boston daily newspaper",
-        "answer": "GLOBE",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 12,
-        "clue": "Standard",
-        "answer": "NORM",
+        "clue": "One-named singer with the 2024 #1 hit “A Bar Song (Tipsy)”",
+        "answer": "SHABOOZEY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Toothpaste containers",
-        "answer": "TUBES",
-        "row": 2,
-        "col": 5
+        "num": 12,
+        "clue": "Pan handlers?",
+        "answer": "BAKERS",
+        "row": 3,
+        "col": 3
       },
       {
-        "num": 14,
-        "clue": "Injury from a 25-Down",
-        "answer": "STING",
-        "row": 3,
+        "num": 13,
+        "clue": "Princess in “The Little Mermaid”",
+        "answer": "ARIEL",
+        "row": 4,
         "col": 0
       },
       {
         "num": 16,
-        "clue": "Pigeon-loving character on “Sesame Street”",
-        "answer": "BERT",
-        "row": 3,
+        "clue": "“Spring forward” clock setting: Abbr.",
+        "answer": "DST",
+        "row": 4,
         "col": 6
       },
       {
         "num": 17,
-        "clue": "Cries hysterically",
-        "answer": "SOBS",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 19,
-        "clue": "“So cute!”",
-        "answer": "AWW",
+        "clue": "With 20-Across, hidden key to success … or what’s inside 8- and 11-Across?",
+        "answer": "SECRET",
         "row": 5,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "___ and call",
-        "answer": "BECK",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 24,
-        "clue": "Nickname for New Orleans",
-        "answer": "THEBIGEASY",
+        "num": 19,
+        "clue": "“Without further ___ …”",
+        "answer": "ADO",
         "row": 6,
         "col": 0
       },
       {
-        "num": 28,
-        "clue": "Home for a 25-Down",
-        "answer": "HIVE",
+        "num": 20,
+        "clue": "See 17-Across",
+        "answer": "SAUCE",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "num": 24,
+        "clue": "Mafia boss",
+        "answer": "DON",
         "row": 7,
         "col": 0
       },
       {
-        "num": 29,
-        "clue": "Make a knot not?",
-        "answer": "UNTIE",
+        "num": 25,
+        "clue": "One of 40(!) a day supposedly smoked by Mark Twain",
+        "answer": "CIGAR",
         "row": 7,
-        "col": 5
+        "col": 4
       },
       {
-        "num": 30,
-        "clue": "One of two 10-point tiles in Scrabble",
-        "answer": "ZEE",
+        "num": 26,
+        "clue": "Really rude person",
+        "answer": "ASS",
         "row": 8,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 31,
-        "clue": "Necessities",
-        "answer": "NEEDS",
+        "num": 27,
+        "clue": "Make extremely happy",
+        "answer": "ELATE",
         "row": 8,
-        "col": 5
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Puts on, as clothing",
-        "answer": "DONS",
+        "clue": "Includes on an email thread",
+        "answer": "CCS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Many",
-        "answer": "ALOT",
+        "clue": "“NOW that makes sense!”",
+        "answer": "OHH",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Garment commonly worn by Bangladeshi women",
-        "answer": "SARI",
+        "clue": "Feathery wrap",
+        "answer": "BOA",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Devotional songs",
-        "answer": "HYMNS",
+        "clue": "Buoyant attachment on a fishing line",
+        "answer": "BOBBER",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "“___ Pepper’s Lonely Hearts Club Band”",
-        "answer": "SGT",
+        "clue": "“Yes … that makes sense”",
+        "answer": "AHOK",
         "row": 0,
         "col": 5
       },
       {
         "num": 6,
-        "clue": "Raver’s nightlife environment",
-        "answer": "CLUBSCENE",
+        "clue": "Took a nap",
+        "answer": "DOZED",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "Cozy post-shower attire",
-        "answer": "ROBE",
+        "clue": "People of action",
+        "answer": "DOERS",
         "row": 0,
         "col": 7
-      },
-      {
-        "num": 8,
-        "clue": "Lyft competitor",
-        "answer": "UBER",
-        "row": 0,
-        "col": 8
       },
       {
         "num": 9,
-        "clue": "Awards show superlative",
-        "answer": "BEST",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 15,
-        "clue": "Desert whose temperatures can reach -40°F in the winter",
-        "answer": "GOBI",
-        "row": 3,
+        "clue": "Come together",
+        "answer": "COALESCE",
+        "row": 1,
         "col": 4
       },
       {
-        "num": 18,
-        "clue": "Underway",
-        "answer": "BEGUN",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 19,
-        "clue": "Airport code of Greece’s capital",
-        "answer": "ATH",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "“Gee ___!”",
-        "answer": "WHIZ",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 21,
-        "clue": "Contraction that sounds like a hair extension",
-        "answer": "WEVE",
-        "row": 5,
-        "col": 2
-      },
-      {
-        "num": 23,
-        "clue": "“Kiss Me, ___” (Cole Porter musical)",
-        "answer": "KATE",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 25,
-        "clue": "Animal moving diagonally in this puzzle?",
-        "answer": "BEE",
-        "row": 6,
-        "col": 3
-      },
-      {
-        "num": 26,
-        "clue": "___ Vicious, punk rock icon",
-        "answer": "SID",
-        "row": 6,
+        "num": 10,
+        "clue": "The “S” of GPS: Abbr.",
+        "answer": "SYST",
+        "row": 1,
         "col": 8
       },
       {
-        "num": 27,
-        "clue": "[Nods head]",
-        "answer": "YES",
+        "num": 13,
+        "clue": "Carne ___",
+        "answer": "ASADA",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Take twos",
+        "answer": "REDOS",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 15,
+        "clue": "Images on a touchscreen",
+        "answer": "ICONS",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 18,
+        "clue": "Where a scorpion’s stinger is located",
+        "answer": "TAIL",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 21,
+        "clue": "Football powerhouse in the Peach State, for short",
+        "answer": "UGA",
         "row": 6,
-        "col": 9
+        "col": 6
+      },
+      {
+        "num": 22,
+        "clue": "Scratching post user",
+        "answer": "CAT",
+        "row": 6,
+        "col": 7
+      },
+      {
+        "num": 23,
+        "clue": "“Able was I ___ I saw Elba” (classic palindrome)",
+        "answer": "ERE",
+        "row": 6,
+        "col": 8
       }
     ]
   }
