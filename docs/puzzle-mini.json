@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      null,
-      "W",
-      "E",
-      "B",
+      "O",
+      "O",
+      "P",
+      "S",
       null
     ],
     [
-      "B",
-      "O",
-      "X",
-      "U",
-      "P"
+      "K",
+      "H",
+      "A",
+      "K",
+      "I"
     ],
     [
       "A",
-      "M",
-      "I",
-      "G",
-      "O"
-    ],
-    [
-      "C",
-      "E",
-      "L",
-      "L",
-      "O"
-    ],
-    [
-      "K",
-      "N",
-      "E",
-      "E",
+      "B",
+      "D",
+      "U",
       "L"
+    ],
+    [
+      "Y",
+      "O",
+      "U",
+      "L",
+      "L"
+    ],
+    [
+      null,
+      "Y",
+      "A",
+      "K",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "What fills the Venn diagram of “Spider-Man” and “the Internet”",
-        "answer": "WEB",
+        "clue": "“Sorry about that!”",
+        "answer": "OOPS",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 4,
-        "clue": "Pack, as a mover might",
-        "answer": "BOXUP",
+        "num": 5,
+        "clue": "Not-so-tacky clothing material that rhymes with “tacky”",
+        "answer": "KHAKI",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "“Adios ___!”",
-        "answer": "AMIGO",
+        "num": 7,
+        "clue": "Paula who judged on “American Idol”",
+        "answer": "ABDUL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Large stringed instrument",
-        "answer": "CELLO",
+        "num": 8,
+        "clue": "“___ never believe this …”",
+        "answer": "YOULL",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Prepare to pop the question",
-        "answer": "KNEEL",
+        "num": 9,
+        "clue": "Long-haired Himalayan animals",
+        "answer": "YAKS",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Alcott’s “Little ___”",
-        "answer": "WOMEN",
+        "clue": "Just fine",
+        "answer": "OKAY",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "“Well, this oughta be good!”",
+        "answer": "OHBOY",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Political leader unwelcome at home",
-        "answer": "EXILE",
+        "num": 3,
+        "clue": "Italian city where “The Taming of the Shrew” is set",
+        "answer": "PADUA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Small brass instrument",
-        "answer": "BUGLE",
+        "num": 4,
+        "clue": "Walk around stealthily",
+        "answer": "SKULK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Support politically",
-        "answer": "BACK",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Site of cannonballs and bellyflops",
-        "answer": "POOL",
+        "num": 6,
+        "clue": "Society’s woes",
+        "answer": "ILLS",
         "row": 1,
         "col": 4
       }

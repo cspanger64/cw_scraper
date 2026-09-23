@@ -5,202 +5,195 @@
   ],
   "grid": [
     [
-      "C",
-      "O",
-      "B",
-      "B",
-      null,
-      "A",
-      "D",
-      "D",
-      null
-    ],
-    [
-      "C",
-      "H",
-      "O",
-      "O",
-      "C",
-      "H",
-      "O",
-      "O",
-      "S"
-    ],
-    [
       "S",
+      "A",
+      "Y",
+      "A",
       "H",
-      "A",
-      "B",
-      "O",
-      "O",
-      "Z",
-      "E",
-      "Y"
-    ],
-    [
       null,
-      null,
-      null,
-      "B",
-      "A",
-      "K",
-      "E",
-      "R",
-      "S"
-    ],
-    [
-      "A",
-      "R",
       "I",
-      "E",
-      "L",
-      null,
-      "D",
+      "F",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "I",
       "S",
+      "E",
+      null,
+      "S",
+      "A",
       "T"
     ],
     [
+      "A",
+      "L",
+      "P",
+      "H",
+      "A",
+      "M",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "R",
+      "A",
+      "I",
       "S",
+      "E"
+    ],
+    [
+      "F",
+      "O",
+      "O",
+      "T",
+      "M",
+      "O",
+      "D",
       "E",
-      "C",
+      "L"
+    ],
+    [
+      "A",
+      "N",
+      "D",
       "R",
       "E",
-      "T",
+      null,
       null,
       null,
       null
     ],
     [
+      "R",
       "A",
       "D",
-      "O",
-      null,
-      "S",
-      "A",
-      "U",
-      "C",
-      "E"
-    ],
-    [
-      "D",
-      "O",
-      "N",
-      null,
-      "C",
       "I",
-      "G",
+      "O",
+      "H",
+      "E",
       "A",
-      "R"
+      "D"
     ],
     [
-      "A",
-      "S",
-      "S",
-      null,
-      "E",
+      "M",
+      "I",
       "L",
+      null,
+      "U",
+      "M",
       "A",
+      "M",
+      "I"
+    ],
+    [
+      "S",
+      "R",
+      "Y",
+      null,
       "T",
-      "E"
+      "O",
+      "T",
+      "E",
+      "M"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Kind of salad with bacon and eggs",
-        "answer": "COBB",
+        "clue": "Request that might make you stick out your tongue",
+        "answer": "SAYAH",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Tally up",
-        "answer": "ADD",
+        "num": 6,
+        "clue": "“No ___, ands or buts!”",
+        "answer": "IFS",
         "row": 0,
-        "col": 5
+        "col": 6
       },
       {
-        "num": 8,
-        "clue": "Trains, in toddler-speak",
-        "answer": "CHOOCHOOS",
+        "num": 9,
+        "clue": "Calmness under pressure",
+        "answer": "POISE",
         "row": 1,
         "col": 0
       },
       {
+        "num": 10,
+        "clue": "Made it through a round of musical chairs, say",
+        "answer": "SAT",
+        "row": 1,
+        "col": 6
+      },
+      {
         "num": 11,
-        "clue": "One-named singer with the 2024 #1 hit “A Bar Song (Tipsy)”",
-        "answer": "SHABOOZEY",
+        "clue": "Leader of the pack",
+        "answer": "ALPHAMALE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Pan handlers?",
-        "answer": "BAKERS",
+        "num": 13,
+        "clue": "Salary bump",
+        "answer": "RAISE",
         "row": 3,
-        "col": 3
+        "col": 4
       },
       {
-        "num": 13,
-        "clue": "Princess in “The Little Mermaid”",
-        "answer": "ARIEL",
+        "num": 14,
+        "clue": "One with well-groomed dogs?",
+        "answer": "FOOTMODEL",
         "row": 4,
         "col": 0
       },
       {
-        "num": 16,
-        "clue": "“Spring forward” clock setting: Abbr.",
-        "answer": "DST",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 17,
-        "clue": "With 20-Across, hidden key to success … or what’s inside 8- and 11-Across?",
-        "answer": "SECRET",
+        "num": 18,
+        "clue": "Tennis star Agassi",
+        "answer": "ANDRE",
         "row": 5,
         "col": 0
       },
       {
         "num": 19,
-        "clue": "“Without further ___ …”",
-        "answer": "ADO",
+        "clue": "“In Rainbows” rock band … or a collective feature of the circled letters in 11- and 14-Across?",
+        "answer": "RADIOHEAD",
         "row": 6,
         "col": 0
       },
       {
-        "num": 20,
-        "clue": "See 17-Across",
-        "answer": "SAUCE",
-        "row": 6,
-        "col": 4
-      },
-      {
         "num": 24,
-        "clue": "Mafia boss",
-        "answer": "DON",
+        "clue": "$1,000,000, casually",
+        "answer": "MIL",
         "row": 7,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "One of 40(!) a day supposedly smoked by Mark Twain",
-        "answer": "CIGAR",
+        "clue": "Taste quality of soy sauce and miso",
+        "answer": "UMAMI",
         "row": 7,
         "col": 4
       },
       {
         "num": 26,
-        "clue": "Really rude person",
-        "answer": "ASS",
+        "clue": "“My bad,” in a text",
+        "answer": "SRY",
         "row": 8,
         "col": 0
       },
       {
         "num": 27,
-        "clue": "Make extremely happy",
-        "answer": "ELATE",
+        "clue": "Tribal emblem",
+        "answer": "TOTEM",
         "row": 8,
         "col": 4
       }
@@ -208,113 +201,120 @@
     "down": [
       {
         "num": 1,
-        "clue": "Includes on an email thread",
-        "answer": "CCS",
+        "clue": "Where you might get into hot water?",
+        "answer": "SPA",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "“NOW that makes sense!”",
-        "answer": "OHH",
+        "clue": "“You’ve got mail” co.",
+        "answer": "AOL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Feathery wrap",
-        "answer": "BOA",
+        "clue": "Sharp bark",
+        "answer": "YIP",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Buoyant attachment on a fishing line",
-        "answer": "BOBBER",
+        "clue": "Campfire residue",
+        "answer": "ASH",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "“Yes … that makes sense”",
-        "answer": "AHOK",
+        "clue": "“You’ll probably think this is crazy, but …”",
+        "answer": "HEARMEOUT",
         "row": 0,
-        "col": 5
+        "col": 4
       },
       {
         "num": 6,
-        "clue": "Took a nap",
-        "answer": "DOZED",
+        "clue": "“Let me repeat …”",
+        "answer": "ISAID",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "People of action",
-        "answer": "DOERS",
+        "clue": "Test answer that has a 50/50 shot of being correct",
+        "answer": "FALSE",
         "row": 0,
         "col": 7
       },
       {
-        "num": 9,
-        "clue": "Come together",
-        "answer": "COALESCE",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 10,
-        "clue": "The “S” of GPS: Abbr.",
-        "answer": "SYST",
-        "row": 1,
+        "num": 8,
+        "clue": "“Stainless” metal",
+        "answer": "STEEL",
+        "row": 0,
         "col": 8
       },
       {
-        "num": 13,
-        "clue": "Carne ___",
-        "answer": "ASADA",
+        "num": 12,
+        "clue": "Chinese Communist Party leader Zedong",
+        "answer": "MAO",
+        "row": 2,
+        "col": 5
+      },
+      {
+        "num": 14,
+        "clue": "Produces produce",
+        "answer": "FARMS",
         "row": 4,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "Take twos",
-        "answer": "REDOS",
+        "num": 15,
+        "clue": "Currently broadcasting",
+        "answer": "ONAIR",
         "row": 4,
         "col": 1
       },
       {
-        "num": 15,
-        "clue": "Images on a touchscreen",
-        "answer": "ICONS",
+        "num": 16,
+        "clue": "In a strange way",
+        "answer": "ODDLY",
         "row": 4,
         "col": 2
       },
       {
-        "num": 18,
-        "clue": "Where a scorpion’s stinger is located",
-        "answer": "TAIL",
-        "row": 5,
+        "num": 17,
+        "clue": "Swim-bike-run race, for short",
+        "answer": "TRI",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 20,
+        "clue": "Med. care option",
+        "answer": "HMO",
+        "row": 6,
         "col": 5
       },
       {
         "num": 21,
-        "clue": "Football powerhouse in the Peach State, for short",
-        "answer": "UGA",
+        "clue": "“___, drink and be merry”",
+        "answer": "EAT",
         "row": 6,
         "col": 6
       },
       {
         "num": 22,
-        "clue": "Scratching post user",
-        "answer": "CAT",
+        "clue": "Inits. in some Black churches",
+        "answer": "AME",
         "row": 6,
         "col": 7
       },
       {
         "num": 23,
-        "clue": "“Able was I ___ I saw Elba” (classic palindrome)",
-        "answer": "ERE",
+        "clue": "Faintly lit",
+        "answer": "DIM",
         "row": 6,
         "col": 8
       }
