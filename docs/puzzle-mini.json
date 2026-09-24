@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "O",
-      "O",
-      "P",
-      "S",
-      null
-    ],
-    [
-      "K",
-      "H",
-      "A",
-      "K",
-      "I"
-    ],
-    [
-      "A",
-      "B",
-      "D",
-      "U",
-      "L"
-    ],
-    [
-      "Y",
-      "O",
-      "U",
-      "L",
-      "L"
-    ],
-    [
       null,
-      "Y",
+      "C",
       "A",
-      "K",
+      "T",
       "S"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "I",
+      "L"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "B",
+      "I",
+      "D",
+      "E",
+      "T"
+    ],
+    [
+      "S",
+      "N",
+      "A",
+      "R",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "“Sorry about that!”",
-        "answer": "OOPS",
+        "clue": "Attendees of the Jellicle Ball, on Broadway",
+        "answer": "CATS",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Not-so-tacky clothing material that rhymes with “tacky”",
-        "answer": "KHAKI",
+        "clue": "Topping on a pizza margherita",
+        "answer": "BASIL",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Paula who judged on “American Idol”",
-        "answer": "ABDUL",
+        "num": 6,
+        "clue": "President who said “The best way to not feel hopeless is to get up and do something”",
+        "answer": "OBAMA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "“___ never believe this …”",
-        "answer": "YOULL",
+        "num": 7,
+        "clue": "Feature of many a smart toilet",
+        "answer": "BIDET",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Long-haired Himalayan animals",
-        "answer": "YAKS",
+        "num": 8,
+        "clue": "Rattling kind of drum",
+        "answer": "SNARE",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Just fine",
-        "answer": "OKAY",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "“Well, this oughta be good!”",
-        "answer": "OHBOY",
+        "clue": "House in the woods",
+        "answer": "CABIN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Italian city where “The Taming of the Shrew” is set",
-        "answer": "PADUA",
+        "num": 2,
+        "clue": "Carne ___ (beef dish)",
+        "answer": "ASADA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Walk around stealthily",
-        "answer": "SKULK",
+        "num": 3,
+        "clue": "Function in the Clock app",
+        "answer": "TIMER",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Society’s woes",
-        "answer": "ILLS",
-        "row": 1,
+        "num": 4,
+        "clue": "Rock used in roofing",
+        "answer": "SLATE",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Moves up and down in the water",
+        "answer": "BOBS",
+        "row": 1,
+        "col": 0
       }
     ]
   }

@@ -5,65 +5,54 @@
   ],
   "grid": [
     [
-      "S",
-      "A",
-      "Y",
-      "A",
-      "H",
-      null,
-      "I",
-      "F",
-      "S"
-    ],
-    [
       "P",
       "O",
-      "I",
-      "S",
-      "E",
-      null,
-      "S",
-      "A",
-      "T"
-    ],
-    [
-      "A",
-      "L",
-      "P",
-      "H",
-      "A",
-      "M",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      null,
-      null,
-      null,
-      null,
-      "R",
-      "A",
-      "I",
-      "S",
-      "E"
-    ],
-    [
+      "O",
       "F",
-      "O",
-      "O",
+      null,
+      null,
       "T",
-      "M",
-      "O",
-      "D",
-      "E",
-      "L"
+      "U",
+      "B"
     ],
     [
-      "A",
+      "U",
       "N",
       "D",
+      "O",
+      null,
+      "N",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "P",
+      "E",
+      "E",
       "R",
+      null,
+      "E",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      null,
+      null,
+      null,
+      "G",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "M",
+      "E",
+      "L",
+      "E",
       "E",
       null,
       null,
@@ -71,252 +60,277 @@
       null
     ],
     [
+      "A",
+      "Q",
+      "I",
+      null,
+      "D",
       "R",
       "A",
-      "D",
-      "I",
-      "O",
-      "H",
-      "E",
-      "A",
-      "D"
-    ],
-    [
       "M",
-      "I",
-      "L",
-      null,
-      "U",
-      "M",
-      "A",
-      "M",
-      "I"
+      "A"
     ],
     [
       "S",
+      "U",
+      "B",
+      "W",
+      "O",
+      "O",
+      "F",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "A",
       "R",
+      "A",
+      null,
+      "A",
+      "R",
+      "T",
+      "Y"
+    ],
+    [
+      "S",
+      "L",
+      "A",
       "Y",
       null,
-      "T",
+      "R",
       "O",
-      "T",
-      "E",
-      "M"
+      "S",
+      "A"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Request that might make you stick out your tongue",
-        "answer": "SAYAH",
+        "clue": "Sound effect for a cloud of smoke",
+        "answer": "POOF",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "“No ___, ands or buts!”",
-        "answer": "IFS",
+        "num": 5,
+        "clue": "Place to take a bath",
+        "answer": "TUB",
         "row": 0,
         "col": 6
+      },
+      {
+        "num": 8,
+        "clue": "Ctrl+Z, on a PC",
+        "answer": "UNDO",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Calmness under pressure",
-        "answer": "POISE",
+        "clue": "Ready to take a bath",
+        "answer": "NUDE",
         "row": 1,
-        "col": 0
+        "col": 5
       },
       {
         "num": 10,
-        "clue": "Made it through a round of musical chairs, say",
-        "answer": "SAT",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Leader of the pack",
-        "answer": "ALPHAMALE",
+        "clue": "___ pressure",
+        "answer": "PEER",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Salary bump",
-        "answer": "RAISE",
+        "num": 11,
+        "clue": "Boarding school attended by about a third of British P.M.s",
+        "answer": "ETON",
+        "row": 2,
+        "col": 5
+      },
+      {
+        "num": 12,
+        "clue": "Prohibit from flying, as a pilot or plane",
+        "answer": "GROUND",
         "row": 3,
-        "col": 4
+        "col": 3
       },
       {
         "num": 14,
-        "clue": "One with well-groomed dogs?",
-        "answer": "FOOTMODEL",
+        "clue": "Fracas",
+        "answer": "MELEE",
         "row": 4,
         "col": 0
       },
       {
-        "num": 18,
-        "clue": "Tennis star Agassi",
-        "answer": "ANDRE",
+        "num": 17,
+        "clue": "E.P.A. pollution measure: Abbr.",
+        "answer": "AQI",
         "row": 5,
         "col": 0
       },
       {
-        "num": 19,
-        "clue": "“In Rainbows” rock band … or a collective feature of the circled letters in 11- and 14-Across?",
-        "answer": "RADIOHEAD",
+        "num": 18,
+        "clue": "Conflict within a friend group, say",
+        "answer": "DRAMA",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 23,
+        "clue": "Part of a sound system that might shake a car",
+        "answer": "SUBWOOFER",
         "row": 6,
         "col": 0
       },
       {
-        "num": 24,
-        "clue": "$1,000,000, casually",
-        "answer": "MIL",
+        "num": 25,
+        "clue": "Actress Reid of “Sharknado”",
+        "answer": "TARA",
         "row": 7,
         "col": 0
-      },
-      {
-        "num": 25,
-        "clue": "Taste quality of soy sauce and miso",
-        "answer": "UMAMI",
-        "row": 7,
-        "col": 4
       },
       {
         "num": 26,
-        "clue": "“My bad,” in a text",
-        "answer": "SRY",
+        "clue": "Performatively cultured",
+        "answer": "ARTY",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 27,
+        "clue": "Kill it, slangily",
+        "answer": "SLAY",
         "row": 8,
         "col": 0
       },
       {
-        "num": 27,
-        "clue": "Tribal emblem",
-        "answer": "TOTEM",
+        "num": 28,
+        "clue": "Civil rights activist Parks",
+        "answer": "ROSA",
         "row": 8,
-        "col": 4
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Where you might get into hot water?",
-        "answer": "SPA",
+        "clue": "Baby shark",
+        "answer": "PUP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "“You’ve got mail” co.",
-        "answer": "AOL",
+        "clue": "Soul mate, with “the”",
+        "answer": "ONE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Sharp bark",
-        "answer": "YIP",
+        "clue": "Poetic praise",
+        "answer": "ODE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Campfire residue",
-        "answer": "ASH",
+        "clue": "Falsify, as a signature",
+        "answer": "FORGE",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "“You’ll probably think this is crazy, but …”",
-        "answer": "HEARMEOUT",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "“Let me repeat …”",
-        "answer": "ISAID",
+        "clue": "Ballerina attire",
+        "answer": "TUTU",
         "row": 0,
         "col": 6
       },
       {
-        "num": 7,
-        "clue": "Test answer that has a 50/50 shot of being correct",
-        "answer": "FALSE",
+        "num": 6,
+        "clue": "Thick Japanese noodle",
+        "answer": "UDON",
         "row": 0,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "“Stainless” metal",
-        "answer": "STEEL",
+        "num": 7,
+        "clue": "___ the knee (submit to a dominant ruler)",
+        "answer": "BEND",
         "row": 0,
         "col": 8
       },
       {
-        "num": 12,
-        "clue": "Chinese Communist Party leader Zedong",
-        "answer": "MAO",
-        "row": 2,
+        "num": 9,
+        "clue": "“The Matrix” hero",
+        "answer": "NEO",
+        "row": 1,
         "col": 5
       },
       {
+        "num": 13,
+        "clue": "Ctrl+Y, on a PC",
+        "answer": "REDO",
+        "row": 3,
+        "col": 4
+      },
+      {
         "num": 14,
-        "clue": "Produces produce",
-        "answer": "FARMS",
+        "clue": "Long poles on ships",
+        "answer": "MASTS",
         "row": 4,
         "col": 0
       },
       {
         "num": 15,
-        "clue": "Currently broadcasting",
-        "answer": "ONAIR",
+        "clue": "“All things being ___ …”",
+        "answer": "EQUAL",
         "row": 4,
         "col": 1
       },
       {
         "num": 16,
-        "clue": "In a strange way",
-        "answer": "ODDLY",
+        "clue": "Zodiac sign after Virgo",
+        "answer": "LIBRA",
         "row": 4,
         "col": 2
       },
       {
-        "num": 17,
-        "clue": "Swim-bike-run race, for short",
-        "answer": "TRI",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 20,
-        "clue": "Med. care option",
-        "answer": "HMO",
-        "row": 6,
+        "num": 19,
+        "clue": "Sound made by a lion",
+        "answer": "ROAR",
+        "row": 5,
         "col": 5
       },
       {
-        "num": 21,
-        "clue": "“___, drink and be merry”",
-        "answer": "EAT",
-        "row": 6,
+        "num": 20,
+        "clue": "Rounded hairstyle",
+        "answer": "AFRO",
+        "row": 5,
         "col": 6
       },
       {
-        "num": 22,
-        "clue": "Inits. in some Black churches",
-        "answer": "AME",
-        "row": 6,
+        "num": 21,
+        "clue": "New York team whose mascots each have a baseball for a head",
+        "answer": "METS",
+        "row": 5,
         "col": 7
       },
       {
-        "num": 23,
-        "clue": "Faintly lit",
-        "answer": "DIM",
-        "row": 6,
+        "num": 22,
+        "clue": "Stark daughter with supposed “wolf blood,” in “A Game of Thrones”",
+        "answer": "ARYA",
+        "row": 5,
         "col": 8
+      },
+      {
+        "num": 24,
+        "clue": "One-___ street",
+        "answer": "WAY",
+        "row": 6,
+        "col": 3
       }
     ]
   }
