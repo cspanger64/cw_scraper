@@ -1,336 +1,352 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
-      "P",
-      "O",
-      "O",
-      "F",
-      null,
-      null,
-      "T",
-      "U",
-      "B"
-    ],
-    [
-      "U",
-      "N",
+      "I",
       "D",
-      "O",
-      null,
-      "N",
-      "U",
-      "D",
-      "E"
-    ],
-    [
-      "P",
       "E",
-      "E",
-      "R",
-      null,
-      "E",
-      "T",
-      "O",
-      "N"
-    ],
-    [
+      "A",
       null,
       null,
       null,
-      "G",
-      "R",
-      "O",
-      "U",
-      "N",
-      "D"
-    ],
-    [
       "M",
+      "M",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "T",
+      "S",
+      null,
+      "F",
+      "R",
+      "I",
       "E",
+      "S"
+    ],
+    [
+      "S",
       "L",
+      "A",
+      "W",
+      null,
+      "B",
       "E",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      null,
+      "L",
+      "I",
       "E",
       null,
-      null,
+      "I",
+      "B",
+      "M",
       null,
       null
     ],
     [
-      "A",
-      "Q",
-      "I",
       null,
+      null,
+      "L",
+      "S",
       "D",
-      "R",
+      null,
       "A",
-      "M",
-      "A"
+      "I",
+      "L",
+      "S"
+    ],
+    [
+      null,
+      null,
+      null,
+      "P",
+      "E",
+      "N",
+      null,
+      "V",
+      "A",
+      "T"
     ],
     [
       "S",
-      "U",
+      "I",
+      "D",
+      "E",
       "B",
-      "W",
-      "O",
-      "O",
-      "F",
+      "Y",
+      "S",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "A",
+      "T",
+      "U",
+      "N",
+      "C",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "K",
+      "S",
+      null,
+      "L",
+      "E",
       "E",
       "R"
-    ],
-    [
-      "T",
-      "A",
-      "R",
-      "A",
-      null,
-      "A",
-      "R",
-      "T",
-      "Y"
-    ],
-    [
-      "S",
-      "L",
-      "A",
-      "Y",
-      null,
-      "R",
-      "O",
-      "S",
-      "A"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sound effect for a cloud of smoke",
-        "answer": "POOF",
+        "clue": "A good one may come to you in the shower",
+        "answer": "IDEA",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Place to take a bath",
-        "answer": "TUB",
+        "clue": "Sport in an octagon, in brief",
+        "answer": "MMA",
         "row": 0,
-        "col": 6
+        "col": 7
       },
       {
         "num": 8,
-        "clue": "Ctrl+Z, on a PC",
-        "answer": "UNDO",
+        "clue": "Tater ___",
+        "answer": "TOTS",
         "row": 1,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Ready to take a bath",
-        "answer": "NUDE",
+        "clue": "French ___",
+        "answer": "FRIES",
         "row": 1,
         "col": 5
       },
       {
-        "num": 10,
-        "clue": "___ pressure",
-        "answer": "PEER",
+        "num": 11,
+        "clue": "Cole ___",
+        "answer": "SLAW",
         "row": 2,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Boarding school attended by about a third of British P.M.s",
-        "answer": "ETON",
+        "num": 12,
+        "clue": "Baked ___",
+        "answer": "BEANS",
         "row": 2,
         "col": 5
       },
       {
-        "num": 12,
-        "clue": "Prohibit from flying, as a pilot or plane",
-        "answer": "GROUND",
+        "num": 13,
+        "clue": "Twist the truth",
+        "answer": "LIE",
         "row": 3,
-        "col": 3
+        "col": 1
       },
       {
         "num": 14,
-        "clue": "Fracas",
-        "answer": "MELEE",
+        "clue": "Tech giant led by Arvind Krishna",
+        "answer": "IBM",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "num": 15,
+        "clue": "Drug also called acid",
+        "answer": "LSD",
         "row": 4,
-        "col": 0
+        "col": 2
       },
       {
         "num": 17,
-        "clue": "E.P.A. pollution measure: Abbr.",
-        "answer": "AQI",
-        "row": 5,
-        "col": 0
+        "clue": "Doesn’t feel so hot",
+        "answer": "AILS",
+        "row": 4,
+        "col": 6
       },
       {
-        "num": 18,
-        "clue": "Conflict within a friend group, say",
-        "answer": "DRAMA",
+        "num": 20,
+        "clue": "Unnecessary item for solving a digital-only crossword",
+        "answer": "PEN",
         "row": 5,
-        "col": 4
+        "col": 3
+      },
+      {
+        "num": 22,
+        "clue": "Industrial-sized container",
+        "answer": "VAT",
+        "row": 5,
+        "col": 7
       },
       {
         "num": 23,
-        "clue": "Part of a sound system that might shake a car",
-        "answer": "SUBWOOFER",
+        "clue": "Parallel … or a description of the sets of shaded answers in this puzzle (in two ways!)",
+        "answer": "SIDEBYSIDE",
         "row": 6,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "Actress Reid of “Sharknado”",
-        "answer": "TARA",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Performatively cultured",
-        "answer": "ARTY",
-        "row": 7,
-        "col": 5
-      },
-      {
         "num": 27,
-        "clue": "Kill it, slangily",
-        "answer": "SLAY",
-        "row": 8,
+        "clue": "Grandma’s brother",
+        "answer": "GREATUNCLE",
+        "row": 7,
         "col": 0
       },
       {
         "num": 28,
-        "clue": "Civil rights activist Parks",
-        "answer": "ROSA",
+        "clue": "Industrial-sized containers",
+        "answer": "TANKS",
         "row": 8,
-        "col": 5
+        "col": 0
+      },
+      {
+        "num": 29,
+        "clue": "Unwelcome look",
+        "answer": "LEER",
+        "row": 8,
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Baby shark",
-        "answer": "PUP",
+        "clue": "The “I” of T.G.I.F.",
+        "answer": "ITS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Soul mate, with “the”",
-        "answer": "ONE",
+        "clue": "Cabbage Patch Kid, e.g.",
+        "answer": "DOLL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Poetic praise",
-        "answer": "ODE",
+        "clue": "Online commerce",
+        "answer": "ETAIL",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Falsify, as a signature",
-        "answer": "FORGE",
+        "clue": "This very second",
+        "answer": "ASWESPEAK",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Ballerina attire",
-        "answer": "TUTU",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "Thick Japanese noodle",
-        "answer": "UDON",
+        "clue": "Classic ’80s cop show set in Florida",
+        "answer": "MIAMIVICE",
         "row": 0,
         "col": 7
       },
       {
-        "num": 7,
-        "clue": "___ the knee (submit to a dominant ruler)",
-        "answer": "BEND",
+        "num": 6,
+        "clue": "All Supreme Court justices until 1981",
+        "answer": "MEN",
         "row": 0,
         "col": 8
       },
       {
+        "num": 7,
+        "clue": "Animal that brays",
+        "answer": "ASS",
+        "row": 0,
+        "col": 9
+      },
+      {
         "num": 9,
-        "clue": "“The Matrix” hero",
-        "answer": "NEO",
+        "clue": "Org. featured on Netflix’s “Mindhunter”",
+        "answer": "FBI",
         "row": 1,
         "col": 5
       },
       {
-        "num": 13,
-        "clue": "Ctrl+Y, on a PC",
-        "answer": "REDO",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 14,
-        "clue": "Long poles on ships",
-        "answer": "MASTS",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "“All things being ___ …”",
-        "answer": "EQUAL",
-        "row": 4,
-        "col": 1
+        "num": 10,
+        "clue": "Country music star McEntire",
+        "answer": "REBA",
+        "row": 1,
+        "col": 6
       },
       {
         "num": 16,
-        "clue": "Zodiac sign after Virgo",
-        "answer": "LIBRA",
+        "clue": "Unpaid bills, essentially",
+        "answer": "DEBTS",
         "row": 4,
-        "col": 2
+        "col": 4
+      },
+      {
+        "num": 18,
+        "clue": "Soup scooper",
+        "answer": "LADLE",
+        "row": 4,
+        "col": 8
       },
       {
         "num": 19,
-        "clue": "Sound made by a lion",
-        "answer": "ROAR",
+        "clue": "Take the wheel",
+        "answer": "STEER",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "num": 21,
+        "clue": "Big sch. in the Big Apple",
+        "answer": "NYU",
         "row": 5,
         "col": 5
       },
       {
-        "num": 20,
-        "clue": "Rounded hairstyle",
-        "answer": "AFRO",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 21,
-        "clue": "New York team whose mascots each have a baseball for a head",
-        "answer": "METS",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 22,
-        "clue": "Stark daughter with supposed “wolf blood,” in “A Game of Thrones”",
-        "answer": "ARYA",
-        "row": 5,
-        "col": 8
+        "num": 23,
+        "clue": "Drill instructor’s rank: Abbr.",
+        "answer": "SGT",
+        "row": 6,
+        "col": 0
       },
       {
         "num": 24,
-        "clue": "One-___ street",
-        "answer": "WAY",
+        "clue": "Lyricist Gershwin",
+        "answer": "IRA",
         "row": 6,
-        "col": 3
+        "col": 1
+      },
+      {
+        "num": 25,
+        "clue": "TV room",
+        "answer": "DEN",
+        "row": 6,
+        "col": 2
+      },
+      {
+        "num": 26,
+        "clue": "Big TV show filmed in the Big Apple, for short",
+        "answer": "SNL",
+        "row": 6,
+        "col": 6
       }
     ]
   }

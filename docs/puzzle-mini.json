@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "C",
+      "P",
+      "E",
+      "T",
+      "S",
+      null
+    ],
+    [
+      "E",
+      "X",
+      "I",
+      "T",
+      null
+    ],
+    [
       "A",
       "T",
-      "S"
-    ],
-    [
       "B",
       "A",
-      "S",
-      "I",
-      "L"
-    ],
-    [
-      "O",
-      "B",
-      "A",
-      "M",
-      "A"
-    ],
-    [
-      "B",
-      "I",
-      "D",
-      "E",
       "T"
     ],
     [
-      "S",
-      "N",
-      "A",
+      "C",
       "R",
+      "E",
+      "T",
       "E"
+    ],
+    [
+      "H",
+      "A",
+      "T",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Attendees of the Jellicle Ball, on Broadway",
-        "answer": "CATS",
+        "clue": "Dogs and cats … or less commonly, frogs and rats",
+        "answer": "PETS",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Topping on a pizza margherita",
-        "answer": "BASIL",
+        "clue": "Highway off-ramp",
+        "answer": "EXIT",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "President who said “The best way to not feel hopeless is to get up and do something”",
-        "answer": "OBAMA",
+        "clue": "Chance to hit a homer",
+        "answer": "ATBAT",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Feature of many a smart toilet",
-        "answer": "BIDET",
+        "num": 8,
+        "clue": "Largest island of Greece",
+        "answer": "CRETE",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Rattling kind of drum",
-        "answer": "SNARE",
+        "num": 9,
+        "clue": "Strongly disliked",
+        "answer": "HATED",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "House in the woods",
-        "answer": "CABIN",
+        "clue": "Fruit on a Georgia license plate",
+        "answer": "PEACH",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "The “E” of ESP",
+        "answer": "EXTRA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Carne ___ (beef dish)",
-        "answer": "ASADA",
+        "num": 3,
+        "clue": "Region on the north side of Mount Everest",
+        "answer": "TIBET",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Function in the Clock app",
-        "answer": "TIMER",
+        "num": 4,
+        "clue": "Governor’s responsibility",
+        "answer": "STATE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Rock used in roofing",
-        "answer": "SLATE",
-        "row": 0,
+        "num": 7,
+        "clue": "Danson of “The Good Place”",
+        "answer": "TED",
+        "row": 2,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Moves up and down in the water",
-        "answer": "BOBS",
-        "row": 1,
-        "col": 0
       }
     ]
   }
