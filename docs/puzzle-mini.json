@@ -1,118 +1,202 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "P",
-      "E",
-      "T",
-      "S",
-      null
-    ],
-    [
-      "E",
+      "W",
       "X",
-      "I",
-      "T",
-      null
+      "Y",
+      "A",
+      "N",
+      "D",
+      "Z"
     ],
     [
       "A",
-      "T",
       "B",
       "A",
-      "T"
-    ],
-    [
-      "C",
-      "R",
-      "E",
-      "T",
+      "L",
+      "O",
+      "N",
       "E"
     ],
     [
-      "H",
-      "A",
+      "G",
+      "O",
+      "L",
+      "F",
       "T",
+      "A",
+      "N"
+    ],
+    [
+      null,
+      "X",
       "E",
-      "D"
+      "R",
+      null,
+      null,
+      null
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "E",
+      "A",
+      "X",
+      "E"
+    ],
+    [
+      "O",
+      "N",
+      "A",
+      "D",
+      "I",
+      "E",
+      "T"
+    ],
+    [
+      "R",
+      "E",
+      "W",
+      "O",
+      "R",
+      "D",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Dogs and cats … or less commonly, frogs and rats",
-        "answer": "PETS",
+        "clue": "Alphabet song lyric before “Now I know my ABCs”",
+        "answer": "WXYANDZ",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Highway off-ramp",
-        "answer": "EXIT",
+        "num": 8,
+        "clue": "Sea creature whose name sounds like “Ah, baloney!”",
+        "answer": "ABALONE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Chance to hit a homer",
-        "answer": "ATBAT",
+        "num": 9,
+        "clue": "Skin markings after a sunny day on the links",
+        "answer": "GOLFTAN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Largest island of Greece",
-        "answer": "CRETE",
+        "num": 10,
+        "clue": "Gen ___ (member of the “MTV generation”)",
+        "answer": "XER",
         "row": 3,
+        "col": 1
+      },
+      {
+        "num": 11,
+        "clue": "Medieval weapon",
+        "answer": "POLEAXE",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Strongly disliked",
-        "answer": "HATED",
-        "row": 4,
+        "num": 15,
+        "clue": "Fasting intermittently, say",
+        "answer": "ONADIET",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Phrases differently",
+        "answer": "REWORDS",
+        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Fruit on a Georgia license plate",
-        "answer": "PEACH",
+        "clue": "Shake, like a dog’s tail",
+        "answer": "WAG",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "The “E” of ESP",
-        "answer": "EXTRA",
+        "clue": "Gaming console with a number in its name",
+        "answer": "XBOXONE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Region on the north side of Mount Everest",
-        "answer": "TIBET",
+        "clue": "Prestigious J.D. program in New Haven, Conn.",
+        "answer": "YALELAW",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Governor’s responsibility",
-        "answer": "STATE",
+        "clue": "Creamy pasta sauce",
+        "answer": "ALFREDO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Danson of “The Good Place”",
-        "answer": "TED",
-        "row": 2,
+        "num": 5,
+        "clue": "“Believe it or ___ …”",
+        "answer": "NOT",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Double-helix molecule",
+        "answer": "DNA",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "Buddhism branch associated with gardens",
+        "answer": "ZEN",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "“___ favor” (basic Spanish phrase)",
+        "answer": "POR",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "What snowboarders try to catch",
+        "answer": "AIR",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 13,
+        "clue": "Crossed (out)",
+        "answer": "XED",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 14,
+        "clue": "Creatures on U.F.O.s, for short",
+        "answer": "ETS",
+        "row": 4,
+        "col": 6
       }
     ]
   }

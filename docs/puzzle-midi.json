@@ -1,352 +1,385 @@
 {
   "size": [
-    9,
+    10,
     10
   ],
   "grid": [
     [
-      "I",
-      "D",
-      "E",
-      "A",
-      null,
-      null,
-      null,
-      "M",
-      "M",
-      "A"
-    ],
-    [
-      "T",
       "O",
+      "C",
       "T",
-      "S",
       null,
-      "F",
       "R",
+      "A",
+      "B",
+      "B",
       "I",
-      "E",
-      "S"
+      "T"
     ],
     [
-      "S",
-      "L",
-      "A",
-      "W",
+      "R",
+      "O",
+      "O",
       null,
-      "B",
+      "O",
+      "N",
       "E",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      null,
+      "S",
+      "T",
       "A",
       "N",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "B",
+      "I",
+      null,
+      "N",
+      "D",
+      "A",
       "S"
     ],
     [
       null,
-      "L",
+      null,
+      null,
+      "U",
+      "N",
+      "T",
       "I",
       "E",
-      null,
-      "I",
-      "B",
-      "M",
       null,
       null
     ],
     [
       null,
-      null,
-      "L",
-      "S",
-      "D",
-      null,
       "A",
-      "I",
-      "L",
-      "S"
+      "P",
+      "R",
+      null,
+      "H",
+      "E",
+      "D",
+      "D",
+      "A"
     ],
     [
       null,
-      null,
+      "C",
+      "I",
+      "D",
+      "E",
+      "R",
       null,
       "P",
+      "I",
+      "C"
+    ],
+    [
+      "T",
+      "U",
+      "X",
       "E",
-      "N",
+      "D",
+      "O",
       null,
-      "V",
       "A",
-      "T"
+      "S",
+      "H"
     ],
     [
-      "S",
-      "I",
-      "D",
-      "E",
-      "B",
-      "Y",
-      "S",
-      "I",
-      "D",
-      "E"
-    ],
-    [
-      "G",
+      "O",
       "R",
-      "E",
       "A",
-      "T",
-      "U",
       "N",
+      "G",
+      "E",
+      null,
+      "I",
       "C",
-      "L",
       "E"
     ],
     [
-      "T",
+      "P",
       "A",
-      "N",
-      "K",
+      "R",
       "S",
+      "E",
       null,
-      "L",
-      "E",
-      "E",
-      "R"
+      null,
+      "R",
+      "O",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "A good one may come to you in the shower",
-        "answer": "IDEA",
+        "clue": "Birth month for many Libras: Abbr.",
+        "answer": "OCT",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Sport in an octagon, in brief",
-        "answer": "MMA",
+        "num": 4,
+        "clue": "Tardy animal in “Alice in Wonderland”",
+        "answer": "RABBIT",
         "row": 0,
-        "col": 7
+        "col": 4
       },
       {
-        "num": 8,
-        "clue": "Tater ___",
-        "answer": "TOTS",
+        "num": 10,
+        "clue": "Animal from Down Under, for short",
+        "answer": "ROO",
         "row": 1,
         "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "French ___",
-        "answer": "FRIES",
-        "row": 1,
-        "col": 5
       },
       {
         "num": 11,
-        "clue": "Cole ___",
-        "answer": "SLAW",
-        "row": 2,
-        "col": 0
+        "clue": "Low tie score",
+        "answer": "ONEONE",
+        "row": 1,
+        "col": 4
       },
       {
         "num": 12,
-        "clue": "Baked ___",
-        "answer": "BEANS",
+        "clue": "Comic-___",
+        "answer": "CON",
         "row": 2,
-        "col": 5
-      },
-      {
-        "num": 13,
-        "clue": "Twist the truth",
-        "answer": "LIE",
-        "row": 3,
-        "col": 1
-      },
-      {
-        "num": 14,
-        "clue": "Tech giant led by Arvind Krishna",
-        "answer": "IBM",
-        "row": 3,
-        "col": 5
-      },
-      {
-        "num": 15,
-        "clue": "Drug also called acid",
-        "answer": "LSD",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 17,
-        "clue": "Doesn’t feel so hot",
-        "answer": "AILS",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 20,
-        "clue": "Unnecessary item for solving a digital-only crossword",
-        "answer": "PEN",
-        "row": 5,
-        "col": 3
-      },
-      {
-        "num": 22,
-        "clue": "Industrial-sized container",
-        "answer": "VAT",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 23,
-        "clue": "Parallel … or a description of the sets of shaded answers in this puzzle (in two ways!)",
-        "answer": "SIDEBYSIDE",
-        "row": 6,
         "col": 0
       },
       {
+        "num": 13,
+        "clue": "Position",
+        "answer": "STANCE",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "Defense that might lead to exoneration",
+        "answer": "ALIBI",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Contracts that protect corporate secrets, in brief",
+        "answer": "NDAS",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "num": 17,
+        "clue": "Loosen, as a knot",
+        "answer": "UNTIE",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 19,
+        "clue": "Interest stat",
+        "answer": "APR",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 21,
+        "clue": "2025 Nia DaCosta film based on a Henrik Ibsen play",
+        "answer": "HEDDA",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 24,
+        "clue": "Fermented apple juice",
+        "answer": "CIDER",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "num": 26,
+        "clue": "Profile ___",
+        "answer": "PIC",
+        "row": 6,
+        "col": 7
+      },
+      {
         "num": 27,
-        "clue": "Grandma’s brother",
-        "answer": "GREATUNCLE",
+        "clue": "Formalwear named after a New York village",
+        "answer": "TUXEDO",
         "row": 7,
         "col": 0
       },
       {
         "num": 28,
-        "clue": "Industrial-sized containers",
-        "answer": "TANKS",
+        "clue": "Campfire residue",
+        "answer": "ASH",
+        "row": 7,
+        "col": 7
+      },
+      {
+        "num": 29,
+        "clue": "Word that’s notoriously difficult to find a rhyme for",
+        "answer": "ORANGE",
         "row": 8,
         "col": 0
       },
       {
-        "num": 29,
-        "clue": "Unwelcome look",
-        "answer": "LEER",
+        "num": 30,
+        "clue": "Surface a Zamboni resurfaces",
+        "answer": "ICE",
         "row": 8,
-        "col": 6
+        "col": 7
+      },
+      {
+        "num": 31,
+        "clue": "Analyze, as a sentence",
+        "answer": "PARSE",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 32,
+        "clue": "Fishing tool",
+        "answer": "ROD",
+        "row": 9,
+        "col": 7
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "The “I” of T.G.I.F.",
-        "answer": "ITS",
+        "clue": "Killer whale",
+        "answer": "ORCA",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Cabbage Patch Kid, e.g.",
-        "answer": "DOLL",
+        "clue": "“Be ___” (“Act casual”)",
+        "answer": "COOL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Online commerce",
-        "answer": "ETAIL",
+        "clue": "Morrison who wrote “Sula”",
+        "answer": "TONI",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "This very second",
-        "answer": "ASWESPEAK",
+        "clue": "Substance applied to violin bows",
+        "answer": "ROSIN",
         "row": 0,
-        "col": 3
+        "col": 4
       },
       {
         "num": 5,
-        "clue": "Classic ’80s cop show set in Florida",
-        "answer": "MIAMIVICE",
+        "clue": "Unwelcome picnic “guest”",
+        "answer": "ANT",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Brimless cap",
+        "answer": "BEANIE",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Package deal at a cat shelter (like the one depicted in this puzzle!)",
+        "answer": "BONDEDPAIR",
         "row": 0,
         "col": 7
       },
       {
-        "num": 6,
-        "clue": "All Supreme Court justices until 1981",
-        "answer": "MEN",
+        "num": 8,
+        "clue": "___ Trail (Peruvian hiking destination)",
+        "answer": "INCA",
         "row": 0,
         "col": 8
-      },
-      {
-        "num": 7,
-        "clue": "Animal that brays",
-        "answer": "ASS",
-        "row": 0,
-        "col": 9
       },
       {
         "num": 9,
-        "clue": "Org. featured on Netflix’s “Mindhunter”",
-        "answer": "FBI",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 10,
-        "clue": "Country music star McEntire",
-        "answer": "REBA",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 16,
-        "clue": "Unpaid bills, essentially",
-        "answer": "DEBTS",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 18,
-        "clue": "Soup scooper",
-        "answer": "LADLE",
-        "row": 4,
-        "col": 8
-      },
-      {
-        "num": 19,
-        "clue": "Take the wheel",
-        "answer": "STEER",
-        "row": 4,
+        "clue": "Cannon “ammo” at sporting events",
+        "answer": "TEES",
+        "row": 0,
         "col": 9
       },
       {
-        "num": 21,
-        "clue": "Big sch. in the Big Apple",
-        "answer": "NYU",
-        "row": 5,
+        "num": 15,
+        "clue": "Great hardships",
+        "answer": "BURDENS",
+        "row": 3,
+        "col": 3
+      },
+      {
+        "num": 18,
+        "clue": "Pang, as of pain",
+        "answer": "THROE",
+        "row": 4,
         "col": 5
       },
       {
-        "num": 23,
-        "clue": "Drill instructor’s rank: Abbr.",
-        "answer": "SGT",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 24,
-        "clue": "Lyricist Gershwin",
-        "answer": "IRA",
-        "row": 6,
+        "num": 19,
+        "clue": "Honda’s luxury line",
+        "answer": "ACURA",
+        "row": 5,
         "col": 1
       },
       {
-        "num": 25,
-        "clue": "TV room",
-        "answer": "DEN",
-        "row": 6,
+        "num": 20,
+        "clue": "Studio behind “Coco,” but not “Cocoon”",
+        "answer": "PIXAR",
+        "row": 5,
         "col": 2
       },
       {
-        "num": 26,
-        "clue": "Big TV show filmed in the Big Apple, for short",
-        "answer": "SNL",
+        "num": 22,
+        "clue": "Music genre associated with a glittering ball",
+        "answer": "DISCO",
+        "row": 5,
+        "col": 8
+      },
+      {
+        "num": 23,
+        "clue": "Had some post-Pilates pain, say",
+        "answer": "ACHED",
+        "row": 5,
+        "col": 9
+      },
+      {
+        "num": 25,
+        "clue": "Outermost part",
+        "answer": "EDGE",
         "row": 6,
-        "col": 6
+        "col": 4
+      },
+      {
+        "num": 27,
+        "clue": "Uppermost part",
+        "answer": "TOP",
+        "row": 7,
+        "col": 0
       }
     ]
   }
