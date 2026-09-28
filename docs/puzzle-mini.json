@@ -1,202 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "W",
-      "X",
-      "Y",
-      "A",
-      "N",
-      "D",
-      "Z"
+      null,
+      "R",
+      "O",
+      "R",
+      "Y"
     ],
     [
-      "A",
-      "B",
-      "A",
-      "L",
+      "M",
       "O",
-      "N",
+      "V",
+      "I",
       "E"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "Z",
+      "A"
     ],
     [
       "G",
-      "O",
-      "L",
-      "F",
-      "T",
-      "A",
-      "N"
-    ],
-    [
-      null,
-      "X",
       "E",
-      "R",
-      null,
-      null,
+      "N",
+      "Z",
       null
     ],
     [
-      "P",
-      "O",
-      "L",
-      "E",
       "A",
       "X",
-      "E"
-    ],
-    [
-      "O",
-      "N",
-      "A",
-      "D",
-      "I",
       "E",
-      "T"
-    ],
-    [
-      "R",
-      "E",
-      "W",
-      "O",
-      "R",
-      "D",
-      "S"
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Alphabet song lyric before “Now I know my ABCs”",
-        "answer": "WXYANDZ",
+        "clue": "Golfer McIlroy",
+        "answer": "RORY",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Sea creature whose name sounds like “Ah, baloney!”",
-        "answer": "ABALONE",
+        "num": 5,
+        "clue": "What a best-selling book might be adapted into",
+        "answer": "MOVIE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Skin markings after a sunny day on the links",
-        "answer": "GOLFTAN",
+        "num": 6,
+        "clue": "Nickname that drops “beth”",
+        "answer": "ELIZA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Gen ___ (member of the “MTV generation”)",
-        "answer": "XER",
+        "num": 7,
+        "clue": "Early 2000s babies are part of it",
+        "answer": "GENZ",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 11,
-        "clue": "Medieval weapon",
-        "answer": "POLEAXE",
+        "num": 8,
+        "clue": "Tool for a lumberjack",
+        "answer": "AXE",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Fasting intermittently, say",
-        "answer": "ONADIET",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Phrases differently",
-        "answer": "REWORDS",
-        "row": 6,
         "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Shake, like a dog’s tail",
-        "answer": "WAG",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Gaming console with a number in its name",
-        "answer": "XBOXONE",
+        "clue": "Watch brand with a crown logo",
+        "answer": "ROLEX",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Prestigious J.D. program in New Haven, Conn.",
-        "answer": "YALELAW",
+        "num": 2,
+        "clue": "Word like equine, feline or canine, but for sheep",
+        "answer": "OVINE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Creamy pasta sauce",
-        "answer": "ALFREDO",
+        "num": 3,
+        "clue": "Charisma, in slang",
+        "answer": "RIZZ",
         "row": 0,
         "col": 3
       },
       {
+        "num": 4,
+        "clue": "Opposite of “nay”",
+        "answer": "YEA",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 5,
-        "clue": "“Believe it or ___ …”",
-        "answer": "NOT",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Double-helix molecule",
-        "answer": "DNA",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "Buddhism branch associated with gardens",
-        "answer": "ZEN",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "“___ favor” (basic Spanish phrase)",
-        "answer": "POR",
-        "row": 4,
+        "clue": "“Big” prefix",
+        "answer": "MEGA",
+        "row": 1,
         "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "What snowboarders try to catch",
-        "answer": "AIR",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "Crossed (out)",
-        "answer": "XED",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 14,
-        "clue": "Creatures on U.F.O.s, for short",
-        "answer": "ETS",
-        "row": 4,
-        "col": 6
       }
     ]
   }

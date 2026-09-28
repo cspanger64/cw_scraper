@@ -1,359 +1,308 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "S",
-      "A",
-      "W",
+      "I",
+      "C",
+      "E",
       null,
-      "A",
-      "G",
-      "H",
-      "A",
       "S",
-      "T"
+      "O",
+      "W",
+      "E",
+      "D"
+    ],
+    [
+      "D",
+      "A",
+      "Y",
+      null,
+      "T",
+      "R",
+      "O",
+      "V",
+      "E"
     ],
     [
       "O",
-      "U",
       "R",
+      "E",
       null,
-      "C",
-      "R",
+      "A",
       "I",
-      "S",
+      "R",
       "E",
       "S"
     ],
     [
-      "A",
-      "D",
+      "L",
       "O",
-      null,
-      "R",
+      "C",
+      "A",
+      "T",
       "E",
       "D",
-      "S",
-      "E",
-      "A"
-    ],
-    [
-      "P",
-      "I",
-      "N",
-      "K",
-      "E",
-      "Y",
-      "E",
-      null,
       null,
       null
     ],
     [
-      "Y",
-      "O",
-      "G",
-      "A",
       null,
-      null,
-      "M",
-      "E",
-      "S",
-      "H"
-    ],
-    [
-      null,
-      null,
-      null,
-      "B",
       "L",
-      "U",
-      "E",
-      "J",
-      "A",
-      "Y"
-    ],
-    [
-      "K",
-      "A",
+      "O",
       "Z",
-      "O",
-      "O",
-      "S",
-      null,
       "E",
-      "S",
-      "P"
-    ],
-    [
+      "N",
       "G",
-      "R",
-      "O",
-      "O",
-      "V",
       "E",
-      null,
-      "C",
-      "H",
-      "E"
+      null
     ],
     [
-      "B",
-      "I",
-      "O",
-      "M",
-      "E",
-      "S",
       null,
+      null,
+      "L",
+      "O",
+      "S",
       "T",
       "A",
-      "R"
+      "R",
+      "T"
+    ],
+    [
+      "M",
+      "A",
+      "O",
+      "R",
+      "I",
+      null,
+      "M",
+      "O",
+      "O"
+    ],
+    [
+      "O",
+      "A",
+      "R",
+      "E",
+      "D",
+      null,
+      "E",
+      "D",
+      "U"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      "E",
+      null,
+      "S",
+      "E",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Tool with teeth",
-        "answer": "SAW",
+        "clue": "Possible treatment for a sore shoulder",
+        "answer": "ICE",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "Shocked and horrified",
-        "answer": "AGHAST",
+        "clue": "Scattered, as seeds",
+        "answer": "SOWED",
         "row": 0,
         "col": 4
       },
       {
-        "num": 10,
-        "clue": "“We’re goin’ up, up, up / It’s ___ moment” (lyric from the 2025 #1 hit “Golden”)",
-        "answer": "OUR",
+        "num": 9,
+        "clue": "Tues- company?",
+        "answer": "DAY",
         "row": 1,
         "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Assortment of treasure",
+        "answer": "TROVE",
+        "row": 1,
+        "col": 4
       },
       {
         "num": 11,
-        "clue": "Emergencies",
-        "answer": "CRISES",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "Hubbub",
-        "answer": "ADO",
+        "clue": "Mined rock",
+        "answer": "ORE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "[aria-label] An image of the letter C in red📷",
-        "answer": "REDSEA",
+        "num": 12,
+        "clue": "Buenos ___, Argentina",
+        "answer": "AIRES",
         "row": 2,
         "col": 4
       },
       {
-        "num": 14,
-        "clue": "[aria-label] An image of the letter I in pink📷",
-        "answer": "PINKEYE",
+        "num": 13,
+        "clue": "Pinpointed, as on a map",
+        "answer": "LOCATED",
         "row": 3,
         "col": 0
       },
       {
-        "num": 16,
-        "clue": "Posing in a studio?",
-        "answer": "YOGA",
+        "num": 15,
+        "clue": "Cough soother",
+        "answer": "LOZENGE",
         "row": 4,
-        "col": 0
+        "col": 1
       },
       {
         "num": 17,
-        "clue": "Sieve material",
-        "answer": "MESH",
-        "row": 4,
-        "col": 6
+        "clue": "Skill no longer widely used … or, when parsed differently, a hint to 13-, 15- and 17-Across?",
+        "answer": "LOSTART",
+        "row": 5,
+        "col": 2
+      },
+      {
+        "num": 19,
+        "clue": "Indigenous people of New Zealand",
+        "answer": "MAORI",
+        "row": 6,
+        "col": 0
       },
       {
         "num": 21,
-        "clue": "[aria-label] An image of the letter J in blue📷",
-        "answer": "BLUEJAY",
-        "row": 5,
-        "col": 3
+        "clue": "Animal sound from a children’s book with buttons, perhaps",
+        "answer": "MOO",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "num": 22,
+        "clue": "Rowed, as a rowboat",
+        "answer": "OARED",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 23,
+        "clue": "College web address suffix",
+        "answer": "EDU",
+        "row": 7,
+        "col": 6
       },
       {
         "num": 24,
-        "clue": "Easy-to-play instruments",
-        "answer": "KAZOOS",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 27,
-        "clue": "Clairvoyant’s supposed gift, for short",
-        "answer": "ESP",
-        "row": 6,
-        "col": 7
-      },
-      {
-        "num": 28,
-        "clue": "Funky rhythm",
-        "answer": "GROOVE",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 29,
-        "clue": "“Weekend Update” co-anchor Michael",
-        "answer": "CHE",
-        "row": 7,
-        "col": 7
-      },
-      {
-        "num": 30,
-        "clue": "Savannas and deserts, e.g.",
-        "answer": "BIOMES",
+        "clue": "No longer in style",
+        "answer": "PASSE",
         "row": 8,
         "col": 0
       },
       {
-        "num": 31,
-        "clue": "___ Heel State (North Carolina)",
-        "answer": "TAR",
+        "num": 25,
+        "clue": "Bump, ___, spike (volleyball sequence)",
+        "answer": "SET",
         "row": 8,
-        "col": 7
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "All lathered up",
-        "answer": "SOAPY",
+        "clue": "Object of adoration",
+        "answer": "IDOL",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Sound portion of a broadcast",
-        "answer": "AUDIO",
+        "clue": "Song sung around Christmas",
+        "answer": "CAROL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Mistaken",
-        "answer": "WRONG",
+        "clue": "Info on driver’s licenses",
+        "answer": "EYECOLORS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Parcel unit",
-        "answer": "ACRE",
+        "clue": "In America’s lower 48",
+        "answer": "STATESIDE",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "“Pardon me, would you have any ___ Poupon?”",
-        "answer": "GREY",
+        "clue": "Get situated",
+        "answer": "ORIENT",
         "row": 0,
         "col": 5
       },
       {
         "num": 6,
-        "clue": "“Oh no, it’s the paparazzi!”",
-        "answer": "HIDEME",
+        "clue": "Scrabble, Crossplay, etc.",
+        "answer": "WORDGAMES",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "Jerk",
-        "answer": "ASS",
+        "clue": "Fruit eater in Eden",
+        "answer": "EVE",
         "row": 0,
         "col": 7
       },
       {
         "num": 8,
-        "clue": "“Get it?”",
-        "answer": "SEE",
+        "clue": "___ Moines, Iowa",
+        "answer": "DES",
         "row": 0,
         "col": 8
       },
       {
-        "num": 9,
-        "clue": "Letters on some airport workers’ uniforms",
-        "answer": "TSA",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 15,
-        "clue": "Explosive onomatopoeia",
-        "answer": "KABOOM",
+        "num": 14,
+        "clue": "Volcanic island chain west of mainland Portugal",
+        "answer": "AZORES",
         "row": 3,
         "col": 3
       },
       {
-        "num": 18,
-        "clue": "Oust",
-        "answer": "EJECT",
+        "num": 16,
+        "clue": "Cause to shrink, as confidence",
+        "answer": "ERODE",
         "row": 4,
         "col": 7
       },
       {
-        "num": 19,
-        "clue": "Actress Alexander whose first name can be a nickname for “Alexander”",
-        "answer": "SASHA",
-        "row": 4,
+        "num": 18,
+        "clue": "Hype up",
+        "answer": "TOUT",
+        "row": 5,
         "col": 8
       },
       {
-        "num": 20,
-        "clue": "Bouncing off the walls",
-        "answer": "HYPER",
-        "row": 4,
-        "col": 9
-      },
-      {
-        "num": 22,
-        "clue": "Valentine’s Day sentiment",
-        "answer": "LOVE",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 23,
-        "clue": "Puts to work",
-        "answer": "USES",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 24,
-        "clue": "Org. in “The Americans”",
-        "answer": "KGB",
+        "num": 19,
+        "clue": "___ the floor with (defeat convincingly)",
+        "answer": "MOP",
         "row": 6,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "Singer Grande, to fans",
-        "answer": "ARI",
+        "num": 20,
+        "clue": "Designation for the Rochester Red Wings and Worcester Red Sox",
+        "answer": "AAA",
         "row": 6,
         "col": 1
-      },
-      {
-        "num": 26,
-        "clue": "Attraction that may have a penguinarium",
-        "answer": "ZOO",
-        "row": 6,
-        "col": 2
       }
     ]
   }
