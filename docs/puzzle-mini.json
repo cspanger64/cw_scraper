@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "R",
-      "O",
-      "R",
-      "Y"
+      "B",
+      "A",
+      "G",
+      "S",
+      null
     ],
     [
-      "M",
-      "O",
-      "V",
-      "I",
-      "E"
-    ],
-    [
-      "E",
       "L",
-      "I",
-      "Z",
+      "L",
+      "A",
+      "M",
       "A"
     ],
     [
-      "G",
+      "A",
+      "L",
+      "L",
       "E",
-      "N",
-      "Z",
-      null
+      "N"
     ],
     [
-      "A",
-      "X",
-      "E",
-      null,
-      null
+      "N",
+      "I",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "K",
+      "N",
+      "O",
+      "L",
+      "L"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Golfer McIlroy",
-        "answer": "RORY",
+        "clue": "Items on an airport carousel",
+        "answer": "BAGS",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "What a best-selling book might be adapted into",
-        "answer": "MOVIE",
+        "clue": "Animal whose name has a doubled letter seen repeatedly in this puzzle",
+        "answer": "LLAMA",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Nickname that drops “beth”",
-        "answer": "ELIZA",
+        "num": 7,
+        "clue": "Josh ___, 2024 N.F.L. M.V.P.",
+        "answer": "ALLEN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Early 2000s babies are part of it",
-        "answer": "GENZ",
+        "num": 8,
+        "clue": "Nabisco wafer brand",
+        "answer": "NILLA",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Tool for a lumberjack",
-        "answer": "AXE",
+        "num": 9,
+        "clue": "Small hill",
+        "answer": "KNOLL",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Watch brand with a crown logo",
-        "answer": "ROLEX",
+        "clue": "Versatile Scrabble tile",
+        "answer": "BLANK",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "100% committed",
+        "answer": "ALLIN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Word like equine, feline or canine, but for sheep",
-        "answer": "OVINE",
+        "num": 3,
+        "clue": "Pico de ___ (salsa variety)",
+        "answer": "GALLO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Charisma, in slang",
-        "answer": "RIZZ",
+        "num": 4,
+        "clue": "Aroma",
+        "answer": "SMELL",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Opposite of “nay”",
-        "answer": "YEA",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "“Big” prefix",
-        "answer": "MEGA",
+        "num": 6,
+        "clue": "Overly fussy about details",
+        "answer": "ANAL",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }

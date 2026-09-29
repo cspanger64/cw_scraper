@@ -5,304 +5,311 @@
   ],
   "grid": [
     [
-      "I",
       "C",
-      "E",
-      null,
+      "D",
       "S",
+      null,
+      "B",
+      "I",
       "O",
-      "W",
+      "S",
+      null
+    ],
+    [
+      "L",
+      "E",
+      "A",
+      null,
+      "I",
+      "D",
+      "L",
       "E",
       "D"
     ],
     [
+      "E",
+      "L",
+      "F",
+      null,
+      "R",
+      "O",
       "D",
-      "A",
-      "Y",
-      null,
-      "T",
-      "R",
-      "O",
-      "V",
-      "E"
-    ],
-    [
-      "O",
-      "R",
       "E",
-      null,
-      "A",
-      "I",
-      "R",
-      "E",
-      "S"
-    ],
-    [
-      "L",
-      "O",
-      "C",
-      "A",
-      "T",
-      "E",
-      "D",
-      null,
-      null
-    ],
-    [
-      null,
-      "L",
-      "O",
-      "Z",
-      "E",
-      "N",
-      "G",
-      "E",
-      null
-    ],
-    [
-      null,
-      null,
-      "L",
-      "O",
-      "S",
-      "T",
-      "A",
-      "R",
-      "T"
-    ],
-    [
-      "M",
-      "A",
-      "O",
-      "R",
-      "I",
-      null,
-      "M",
-      "O",
       "O"
     ],
     [
-      "O",
-      "A",
-      "R",
+      "F",
+      "I",
       "E",
+      "L",
       "D",
       null,
-      "E",
+      "I",
       "D",
-      "U"
+      "S"
     ],
     [
-      "P",
+      null,
+      null,
+      "H",
       "A",
-      "S",
-      "S",
+      "W",
+      "K",
+      "E",
+      "Y",
+      "E"
+    ],
+    [
+      null,
+      "C",
+      "A",
+      "C",
+      "A",
+      "O",
+      null,
+      null,
+      null
+    ],
+    [
+      "D",
+      "O",
+      "V",
+      "E",
+      "T",
+      "A",
+      "I",
+      "L",
+      null
+    ],
+    [
+      "A",
+      "L",
       "E",
       null,
-      "S",
-      "E",
-      "T"
+      "C",
+      "L",
+      "O",
+      "T",
+      null
+    ],
+    [
+      "B",
+      "A",
+      "N",
+      null,
+      "H",
+      "A",
+      "N",
+      "D",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Possible treatment for a sore shoulder",
-        "answer": "ICE",
+        "clue": "Music media that followed cassettes",
+        "answer": "CDS",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "Scattered, as seeds",
-        "answer": "SOWED",
+        "clue": "Book jacket blurbs",
+        "answer": "BIOS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 9,
-        "clue": "Tues- company?",
-        "answer": "DAY",
+        "num": 8,
+        "clue": "Tony-winning actress ___ Salonga",
+        "answer": "LEA",
         "row": 1,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Assortment of treasure",
-        "answer": "TROVE",
+        "num": 9,
+        "clue": "Lounged around and did nothing",
+        "answer": "IDLED",
         "row": 1,
         "col": 4
       },
       {
         "num": 11,
-        "clue": "Mined rock",
-        "answer": "ORE",
+        "clue": "Santa’s little helper",
+        "answer": "ELF",
         "row": 2,
         "col": 0
       },
       {
         "num": 12,
-        "clue": "Buenos ___, Argentina",
-        "answer": "AIRES",
+        "clue": "Event that’s full of bull?",
+        "answer": "RODEO",
         "row": 2,
         "col": 4
       },
       {
         "num": 13,
-        "clue": "Pinpointed, as on a map",
-        "answer": "LOCATED",
+        "clue": "Grassy expanse",
+        "answer": "FIELD",
         "row": 3,
         "col": 0
       },
       {
         "num": 15,
-        "clue": "Cough soother",
-        "answer": "LOZENGE",
-        "row": 4,
-        "col": 1
+        "clue": "They’re flashed at bouncers",
+        "answer": "IDS",
+        "row": 3,
+        "col": 6
       },
       {
-        "num": 17,
-        "clue": "Skill no longer widely used … or, when parsed differently, a hint to 13-, 15- and 17-Across?",
-        "answer": "LOSTART",
-        "row": 5,
+        "num": 16,
+        "clue": "Expert archer in the Marvel Universe portrayed by Jeremy Renner",
+        "answer": "HAWKEYE",
+        "row": 4,
         "col": 2
       },
       {
+        "num": 18,
+        "clue": "Bean harvested to make chocolate",
+        "answer": "CACAO",
+        "row": 5,
+        "col": 1
+      },
+      {
         "num": 19,
-        "clue": "Indigenous people of New Zealand",
-        "answer": "MAORI",
+        "clue": "Fit neatly together",
+        "answer": "DOVETAIL",
         "row": 6,
         "col": 0
       },
       {
-        "num": 21,
-        "clue": "Animal sound from a children’s book with buttons, perhaps",
-        "answer": "MOO",
-        "row": 6,
-        "col": 6
-      },
-      {
         "num": 22,
-        "clue": "Rowed, as a rowboat",
-        "answer": "OARED",
+        "clue": "Pub pintful",
+        "answer": "ALE",
         "row": 7,
         "col": 0
       },
       {
         "num": 23,
-        "clue": "College web address suffix",
-        "answer": "EDU",
+        "clue": "Coagulate",
+        "answer": "CLOT",
         "row": 7,
-        "col": 6
+        "col": 4
       },
       {
         "num": 24,
-        "clue": "No longer in style",
-        "answer": "PASSE",
+        "clue": "Forbid",
+        "answer": "BAN",
         "row": 8,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Bump, ___, spike (volleyball sequence)",
-        "answer": "SET",
+        "clue": "Round of applause",
+        "answer": "HAND",
         "row": 8,
-        "col": 6
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Object of adoration",
-        "answer": "IDOL",
+        "clue": "Music staff symbol",
+        "answer": "CLEF",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Song sung around Christmas",
-        "answer": "CAROL",
+        "clue": "Supermarket section where you might hear “Now serving …”",
+        "answer": "DELI",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Info on driver’s licenses",
-        "answer": "EYECOLORS",
+        "clue": "Sanctuary",
+        "answer": "SAFEHAVEN",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "In America’s lower 48",
-        "answer": "STATESIDE",
+        "clue": "What some Audubon Society members do with binoculars … or a hint to 16- and 19-Across?",
+        "answer": "BIRDWATCH",
         "row": 0,
         "col": 4
       },
       {
         "num": 5,
-        "clue": "Get situated",
-        "answer": "ORIENT",
+        "clue": "Ceremonial words",
+        "answer": "IDO",
         "row": 0,
         "col": 5
       },
       {
         "num": 6,
-        "clue": "Scrabble, Crossplay, etc.",
-        "answer": "WORDGAMES",
+        "clue": "An ___ but a goodie",
+        "answer": "OLDIE",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "Fruit eater in Eden",
-        "answer": "EVE",
+        "clue": "Like a run-down joint",
+        "answer": "SEEDY",
         "row": 0,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "___ Moines, Iowa",
-        "answer": "DES",
-        "row": 0,
+        "num": 10,
+        "clue": "Two tablets, maybe",
+        "answer": "DOSE",
+        "row": 1,
         "col": 8
       },
       {
         "num": 14,
-        "clue": "Volcanic island chain west of mainland Portugal",
-        "answer": "AZORES",
+        "clue": "String in a skate or a hoodie",
+        "answer": "LACE",
         "row": 3,
         "col": 3
       },
       {
-        "num": 16,
-        "clue": "Cause to shrink, as confidence",
-        "answer": "ERODE",
+        "num": 17,
+        "clue": "Marsupial that can sleep about 20 hours a day",
+        "answer": "KOALA",
         "row": 4,
-        "col": 7
+        "col": 5
       },
       {
         "num": 18,
-        "clue": "Hype up",
-        "answer": "TOUT",
+        "clue": "Flavor of some bottle-shaped gummies",
+        "answer": "COLA",
         "row": 5,
-        "col": 8
+        "col": 1
       },
       {
         "num": 19,
-        "clue": "___ the floor with (defeat convincingly)",
-        "answer": "MOP",
+        "clue": "Little bit of cream",
+        "answer": "DAB",
         "row": 6,
         "col": 0
       },
       {
         "num": 20,
-        "clue": "Designation for the Rochester Red Wings and Worcester Red Sox",
-        "answer": "AAA",
+        "clue": "Charged particle",
+        "answer": "ION",
         "row": 6,
-        "col": 1
+        "col": 6
+      },
+      {
+        "num": 21,
+        "clue": "Business name abbreviation, in Britain",
+        "answer": "LTD",
+        "row": 6,
+        "col": 7
       }
     ]
   }
