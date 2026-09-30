@@ -5,311 +5,318 @@
   ],
   "grid": [
     [
-      "C",
-      "D",
-      "S",
-      null,
-      "B",
-      "I",
-      "O",
-      "S",
-      null
-    ],
-    [
-      "L",
-      "E",
+      "G",
+      "P",
       "A",
       null,
-      "I",
-      "D",
-      "L",
-      "E",
-      "D"
-    ],
-    [
-      "E",
-      "L",
-      "F",
       null,
-      "R",
-      "O",
-      "D",
-      "E",
-      "O"
-    ],
-    [
-      "F",
-      "I",
-      "E",
-      "L",
-      "D",
       null,
-      "I",
       "D",
-      "S"
+      "A",
+      "B"
     ],
     [
+      "L",
+      "E",
+      "I",
       null,
       null,
       "H",
-      "A",
-      "W",
-      "K",
-      "E",
-      "Y",
+      "O",
+      "S",
       "E"
     ],
     [
-      null,
-      "C",
-      "A",
-      "C",
-      "A",
-      "O",
-      null,
-      null,
-      null
-    ],
-    [
-      "D",
-      "O",
-      "V",
       "E",
-      "T",
-      "A",
-      "I",
-      "L",
-      null
-    ],
-    [
-      "A",
-      "L",
-      "E",
+      "R",
+      "R",
       null,
-      "C",
       "L",
       "O",
-      "T",
-      null
+      "O",
+      "S",
+      "E"
     ],
     [
-      "B",
-      "A",
       "N",
-      null,
+      "T",
       "H",
+      null,
+      "O",
+      "T",
+      "H",
+      "E",
+      "R"
+    ],
+    [
+      null,
+      null,
+      "O",
       "A",
+      "K",
+      null,
+      "I",
+      "R",
+      "S"
+    ],
+    [
+      "S",
+      "U",
+      "C",
+      "C",
+      "I",
       "N",
-      "D",
+      "C",
+      "T",
       null
+    ],
+    [
+      "I",
+      "N",
+      "K",
+      "S",
+      null,
+      "I",
+      "K",
+      "I",
+      "D"
+    ],
+    [
+      "P",
+      "I",
+      "E",
+      null,
+      null,
+      "L",
+      "E",
+      "V",
+      "I"
+    ],
+    [
+      "S",
+      "T",
+      "Y",
+      null,
+      null,
+      "E",
+      "Y",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Music media that followed cassettes",
-        "answer": "CDS",
+        "clue": "School stat",
+        "answer": "GPA",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "Book jacket blurbs",
-        "answer": "BIOS",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 8,
-        "clue": "Tony-winning actress ___ Salonga",
-        "answer": "LEA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Lounged around and did nothing",
-        "answer": "IDLED",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 11,
-        "clue": "Santa’s little helper",
-        "answer": "ELF",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Event that’s full of bull?",
-        "answer": "RODEO",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "Grassy expanse",
-        "answer": "FIELD",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "They’re flashed at bouncers",
-        "answer": "IDS",
-        "row": 3,
-        "col": 6
-      },
-      {
-        "num": 16,
-        "clue": "Expert archer in the Marvel Universe portrayed by Jeremy Renner",
-        "answer": "HAWKEYE",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 18,
-        "clue": "Bean harvested to make chocolate",
-        "answer": "CACAO",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 19,
-        "clue": "Fit neatly together",
-        "answer": "DOVETAIL",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 22,
-        "clue": "Pub pintful",
-        "answer": "ALE",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "Coagulate",
-        "answer": "CLOT",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 24,
-        "clue": "Forbid",
-        "answer": "BAN",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 25,
-        "clue": "Round of applause",
-        "answer": "HAND",
-        "row": 8,
-        "col": 4
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Music staff symbol",
-        "answer": "CLEF",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Supermarket section where you might hear “Now serving …”",
-        "answer": "DELI",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Sanctuary",
-        "answer": "SAFEHAVEN",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "What some Audubon Society members do with binoculars … or a hint to 16- and 19-Across?",
-        "answer": "BIRDWATCH",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Ceremonial words",
-        "answer": "IDO",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "An ___ but a goodie",
-        "answer": "OLDIE",
+        "clue": "Gently apply",
+        "answer": "DAB",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "Like a run-down joint",
-        "answer": "SEEDY",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 10,
-        "clue": "Two tablets, maybe",
-        "answer": "DOSE",
+        "clue": "Hawaiian neckwear",
+        "answer": "LEI",
         "row": 1,
-        "col": 8
+        "col": 0
       },
       {
-        "num": 14,
-        "clue": "String in a skate or a hoodie",
-        "answer": "LACE",
-        "row": 3,
-        "col": 3
-      },
-      {
-        "num": 17,
-        "clue": "Marsupial that can sleep about 20 hours a day",
-        "answer": "KOALA",
-        "row": 4,
+        "num": 8,
+        "clue": "Gardener’s watering aid",
+        "answer": "HOSE",
+        "row": 1,
         "col": 5
       },
       {
-        "num": 18,
-        "clue": "Flavor of some bottle-shaped gummies",
-        "answer": "COLA",
+        "num": 9,
+        "clue": "Screw up",
+        "answer": "ERR",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Like a tooth that’s barely attached",
+        "answer": "LOOSE",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 11,
+        "clue": "To the ___ degree",
+        "answer": "NTH",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "“Baseball is 90% mental. The ___ half is physical” (quote attributed to Yogi Berra)",
+        "answer": "OTHER",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 13,
+        "clue": "Whiskey barrel material",
+        "answer": "OAK",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 15,
+        "clue": "Org. with auditors",
+        "answer": "IRS",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 16,
+        "clue": "To the point",
+        "answer": "SUCCINCT",
         "row": 5,
-        "col": 1
+        "col": 0
       },
       {
         "num": 19,
-        "clue": "Little bit of cream",
-        "answer": "DAB",
+        "clue": "Signs, as an important document",
+        "answer": "INKS",
         "row": 6,
         "col": 0
       },
       {
         "num": 20,
-        "clue": "Charged particle",
-        "answer": "ION",
+        "clue": "“Only playing with you!”",
+        "answer": "IKID",
         "row": 6,
+        "col": 5
+      },
+      {
+        "num": 22,
+        "clue": "Dessert slice that a Trivial Pursuit game token resembles",
+        "answer": "PIE",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 23,
+        "clue": "Big name in jeans",
+        "answer": "LEVI",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 24,
+        "clue": "Muddy enclosure",
+        "answer": "STY",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 25,
+        "clue": "Observed",
+        "answer": "EYED",
+        "row": 8,
+        "col": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Powell of 2025’s “The Running Man”",
+        "answer": "GLEN",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Cheeky",
+        "answer": "PERT",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Tabletop game with a plastic puck",
+        "answer": "AIRHOCKEY",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Thingamajig",
+        "answer": "DOOHICKEY",
+        "row": 0,
         "col": 6
       },
       {
-        "num": 21,
-        "clue": "Business name abbreviation, in Britain",
-        "answer": "LTD",
-        "row": 6,
+        "num": 5,
+        "clue": "Not shy about speaking one’s mind",
+        "answer": "ASSERTIVE",
+        "row": 0,
         "col": 7
+      },
+      {
+        "num": 6,
+        "clue": "Sudsy six-pack",
+        "answer": "BEERS",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 8,
+        "clue": "Like a ghost pepper",
+        "answer": "HOT",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 10,
+        "clue": "Mischievous Norse god … or a homophonic hint to the ends of 3- and 4-Down",
+        "answer": "LOKI",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "Cooling appliances: Abbr.",
+        "answer": "ACS",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 16,
+        "clue": "Nurses, as some 6-Down",
+        "answer": "SIPS",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 17,
+        "clue": "Absolute ___ (slang term for an exceptionally muscular person)",
+        "answer": "UNIT",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 18,
+        "clue": "River in Egypt",
+        "answer": "NILE",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 21,
+        "clue": "“Why ___ the chicken cross the road?”",
+        "answer": "DID",
+        "row": 6,
+        "col": 8
       }
     ]
   }

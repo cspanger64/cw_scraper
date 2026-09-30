@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "B",
-      "A",
-      "G",
+      "R",
       "S",
-      null
-    ],
-    [
-      "L",
-      "L",
-      "A",
-      "M",
-      "A"
+      "V",
+      "P",
+      "S"
     ],
     [
       "A",
-      "L",
-      "L",
+      "T",
       "E",
-      "N"
+      "U",
+      "P"
     ],
     [
+      "M",
+      "A",
       "N",
-      "I",
-      "L",
-      "L",
-      "A"
+      "G",
+      "O"
     ],
     [
-      "K",
-      "N",
       "O",
-      "L",
-      "L"
+      "C",
+      "T",
+      "E",
+      "T"
+    ],
+    [
+      "S",
+      "K",
+      "I",
+      "T",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Items on an airport carousel",
-        "answer": "BAGS",
+        "clue": "“Yes, I can come,” “No, we’re out of town,” etc.",
+        "answer": "RSVPS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Animal whose name has a doubled letter seen repeatedly in this puzzle",
-        "answer": "LLAMA",
+        "num": 6,
+        "clue": "Devoured entirely",
+        "answer": "ATEUP",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Josh ___, 2024 N.F.L. M.V.P.",
-        "answer": "ALLEN",
+        "clue": "Sweet tropical fruit",
+        "answer": "MANGO",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Nabisco wafer brand",
-        "answer": "NILLA",
+        "clue": "Group of eight",
+        "answer": "OCTET",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Small hill",
-        "answer": "KNOLL",
+        "clue": "Short comedic performances",
+        "answer": "SKITS",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Versatile Scrabble tile",
-        "answer": "BLANK",
+        "clue": "Anthony ___, star of “Hamilton” and “In the Heights”",
+        "answer": "RAMOS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "100% committed",
-        "answer": "ALLIN",
+        "clue": "Pile of pancakes",
+        "answer": "STACK",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Pico de ___ (salsa variety)",
-        "answer": "GALLO",
+        "clue": "20-ounce Starbucks size",
+        "answer": "VENTI",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Aroma",
-        "answer": "SMELL",
+        "clue": "Seattle’s ___ Sound",
+        "answer": "PUGET",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Overly fussy about details",
-        "answer": "ANAL",
-        "row": 1,
+        "num": 5,
+        "clue": "What parking garages, ladybugs and dominoes all have",
+        "answer": "SPOTS",
+        "row": 0,
         "col": 4
       }
     ]
