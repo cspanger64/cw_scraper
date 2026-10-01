@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      "R",
-      "S",
-      "V",
-      "P",
-      "S"
-    ],
-    [
-      "A",
-      "T",
-      "E",
-      "U",
-      "P"
-    ],
-    [
-      "M",
-      "A",
-      "N",
+      null,
       "G",
-      "O"
+      "I",
+      "V",
+      "E"
     ],
     [
+      "P",
       "O",
-      "C",
-      "T",
+      "K",
       "E",
-      "T"
+      "R"
+    ],
+    [
+      "U",
+      "P",
+      "E",
+      "N",
+      "N"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "M",
+      null
     ],
     [
       "S",
-      "K",
-      "I",
-      "T",
-      "S"
+      "O",
+      "S",
+      "O",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "“Yes, I can come,” “No, we’re out of town,” etc.",
-        "answer": "RSVPS",
+        "clue": "Word before “a hand” or “a hoot”",
+        "answer": "GIVE",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Devoured entirely",
-        "answer": "ATEUP",
+        "num": 5,
+        "clue": "Card game for Phil Ivey",
+        "answer": "POKER",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Sweet tropical fruit",
-        "answer": "MANGO",
+        "num": 6,
+        "clue": "Philly Ivy",
+        "answer": "UPENN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Group of eight",
-        "answer": "OCTET",
+        "num": 7,
+        "clue": "Basic unit of mass",
+        "answer": "GRAM",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Short comedic performances",
-        "answer": "SKITS",
+        "num": 8,
+        "clue": "Not bad, but not great",
+        "answer": "SOSO",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Anthony ___, star of “Hamilton” and “In the Heights”",
-        "answer": "RAMOS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Pile of pancakes",
-        "answer": "STACK",
+        "clue": "Enter the N.F.L. draft, say",
+        "answer": "GOPRO",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "20-ounce Starbucks size",
-        "answer": "VENTI",
+        "num": 2,
+        "clue": "Furniture stores in giant blue warehouses",
+        "answer": "IKEAS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Seattle’s ___ Sound",
-        "answer": "PUGET",
+        "num": 3,
+        "clue": "Cash App alternative",
+        "answer": "VENMO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "What parking garages, ladybugs and dominoes all have",
-        "answer": "SPOTS",
+        "num": 4,
+        "clue": "Suffix with north, south, east or west",
+        "answer": "ERN",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Dogs with smushed-looking faces",
+        "answer": "PUGS",
+        "row": 1,
+        "col": 0
       }
     ]
   }

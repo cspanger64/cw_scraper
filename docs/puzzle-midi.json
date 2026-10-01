@@ -1,322 +1,385 @@
 {
   "size": [
-    9,
-    9
+    10,
+    10
   ],
   "grid": [
     [
-      "G",
+      null,
+      null,
+      null,
+      "A",
+      "T",
+      "M",
+      null,
+      "B",
+      "R",
+      "A"
+    ],
+    [
+      null,
+      null,
+      "S",
+      "C",
+      "H",
+      "U",
+      "M",
+      "A",
+      "N",
+      "N"
+    ],
+    [
+      null,
+      "B",
+      "I",
+      "T",
+      "E",
+      "T",
+      "O",
+      "E",
+      "A",
+      "T"
+    ],
+    [
       "P",
       "A",
+      "L",
       null,
-      null,
-      null,
+      "M",
+      "E",
       "D",
-      "A",
-      "B"
-    ],
-    [
-      "L",
-      "E",
-      "I",
       null,
       null,
-      "H",
-      "O",
-      "S",
-      "E"
-    ],
-    [
-      "E",
-      "R",
-      "R",
-      null,
-      "L",
-      "O",
-      "O",
-      "S",
-      "E"
-    ],
-    [
-      "N",
-      "T",
-      "H",
-      null,
-      "O",
-      "T",
-      "H",
-      "E",
-      "R"
-    ],
-    [
-      null,
-      null,
-      "O",
-      "A",
-      "K",
-      null,
-      "I",
-      "R",
-      "S"
-    ],
-    [
-      "S",
-      "U",
-      "C",
-      "C",
-      "I",
-      "N",
-      "C",
-      "T",
       null
     ],
     [
-      "I",
-      "N",
-      "K",
-      "S",
-      null,
-      "I",
-      "K",
-      "I",
-      "D"
-    ],
-    [
-      "P",
-      "I",
+      "A",
+      "B",
+      "O",
+      "V",
       "E",
       null,
+      "E",
+      "C",
+      "R",
+      "U"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "A",
+      null,
+      "A",
+      "L",
+      "I",
+      "E",
+      "N"
+    ],
+    [
+      null,
+      null,
+      null,
+      "C",
+      "O",
+      "N",
+      "T",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "H",
+      "U",
+      "M",
+      "A",
+      "N",
+      "A",
       null,
       "L",
       "E",
-      "V",
       "I"
     ],
     [
+      "A",
+      "B",
+      "E",
+      "T",
+      "S",
+      null,
+      null,
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "E",
+      null,
+      null,
+      null,
       "S",
       "T",
-      "Y",
-      null,
-      null,
-      "E",
-      "Y",
-      "E",
-      "D"
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "School stat",
-        "answer": "GPA",
+        "clue": "24-hour source of $$$",
+        "answer": "ATM",
         "row": 0,
-        "col": 0
+        "col": 3
       },
       {
         "num": 4,
-        "clue": "Gently apply",
-        "answer": "DAB",
+        "clue": "Undergarment purchase",
+        "answer": "BRA",
         "row": 0,
-        "col": 6
+        "col": 7
       },
       {
         "num": 7,
-        "clue": "Hawaiian neckwear",
-        "answer": "LEI",
+        "clue": "19th-century German composer Robert ___",
+        "answer": "SCHUMANN",
         "row": 1,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Gardener’s watering aid",
-        "answer": "HOSE",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 9,
-        "clue": "Screw up",
-        "answer": "ERR",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Like a tooth that’s barely attached",
-        "answer": "LOOSE",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 11,
-        "clue": "To the ___ degree",
-        "answer": "NTH",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "“Baseball is 90% mental. The ___ half is physical” (quote attributed to Yogi Berra)",
-        "answer": "OTHER",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "Whiskey barrel material",
-        "answer": "OAK",
-        "row": 4,
         "col": 2
       },
       {
-        "num": 15,
-        "clue": "Org. with auditors",
-        "answer": "IRS",
+        "num": 9,
+        "clue": "Quick nibble",
+        "answer": "BITETOEAT",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 10,
+        "clue": "Good bud",
+        "answer": "PAL",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Size larger than small: Abbr.",
+        "answer": "MED",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 12,
+        "clue": "On top of",
+        "answer": "ABOVE",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Shade of light brown, from the French",
+        "answer": "ECRU",
         "row": 4,
         "col": 6
       },
       {
-        "num": 16,
-        "clue": "To the point",
-        "answer": "SUCCINCT",
+        "num": 18,
+        "clue": "Flat-topped hill common in the Southwest",
+        "answer": "MESA",
         "row": 5,
         "col": 0
       },
       {
         "num": 19,
-        "clue": "Signs, as an important document",
-        "answer": "INKS",
-        "row": 6,
-        "col": 0
+        "clue": "With 20-Across, feature of many a sci-fi film … and a hint to this puzzle’s shaded squares",
+        "answer": "ALIEN",
+        "row": 5,
+        "col": 5
       },
       {
         "num": 20,
-        "clue": "“Only playing with you!”",
-        "answer": "IKID",
+        "clue": "See 19-Across",
+        "answer": "CONTACT",
         "row": 6,
-        "col": 5
+        "col": 3
       },
       {
         "num": 22,
-        "clue": "Dessert slice that a Trivial Pursuit game token resembles",
-        "answer": "PIE",
+        "clue": "Health insurance giant",
+        "answer": "HUMANA",
         "row": 7,
-        "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "Big name in jeans",
-        "answer": "LEVI",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 24,
-        "clue": "Muddy enclosure",
-        "answer": "STY",
-        "row": 8,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Observed",
-        "answer": "EYED",
+        "clue": "Luau necklace of flowers",
+        "answer": "LEI",
+        "row": 7,
+        "col": 7
+      },
+      {
+        "num": 26,
+        "clue": "Helps with a crime",
+        "answer": "ABETS",
         "row": 8,
-        "col": 5
+        "col": 0
+      },
+      {
+        "num": 27,
+        "clue": "South Bend’s state: Abbr.",
+        "answer": "IND",
+        "row": 8,
+        "col": 7
+      },
+      {
+        "num": 28,
+        "clue": "Basic unit of heredity",
+        "answer": "GENE",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 29,
+        "clue": "Muddy home for pigs",
+        "answer": "STY",
+        "row": 9,
+        "col": 7
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Powell of 2025’s “The Running Man”",
-        "answer": "GLEN",
+        "clue": "Perform in a play",
+        "answer": "ACT",
         "row": 0,
-        "col": 0
+        "col": 3
       },
       {
         "num": 2,
-        "clue": "Cheeky",
-        "answer": "PERT",
+        "clue": "Party planning committee’s concern",
+        "answer": "THEME",
         "row": 0,
-        "col": 1
+        "col": 4
       },
       {
         "num": 3,
-        "clue": "Tabletop game with a plastic puck",
-        "answer": "AIRHOCKEY",
+        "clue": "TV remote button",
+        "answer": "MUTE",
         "row": 0,
-        "col": 2
+        "col": 5
       },
       {
         "num": 4,
-        "clue": "Thingamajig",
-        "answer": "DOOHICKEY",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 5,
-        "clue": "Not shy about speaking one’s mind",
-        "answer": "ASSERTIVE",
+        "clue": "Sweetheart, slangily",
+        "answer": "BAE",
         "row": 0,
         "col": 7
       },
       {
-        "num": 6,
-        "clue": "Sudsy six-pack",
-        "answer": "BEERS",
+        "num": 5,
+        "clue": "Molecule involved in protein synthesis",
+        "answer": "RNA",
         "row": 0,
         "col": 8
       },
       {
-        "num": 8,
-        "clue": "Like a ghost pepper",
-        "answer": "HOT",
+        "num": 6,
+        "clue": "Dracula ___, insect known to drink the blood of its own larvae",
+        "answer": "ANT",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 7,
+        "clue": "Grain towers",
+        "answer": "SILOS",
         "row": 1,
-        "col": 5
+        "col": 2
+      },
+      {
+        "num": 8,
+        "clue": "Car that was “large enough for the family but small enough for the individual,” per Henry Ford",
+        "answer": "MODELT",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 9,
+        "clue": "Yankee great Ruth",
+        "answer": "BABE",
+        "row": 2,
+        "col": 1
       },
       {
         "num": 10,
-        "clue": "Mischievous Norse god … or a homophonic hint to the ends of 3- and 4-Down",
-        "answer": "LOKI",
-        "row": 2,
-        "col": 4
+        "clue": "Cooking spray brand",
+        "answer": "PAM",
+        "row": 3,
+        "col": 0
       },
       {
-        "num": 14,
-        "clue": "Cooling appliances: Abbr.",
-        "answer": "ACS",
+        "num": 13,
+        "clue": "Move out",
+        "answer": "VACATE",
         "row": 4,
         "col": 3
       },
       {
+        "num": 15,
+        "clue": "Alternative to Viagra",
+        "answer": "CIALIS",
+        "row": 4,
+        "col": 7
+      },
+      {
         "num": 16,
-        "clue": "Nurses, as some 6-Down",
-        "answer": "SIPS",
-        "row": 5,
-        "col": 0
+        "clue": "Newish",
+        "answer": "RECENT",
+        "row": 4,
+        "col": 8
       },
       {
         "num": 17,
-        "clue": "Absolute ___ (slang term for an exceptionally muscular person)",
-        "answer": "UNIT",
-        "row": 5,
-        "col": 1
+        "clue": "In need of cleaning up",
+        "answer": "UNTIDY",
+        "row": 4,
+        "col": 9
       },
       {
-        "num": 18,
-        "clue": "River in Egypt",
-        "answer": "NILE",
+        "num": 19,
+        "clue": "Actress de Armas",
+        "answer": "ANA",
         "row": 5,
         "col": 5
       },
       {
         "num": 21,
-        "clue": "“Why ___ the chicken cross the road?”",
-        "answer": "DID",
+        "clue": "Carry-___ (unchecked bags)",
+        "answer": "ONS",
         "row": 6,
-        "col": 8
+        "col": 4
+      },
+      {
+        "num": 22,
+        "clue": "Witch",
+        "answer": "HAG",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 23,
+        "clue": "Purple yam used in Filipino cuisine",
+        "answer": "UBE",
+        "row": 7,
+        "col": 1
+      },
+      {
+        "num": 24,
+        "clue": "Chess pieces",
+        "answer": "MEN",
+        "row": 7,
+        "col": 2
       }
     ]
   }
