@@ -1,385 +1,329 @@
 {
   "size": [
-    10,
-    10
+    9,
+    9
   ],
   "grid": [
     [
-      null,
-      null,
-      null,
       "A",
-      "T",
-      "M",
-      null,
-      "B",
-      "R",
-      "A"
-    ],
-    [
-      null,
-      null,
       "S",
-      "C",
-      "H",
-      "U",
-      "M",
       "A",
+      "P",
+      null,
+      null,
+      "W",
+      "W",
+      "W"
+    ],
+    [
+      "S",
+      "E",
+      "G",
+      "U",
+      "E",
+      null,
+      "W",
+      "I",
+      "I"
+    ],
+    [
+      "K",
+      "E",
+      "E",
+      "P",
+      "G",
+      "O",
+      "I",
       "N",
-      "N"
+      "G"
     ],
     [
       null,
-      "B",
-      "I",
-      "T",
-      "E",
+      null,
+      null,
       "T",
       "O",
-      "E",
-      "A",
-      "T"
-    ],
-    [
-      "P",
-      "A",
-      "L",
-      null,
-      "M",
-      "E",
-      "D",
+      "O",
       null,
       null,
       null
     ],
     [
-      "A",
       "B",
-      "O",
-      "V",
-      "E",
-      null,
-      "E",
-      "C",
-      "R",
-      "U"
-    ],
-    [
-      "M",
+      "I",
+      "K",
       "E",
       "S",
-      "A",
-      null,
-      "A",
-      "L",
+      "H",
+      "O",
+      "P",
+      null
+    ],
+    [
       "I",
-      "E",
+      "R",
+      "O",
+      "N",
+      null,
+      null,
+      "B",
+      "A",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "T",
+      "Y",
+      "D",
+      "O",
+      "W",
       "N"
     ],
     [
-      null,
-      null,
-      null,
-      "C",
-      "O",
-      "N",
+      "E",
       "T",
       "A",
-      "C",
-      "T"
-    ],
-    [
+      null,
+      "A",
       "H",
-      "U",
-      "M",
-      "A",
-      "N",
-      "A",
-      null,
-      "L",
       "E",
-      "I"
-    ],
-    [
       "A",
-      "B",
-      "E",
-      "T",
-      "S",
-      null,
-      null,
-      "I",
-      "N",
       "D"
     ],
     [
-      "G",
+      "D",
       "E",
       "N",
-      "E",
       null,
-      null,
-      null,
+      "P",
+      "S",
       "S",
       "T",
-      "Y"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "24-hour source of $$$",
-        "answer": "ATM",
+        "clue": "“Now!”",
+        "answer": "ASAP",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Undergarment purchase",
-        "answer": "BRA",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "19th-century German composer Robert ___",
-        "answer": "SCHUMANN",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 9,
-        "clue": "Quick nibble",
-        "answer": "BITETOEAT",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 10,
-        "clue": "Good bud",
-        "answer": "PAL",
-        "row": 3,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Size larger than small: Abbr.",
-        "answer": "MED",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "On top of",
-        "answer": "ABOVE",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "Shade of light brown, from the French",
-        "answer": "ECRU",
-        "row": 4,
+        "num": 5,
+        "clue": "Letters after “https://” in a URL",
+        "answer": "WWW",
+        "row": 0,
         "col": 6
       },
       {
-        "num": 18,
-        "clue": "Flat-topped hill common in the Southwest",
-        "answer": "MESA",
-        "row": 5,
+        "num": 8,
+        "clue": "Transition",
+        "answer": "SEGUE",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Gaming platform with a remote",
+        "answer": "WII",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "“Don’t stop!”",
+        "answer": "KEEPGOING",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "“___ rich for my blood!”",
+        "answer": "TOO",
+        "row": 3,
+        "col": 3
+      },
+      {
+        "num": 14,
+        "clue": "Spot offering gear adjustments and flat tire repairs",
+        "answer": "BIKESHOP",
+        "row": 4,
         "col": 0
       },
       {
         "num": 19,
-        "clue": "With 20-Across, feature of many a sci-fi film … and a hint to this puzzle’s shaded squares",
-        "answer": "ALIEN",
+        "clue": "Element in steel",
+        "answer": "IRON",
         "row": 5,
-        "col": 5
+        "col": 0
       },
       {
         "num": 20,
-        "clue": "See 19-Across",
-        "answer": "CONTACT",
-        "row": 6,
-        "col": 3
+        "clue": "Sheep’s bleat",
+        "answer": "BAA",
+        "row": 5,
+        "col": 6
       },
       {
         "num": 22,
-        "clue": "Health insurance giant",
-        "answer": "HUMANA",
-        "row": 7,
+        "clue": "Celebrate mightily",
+        "answer": "PARTYDOWN",
+        "row": 6,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Luau necklace of flowers",
-        "answer": "LEI",
+        "clue": "When a rideshare is scheduled to show up, for short",
+        "answer": "ETA",
         "row": 7,
-        "col": 7
+        "col": 0
       },
       {
         "num": 26,
-        "clue": "Helps with a crime",
-        "answer": "ABETS",
-        "row": 8,
-        "col": 0
+        "clue": "Leading in the polls, say",
+        "answer": "AHEAD",
+        "row": 7,
+        "col": 4
       },
       {
         "num": 27,
-        "clue": "South Bend’s state: Abbr.",
-        "answer": "IND",
+        "clue": "TV room",
+        "answer": "DEN",
         "row": 8,
-        "col": 7
-      },
-      {
-        "num": 28,
-        "clue": "Basic unit of heredity",
-        "answer": "GENE",
-        "row": 9,
         "col": 0
       },
       {
-        "num": 29,
-        "clue": "Muddy home for pigs",
-        "answer": "STY",
-        "row": 9,
-        "col": 7
+        "num": 28,
+        "clue": "[Hey, you!]",
+        "answer": "PSST",
+        "row": 8,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Perform in a play",
-        "answer": "ACT",
+        "clue": "Pose an interrogative",
+        "answer": "ASK",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 2,
-        "clue": "Party planning committee’s concern",
-        "answer": "THEME",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 3,
-        "clue": "TV remote button",
-        "answer": "MUTE",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 4,
-        "clue": "Sweetheart, slangily",
-        "answer": "BAE",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 5,
-        "clue": "Molecule involved in protein synthesis",
-        "answer": "RNA",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 6,
-        "clue": "Dracula ___, insect known to drink the blood of its own larvae",
-        "answer": "ANT",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 7,
-        "clue": "Grain towers",
-        "answer": "SILOS",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 8,
-        "clue": "Car that was “large enough for the family but small enough for the individual,” per Henry Ford",
-        "answer": "MODELT",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 9,
-        "clue": "Yankee great Ruth",
-        "answer": "BABE",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 10,
-        "clue": "Cooking spray brand",
-        "answer": "PAM",
-        "row": 3,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Move out",
-        "answer": "VACATE",
-        "row": 4,
+        "num": 2,
+        "clue": "Witness",
+        "answer": "SEE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Coming-of-___ story",
+        "answer": "AGE",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Simple camping shelter",
+        "answer": "PUPTENT",
+        "row": 0,
         "col": 3
       },
       {
+        "num": 5,
+        "clue": "Backdrop for Jay Gatsby’s military service in “The Great Gatsby,” for short",
+        "answer": "WWI",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "Come out on top",
+        "answer": "WIN",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "Faux locks",
+        "answer": "WIG",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 9,
+        "clue": "Impediments to team cohesion",
+        "answer": "EGOS",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 12,
+        "clue": "“Impressive!”",
+        "answer": "OOH",
+        "row": 2,
+        "col": 5
+      },
+      {
+        "num": 14,
+        "clue": "Two-footed creature",
+        "answer": "BIPED",
+        "row": 4,
+        "col": 0
+      },
+      {
         "num": 15,
-        "clue": "Alternative to Viagra",
-        "answer": "CIALIS",
+        "clue": "Far beyond peeved",
+        "answer": "IRATE",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 16,
+        "clue": "Muslim holy book, in one spelling",
+        "answer": "KORAN",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 17,
+        "clue": "Nasal-sounding woodwinds",
+        "answer": "OBOES",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 18,
+        "clue": "Bat around, as a cat might",
+        "answer": "PAWAT",
         "row": 4,
         "col": 7
       },
       {
-        "num": 16,
-        "clue": "Newish",
-        "answer": "RECENT",
-        "row": 4,
+        "num": 21,
+        "clue": "“Your point being?”",
+        "answer": "AND",
+        "row": 5,
         "col": 8
       },
       {
-        "num": 17,
-        "clue": "In need of cleaning up",
-        "answer": "UNTIDY",
-        "row": 4,
-        "col": 9
-      },
-      {
-        "num": 19,
-        "clue": "Actress de Armas",
-        "answer": "ANA",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 21,
-        "clue": "Carry-___ (unchecked bags)",
-        "answer": "ONS",
+        "num": 23,
+        "clue": "Talk and talk and talk",
+        "answer": "YAP",
         "row": 6,
         "col": 4
       },
       {
-        "num": 22,
-        "clue": "Witch",
-        "answer": "HAG",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "Purple yam used in Filipino cuisine",
-        "answer": "UBE",
-        "row": 7,
-        "col": 1
-      },
-      {
         "num": 24,
-        "clue": "Chess pieces",
-        "answer": "MEN",
-        "row": 7,
-        "col": 2
+        "clue": "Batting-only baseball players, for short",
+        "answer": "DHS",
+        "row": 6,
+        "col": 5
       }
     ]
   }

@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "G",
-      "I",
-      "V",
-      "E"
+      "D",
+      "U",
+      "S",
+      "T",
+      null
     ],
     [
-      "P",
       "O",
-      "K",
+      "H",
+      "W",
+      "O",
+      "W"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "U",
+      "P",
       "E",
       "R"
     ],
     [
-      "U",
-      "P",
+      null,
+      "H",
       "E",
-      "N",
-      "N"
-    ],
-    [
-      "G",
       "R",
-      "A",
-      "M",
-      null
-    ],
-    [
-      "S",
-      "O",
-      "S",
-      "O",
-      null
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Word before “a hand” or “a hoot”",
-        "answer": "GIVE",
+        "clue": "Finger covering after eating Cheetos",
+        "answer": "DUST",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Card game for Phil Ivey",
-        "answer": "POKER",
+        "clue": "“That’s amazing!”",
+        "answer": "OHWOW",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Philly Ivy",
-        "answer": "UPENN",
+        "num": 7,
+        "clue": "First country to use paper money, way back in the 7th century",
+        "answer": "CHINA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Basic unit of mass",
-        "answer": "GRAM",
+        "num": 8,
+        "clue": "Extremely, extra, very",
+        "answer": "SUPER",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Not bad, but not great",
-        "answer": "SOSO",
+        "num": 9,
+        "clue": "Where “You Are,” on a mall map",
+        "answer": "HERE",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Enter the N.F.L. draft, say",
-        "answer": "GOPRO",
+        "clue": "Google ___",
+        "answer": "DOCS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "“Yup, yup, yup”",
+        "answer": "UHHUH",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Furniture stores in giant blue warehouses",
-        "answer": "IKEAS",
+        "num": 3,
+        "clue": "Dating app action",
+        "answer": "SWIPE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Cash App alternative",
-        "answer": "VENMO",
+        "num": 4,
+        "clue": "Printer powder",
+        "answer": "TONER",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Suffix with north, south, east or west",
-        "answer": "ERN",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Dogs with smushed-looking faces",
-        "answer": "PUGS",
+        "num": 6,
+        "clue": "Suffix with silver or glass",
+        "answer": "WARE",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
