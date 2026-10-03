@@ -1,118 +1,174 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
+      null,
+      null,
+      "M",
       "D",
-      "U",
       "S",
-      "T",
+      null,
       null
-    ],
-    [
-      "O",
-      "H",
-      "W",
-      "O",
-      "W"
-    ],
-    [
-      "C",
-      "H",
-      "I",
-      "N",
-      "A"
-    ],
-    [
-      "S",
-      "U",
-      "P",
-      "E",
-      "R"
     ],
     [
       null,
       "H",
       "E",
+      "A",
+      "P",
+      "S",
+      null
+    ],
+    [
+      "B",
+      "A",
       "R",
+      "S",
+      "O",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "R",
+      "M",
+      "H",
+      "O",
+      "L",
       "E"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "E",
+      "R"
+    ],
+    [
+      null,
+      "Y",
+      "I",
+      "K",
+      "E",
+      "S",
+      null
+    ],
+    [
+      null,
+      null,
+      "D",
+      "I",
+      "D",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Finger covering after eating Cheetos",
-        "answer": "DUST",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "“That’s amazing!”",
-        "answer": "OHWOW",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "First country to use paper money, way back in the 7th century",
-        "answer": "CHINA",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Extremely, extra, very",
-        "answer": "SUPER",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Where “You Are,” on a mall map",
-        "answer": "HERE",
-        "row": 4,
-        "col": 1
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Google ___",
-        "answer": "DOCS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "“Yup, yup, yup”",
-        "answer": "UHHUH",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Dating app action",
-        "answer": "SWIPE",
+        "clue": "R.N.’s co-workers",
+        "answer": "MDS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Printer powder",
-        "answer": "TONER",
+        "clue": "Piles upon piles",
+        "answer": "HEAPS",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Alternative to body wash",
+        "answer": "BARSOAP",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "O in a tee?",
+        "answer": "ARMHOLE",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Exercise expert",
+        "answer": "TRAINER",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "“Oof … that’s not good”",
+        "answer": "YIKES",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 11,
+        "clue": "“I see what you ___ there”",
+        "answer": "DID",
+        "row": 6,
+        "col": 2
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Half woman, half fish",
+        "answer": "MERMAID",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "West African shirt",
+        "answer": "DASHIKI",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Suffix with silver or glass",
-        "answer": "WARE",
-        "row": 1,
+        "num": 3,
+        "clue": "Cuddled closely",
+        "answer": "SPOONED",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "William’s brother in the British monarchy",
+        "answer": "HARRY",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Register ring-ups",
+        "answer": "SALES",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Crack of the ___ (ballpark sound)",
+        "answer": "BAT",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "The “p” of m.p.h.",
+        "answer": "PER",
+        "row": 2,
+        "col": 6
       }
     ]
   }

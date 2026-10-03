@@ -1,106 +1,117 @@
 {
   "size": [
-    9,
+    10,
     9
   ],
   "grid": [
     [
-      "A",
-      "S",
+      "R",
       "A",
       "P",
       null,
       null,
-      "W",
-      "W",
-      "W"
+      null,
+      "S",
+      "P",
+      "F"
     ],
     [
-      "S",
-      "E",
-      "G",
       "U",
-      "E",
-      null,
-      "W",
-      "I",
-      "I"
-    ],
-    [
-      "K",
-      "E",
-      "E",
-      "P",
-      "G",
-      "O",
-      "I",
       "N",
-      "G"
-    ],
-    [
+      "O",
       null,
       null,
       null,
       "T",
-      "O",
-      "O",
-      null,
-      null,
-      null
+      "E",
+      "E"
     ],
     [
-      "B",
-      "I",
+      "M",
+      "A",
       "K",
       "E",
-      "S",
-      "H",
-      "O",
-      "P",
-      null
+      "A",
+      "B",
+      "U",
+      "Z",
+      "Z"
     ],
     [
-      "I",
-      "R",
+      null,
+      null,
+      "E",
+      "X",
+      "X",
       "O",
       "N",
       null,
-      null,
-      "B",
-      "A",
-      "A"
+      null
     ],
     [
+      null,
+      null,
+      null,
       "P",
+      "O",
+      "X",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "E",
+      "P",
+      "O",
+      "N",
+      "Y",
+      "M",
+      "S",
+      null
+    ],
+    [
+      "I",
+      "V",
+      "E",
+      null,
+      null,
+      null,
       "A",
-      "R",
+      "H",
+      "H"
+    ],
+    [
+      "T",
+      "I",
+      "C",
+      "T",
+      "A",
+      "C",
+      "T",
+      "O",
+      "E"
+    ],
+    [
+      "S",
+      "L",
+      "A",
+      "M",
+      "P",
+      "O",
+      "E",
+      "T",
+      "S"
+    ],
+    [
+      null,
+      null,
+      "N",
+      "I",
+      "T",
       "T",
       "Y",
-      "D",
-      "O",
-      "W",
-      "N"
-    ],
-    [
-      "E",
-      "T",
-      "A",
       null,
-      "A",
-      "H",
-      "E",
-      "A",
-      "D"
-    ],
-    [
-      "D",
-      "E",
-      "N",
-      null,
-      "P",
-      "S",
-      "S",
-      "T",
       null
     ]
   ],
@@ -108,221 +119,221 @@
     "across": [
       {
         "num": 1,
-        "clue": "“Now!”",
-        "answer": "ASAP",
+        "clue": "Genre for 21 Savage and 50 Cent",
+        "answer": "RAP",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Letters after “https://” in a URL",
-        "answer": "WWW",
+        "num": 4,
+        "clue": "Tanning oil initials",
+        "answer": "SPF",
         "row": 0,
         "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Number between cero and dos",
+        "answer": "UNO",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 8,
-        "clue": "Transition",
-        "answer": "SEGUE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Gaming platform with a remote",
-        "answer": "WII",
+        "clue": "Peg on a golf course",
+        "answer": "TEE",
         "row": 1,
         "col": 6
       },
       {
-        "num": 11,
-        "clue": "“Don’t stop!”",
-        "answer": "KEEPGOING",
+        "num": 9,
+        "clue": "Create hype",
+        "answer": "MAKEABUZZ",
         "row": 2,
         "col": 0
       },
       {
         "num": 13,
-        "clue": "“___ rich for my blood!”",
-        "answer": "TOO",
+        "clue": "Company that merged with Mobil in 1999",
+        "answer": "EXXON",
         "row": 3,
-        "col": 3
+        "col": 2
       },
       {
         "num": 14,
-        "clue": "Spot offering gear adjustments and flat tire repairs",
-        "answer": "BIKESHOP",
+        "clue": "Curse",
+        "answer": "POX",
         "row": 4,
-        "col": 0
+        "col": 3
+      },
+      {
+        "num": 15,
+        "clue": "People after whom things are named",
+        "answer": "EPONYMS",
+        "row": 5,
+        "col": 1
       },
       {
         "num": 19,
-        "clue": "Element in steel",
-        "answer": "IRON",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Sheep’s bleat",
-        "answer": "BAA",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 22,
-        "clue": "Celebrate mightily",
-        "answer": "PARTYDOWN",
+        "clue": "“So, ___ been thinking …”",
+        "answer": "IVE",
         "row": 6,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "When a rideshare is scheduled to show up, for short",
-        "answer": "ETA",
+        "num": 20,
+        "clue": "Relaxing sound at a spa",
+        "answer": "AHH",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "num": 22,
+        "clue": "Game played on a 3×3 grid, as seen in this puzzle",
+        "answer": "TICTACTOE",
         "row": 7,
         "col": 0
       },
       {
         "num": 26,
-        "clue": "Leading in the polls, say",
-        "answer": "AHEAD",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 27,
-        "clue": "TV room",
-        "answer": "DEN",
+        "clue": "Competitors in a certain spoken-word performance event",
+        "answer": "SLAMPOETS",
         "row": 8,
         "col": 0
       },
       {
-        "num": 28,
-        "clue": "[Hey, you!]",
-        "answer": "PSST",
-        "row": 8,
-        "col": 4
+        "num": 27,
+        "clue": "___-gritty",
+        "answer": "NITTY",
+        "row": 9,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Pose an interrogative",
-        "answer": "ASK",
+        "clue": "Stereotypical liquor for a pirate",
+        "answer": "RUM",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Witness",
-        "answer": "SEE",
+        "clue": "Santa ___ winds",
+        "answer": "ANA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Coming-of-___ story",
-        "answer": "AGE",
+        "clue": "👉",
+        "answer": "POKE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Simple camping shelter",
-        "answer": "PUPTENT",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Backdrop for Jay Gatsby’s military service in “The Great Gatsby,” for short",
-        "answer": "WWI",
+        "clue": "Leave dumbstruck",
+        "answer": "STUN",
         "row": 0,
         "col": 6
       },
       {
-        "num": 6,
-        "clue": "Come out on top",
-        "answer": "WIN",
+        "num": 5,
+        "clue": "Candy in a plastic dispenser",
+        "answer": "PEZ",
         "row": 0,
         "col": 7
       },
       {
-        "num": 7,
-        "clue": "Faux locks",
-        "answer": "WIG",
+        "num": 6,
+        "clue": "Red felt hat with a tassel",
+        "answer": "FEZ",
         "row": 0,
         "col": 8
       },
       {
-        "num": 9,
-        "clue": "Impediments to team cohesion",
-        "answer": "EGOS",
-        "row": 1,
+        "num": 10,
+        "clue": "Trade show",
+        "answer": "EXPO",
+        "row": 2,
+        "col": 3
+      },
+      {
+        "num": 11,
+        "clue": "Part of a nerve cell",
+        "answer": "AXON",
+        "row": 2,
         "col": 4
       },
       {
         "num": 12,
-        "clue": "“Impressive!”",
-        "answer": "OOH",
+        "clue": "Like a car that’s all angles and no curves",
+        "answer": "BOXY",
         "row": 2,
         "col": 5
       },
       {
-        "num": 14,
-        "clue": "Two-footed creature",
-        "answer": "BIPED",
-        "row": 4,
-        "col": 0
-      },
-      {
         "num": 15,
-        "clue": "Far beyond peeved",
-        "answer": "IRATE",
-        "row": 4,
+        "clue": "What superheroes fight against",
+        "answer": "EVIL",
+        "row": 5,
         "col": 1
       },
       {
         "num": 16,
-        "clue": "Muslim holy book, in one spelling",
-        "answer": "KORAN",
-        "row": 4,
+        "clue": "Popular nut in ice cream and pies",
+        "answer": "PECAN",
+        "row": 5,
         "col": 2
       },
       {
         "num": 17,
-        "clue": "Nasal-sounding woodwinds",
-        "answer": "OBOES",
-        "row": 4,
+        "clue": "Pirate’s pal",
+        "answer": "MATEY",
+        "row": 5,
         "col": 6
       },
       {
         "num": 18,
-        "clue": "Bat around, as a cat might",
-        "answer": "PAWAT",
-        "row": 4,
+        "clue": "Espresso unit",
+        "answer": "SHOT",
+        "row": 5,
         "col": 7
       },
       {
+        "num": 19,
+        "clue": "The “I” of T.G.I.F.",
+        "answer": "ITS",
+        "row": 6,
+        "col": 0
+      },
+      {
         "num": 21,
-        "clue": "“Your point being?”",
-        "answer": "AND",
-        "row": 5,
+        "clue": "“She’s everything. ___ just Ken” (“Barbie” tagline)",
+        "answer": "HES",
+        "row": 6,
         "col": 8
       },
       {
         "num": 23,
-        "clue": "Talk and talk and talk",
-        "answer": "YAP",
-        "row": 6,
-        "col": 4
+        "clue": "“I did NOT need to know that!”",
+        "answer": "TMI",
+        "row": 7,
+        "col": 3
       },
       {
         "num": 24,
-        "clue": "Batting-only baseball players, for short",
-        "answer": "DHS",
-        "row": 6,
+        "clue": "Like this clue’s formatting of bold or italic, say",
+        "answer": "APT",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "num": 25,
+        "clue": "Extra bed at a hotel, perhaps",
+        "answer": "COT",
+        "row": 7,
         "col": 5
       }
     ]
