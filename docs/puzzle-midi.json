@@ -1,340 +1,324 @@
 {
   "size": [
-    10,
-    9
+    9,
+    10
   ],
   "grid": [
     [
+      null,
+      null,
+      "M",
+      "A",
+      "L",
+      "L",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "A",
       "R",
       "A",
-      "P",
-      null,
-      null,
-      null,
-      "S",
-      "P",
-      "F"
-    ],
-    [
-      "U",
-      "N",
-      "O",
-      null,
-      null,
-      null,
-      "T",
-      "E",
-      "E"
-    ],
-    [
-      "M",
-      "A",
-      "K",
-      "E",
-      "A",
       "B",
-      "U",
-      "Z",
-      "Z"
-    ],
-    [
-      null,
-      null,
-      "E",
-      "X",
-      "X",
-      "O",
+      "I",
+      "A",
       "N",
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "P",
-      "O",
-      "X",
       null,
       null,
       null
     ],
     [
-      null,
-      "E",
-      "P",
-      "O",
-      "N",
-      "Y",
       "M",
-      "S",
+      "I",
+      "X",
+      "I",
+      "N",
+      "G",
+      "U",
+      "P",
+      null,
       null
     ],
     [
+      "E",
+      "L",
       "I",
-      "V",
+      "T",
       "E",
       null,
-      null,
-      null,
-      "A",
       "H",
-      "H"
-    ],
-    [
-      "T",
-      "I",
-      "C",
-      "T",
       "A",
-      "C",
-      "T",
-      "O",
-      "E"
+      "M",
+      null
     ],
     [
+      "N",
+      "E",
       "S",
+      null,
+      null,
+      "F",
+      "U",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      null,
+      null,
+      "K",
+      "A",
       "L",
       "A",
-      "M",
-      "P",
-      "O",
-      "E",
-      "T",
-      "S"
+      "H",
+      "A",
+      "R",
+      "I"
     ],
     [
-      null,
-      null,
-      "N",
+      "E",
+      "D",
       "I",
       "T",
-      "T",
-      "Y",
+      "I",
+      "N",
       null,
-      null
+      "S",
+      "A",
+      "C"
+    ],
+    [
+      "L",
+      "U",
+      "R",
+      "I",
+      "N",
+      "G",
+      null,
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "T",
+      "E",
+      "S",
+      null,
+      "L",
+      "S",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Genre for 21 Savage and 50 Cent",
-        "answer": "RAP",
+        "clue": "“Paul Blart: ___ Cop”",
+        "answer": "MALL",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 4,
-        "clue": "Tanning oil initials",
-        "answer": "SPF",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 7,
-        "clue": "Number between cero and dos",
-        "answer": "UNO",
+        "num": 5,
+        "clue": "Desert occupying most of its namesake peninsula in southwest Asia",
+        "answer": "ARABIAN",
         "row": 1,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Peg on a golf course",
-        "answer": "TEE",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 9,
-        "clue": "Create hype",
-        "answer": "MAKEABUZZ",
+        "clue": "Shuffling",
+        "answer": "MIXINGUP",
         "row": 2,
         "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Company that merged with Mobil in 1999",
-        "answer": "EXXON",
-        "row": 3,
-        "col": 2
-      },
-      {
-        "num": 14,
-        "clue": "Curse",
-        "answer": "POX",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "People after whom things are named",
-        "answer": "EPONYMS",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 19,
-        "clue": "“So, ___ been thinking …”",
-        "answer": "IVE",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Relaxing sound at a spa",
-        "answer": "AHH",
-        "row": 6,
-        "col": 6
-      },
-      {
-        "num": 22,
-        "clue": "Game played on a 3×3 grid, as seen in this puzzle",
-        "answer": "TICTACTOE",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Competitors in a certain spoken-word performance event",
-        "answer": "SLAMPOETS",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 27,
-        "clue": "___-gritty",
-        "answer": "NITTY",
-        "row": 9,
-        "col": 2
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Stereotypical liquor for a pirate",
-        "answer": "RUM",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Santa ___ winds",
-        "answer": "ANA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "👉",
-        "answer": "POKE",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Leave dumbstruck",
-        "answer": "STUN",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 5,
-        "clue": "Candy in a plastic dispenser",
-        "answer": "PEZ",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 6,
-        "clue": "Red felt hat with a tassel",
-        "answer": "FEZ",
-        "row": 0,
-        "col": 8
       },
       {
         "num": 10,
-        "clue": "Trade show",
-        "answer": "EXPO",
-        "row": 2,
-        "col": 3
+        "clue": "Best of the best",
+        "answer": "ELITE",
+        "row": 3,
+        "col": 0
       },
       {
         "num": 11,
-        "clue": "Part of a nerve cell",
-        "answer": "AXON",
-        "row": 2,
-        "col": 4
+        "clue": "Meat in a Denver omelet",
+        "answer": "HAM",
+        "row": 3,
+        "col": 6
       },
       {
-        "num": 12,
-        "clue": "Like a car that’s all angles and no curves",
-        "answer": "BOXY",
-        "row": 2,
+        "num": 13,
+        "clue": "Original Super Mario Bros. console",
+        "answer": "NES",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Rage",
+        "answer": "FUROR",
+        "row": 4,
         "col": 5
       },
       {
-        "num": 15,
-        "clue": "What superheroes fight against",
-        "answer": "EVIL",
-        "row": 5,
-        "col": 1
-      },
-      {
         "num": 16,
-        "clue": "Popular nut in ice cream and pies",
-        "answer": "PECAN",
+        "clue": "Desert covering much of Botswana",
+        "answer": "KALAHARI",
         "row": 5,
         "col": 2
       },
       {
-        "num": 17,
-        "clue": "Pirate’s pal",
-        "answer": "MATEY",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 18,
-        "clue": "Espresso unit",
-        "answer": "SHOT",
-        "row": 5,
-        "col": 7
-      },
-      {
         "num": 19,
-        "clue": "The “I” of T.G.I.F.",
-        "answer": "ITS",
+        "clue": "Add, as someone who wasn’t originally part of a photo",
+        "answer": "EDITIN",
         "row": 6,
         "col": 0
       },
       {
         "num": 21,
-        "clue": "“She’s everything. ___ just Ken” (“Barbie” tagline)",
-        "answer": "HES",
+        "clue": "Cul-de-___",
+        "answer": "SAC",
         "row": 6,
-        "col": 8
+        "col": 7
+      },
+      {
+        "num": 22,
+        "clue": "Seducing",
+        "answer": "LURING",
+        "row": 7,
+        "col": 0
       },
       {
         "num": 23,
-        "clue": "“I did NOT need to know that!”",
-        "answer": "TMI",
+        "clue": "“Great job, toreador!”",
+        "answer": "OLE",
         "row": 7,
-        "col": 3
+        "col": 7
       },
       {
         "num": 24,
-        "clue": "Like this clue’s formatting of bold or italic, say",
-        "answer": "APT",
-        "row": 7,
-        "col": 4
+        "clue": "Non-shiny lipstick options",
+        "answer": "MATTES",
+        "row": 8,
+        "col": 0
       },
       {
         "num": 25,
-        "clue": "Extra bed at a hotel, perhaps",
-        "answer": "COT",
-        "row": 7,
+        "clue": "“Acid”",
+        "answer": "LSD",
+        "row": 8,
+        "col": 7
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Ankle-covering garment",
+        "answer": "MAXISKIRT",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Kind of",
+        "answer": "ABIT",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 3,
+        "clue": "Queue",
+        "answer": "LINE",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Slow Wi-Fi annoyance",
+        "answer": "LAG",
+        "row": 0,
         "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "Prayer-ending word",
+        "answer": "AMEN",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Agitate, with “up”",
+        "answer": "RILE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Childish “That’s not true!”",
+        "answer": "NUHUH",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 9,
+        "clue": "Shade-providing umbrella",
+        "answer": "PARASOL",
+        "row": 2,
+        "col": 7
+      },
+      {
+        "num": 12,
+        "clue": "Lessons learned from fables",
+        "answer": "MORALS",
+        "row": 3,
+        "col": 8
+      },
+      {
+        "num": 14,
+        "clue": "Plastic parts of a vampire costume",
+        "answer": "FANGS",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 15,
+        "clue": "Chopped finely, as cauliflower",
+        "answer": "RICED",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "num": 17,
+        "clue": "Working hard",
+        "answer": "ATIT",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 18,
+        "clue": "Word shouted by a forgetful actor",
+        "answer": "LINE",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 19,
+        "clue": "Shade-providing tree",
+        "answer": "ELM",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "“Dance the Night” singer ___ Lipa",
+        "answer": "DUA",
+        "row": 6,
+        "col": 1
       }
     ]
   }

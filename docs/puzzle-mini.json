@@ -1,70 +1,47 @@
 {
   "size": [
-    7,
-    7
+    5,
+    6
   ],
   "grid": [
     [
       null,
       null,
-      "M",
-      "D",
+      "C",
+      "A",
       "S",
-      null,
-      null
+      "K"
     ],
     [
       null,
-      "H",
-      "E",
-      "A",
-      "P",
-      "S",
-      null
-    ],
-    [
-      "B",
-      "A",
-      "R",
-      "S",
+      "J",
       "O",
-      "A",
-      "P"
-    ],
-    [
-      "A",
-      "R",
-      "M",
-      "H",
-      "O",
-      "L",
+      "S",
+      "I",
       "E"
     ],
     [
-      "T",
-      "R",
-      "A",
-      "I",
-      "N",
-      "E",
-      "R"
-    ],
-    [
-      null,
-      "Y",
-      "I",
-      "K",
-      "E",
       "S",
-      null
+      "I",
+      "M",
+      "P",
+      "L",
+      "Y"
     ],
     [
-      null,
-      null,
-      "D",
+      "K",
+      "N",
       "I",
-      "D",
-      null,
+      "C",
+      "K",
+      "S"
+    ],
+    [
+      "I",
+      "X",
+      "N",
+      "A",
+      "Y",
       null
     ]
   ],
@@ -72,103 +49,82 @@
     "across": [
       {
         "num": 1,
-        "clue": "R.N.’s co-workers",
-        "answer": "MDS",
+        "clue": "Wine barrel",
+        "answer": "CASK",
         "row": 0,
         "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Piles upon piles",
-        "answer": "HEAPS",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Alternative to body wash",
-        "answer": "BARSOAP",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "O in a tee?",
-        "answer": "ARMHOLE",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Exercise expert",
-        "answer": "TRAINER",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "“Oof … that’s not good”",
-        "answer": "YIKES",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 11,
-        "clue": "“I see what you ___ there”",
-        "answer": "DID",
-        "row": 6,
-        "col": 2
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Half woman, half fish",
-        "answer": "MERMAID",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 2,
-        "clue": "West African shirt",
-        "answer": "DASHIKI",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Cuddled closely",
-        "answer": "SPOONED",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "William’s brother in the British monarchy",
-        "answer": "HARRY",
-        "row": 1,
-        "col": 1
       },
       {
         "num": 5,
-        "clue": "Register ring-ups",
-        "answer": "SALES",
+        "clue": "Leader of the Pussycats, in comics and film",
+        "answer": "JOSIE",
         "row": 1,
-        "col": 5
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Crack of the ___ (ballpark sound)",
-        "answer": "BAT",
+        "clue": "In a nutshell",
+        "answer": "SIMPLY",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "The “p” of m.p.h.",
-        "answer": "PER",
+        "clue": "2026 N.B.A. champions",
+        "answer": "KNICKS",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Denial that sounds like 7-Across in Pig Latin",
+        "answer": "IXNAY",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "“Santa Claus Is ___ to Town” (holiday hit)",
+        "answer": "COMIN",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Pet adoption org.",
+        "answer": "ASPCA",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 3,
+        "clue": "Like the texture of fine bedsheets",
+        "answer": "SILKY",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Bad things to leave locked in your house",
+        "answer": "KEYS",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "“We said the same thing at the same time!”",
+        "answer": "JINX",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Hit the slopes",
+        "answer": "SKI",
         "row": 2,
-        "col": 6
+        "col": 0
       }
     ]
   }
