@@ -1,84 +1,79 @@
 {
   "size": [
     5,
-    6
+    5
   ],
   "grid": [
     [
       null,
-      null,
-      "C",
-      "A",
-      "S",
-      "K"
-    ],
-    [
-      null,
-      "J",
-      "O",
-      "S",
+      "W",
       "I",
+      "P",
       "E"
     ],
     [
+      null,
+      "I",
+      "D",
+      "E",
+      "A"
+    ],
+    [
       "S",
+      "T",
       "I",
-      "M",
-      "P",
-      "L",
-      "Y"
+      "N",
+      "G"
     ],
     [
-      "K",
+      "S",
+      "H",
+      "O",
       "N",
-      "I",
-      "C",
-      "K",
-      "S"
+      "E"
     ],
     [
-      "I",
-      "X",
-      "N",
+      "W",
       "A",
-      "Y",
-      null
+      "T",
+      "E",
+      "R"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Wine barrel",
-        "answer": "CASK",
+        "clue": "Towel (off)",
+        "answer": "WIPE",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Leader of the Pussycats, in comics and film",
-        "answer": "JOSIE",
+        "clue": "Result of brainstorming",
+        "answer": "IDEA",
         "row": 1,
         "col": 1
       },
       {
         "num": 6,
-        "clue": "In a nutshell",
-        "answer": "SIMPLY",
+        "clue": "What jellyfish and bees do",
+        "answer": "STING",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "2026 N.B.A. champions",
-        "answer": "KNICKS",
+        "clue": "Glowed bright",
+        "answer": "SHONE",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Denial that sounds like 7-Across in Pig Latin",
-        "answer": "IXNAY",
+        "clue": "Surface over which to skip a stone ... as illustrated in the circled letters",
+        "answer": "WATER",
         "row": 4,
         "col": 0
       }
@@ -86,43 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "“Santa Claus Is ___ to Town” (holiday hit)",
-        "answer": "COMIN",
+        "clue": "The Beatles' \"___ Little Help From My Friends\"",
+        "answer": "WITHA",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Dummy",
+        "answer": "IDIOT",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Pet adoption org.",
-        "answer": "ASPCA",
+        "num": 3,
+        "clue": "Pasta that can be made \"alla vodka\"",
+        "answer": "PENNE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Like the texture of fine bedsheets",
-        "answer": "SILKY",
+        "num": 4,
+        "clue": "Like a beaver, in a saying",
+        "answer": "EAGER",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Bad things to leave locked in your house",
-        "answer": "KEYS",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "“We said the same thing at the same time!”",
-        "answer": "JINX",
-        "row": 1,
-        "col": 1
-      },
-      {
         "num": 6,
-        "clue": "Hit the slopes",
-        "answer": "SKI",
+        "clue": "Direction from N.Y.C. to Miami: Abbr.",
+        "answer": "SSW",
         "row": 2,
         "col": 0
       }

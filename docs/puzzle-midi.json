@@ -1,324 +1,329 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
+      "C",
+      "O",
+      "S",
+      "T",
       null,
       null,
-      "M",
+      "G",
       "A",
-      "L",
-      "L",
-      null,
-      null,
-      null,
-      null
+      "G"
     ],
     [
-      "A",
-      "R",
-      "A",
       "B",
-      "I",
-      "A",
-      "N",
-      null,
-      null,
-      null
-    ],
-    [
-      "M",
-      "I",
-      "X",
-      "I",
-      "N",
-      "G",
-      "U",
-      "P",
-      null,
-      null
-    ],
-    [
-      "E",
-      "L",
-      "I",
-      "T",
-      "E",
-      null,
-      "H",
-      "A",
-      "M",
-      null
-    ],
-    [
-      "N",
-      "E",
-      "S",
-      null,
-      null,
-      "F",
-      "U",
-      "R",
-      "O",
-      "R"
-    ],
-    [
-      null,
-      null,
-      "K",
       "A",
       "L",
-      "A",
-      "H",
-      "A",
-      "R",
-      "I"
-    ],
-    [
-      "E",
-      "D",
-      "I",
-      "T",
-      "I",
-      "N",
-      null,
       "S",
       "A",
-      "C"
-    ],
-    [
-      "L",
-      "U",
-      "R",
-      "I",
-      "N",
-      "G",
       null,
       "O",
-      "L",
+      "W",
       "E"
     ],
     [
-      "M",
-      "A",
+      "S",
+      "K",
+      "I",
       "T",
-      "T",
-      "E",
       "S",
       null,
-      "L",
-      "S",
+      "I",
+      "M",
+      "O"
+    ],
+    [
+      null,
+      null,
+      "P",
+      "O",
+      "P",
+      "U",
+      "P",
+      "A",
       "D"
+    ],
+    [
+      null,
+      "I",
+      "S",
+      "R",
+      null,
+      "N",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "F",
+      "L",
+      "A",
+      "M",
+      "B",
+      "E",
+      null,
+      null,
+      null
+    ],
+    [
+      "L",
+      "O",
+      "W",
+      null,
+      "A",
+      "S",
+      "H",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "S",
+      "A",
+      null,
+      "S",
+      "C",
+      "U",
+      "B",
+      "A"
+    ],
+    [
+      "K",
+      "E",
+      "Y",
+      null,
+      "H",
+      "O",
+      "B",
+      "B",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "“Paul Blart: ___ Cop”",
-        "answer": "MALL",
+        "clue": "___-benefit analysis",
+        "answer": "COST",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 5,
-        "clue": "Desert occupying most of its namesake peninsula in southwest Asia",
-        "answer": "ARABIAN",
-        "row": 1,
         "col": 0
       },
       {
+        "num": 5,
+        "clue": "Practical joke",
+        "answer": "GAG",
+        "row": 0,
+        "col": 6
+      },
+      {
         "num": 8,
-        "clue": "Shuffling",
-        "answer": "MIXINGUP",
-        "row": 2,
+        "clue": "Wood commonly used for building model airplanes",
+        "answer": "BALSA",
+        "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Best of the best",
-        "answer": "ELITE",
-        "row": 3,
-        "col": 0
+        "clue": "Be in debt",
+        "answer": "OWE",
+        "row": 1,
+        "col": 6
       },
       {
         "num": 11,
-        "clue": "Meat in a Denver omelet",
-        "answer": "HAM",
-        "row": 3,
+        "clue": "Some variety show pieces [Fox]",
+        "answer": "SKITS",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "\"If you ask me ...,\" in a text",
+        "answer": "IMO",
+        "row": 2,
         "col": 6
       },
       {
         "num": 13,
-        "clue": "Original Super Mario Bros. console",
-        "answer": "NES",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "Rage",
-        "answer": "FUROR",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 16,
-        "clue": "Desert covering much of Botswana",
-        "answer": "KALAHARI",
-        "row": 5,
-        "col": 2
-      },
-      {
-        "num": 19,
-        "clue": "Add, as someone who wasn’t originally part of a photo",
-        "answer": "EDITIN",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 21,
-        "clue": "Cul-de-___",
-        "answer": "SAC",
-        "row": 6,
-        "col": 7
-      },
-      {
-        "num": 22,
-        "clue": "Seducing",
-        "answer": "LURING",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "“Great job, toreador!”",
-        "answer": "OLE",
-        "row": 7,
-        "col": 7
-      },
-      {
-        "num": 24,
-        "clue": "Non-shiny lipstick options",
-        "answer": "MATTES",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 25,
-        "clue": "“Acid”",
-        "answer": "LSD",
-        "row": 8,
-        "col": 7
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Ankle-covering garment",
-        "answer": "MAXISKIRT",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 2,
-        "clue": "Kind of",
-        "answer": "ABIT",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Queue",
-        "answer": "LINE",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Slow Wi-Fi annoyance",
-        "answer": "LAG",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "Prayer-ending word",
-        "answer": "AMEN",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Agitate, with “up”",
-        "answer": "RILE",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "Childish “That’s not true!”",
-        "answer": "NUHUH",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 9,
-        "clue": "Shade-providing umbrella",
-        "answer": "PARASOL",
-        "row": 2,
-        "col": 7
-      },
-      {
-        "num": 12,
-        "clue": "Lessons learned from fables",
-        "answer": "MORALS",
+        "clue": "Browser irritant [Seal]",
+        "answer": "POPUPAD",
         "row": 3,
-        "col": 8
-      },
-      {
-        "num": 14,
-        "clue": "Plastic parts of a vampire costume",
-        "answer": "FANGS",
-        "row": 4,
-        "col": 5
+        "col": 2
       },
       {
         "num": 15,
-        "clue": "Chopped finely, as cauliflower",
-        "answer": "RICED",
+        "clue": "Tel Aviv's land: Abbr.",
+        "answer": "ISR",
         "row": 4,
-        "col": 9
+        "col": 1
+      },
+      {
+        "num": 16,
+        "clue": "Zero",
+        "answer": "NONE",
+        "row": 4,
+        "col": 5
       },
       {
         "num": 17,
-        "clue": "Working hard",
-        "answer": "ATIT",
+        "clue": "Cook with blazing alcohol [Sheep]",
+        "answer": "FLAMBE",
         "row": 5,
-        "col": 3
-      },
-      {
-        "num": 18,
-        "clue": "Word shouted by a forgetful actor",
-        "answer": "LINE",
-        "row": 5,
-        "col": 4
+        "col": 0
       },
       {
         "num": 19,
-        "clue": "Shade-providing tree",
-        "answer": "ELM",
+        "clue": "Like a limbo bar at the end of the game",
+        "answer": "LOW",
         "row": 6,
         "col": 0
       },
       {
         "num": 20,
-        "clue": "“Dance the Night” singer ___ Lipa",
-        "answer": "DUA",
+        "clue": "Word repeated in a nursery song before \"We all fall down\"",
+        "answer": "ASHES",
         "row": 6,
+        "col": 4
+      },
+      {
+        "num": 24,
+        "clue": "\"Snug ___ bug ...\"",
+        "answer": "ASA",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 25,
+        "clue": "Diving equipment [Bear]",
+        "answer": "SCUBA",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "num": 26,
+        "clue": "Answer sheet",
+        "answer": "KEY",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 27,
+        "clue": "Leisure pursuit",
+        "answer": "HOBBY",
+        "row": 8,
+        "col": 4
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "\"60 Minutes\" network",
+        "answer": "CBS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Acorn-producing tree",
+        "answer": "OAK",
+        "row": 0,
         "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Leaves unobtrusively",
+        "answer": "SLIPSAWAY",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Weather event with lightning, briefly",
+        "answer": "TSTORM",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Start selling shares on the stock market, in Wall St. slang",
+        "answer": "GOIPO",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "\"Shucks!\"",
+        "answer": "AWMAN",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "Crystal-filled rock",
+        "answer": "GEODE",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 9,
+        "clue": "Egyptian snake",
+        "answer": "ASP",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "Agcy. that designates World Heritage Sites",
+        "answer": "UNESCO",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "num": 15,
+        "clue": "\"You beat me!\"",
+        "answer": "ILOSE",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 17,
+        "clue": "Criticism",
+        "answer": "FLAK",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 18,
+        "clue": "Festive party",
+        "answer": "BASH",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 21,
+        "clue": "Chicago O'Hare or Philadelphia International, for American Airlines",
+        "answer": "HUB",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "num": 22,
+        "clue": "___ and flow",
+        "answer": "EBB",
+        "row": 6,
+        "col": 7
+      },
+      {
+        "num": 23,
+        "clue": "Remark",
+        "answer": "SAY",
+        "row": 6,
+        "col": 8
       }
     ]
   }
