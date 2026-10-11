@@ -2,7 +2,7 @@ import json
 import os
 import sys
 import traceback
-from scraper.url_get import find_url
+from scraper.url_get import find_urls
 from scraper.fetch_crossword import fetch_crossword
 from scraper.parse_crossword import parse_crossword
 
@@ -24,17 +24,29 @@ def build_one(kind: str, max_dim: int) -> bool:
     stop the other puzzle from being generated."""
     log(f"=== {kind} ===")
     try:
-        url = find_url(kind)
-        log(f"Fetching {kind} crossword from: {url}")
-        data = fetch_crossword(url)
-        clues = data["clues"]
-        log(f"[{kind}] Found {len(clues)} clues")
-
-        if not clues:
-            log(f"[-] [{kind}] No clues found, skipping.")
+        clues = []
+        for url in find_urls(kind):
+            log(f"Fetching {kind} crossword from: {url}")
+            try:
+                data = fetch_crossword(url)
+            except Exception as e:
+                log(f"[-] [{kind}] source failed ({type(e).__name__}: {e}); trying next source")
+                continue
+            clues = data["clues"]
+            log(f"[{kind}] Found {len(clues)} clues from {url}")
+            if not clues:
+                log(f"[-] [{kind}] no clues from this source; trying next source")
+                continue
+            try:
+                puzzle_json = parse_crossword(clues, max_dim=max_dim)
+            except Exception as e:
+                log(f"[-] [{kind}] couldn't build a grid from this source ({e}); trying next source")
+                clues = []
+                continue
+            break
+        else:
+            log(f"[-] [{kind}] every source failed, skipping.")
             return False
-
-        puzzle_json = parse_crossword(clues, max_dim=max_dim)
 
         os.makedirs("docs", exist_ok=True)
         out_path = f"docs/puzzle-{kind}.json"

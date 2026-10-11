@@ -250,7 +250,7 @@ def _get_with_retry(session, url, attempts=4, base_delay=3):
     raise last_exc
 
 
-def fetch_crossword(url: str) -> Dict:
+def _fetch_dazepuzzle(url: str) -> Dict:
     session = requests.Session()
     session.headers.update(HEADERS)
 
@@ -298,6 +298,61 @@ def fetch_crossword(url: str) -> Dict:
 
     print(f"[+] Found {len(clues)}/{len(all_positions)} total clues with answers", flush=True)
     return {"clues": clues}
+
+
+def _extract_wordhint_clues(soup: BeautifulSoup) -> List[Dict]:
+    """wordhint.net lists every clue in plain tables (# | Clue | Answer),
+    one under an 'Across' heading and one under 'Down'. Every row carries
+    its own explicit number, so there is nothing to infer (unlike
+    dazepuzzle's occasionally label-less linked clues). Tables are
+    identified by the Across/Down heading above them plus a numeric first
+    column -- the page's other tables (e.g. a Mini-vs-full comparison)
+    fail both checks, and the interactive widget at the top uses lists,
+    not tables, so nothing is double-counted."""
+    clues: List[Dict] = []
+    seen = set()
+    for table in soup.find_all("table"):
+        heading = table.find_previous(["h2", "h3"])
+        title = heading.get_text(strip=True).lower() if heading else ""
+        if title.startswith("across"):
+            direction = "A"
+        elif title.startswith("down"):
+            direction = "D"
+        else:
+            continue
+        for row in table.find_all("tr"):
+            cells = row.find_all("td")
+            if len(cells) < 3:
+                continue
+            num = cells[0].get_text(strip=True)
+            clue = cells[1].get_text(" ", strip=True)
+            answer = re.sub(r"[^A-Za-z]", "", cells[2].get_text(strip=True)).upper()
+            if not num.isdigit() or not answer:
+                continue
+            pos = f"{num}{direction}"
+            if pos in seen:
+                continue
+            seen.add(pos)
+            clues.append({"position": pos, "clue": clue, "answer": answer})
+    return clues
+
+
+def _fetch_wordhint(url: str) -> Dict:
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    resp = _get_with_retry(session, url)
+    clues = _extract_wordhint_clues(BeautifulSoup(resp.text, "html.parser"))
+    n_a = sum(1 for c in clues if c["position"].endswith("A"))
+    n_d = len(clues) - n_a
+    print(f"[+] wordhint: {len(clues)} clues ({n_a} across, {n_d} down)", flush=True)
+    return {"clues": clues}
+
+
+def fetch_crossword(url: str) -> Dict:
+    """Pick the parser that matches the site being fetched."""
+    if "wordhint.net" in url:
+        return _fetch_wordhint(url)
+    return _fetch_dazepuzzle(url)
 
 
 if __name__ == "__main__":
