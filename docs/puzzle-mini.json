@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "W",
-      "I",
-      "P",
-      "E"
-    ],
-    [
       null,
+      "P",
       "I",
-      "D",
-      "E",
-      "A"
+      "P"
     ],
     [
+      "C",
+      "R",
+      "U",
       "S",
-      "T",
-      "I",
-      "N",
-      "G"
+      "H"
     ],
     [
-      "S",
       "H",
       "O",
-      "N",
-      "E"
+      "P",
+      "P",
+      "Y"
     ],
     [
-      "W",
-      "A",
-      "T",
       "E",
-      "R"
+      "S",
+      "P",
+      "Y",
+      "S"
+    ],
+    [
+      "F",
+      "E",
+      "Y",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Towel (off)",
-        "answer": "WIPE",
+        "clue": "Dot on a domino",
+        "answer": "PIP",
         "row": 0,
-        "col": 1
+        "col": 2
       },
       {
-        "num": 5,
-        "clue": "Result of brainstorming",
-        "answer": "IDEA",
+        "num": 4,
+        "clue": "Person you secretly like",
+        "answer": "CRUSH",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "What jellyfish and bees do",
-        "answer": "STING",
+        "clue": "Like the taste of many I.P.A.s",
+        "answer": "HOPPY",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Glowed bright",
-        "answer": "SHONE",
+        "clue": "Awards named for a cable sports channel",
+        "answer": "ESPYS",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Surface over which to skip a stone ... as illustrated in the circled letters",
-        "answer": "WATER",
+        "clue": "Tina of \"Mean Girls\"",
+        "answer": "FEY",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "The Beatles' \"___ Little Help From My Friends\"",
-        "answer": "WITHA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Dummy",
-        "answer": "IDIOT",
+        "clue": "A little doodle, for example",
+        "answer": "PUPPY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Pasta that can be made \"alla vodka\"",
-        "answer": "PENNE",
+        "num": 2,
+        "clue": "Game words before \"... with my little eye\"",
+        "answer": "ISPY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Like a beaver, in a saying",
-        "answer": "EAGER",
+        "num": 3,
+        "clue": "The \"P\" of P.E.: Abbr.",
+        "answer": "PHYS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "Direction from N.Y.C. to Miami: Abbr.",
-        "answer": "SSW",
-        "row": 2,
+        "num": 4,
+        "clue": "One who's skilled with a skillet",
+        "answer": "CHEF",
+        "row": 1,
         "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Valentine's Day flower",
+        "answer": "ROSE",
+        "row": 1,
+        "col": 1
       }
     ]
   }

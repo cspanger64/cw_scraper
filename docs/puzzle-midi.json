@@ -1,329 +1,352 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
-      "C",
-      "O",
+      null,
       "S",
-      "T",
-      null,
-      null,
-      "G",
-      "A",
-      "G"
-    ],
-    [
-      "B",
-      "A",
-      "L",
-      "S",
-      "A",
-      null,
-      "O",
-      "W",
-      "E"
-    ],
-    [
-      "S",
-      "K",
-      "I",
-      "T",
-      "S",
-      null,
-      "I",
-      "M",
-      "O"
-    ],
-    [
-      null,
-      null,
       "P",
+      "A",
+      null,
+      null,
       "O",
-      "P",
       "U",
-      "P",
-      "A",
-      "D"
-    ],
-    [
-      null,
-      "I",
-      "S",
       "R",
-      null,
-      "N",
-      "O",
-      "N",
-      "E"
+      "S"
     ],
     [
-      "F",
+      "G",
       "L",
+      "I",
+      "B",
+      null,
+      "S",
       "A",
       "M",
       "B",
+      "A"
+    ],
+    [
+      "A",
+      "Y",
+      "E",
+      "C",
+      "A",
+      "P",
+      "T",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "T",
+      "L",
+      "C",
+      null,
+      "L",
+      "I",
       "E",
       null,
       null,
       null
     ],
     [
-      "L",
-      "O",
-      "W",
-      null,
-      "A",
-      "S",
-      "H",
       "E",
+      "Y",
+      "E",
+      "W",
+      "I",
+      "T",
+      "N",
+      "E",
+      "S",
       "S"
     ],
     [
-      "A",
-      "S",
-      "A",
       null,
-      "S",
-      "C",
-      "U",
+      null,
+      null,
+      "E",
       "B",
-      "A"
+      "B",
+      null,
+      "D",
+      "I",
+      "E"
     ],
     [
-      "K",
-      "E",
-      "Y",
+      "I",
+      "N",
+      "I",
+      "T",
+      "I",
+      "A",
+      "L",
+      "I",
+      "Z",
+      "E"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "S",
       null,
-      "H",
+      "L",
+      "A",
+      "C",
+      "E",
+      "D"
+    ],
+    [
+      "N",
+      "B",
+      "A",
+      null,
+      null,
+      "L",
       "O",
-      "B",
-      "B",
-      "Y"
+      "T",
+      "S",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___-benefit analysis",
-        "answer": "COST",
+        "clue": "Place for a mud bath",
+        "answer": "SPA",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 5,
-        "clue": "Practical joke",
-        "answer": "GAG",
+        "num": 4,
+        "clue": "Not just mine",
+        "answer": "OURS",
         "row": 0,
         "col": 6
       },
       {
         "num": 8,
-        "clue": "Wood commonly used for building model airplanes",
-        "answer": "BALSA",
+        "clue": "Smooth-talking",
+        "answer": "GLIB",
         "row": 1,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Be in debt",
-        "answer": "OWE",
+        "num": 9,
+        "clue": "Brazilian dance",
+        "answer": "SAMBA",
         "row": 1,
-        "col": 6
+        "col": 5
       },
       {
-        "num": 11,
-        "clue": "Some variety show pieces [Fox]",
-        "answer": "SKITS",
+        "num": 10,
+        "clue": "Sailor's \"Yes, sir!\"",
+        "answer": "AYECAPTAIN",
         "row": 2,
         "col": 0
       },
       {
         "num": 12,
-        "clue": "\"If you ask me ...,\" in a text",
-        "answer": "IMO",
-        "row": 2,
-        "col": 6
+        "clue": "R&B; group with the 1995 #1 hit \"Waterfalls\"",
+        "answer": "TLC",
+        "row": 3,
+        "col": 0
       },
       {
         "num": 13,
-        "clue": "Browser irritant [Seal]",
-        "answer": "POPUPAD",
+        "clue": "Let sleeping dogs ___",
+        "answer": "LIE",
         "row": 3,
-        "col": 2
+        "col": 4
       },
       {
-        "num": 15,
-        "clue": "Tel Aviv's land: Abbr.",
-        "answer": "ISR",
+        "num": 14,
+        "clue": "Trial figure giving a firsthand account",
+        "answer": "EYEWITNESS",
         "row": 4,
-        "col": 1
-      },
-      {
-        "num": 16,
-        "clue": "Zero",
-        "answer": "NONE",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 17,
-        "clue": "Cook with blazing alcohol [Sheep]",
-        "answer": "FLAMBE",
-        "row": 5,
         "col": 0
       },
       {
         "num": 19,
-        "clue": "Like a limbo bar at the end of the game",
-        "answer": "LOW",
-        "row": 6,
-        "col": 0
+        "clue": "Recede, as the tide",
+        "answer": "EBB",
+        "row": 5,
+        "col": 3
       },
       {
         "num": 20,
-        "clue": "Word repeated in a nursery song before \"We all fall down\"",
-        "answer": "ASHES",
-        "row": 6,
-        "col": 4
+        "clue": "One of two in the game Catan",
+        "answer": "DIE",
+        "row": 5,
+        "col": 7
       },
       {
-        "num": 24,
-        "clue": "\"Snug ___ bug ...\"",
-        "answer": "ASA",
-        "row": 7,
+        "num": 21,
+        "clue": "Assign a starting value, in computer programming lingo ... or a phonetic hint to 10- and 14-Across?",
+        "answer": "INITIALIZE",
+        "row": 6,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Diving equipment [Bear]",
-        "answer": "SCUBA",
+        "clue": "Nods off for a bit",
+        "answer": "NAPS",
         "row": 7,
-        "col": 4
+        "col": 0
       },
       {
         "num": 26,
-        "clue": "Answer sheet",
-        "answer": "KEY",
+        "clue": "Tied, as shoes",
+        "answer": "LACED",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 27,
+        "clue": "Org. with the Nets and Knicks",
+        "answer": "NBA",
         "row": 8,
         "col": 0
       },
       {
-        "num": 27,
-        "clue": "Leisure pursuit",
-        "answer": "HOBBY",
+        "num": 28,
+        "clue": "Tons and tons",
+        "answer": "LOTS",
         "row": 8,
-        "col": 4
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "\"60 Minutes\" network",
-        "answer": "CBS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Acorn-producing tree",
-        "answer": "OAK",
+        "clue": "In a crafty way",
+        "answer": "SLYLY",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Leaves unobtrusively",
-        "answer": "SLIPSAWAY",
+        "num": 2,
+        "clue": "Bishop, but not priest",
+        "answer": "PIECE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Weather event with lightning, briefly",
-        "answer": "TSTORM",
+        "num": 3,
+        "clue": "\"Shark Tank\" airer",
+        "answer": "ABC",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Start selling shares on the stock market, in Wall St. slang",
-        "answer": "GOIPO",
+        "num": 4,
+        "clue": "Like Cheerios and some breakfast bars",
+        "answer": "OATEN",
         "row": 0,
         "col": 6
+      },
+      {
+        "num": 5,
+        "clue": "Thurman of \"Kill Bill\"",
+        "answer": "UMA",
+        "row": 0,
+        "col": 7
       },
       {
         "num": 6,
-        "clue": "\"Shucks!\"",
-        "answer": "AWMAN",
+        "clue": "Slugger's stat",
+        "answer": "RBI",
         "row": 0,
-        "col": 7
+        "col": 8
       },
       {
         "num": 7,
-        "clue": "Crystal-filled rock",
-        "answer": "GEODE",
+        "clue": "First word in the names of seven counties in California",
+        "answer": "SAN",
         "row": 0,
-        "col": 8
+        "col": 9
       },
       {
-        "num": 9,
-        "clue": "Egyptian snake",
-        "answer": "ASP",
+        "num": 8,
+        "clue": "Golden ___ Bridge",
+        "answer": "GATE",
         "row": 1,
-        "col": 4
-      },
-      {
-        "num": 14,
-        "clue": "Agcy. that designates World Heritage Sites",
-        "answer": "UNESCO",
-        "row": 3,
-        "col": 5
-      },
-      {
-        "num": 15,
-        "clue": "\"You beat me!\"",
-        "answer": "ILOSE",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 17,
-        "clue": "Criticism",
-        "answer": "FLAK",
-        "row": 5,
         "col": 0
       },
       {
-        "num": 18,
-        "clue": "Festive party",
-        "answer": "BASH",
-        "row": 5,
+        "num": 9,
+        "clue": "\"Ammunition\" for a class clown",
+        "answer": "SPITBALL",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 11,
+        "clue": "It might be disproved by a 14-Across",
+        "answer": "ALIBI",
+        "row": 2,
         "col": 4
       },
       {
-        "num": 21,
-        "clue": "Chicago O'Hare or Philadelphia International, for American Airlines",
-        "answer": "HUB",
-        "row": 6,
-        "col": 6
+        "num": 15,
+        "clue": "Moistens",
+        "answer": "WETS",
+        "row": 4,
+        "col": 3
       },
       {
-        "num": 22,
-        "clue": "___ and flow",
-        "answer": "EBB",
-        "row": 6,
+        "num": 16,
+        "clue": "Order from a monarch, say",
+        "answer": "EDICT",
+        "row": 4,
         "col": 7
       },
       {
-        "num": 23,
-        "clue": "Remark",
-        "answer": "SAY",
-        "row": 6,
+        "num": 17,
+        "clue": "S, M, L and XL",
+        "answer": "SIZES",
+        "row": 4,
         "col": 8
+      },
+      {
+        "num": 18,
+        "clue": "N.C.A.A. bracket assignment",
+        "answer": "SEED",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "num": 21,
+        "clue": "Holiday ___",
+        "answer": "INN",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 22,
+        "clue": "Catch red-handed",
+        "answer": "NAB",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "num": 23,
+        "clue": "Tap option at a craft brewery, for short",
+        "answer": "IPA",
+        "row": 6,
+        "col": 2
+      },
+      {
+        "num": 24,
+        "clue": "Thai's neighbor",
+        "answer": "LAO",
+        "row": 6,
+        "col": 6
       }
     ]
   }
