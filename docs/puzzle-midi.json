@@ -1,352 +1,322 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      null,
       "S",
-      "P",
+      "S",
+      "N",
+      null,
+      null,
       "A",
-      null,
-      null,
-      "O",
+      "Q",
       "U",
-      "R",
-      "S"
-    ],
-    [
-      "G",
-      "L",
-      "I",
-      "B",
-      null,
-      "S",
-      "A",
-      "M",
-      "B",
       "A"
     ],
     [
-      "A",
-      "Y",
-      "E",
       "C",
+      "O",
       "A",
-      "P",
       "T",
-      "A",
-      "I",
-      "N"
+      null,
+      "E",
+      "U",
+      "R",
+      "O"
     ],
     [
-      "T",
-      "L",
-      "C",
-      null,
-      "L",
-      "I",
+      "R",
+      "U",
+      "D",
       "E",
+      null,
+      "R",
+      "O",
+      "L",
+      "L"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "A",
+      "G",
+      "O",
       null,
       null,
       null
     ],
     [
-      "E",
-      "Y",
-      "E",
-      "W",
-      "I",
-      "T",
-      "N",
-      "E",
-      "S",
-      "S"
-    ],
-    [
-      null,
-      null,
-      null,
-      "E",
-      "B",
-      "B",
-      null,
-      "D",
-      "I",
-      "E"
-    ],
-    [
-      "I",
-      "N",
-      "I",
-      "T",
-      "I",
-      "A",
-      "L",
-      "I",
-      "Z",
-      "E"
-    ],
-    [
-      "N",
-      "A",
       "P",
-      "S",
-      null,
-      "L",
       "A",
-      "C",
+      "R",
+      "M",
       "E",
-      "D"
+      "S",
+      "A",
+      "N",
+      null
     ],
     [
+      null,
+      null,
+      null,
+      null,
       "N",
-      "B",
+      "O",
+      "R",
       "A",
-      null,
-      null,
+      "H"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "V",
+      "O",
       "L",
       "O",
-      "T",
+      "N",
+      "E"
+    ],
+    [
       "S",
-      null
+      "A",
+      "L",
+      "E",
+      "M",
+      null,
+      "M",
+      "A",
+      "C"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "G",
+      "E",
+      null,
+      "A",
+      "S",
+      "K"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Place for a mud bath",
-        "answer": "SPA",
+        "clue": "ID that's often memorized",
+        "answer": "SSN",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "Not just mine",
-        "answer": "OURS",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 8,
-        "clue": "Smooth-talking",
-        "answer": "GLIB",
-        "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Brazilian dance",
-        "answer": "SAMBA",
-        "row": 1,
+        "num": 4,
+        "clue": "Ocean color",
+        "answer": "AQUA",
+        "row": 0,
         "col": 5
+      },
+      {
+        "num": 8,
+        "clue": "Outer layer worn in winter",
+        "answer": "COAT",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 10,
-        "clue": "Sailor's \"Yes, sir!\"",
-        "answer": "AYECAPTAIN",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "R&B; group with the 1995 #1 hit \"Waterfalls\"",
-        "answer": "TLC",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Let sleeping dogs ___",
-        "answer": "LIE",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 14,
-        "clue": "Trial figure giving a firsthand account",
-        "answer": "EYEWITNESS",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 19,
-        "clue": "Recede, as the tide",
-        "answer": "EBB",
-        "row": 5,
-        "col": 3
-      },
-      {
-        "num": 20,
-        "clue": "One of two in the game Catan",
-        "answer": "DIE",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 21,
-        "clue": "Assign a starting value, in computer programming lingo ... or a phonetic hint to 10- and 14-Across?",
-        "answer": "INITIALIZE",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 25,
-        "clue": "Nods off for a bit",
-        "answer": "NAPS",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Tied, as shoes",
-        "answer": "LACED",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 27,
-        "clue": "Org. with the Nets and Knicks",
-        "answer": "NBA",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 28,
-        "clue": "Tons and tons",
-        "answer": "LOTS",
-        "row": 8,
-        "col": 5
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "In a crafty way",
-        "answer": "SLYLY",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Bishop, but not priest",
-        "answer": "PIECE",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 3,
-        "clue": "\"Shark Tank\" airer",
-        "answer": "ABC",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 4,
-        "clue": "Like Cheerios and some breakfast bars",
-        "answer": "OATEN",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 5,
-        "clue": "Thurman of \"Kill Bill\"",
-        "answer": "UMA",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 6,
-        "clue": "Slugger's stat",
-        "answer": "RBI",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 7,
-        "clue": "First word in the names of seven counties in California",
-        "answer": "SAN",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 8,
-        "clue": "Golden ___ Bridge",
-        "answer": "GATE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "\"Ammunition\" for a class clown",
-        "answer": "SPITBALL",
+        "clue": "Currency for Vatican City and San Marino",
+        "answer": "EURO",
         "row": 1,
         "col": 5
       },
       {
         "num": 11,
-        "clue": "It might be disproved by a 14-Across",
-        "answer": "ALIBI",
+        "clue": "\"How ___!\" (Stephanie Tanner's catchphrase on \"Full House\")",
+        "answer": "RUDE",
         "row": 2,
-        "col": 4
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Rock and ___",
+        "answer": "ROLL",
+        "row": 2,
+        "col": 5
+      },
+      {
+        "num": 13,
+        "clue": "Most populous continent + Board game with black and white pieces",
+        "answer": "ASIAGO",
+        "row": 3,
+        "col": 0
       },
       {
         "num": 15,
-        "clue": "Moistens",
-        "answer": "WETS",
+        "clue": "Golf standard + \"Moi,\" in English + The \"S\" of S.F.",
+        "answer": "PARMESAN",
         "row": 4,
-        "col": 3
-      },
-      {
-        "num": 16,
-        "clue": "Order from a monarch, say",
-        "answer": "EDICT",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 17,
-        "clue": "S, M, L and XL",
-        "answer": "SIZES",
-        "row": 4,
-        "col": 8
+        "col": 0
       },
       {
         "num": 18,
-        "clue": "N.C.A.A. bracket assignment",
-        "answer": "SEED",
-        "row": 4,
-        "col": 9
+        "clue": "Jazz singer Jones",
+        "answer": "NORAH",
+        "row": 5,
+        "col": 4
       },
       {
-        "num": 21,
-        "clue": "Holiday ___",
-        "answer": "INN",
+        "num": 20,
+        "clue": "Opposite of con + University of Tennessee athlete, for short + What every integer is divisible by",
+        "answer": "PROVOLONE",
         "row": 6,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Catch red-handed",
-        "answer": "NAB",
+        "num": 24,
+        "clue": "Massachusetts town known for its witch trials",
+        "answer": "SALEM",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 25,
+        "clue": "Apple computer",
+        "answer": "MAC",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "num": 26,
+        "clue": "Old saying",
+        "answer": "ADAGE",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 27,
+        "clue": "\"Go find out!\"",
+        "answer": "ASK",
+        "row": 8,
+        "col": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Leftover bit",
+        "answer": "SCRAP",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "John Philip ___, bandleader known as the \"March King\"",
+        "answer": "SOUSA",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Low point",
+        "answer": "NADIR",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Hairspray can output",
+        "answer": "AEROSOL",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "Status ___",
+        "answer": "QUO",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "www.nytimes.com/crosswords, e.g.",
+        "answer": "URL",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "\"You've got mail!\" company",
+        "answer": "AOL",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 9,
+        "clue": "The Mets, Nets or Jets",
+        "answer": "TEAM",
+        "row": 1,
+        "col": 3
+      },
+      {
+        "num": 14,
+        "clue": "Human ___ Project",
+        "answer": "GENOME",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 16,
+        "clue": "Enticing scent",
+        "answer": "AROMA",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 17,
+        "clue": "Grandmothers, affectionately",
+        "answer": "NANAS",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 19,
+        "clue": "\"Darn it!\"",
+        "answer": "HECK",
+        "row": 5,
+        "col": 8
+      },
+      {
+        "num": 20,
+        "clue": "Ad featuring Smokey Bear, e.g., for short",
+        "answer": "PSA",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 21,
+        "clue": "Awesome",
+        "answer": "RAD",
         "row": 6,
         "col": 1
       },
       {
-        "num": 23,
-        "clue": "Tap option at a craft brewery, for short",
-        "answer": "IPA",
+        "num": 22,
+        "clue": "Greeting in Portugal",
+        "answer": "OLA",
         "row": 6,
         "col": 2
       },
       {
-        "num": 24,
-        "clue": "Thai's neighbor",
-        "answer": "LAO",
+        "num": 23,
+        "clue": "Broc or cuke",
+        "answer": "VEG",
         "row": 6,
-        "col": 6
+        "col": 3
       }
     ]
   }

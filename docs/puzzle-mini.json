@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      null,
-      "P",
-      "I",
-      "P"
+      "C",
+      "A",
+      "T",
+      null
     ],
     [
       "C",
+      "A",
+      "I",
       "R",
-      "U",
-      "S",
-      "H"
+      "O"
     ],
     [
-      "H",
+      "B",
+      "R",
       "O",
-      "P",
-      "P",
-      "Y"
+      "A",
+      "D"
     ],
     [
-      "E",
       "S",
-      "P",
-      "Y",
-      "S"
+      "O",
+      "L",
+      "I",
+      "D"
     ],
     [
-      "F",
-      "E",
-      "Y",
       null,
+      "B",
+      "I",
+      "N",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Dot on a domino",
-        "answer": "PIP",
+        "clue": "One might have a litter ... or use it",
+        "answer": "CAT",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
         "num": 4,
-        "clue": "Person you secretly like",
-        "answer": "CRUSH",
+        "clue": "Capital on the Nile",
+        "answer": "CAIRO",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Like the taste of many I.P.A.s",
-        "answer": "HOPPY",
+        "clue": "Expansive",
+        "answer": "BROAD",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Awards named for a cable sports channel",
-        "answer": "ESPYS",
+        "clue": "Spelling Bee rank between \"Good\" and \"Nice\"",
+        "answer": "SOLID",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Tina of \"Mean Girls\"",
-        "answer": "FEY",
+        "clue": "Overhead storage on an airplane",
+        "answer": "BIN",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "A little doodle, for example",
-        "answer": "PUPPY",
+        "clue": "Tree that yields a chocolate substitute",
+        "answer": "CAROB",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Garlicky condiment",
+        "answer": "AIOLI",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Game words before \"... with my little eye\"",
-        "answer": "ISPY",
+        "num": 3,
+        "clue": "Subway vehicle",
+        "answer": "TRAIN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "The \"P\" of P.E.: Abbr.",
-        "answer": "PHYS",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 4,
-        "clue": "One who's skilled with a skillet",
-        "answer": "CHEF",
+        "clue": "Network with an eye logo",
+        "answer": "CBS",
         "row": 1,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Valentine's Day flower",
-        "answer": "ROSE",
+        "clue": "Word before job or duck",
+        "answer": "ODD",
         "row": 1,
-        "col": 1
+        "col": 4
       }
     ]
   }
