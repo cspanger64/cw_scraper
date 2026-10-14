@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "C",
+      "B",
       "A",
       "T",
-      null
+      "H",
+      "S"
     ],
     [
-      "C",
       "A",
+      "D",
       "I",
-      "R",
-      "O"
+      "E",
+      "U"
     ],
     [
+      "N",
+      "O",
       "B",
-      "R",
-      "O",
-      "A",
-      "D"
+      "E",
+      "L"
     ],
     [
-      "S",
-      "O",
-      "L",
+      "K",
+      "R",
       "I",
-      "D"
+      "L",
+      "L"
     ],
     [
       null,
-      "B",
-      "I",
-      "N",
-      null
+      "E",
+      "A",
+      "S",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "One might have a litter ... or use it",
-        "answer": "CAT",
+        "clue": "Common parts of kids' bedtime routines",
+        "answer": "BATHS",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "Capital on the Nile",
-        "answer": "CAIRO",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Expansive",
-        "answer": "BROAD",
-        "row": 2,
+        "clue": "French farewell",
+        "answer": "ADIEU",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Spelling Bee rank between \"Good\" and \"Nice\"",
-        "answer": "SOLID",
-        "row": 3,
+        "clue": "Prestigious prize",
+        "answer": "NOBEL",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Overhead storage on an airplane",
-        "answer": "BIN",
+        "clue": "Tiny creature that feeds the world's largest creature",
+        "answer": "KRILL",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Word on a Staples button",
+        "answer": "EASY",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Tree that yields a chocolate substitute",
-        "answer": "CAROB",
+        "clue": "Chase or Wells Fargo",
+        "answer": "BANK",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Love, love, love",
+        "answer": "ADORE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Garlicky condiment",
-        "answer": "AIOLI",
+        "num": 3,
+        "clue": "Bone below the femur",
+        "answer": "TIBIA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Subway vehicle",
-        "answer": "TRAIN",
+        "num": 4,
+        "clue": "Difficult shoes to run in",
+        "answer": "HEELS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Network with an eye logo",
-        "answer": "CBS",
-        "row": 1,
-        "col": 0
-      },
-      {
         "num": 5,
-        "clue": "Word before job or duck",
-        "answer": "ODD",
-        "row": 1,
+        "clue": "Make dirty",
+        "answer": "SULLY",
+        "row": 0,
         "col": 4
       }
     ]

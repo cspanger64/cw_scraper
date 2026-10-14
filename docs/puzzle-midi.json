@@ -1,322 +1,345 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
-      "S",
-      "S",
-      "N",
-      null,
-      null,
-      "A",
-      "Q",
-      "U",
-      "A"
-    ],
-    [
-      "C",
       "O",
-      "A",
-      "T",
+      "R",
+      "B",
       null,
-      "E",
-      "U",
-      "R",
-      "O"
-    ],
-    [
-      "R",
-      "U",
-      "D",
-      "E",
       null,
-      "R",
+      "F",
       "O",
-      "L",
-      "L"
-    ],
-    [
-      "A",
-      "S",
       "I",
-      "A",
-      "G",
-      "O",
-      null,
-      null,
-      null
-    ],
-    [
-      "P",
-      "A",
-      "R",
-      "M",
-      "E",
-      "S",
-      "A",
-      "N",
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      null,
-      "N",
-      "O",
-      "R",
-      "A",
-      "H"
-    ],
-    [
-      "P",
-      "R",
-      "O",
-      "V",
-      "O",
       "L",
+      "S"
+    ],
+    [
+      "A",
+      "Y",
+      "E",
+      null,
+      "F",
       "O",
-      "N",
+      "O",
+      "D",
+      "I",
       "E"
     ],
     [
-      "S",
+      "H",
       "A",
       "L",
+      "F",
       "E",
-      "M",
+      "X",
+      "P",
+      "E",
+      "C",
+      "T"
+    ],
+    [
+      "U",
+      "N",
+      "L",
+      "I",
+      "T",
       null,
-      "M",
+      "S",
       "A",
-      "C"
+      "K",
+      "S"
+    ],
+    [
+      null,
+      null,
+      null,
+      "L",
+      "A",
+      "O",
+      "S",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "A",
+      "X",
+      "E",
+      "L",
+      "F",
+      "O",
+      "L",
+      "E",
+      "Y"
     ],
     [
       "A",
-      "D",
-      "A",
-      "G",
-      "E",
+      "R",
+      "M",
+      "S",
       null,
+      "T",
+      "R",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "I",
+      null,
+      "E",
+      "R",
+      "E",
+      "C",
+      "T"
+    ],
+    [
       "A",
       "S",
-      "K"
+      "S",
+      "N",
+      null,
+      "N",
+      "Y",
+      "U",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "ID that's often memorized",
-        "answer": "SSN",
+        "clue": "Spherical object",
+        "answer": "ORB",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "Ocean color",
-        "answer": "AQUA",
+        "clue": "Thwarts, as a plan",
+        "answer": "FOILS",
         "row": 0,
         "col": 5
       },
       {
-        "num": 8,
-        "clue": "Outer layer worn in winter",
-        "answer": "COAT",
+        "num": 9,
+        "clue": "Affirmative vote",
+        "answer": "AYE",
         "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Currency for Vatican City and San Marino",
-        "answer": "EURO",
+        "clue": "Fan of fine fare",
+        "answer": "FOODIE",
         "row": 1,
-        "col": 5
+        "col": 4
       },
       {
         "num": 11,
-        "clue": "\"How ___!\" (Stephanie Tanner's catchphrase on \"Full House\")",
-        "answer": "RUDE",
+        "clue": "Consider possible, but not guaranteed",
+        "answer": "HALFEXPECT",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Rock and ___",
-        "answer": "ROLL",
-        "row": 2,
-        "col": 5
-      },
-      {
         "num": 13,
-        "clue": "Most populous continent + Board game with black and white pieces",
-        "answer": "ASIAGO",
+        "clue": "Dark",
+        "answer": "UNLIT",
         "row": 3,
         "col": 0
       },
       {
+        "num": 14,
+        "clue": "___ Fifth Avenue",
+        "answer": "SAKS",
+        "row": 3,
+        "col": 6
+      },
+      {
         "num": 15,
-        "clue": "Golf standard + \"Moi,\" in English + The \"S\" of S.F.",
-        "answer": "PARMESAN",
+        "clue": "Country that's home to Vat Phou, a UNESCO World Heritage site",
+        "answer": "LAOS",
         "row": 4,
-        "col": 0
+        "col": 3
       },
       {
-        "num": 18,
-        "clue": "Jazz singer Jones",
-        "answer": "NORAH",
+        "num": 17,
+        "clue": "Eddie Murphy's character in \"Beverly Hills Cop\"",
+        "answer": "AXELFOLEY",
         "row": 5,
-        "col": 4
+        "col": 1
       },
       {
-        "num": 20,
-        "clue": "Opposite of con + University of Tennessee athlete, for short + What every integer is divisible by",
-        "answer": "PROVOLONE",
+        "num": 22,
+        "clue": "Orangutans have long ones",
+        "answer": "ARMS",
         "row": 6,
         "col": 0
       },
       {
+        "num": 23,
+        "clue": "ClichÃ©d and overused, as a phrase",
+        "answer": "TRITE",
+        "row": 6,
+        "col": 5
+      },
+      {
         "num": 24,
-        "clue": "Massachusetts town known for its witch trials",
-        "answer": "SALEM",
+        "clue": "Fruit whose name is 75% vowels",
+        "answer": "ACAI",
         "row": 7,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Apple computer",
-        "answer": "MAC",
+        "clue": "Standing upright",
+        "answer": "ERECT",
         "row": 7,
-        "col": 6
+        "col": 5
       },
       {
         "num": 26,
-        "clue": "Old saying",
-        "answer": "ADAGE",
+        "clue": "Org.",
+        "answer": "ASSN",
         "row": 8,
         "col": 0
       },
       {
         "num": 27,
-        "clue": "\"Go find out!\"",
-        "answer": "ASK",
+        "clue": "Sch. near Washington Square Park in Manhattan",
+        "answer": "NYU",
         "row": 8,
-        "col": 6
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Leftover bit",
-        "answer": "SCRAP",
+        "clue": "Honolulu locale",
+        "answer": "OAHU",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "John Philip ___, bandleader known as the \"March King\"",
-        "answer": "SOUSA",
+        "clue": "Actor Gosling",
+        "answer": "RYAN",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Low point",
-        "answer": "NADIR",
+        "clue": "Word that can follow Liberty, Taco or Tinker",
+        "answer": "BELL",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Hairspray can output",
-        "answer": "AEROSOL",
+        "clue": "Animal with \"fennec\" and \"arctic\" species",
+        "answer": "FOX",
         "row": 0,
         "col": 5
       },
       {
         "num": 5,
-        "clue": "Status ___",
-        "answer": "QUO",
+        "clue": "\"I messed up!\"",
+        "answer": "OOPSSORRY",
         "row": 0,
         "col": 6
       },
       {
         "num": 6,
-        "clue": "www.nytimes.com/crosswords, e.g.",
-        "answer": "URL",
+        "clue": "Notion",
+        "answer": "IDEA",
         "row": 0,
         "col": 7
       },
       {
         "num": 7,
-        "clue": "\"You've got mail!\" company",
-        "answer": "AOL",
+        "clue": "Puppy \"kiss\"",
+        "answer": "LICK",
         "row": 0,
         "col": 8
       },
       {
-        "num": 9,
-        "clue": "The Mets, Nets or Jets",
-        "answer": "TEAM",
-        "row": 1,
-        "col": 3
+        "num": 8,
+        "clue": "Filming locations",
+        "answer": "SETS",
+        "row": 0,
+        "col": 9
       },
       {
-        "num": 14,
-        "clue": "Human ___ Project",
-        "answer": "GENOME",
-        "row": 3,
+        "num": 10,
+        "clue": "___ position (curled-up pose)",
+        "answer": "FETAL",
+        "row": 1,
         "col": 4
       },
       {
+        "num": 12,
+        "clue": "Enters one by one",
+        "answer": "FILESIN",
+        "row": 2,
+        "col": 3
+      },
+      {
         "num": 16,
-        "clue": "Enticing scent",
-        "answer": "AROMA",
+        "clue": "Frequently",
+        "answer": "OFTEN",
         "row": 4,
-        "col": 6
+        "col": 5
       },
       {
         "num": 17,
-        "clue": "Grandmothers, affectionately",
-        "answer": "NANAS",
-        "row": 4,
-        "col": 7
+        "clue": "Paths of beer pong shots",
+        "answer": "ARCS",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 18,
+        "clue": "Dec. 25",
+        "answer": "XMAS",
+        "row": 5,
+        "col": 2
       },
       {
         "num": 19,
-        "clue": "\"Darn it!\"",
-        "answer": "HECK",
+        "clue": "\"In ___ of gifts ...\"",
+        "answer": "LIEU",
+        "row": 5,
+        "col": 7
+      },
+      {
+        "num": 20,
+        "clue": "And so on: Abbr.",
+        "answer": "ETC",
         "row": 5,
         "col": 8
       },
       {
-        "num": 20,
-        "clue": "Ad featuring Smokey Bear, e.g., for short",
-        "answer": "PSA",
-        "row": 6,
-        "col": 0
-      },
-      {
         "num": 21,
-        "clue": "Awesome",
-        "answer": "RAD",
-        "row": 6,
-        "col": 1
+        "clue": "So far",
+        "answer": "YET",
+        "row": 5,
+        "col": 9
       },
       {
         "num": 22,
-        "clue": "Greeting in Portugal",
-        "answer": "OLA",
+        "clue": "One level below the big leagues",
+        "answer": "AAA",
         "row": 6,
-        "col": 2
-      },
-      {
-        "num": 23,
-        "clue": "Broc or cuke",
-        "answer": "VEG",
-        "row": 6,
-        "col": 3
+        "col": 0
       }
     ]
   }
