@@ -1,345 +1,322 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "O",
-      "R",
+      "C",
+      "C",
+      "S",
+      null,
       "B",
-      null,
-      null,
-      "F",
-      "O",
       "I",
-      "L",
-      "S"
+      "S",
+      "O",
+      "N"
     ],
     [
+      "R",
       "A",
-      "Y",
-      "E",
+      "T",
       null,
-      "F",
       "O",
-      "O",
-      "D",
-      "I",
+      "N",
+      "C",
+      "U",
       "E"
     ],
     [
+      "O",
+      "N",
+      "E",
+      null,
+      "W",
       "H",
       "A",
-      "L",
-      "F",
-      "E",
-      "X",
-      "P",
-      "E",
-      "C",
-      "T"
-    ],
-    [
-      "U",
-      "N",
-      "L",
-      "I",
       "T",
-      null,
-      "S",
-      "A",
-      "K",
       "S"
     ],
     [
-      null,
-      null,
-      null,
-      "L",
-      "A",
-      "O",
       "S",
-      null,
+      "T",
+      "A",
+      "P",
+      "L",
+      "E",
+      "R",
       null,
       null
     ],
     [
+      "S",
+      "I",
+      "M",
+      "U",
       null,
-      "A",
-      "X",
+      "R",
       "E",
-      "L",
-      "F",
+      "A",
+      "P"
+    ],
+    [
+      null,
+      null,
+      "R",
+      "E",
+      "B",
+      "E",
+      "C",
+      "C",
+      "A"
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      "B",
+      "E",
+      null,
+      "R",
+      "U",
+      "G"
+    ],
+    [
+      "V",
+      "I",
       "O",
       "L",
-      "E",
-      "Y"
+      "A",
+      null,
+      "O",
+      "R",
+      "E"
     ],
     [
       "A",
       "R",
       "M",
-      "S",
-      null,
-      "T",
+      "O",
       "R",
-      "I",
-      "T",
-      "E"
-    ],
-    [
-      "A",
-      "C",
-      "A",
-      "I",
       null,
-      "E",
-      "R",
-      "E",
-      "C",
-      "T"
-    ],
-    [
+      "W",
       "A",
-      "S",
-      "S",
-      "N",
-      null,
-      "N",
-      "Y",
-      "U",
-      null,
-      null
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Spherical object",
-        "answer": "ORB",
+        "clue": "Loops in on an email, for short",
+        "answer": "CCS",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "Thwarts, as a plan",
-        "answer": "FOILS",
+        "clue": "Animal on Wyoming's state flag",
+        "answer": "BISON",
         "row": 0,
-        "col": 5
+        "col": 4
       },
       {
         "num": 9,
-        "clue": "Affirmative vote",
-        "answer": "AYE",
+        "clue": "First animal in the Chinese zodiac",
+        "answer": "RAT",
         "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Fan of fine fare",
-        "answer": "FOODIE",
+        "clue": "Right when expected",
+        "answer": "ONCUE",
         "row": 1,
         "col": 4
       },
       {
         "num": 11,
-        "clue": "Consider possible, but not guaranteed",
-        "answer": "HALFEXPECT",
+        "clue": "\"The loneliest number\"",
+        "answer": "ONE",
         "row": 2,
         "col": 0
       },
       {
+        "num": 12,
+        "clue": "\"___ up, Doc?\"",
+        "answer": "WHATS",
+        "row": 2,
+        "col": 4
+      },
+      {
         "num": 13,
-        "clue": "Dark",
-        "answer": "UNLIT",
+        "clue": "Office space item",
+        "answer": "STAPLER",
         "row": 3,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "___ Fifth Avenue",
-        "answer": "SAKS",
-        "row": 3,
-        "col": 6
-      },
-      {
         "num": 15,
-        "clue": "Country that's home to Vat Phou, a UNESCO World Heritage site",
-        "answer": "LAOS",
+        "clue": "___ Liu, portrayer of one of the Kens in \"Barbie\"",
+        "answer": "SIMU",
         "row": 4,
-        "col": 3
+        "col": 0
       },
       {
-        "num": 17,
-        "clue": "Eddie Murphy's character in \"Beverly Hills Cop\"",
-        "answer": "AXELFOLEY",
+        "num": 16,
+        "clue": "Gather",
+        "answer": "REAP",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 19,
+        "clue": "1938 novel adapted into a 1940 Hitchcock Academy Award winner",
+        "answer": "REBECCA",
         "row": 5,
-        "col": 1
+        "col": 2
       },
       {
-        "num": 22,
-        "clue": "Orangutans have long ones",
-        "answer": "ARMS",
+        "num": 21,
+        "clue": "Common building material in a 14-Down",
+        "answer": "ADOBE",
         "row": 6,
         "col": 0
       },
       {
         "num": 23,
-        "clue": "ClichÃ©d and overused, as a phrase",
-        "answer": "TRITE",
+        "clue": "Floor covering",
+        "answer": "RUG",
         "row": 6,
-        "col": 5
+        "col": 6
       },
       {
         "num": 24,
-        "clue": "Fruit whose name is 75% vowels",
-        "answer": "ACAI",
+        "clue": "Instrument in a string quartet",
+        "answer": "VIOLA",
         "row": 7,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Standing upright",
-        "answer": "ERECT",
+        "clue": "Mined rock",
+        "answer": "ORE",
         "row": 7,
-        "col": 5
+        "col": 6
       },
       {
         "num": 26,
-        "clue": "Org.",
-        "answer": "ASSN",
+        "clue": "Jouster's protection",
+        "answer": "ARMOR",
         "row": 8,
         "col": 0
       },
       {
         "num": 27,
-        "clue": "Sch. near Washington Square Park in Manhattan",
-        "answer": "NYU",
+        "clue": "Used to be",
+        "answer": "WAS",
         "row": 8,
-        "col": 5
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Honolulu locale",
-        "answer": "OAHU",
+        "clue": "Organization with millions of annual blood donors",
+        "answer": "CROSS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Actor Gosling",
-        "answer": "RYAN",
+        "clue": "\"Pretty, pretty please?\"",
+        "answer": "CANTI",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Word that can follow Liberty, Taco or Tinker",
-        "answer": "BELL",
+        "clue": "Alternative to a sauna",
+        "answer": "STEAMROOM",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Animal with \"fennec\" and \"arctic\" species",
-        "answer": "FOX",
+        "clue": "Annual college football game played in Florida",
+        "answer": "BOWL",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Vague reply to \"Where are you?\"",
+        "answer": "INHERE",
         "row": 0,
         "col": 5
       },
       {
-        "num": 5,
-        "clue": "\"I messed up!\"",
-        "answer": "OOPSSORRY",
+        "num": 6,
+        "clue": "Figure in a cornfield",
+        "answer": "SCARECROW",
         "row": 0,
         "col": 6
       },
       {
-        "num": 6,
-        "clue": "Notion",
-        "answer": "IDEA",
+        "num": 7,
+        "clue": "\"Are you in or ___?\"",
+        "answer": "OUT",
         "row": 0,
         "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "Puppy \"kiss\"",
-        "answer": "LICK",
-        "row": 0,
-        "col": 8
       },
       {
         "num": 8,
-        "clue": "Filming locations",
-        "answer": "SETS",
+        "clue": "Super Mario Bros. platform, for short",
+        "answer": "NES",
         "row": 0,
-        "col": 9
-      },
-      {
-        "num": 10,
-        "clue": "___ position (curled-up pose)",
-        "answer": "FETAL",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "Enters one by one",
-        "answer": "FILESIN",
-        "row": 2,
-        "col": 3
-      },
-      {
-        "num": 16,
-        "clue": "Frequently",
-        "answer": "OFTEN",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 17,
-        "clue": "Paths of beer pong shots",
-        "answer": "ARCS",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 18,
-        "clue": "Dec. 25",
-        "answer": "XMAS",
-        "row": 5,
-        "col": 2
-      },
-      {
-        "num": 19,
-        "clue": "\"In ___ of gifts ...\"",
-        "answer": "LIEU",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 20,
-        "clue": "And so on: Abbr.",
-        "answer": "ETC",
-        "row": 5,
         "col": 8
       },
       {
-        "num": 21,
-        "clue": "So far",
-        "answer": "YET",
+        "num": 14,
+        "clue": "American Southwest community",
+        "answer": "PUEBLO",
+        "row": 3,
+        "col": 3
+      },
+      {
+        "num": 17,
+        "clue": "Honda's luxury brand",
+        "answer": "ACURA",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 18,
+        "clue": "Paper-turned-digital phone directory",
+        "answer": "PAGES",
+        "row": 4,
+        "col": 8
+      },
+      {
+        "num": 20,
+        "clue": "Title animal of a 1967 children's book illustrated by Eric Carle",
+        "answer": "BEAR",
         "row": 5,
-        "col": 9
+        "col": 4
+      },
+      {
+        "num": 21,
+        "clue": "Director DuVernay",
+        "answer": "AVA",
+        "row": 6,
+        "col": 0
       },
       {
         "num": 22,
-        "clue": "One level below the big leagues",
-        "answer": "AAA",
+        "clue": "North, east, west or south: Abbr.",
+        "answer": "DIR",
         "row": 6,
-        "col": 0
+        "col": 1
       }
     ]
   }

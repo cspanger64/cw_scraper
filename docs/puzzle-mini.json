@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "B",
+      "G",
+      "R",
       "A",
-      "T",
-      "H",
+      "Y",
       "S"
     ],
     [
-      "A",
-      "D",
-      "I",
-      "E",
-      "U"
-    ],
-    [
-      "N",
-      "O",
-      "B",
-      "E",
-      "L"
-    ],
-    [
-      "K",
       "R",
-      "I",
-      "L",
-      "L"
+      "O",
+      "M",
+      "E",
+      "O"
     ],
     [
-      null,
-      "E",
       "A",
+      "L",
+      "I",
+      "E",
+      "N"
+    ],
+    [
+      "Z",
+      "E",
       "S",
+      "T",
       "Y"
+    ],
+    [
+      "E",
+      "X",
+      "S",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Common parts of kids' bedtime routines",
-        "answer": "BATHS",
+        "clue": "Hairs that are signs of aging",
+        "answer": "GRAYS",
         "row": 0,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "French farewell",
-        "answer": "ADIEU",
+        "clue": "Lover boy in the House of Montague",
+        "answer": "ROMEO",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Prestigious prize",
-        "answer": "NOBEL",
+        "clue": "U.F.O. pilot",
+        "answer": "ALIEN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Tiny creature that feeds the world's largest creature",
-        "answer": "KRILL",
+        "clue": "Full of sharp flavor",
+        "answer": "ZESTY",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Word on a Staples button",
-        "answer": "EASY",
+        "clue": "\"___ and Oh's\" (2010s pop hit)",
+        "answer": "EXS",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Chase or Wells Fargo",
-        "answer": "BANK",
+        "clue": "Munch on grass",
+        "answer": "GRAZE",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Love, love, love",
-        "answer": "ADORE",
+        "clue": "Fancy watch brand",
+        "answer": "ROLEX",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Bone below the femur",
-        "answer": "TIBIA",
+        "clue": "\"Something's ___\" (\"This doesn't seem right\")",
+        "answer": "AMISS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Difficult shoes to run in",
-        "answer": "HEELS",
+        "clue": "Throw hard, in Gen Z slang",
+        "answer": "YEET",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Make dirty",
-        "answer": "SULLY",
+        "clue": "PlayStation maker",
+        "answer": "SONY",
         "row": 0,
         "col": 4
       }
