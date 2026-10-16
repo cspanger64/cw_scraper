@@ -1,41 +1,46 @@
 {
   "size": [
     5,
-    5
+    6
   ],
   "grid": [
     [
-      "G",
-      "R",
-      "A",
-      "Y",
-      "S"
-    ],
-    [
-      "R",
-      "O",
-      "M",
-      "E",
-      "O"
-    ],
-    [
-      "A",
+      null,
+      null,
       "L",
-      "I",
-      "E",
-      "N"
+      "A",
+      "V",
+      "A"
     ],
     [
-      "Z",
-      "E",
       "S",
       "T",
-      "Y"
+      "O",
+      "P",
+      "I",
+      "T"
     ],
     [
-      "E",
-      "X",
+      "P",
+      "O",
       "S",
+      "T",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "L",
+      "I",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "Y",
       null,
       null
     ]
@@ -44,36 +49,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Hairs that are signs of aging",
-        "answer": "GRAYS",
+        "clue": "Stream of molten rock",
+        "answer": "LAVA",
         "row": 0,
-        "col": 0
+        "col": 2
       },
       {
-        "num": 6,
-        "clue": "Lover boy in the House of Montague",
-        "answer": "ROMEO",
+        "num": 5,
+        "clue": "\"Cut that out!\"",
+        "answer": "STOPIT",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "U.F.O. pilot",
-        "answer": "ALIEN",
+        "clue": "Sticky note",
+        "answer": "POSTIT",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Full of sharp flavor",
-        "answer": "ZESTY",
+        "clue": "___ Earhart, first woman to cross the Atlantic by airplane",
+        "answer": "AMELIA",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "\"___ and Oh's\" (2010s pop hit)",
-        "answer": "EXS",
+        "clue": "Website for restaurant bookings",
+        "answer": "RESY",
         "row": 4,
         "col": 0
       }
@@ -81,38 +86,45 @@
     "down": [
       {
         "num": 1,
-        "clue": "Munch on grass",
-        "answer": "GRAZE",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Fancy watch brand",
-        "answer": "ROLEX",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "\"Something's ___\" (\"This doesn't seem right\")",
-        "answer": "AMISS",
+        "clue": "Takes the L",
+        "answer": "LOSES",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Throw hard, in Gen Z slang",
-        "answer": "YEET",
+        "num": 2,
+        "clue": "How sprinter Usain Bolt is named",
+        "answer": "APTLY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "PlayStation maker",
-        "answer": "SONY",
+        "num": 3,
+        "clue": "Eight, on a grandfather clock",
+        "answer": "VIII",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "\"___ boy!\"",
+        "answer": "ATTA",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "Engage in a playful back-and-forth",
+        "answer": "SPAR",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Heavy book",
+        "answer": "TOME",
+        "row": 1,
+        "col": 1
       }
     ]
   }

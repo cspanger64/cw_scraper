@@ -1,220 +1,229 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
-      "C",
-      "C",
       "S",
+      "A",
+      "S",
+      "S",
+      "Y",
       null,
-      "B",
-      "I",
-      "S",
-      "O",
-      "N"
+      null,
+      "F",
+      "L",
+      "O"
     ],
     [
-      "R",
-      "A",
-      "T",
-      null,
-      "O",
-      "N",
-      "C",
       "U",
+      "T",
+      "O",
+      "P",
+      "I",
+      "A",
+      null,
+      "L",
+      "I",
+      "D"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "I",
+      "N",
+      "D",
+      "R",
+      "O",
+      "M",
       "E"
     ],
     [
-      "O",
-      "N",
       "E",
+      "R",
+      "I",
+      "N",
       null,
-      "W",
       "H",
-      "A",
-      "T",
+      "O",
+      "P",
+      "E",
       "S"
     ],
     [
-      "S",
-      "T",
-      "A",
-      "P",
-      "L",
-      "E",
       "R",
+      "I",
+      "D",
+      null,
+      "B",
+      "O",
+      "O",
+      null,
       null,
       null
     ],
     [
-      "S",
-      "I",
-      "M",
-      "U",
+      null,
+      null,
       null,
       "R",
-      "E",
-      "A",
-      "P"
+      "O",
+      "C",
+      "K",
+      "Y",
+      "I",
+      "V"
     ],
     [
-      null,
-      null,
+      "U",
       "R",
-      "E",
       "B",
-      "E",
-      "C",
-      "C",
+      "A",
+      "N",
+      null,
+      "I",
+      "O",
+      "T",
       "A"
     ],
     [
-      "A",
-      "D",
-      "O",
-      "B",
-      "E",
-      null,
-      "R",
-      "U",
-      "G"
-    ],
-    [
-      "V",
-      "I",
-      "O",
-      "L",
-      "A",
-      null,
-      "O",
-      "R",
-      "E"
-    ],
-    [
-      "A",
-      "R",
       "M",
-      "O",
-      "R",
-      null,
-      "W",
+      "B",
       "A",
+      "K",
+      "U",
+      null,
+      "E",
+      "Y",
+      "E",
       "S"
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "E",
+      "S",
+      null,
+      "S",
+      "O",
+      "M",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Loops in on an email, for short",
-        "answer": "CCS",
+        "clue": "Cheeky",
+        "answer": "SASSY",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Animal on Wyoming's state flag",
-        "answer": "BISON",
+        "num": 6,
+        "clue": "Popular women's health app whose name sounds like a sheet of ice",
+        "answer": "FLO",
         "row": 0,
-        "col": 4
+        "col": 7
       },
       {
         "num": 9,
-        "clue": "First animal in the Chinese zodiac",
-        "answer": "RAT",
+        "clue": "Fantasy world",
+        "answer": "UTOPIA",
         "row": 1,
         "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Right when expected",
-        "answer": "ONCUE",
-        "row": 1,
-        "col": 4
       },
       {
         "num": 11,
-        "clue": "\"The loneliest number\"",
-        "answer": "ONE",
+        "clue": "Eye shadow spot",
+        "answer": "LID",
+        "row": 1,
+        "col": 7
+      },
+      {
+        "num": 12,
+        "clue": "The surname of Daryl Hannah or Jeremy Renner, e.g.",
+        "answer": "PALINDROME",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "\"___ up, Doc?\"",
-        "answer": "WHATS",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "Office space item",
-        "answer": "STAPLER",
+        "num": 14,
+        "clue": "\"___ Brockovich\" (2000 Julia Roberts film)",
+        "answer": "ERIN",
         "row": 3,
         "col": 0
       },
       {
         "num": 15,
-        "clue": "___ Liu, portrayer of one of the Kens in \"Barbie\"",
-        "answer": "SIMU",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Gather",
-        "answer": "REAP",
-        "row": 4,
+        "clue": "Crosses one's fingers",
+        "answer": "HOPES",
+        "row": 3,
         "col": 5
       },
       {
-        "num": 19,
-        "clue": "1938 novel adapted into a 1940 Hitchcock Academy Award winner",
-        "answer": "REBECCA",
-        "row": 5,
-        "col": 2
-      },
-      {
-        "num": 21,
-        "clue": "Common building material in a 14-Down",
-        "answer": "ADOBE",
-        "row": 6,
+        "num": 16,
+        "clue": "Clear (of)",
+        "answer": "RID",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 23,
-        "clue": "Floor covering",
-        "answer": "RUG",
-        "row": 6,
-        "col": 6
+        "num": 17,
+        "clue": "\"This stinks!\"",
+        "answer": "BOO",
+        "row": 4,
+        "col": 4
       },
       {
-        "num": 24,
-        "clue": "Instrument in a string quartet",
-        "answer": "VIOLA",
-        "row": 7,
+        "num": 18,
+        "clue": "1985 sequel with an iconic training montage",
+        "answer": "ROCKYIV",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 22,
+        "clue": "City-related",
+        "answer": "URBAN",
+        "row": 6,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Mined rock",
-        "answer": "ORE",
-        "row": 7,
+        "clue": "Teeny-tiny bit",
+        "answer": "IOTA",
+        "row": 6,
         "col": 6
       },
       {
         "num": 26,
-        "clue": "Jouster's protection",
-        "answer": "ARMOR",
-        "row": 8,
+        "clue": "Leader of the Jabari Tribe in \"Black Panther\"",
+        "answer": "MBAKU",
+        "row": 7,
         "col": 0
       },
       {
         "num": 27,
-        "clue": "Used to be",
-        "answer": "WAS",
+        "clue": "So-called \"windows to the soul\"",
+        "answer": "EYES",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "num": 28,
+        "clue": "Yearns (for)",
+        "answer": "PINES",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 29,
+        "clue": "Not all",
+        "answer": "SOME",
         "row": 8,
         "col": 6
       }
@@ -222,101 +231,129 @@
     "down": [
       {
         "num": 1,
-        "clue": "Organization with millions of annual blood donors",
-        "answer": "CROSS",
+        "clue": "\"Awesome!\"",
+        "answer": "SUPER",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "\"Pretty, pretty please?\"",
-        "answer": "CANTI",
+        "clue": "Classic Nintendo rival",
+        "answer": "ATARI",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Alternative to a sauna",
-        "answer": "STEAMROOM",
+        "clue": "Not striped, as a pool ball",
+        "answer": "SOLID",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Annual college football game played in Florida",
-        "answer": "BOWL",
+        "clue": "___ class (cycling workout)",
+        "answer": "SPIN",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Vague reply to \"Where are you?\"",
-        "answer": "INHERE",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Figure in a cornfield",
-        "answer": "SCARECROW",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 7,
-        "clue": "\"Are you in or ___?\"",
-        "answer": "OUT",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 8,
-        "clue": "Super Mario Bros. platform, for short",
-        "answer": "NES",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 14,
-        "clue": "American Southwest community",
-        "answer": "PUEBLO",
-        "row": 3,
         "col": 3
       },
       {
-        "num": 17,
-        "clue": "Honda's luxury brand",
-        "answer": "ACURA",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 18,
-        "clue": "Paper-turned-digital phone directory",
-        "answer": "PAGES",
-        "row": 4,
-        "col": 8
-      },
-      {
-        "num": 20,
-        "clue": "Title animal of a 1967 children's book illustrated by Eric Carle",
-        "answer": "BEAR",
-        "row": 5,
+        "num": 5,
+        "clue": "Yang's partner",
+        "answer": "YIN",
+        "row": 0,
         "col": 4
       },
       {
+        "num": 6,
+        "clue": "Total failure",
+        "answer": "FLOP",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "Pad Thai garnish",
+        "answer": "LIME",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 8,
+        "clue": "Poems of praise",
+        "answer": "ODES",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 10,
+        "clue": "Like some committees",
+        "answer": "ADHOC",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 13,
+        "clue": "Newbies",
+        "answer": "ROOKIES",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 17,
+        "clue": "Extra benefit",
+        "answer": "BONUS",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 18,
+        "clue": "Tool for a Zen garden",
+        "answer": "RAKE",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 19,
+        "clue": "Toy that has its ups and downs?",
+        "answer": "YOYO",
+        "row": 5,
+        "col": 7
+      },
+      {
+        "num": 20,
+        "clue": "Bullet point on an agenda",
+        "answer": "ITEM",
+        "row": 5,
+        "col": 8
+      },
+      {
         "num": 21,
-        "clue": "Director DuVernay",
-        "answer": "AVA",
+        "clue": "Bouquet holder",
+        "answer": "VASE",
+        "row": 5,
+        "col": 9
+      },
+      {
+        "num": 22,
+        "clue": "Caller of balls and strikes",
+        "answer": "UMP",
         "row": 6,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "North, east, west or south: Abbr.",
-        "answer": "DIR",
+        "num": 23,
+        "clue": "Sports stat informally called a \"ribbie\"",
+        "answer": "RBI",
         "row": 6,
         "col": 1
+      },
+      {
+        "num": 24,
+        "clue": "Outlaw",
+        "answer": "BAN",
+        "row": 6,
+        "col": 2
       }
     ]
   }
