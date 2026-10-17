@@ -1,130 +1,195 @@
 {
   "size": [
-    5,
-    6
+    7,
+    7
   ],
   "grid": [
     [
-      null,
-      null,
+      "C",
       "L",
       "A",
-      "V",
-      "A"
-    ],
-    [
       "S",
-      "T",
-      "O",
-      "P",
-      "I",
-      "T"
-    ],
-    [
-      "P",
-      "O",
       "S",
-      "T",
       "I",
-      "T"
-    ],
-    [
-      "A",
-      "M",
-      "E",
-      "L",
-      "I",
-      "A"
+      "C"
     ],
     [
       "R",
+      "I",
+      "C",
+      "O",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "P",
       "E",
-      "S",
-      "Y",
+      "N",
+      "B",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "G",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "O",
       null,
-      null
+      "R",
+      "I",
+      "M"
+    ],
+    [
+      "I",
+      "N",
+      "N",
+      null,
+      "T",
+      "A",
+      "E"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      null,
+      "S",
+      "N",
+      "L"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Stream of molten rock",
-        "answer": "LAVA",
+        "clue": "\"A book which people praise and don't read,\" per Mark Twain",
+        "answer": "CLASSIC",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 5,
-        "clue": "\"Cut that out!\"",
-        "answer": "STOPIT",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Sticky note",
-        "answer": "POSTIT",
-        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "___ Earhart, first woman to cross the Atlantic by airplane",
-        "answer": "AMELIA",
-        "row": 3,
+        "clue": "Cheese used in lasagna",
+        "answer": "RICOTTA",
+        "row": 1,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Website for restaurant bookings",
-        "answer": "RESY",
+        "clue": "Two hours of free drinks at a wedding, say",
+        "answer": "OPENBAR",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Swanky event in a gallery",
+        "answer": "ARTGALA",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Uncle, in Spanish",
+        "answer": "TIO",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Basketball net holder",
+        "answer": "RIM",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 13,
+        "clue": "B&B; relative",
+        "answer": "INN",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "___ kwon do",
+        "answer": "TAE",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "Number shown on a dating profile",
+        "answer": "AGE",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Show that The Weeknd has performed on, aptly enough",
+        "answer": "SNL",
+        "row": 6,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Takes the L",
-        "answer": "LOSES",
+        "clue": "Zagreb's country",
+        "answer": "CROATIA",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Piercing seen while puckering",
+        "answer": "LIPRING",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Chemical ingredient in nail polish remover",
+        "answer": "ACETONE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "How sprinter Usain Bolt is named",
-        "answer": "APTLY",
+        "num": 4,
+        "clue": "Karaoke choice",
+        "answer": "SONG",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Eight, on a grandfather clock",
-        "answer": "VIII",
+        "num": 5,
+        "clue": "Caribbean resort island for the ultrawealthy, familiarly",
+        "answer": "STBARTS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "\"___ boy!\"",
-        "answer": "ATTA",
+        "num": 6,
+        "clue": "Like antipasti, manicotti and gelati",
+        "answer": "ITALIAN",
         "row": 0,
         "col": 5
       },
       {
-        "num": 5,
-        "clue": "Engage in a playful back-and-forth",
-        "answer": "SPAR",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Heavy book",
-        "answer": "TOME",
-        "row": 1,
-        "col": 1
+        "num": 7,
+        "clue": "Gooey part of a Snickers bar",
+        "answer": "CARAMEL",
+        "row": 0,
+        "col": 6
       }
     ]
   }

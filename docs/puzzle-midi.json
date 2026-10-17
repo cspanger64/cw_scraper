@@ -1,359 +1,329 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "S",
-      "A",
-      "S",
-      "S",
-      "Y",
-      null,
-      null,
-      "F",
-      "L",
-      "O"
-    ],
-    [
-      "U",
       "T",
-      "O",
-      "P",
-      "I",
-      "A",
-      null,
-      "L",
-      "I",
-      "D"
-    ],
-    [
-      "P",
       "A",
       "L",
-      "I",
-      "N",
-      "D",
-      "R",
-      "O",
-      "M",
-      "E"
+      "C",
+      null,
+      "A",
+      "S",
+      "A",
+      "P"
     ],
     [
-      "E",
-      "R",
       "I",
-      "N",
-      null,
+      "T",
+      "C",
       "H",
-      "O",
-      "P",
-      "E",
-      "S"
+      null,
+      "Z",
+      "I",
+      "N",
+      "C"
     ],
     [
-      "R",
-      "I",
+      "N",
+      "A",
       "D",
+      "A",
       null,
-      "B",
-      "O",
-      "O",
+      "T",
+      "R",
+      "A",
+      "P"
+    ],
+    [
+      null,
+      null,
+      null,
+      "R",
+      "A",
+      "E",
       null,
       null,
       null
     ],
     [
       null,
-      null,
-      null,
-      "R",
-      "O",
-      "C",
-      "K",
-      "Y",
+      "H",
+      "A",
       "I",
-      "V"
+      "R",
+      "C",
+      "U",
+      "T",
+      null
     ],
     [
-      "U",
-      "R",
-      "B",
-      "A",
-      "N",
-      null,
-      "I",
+      "G",
       "O",
       "T",
+      "T",
+      "A",
+      null,
+      "N",
+      "I",
       "A"
     ],
     [
-      "M",
-      "B",
       "A",
-      "K",
-      "U",
-      null,
-      "E",
-      "Y",
-      "E",
+      "C",
+      "A",
+      "I",
+      "B",
+      "O",
+      "W",
+      "L",
       "S"
     ],
     [
-      "P",
-      "I",
-      "N",
+      "L",
+      "U",
+      "R",
       "E",
+      null,
+      "R",
+      "E",
+      "E",
+      "K"
+    ],
+    [
+      "A",
+      "S",
+      "I",
       "S",
       null,
-      "S",
-      "O",
-      "M",
-      "E"
+      "A",
+      "D",
+      "D",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Cheeky",
-        "answer": "SASSY",
+        "clue": "Anti-rash powder",
+        "answer": "TALC",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Popular women's health app whose name sounds like a sheet of ice",
-        "answer": "FLO",
+        "num": 5,
+        "clue": "\"I need this, like, yesterday!\"",
+        "answer": "ASAP",
         "row": 0,
-        "col": 7
+        "col": 5
       },
       {
         "num": 9,
-        "clue": "Fantasy world",
-        "answer": "UTOPIA",
+        "clue": "Mosquito bite symptom",
+        "answer": "ITCH",
         "row": 1,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Eye shadow spot",
-        "answer": "LID",
+        "num": 10,
+        "clue": "Chemical element one before zirconium, alphabetically",
+        "answer": "ZINC",
         "row": 1,
-        "col": 7
+        "col": 5
       },
       {
-        "num": 12,
-        "clue": "The surname of Daryl Hannah or Jeremy Renner, e.g.",
-        "answer": "PALINDROME",
+        "num": 11,
+        "clue": "Zilch",
+        "answer": "NADA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "\"___ Brockovich\" (2000 Julia Roberts film)",
-        "answer": "ERIN",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Crosses one's fingers",
-        "answer": "HOPES",
-        "row": 3,
+        "num": 12,
+        "clue": "Golf hazard smoothed by a rake",
+        "answer": "TRAP",
+        "row": 2,
         "col": 5
       },
       {
-        "num": 16,
-        "clue": "Clear (of)",
-        "answer": "RID",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "\"This stinks!\"",
-        "answer": "BOO",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 18,
-        "clue": "1985 sequel with an iconic training montage",
-        "answer": "ROCKYIV",
-        "row": 5,
+        "num": 13,
+        "clue": "Singer Carly ___ Jepsen",
+        "answer": "RAE",
+        "row": 3,
         "col": 3
       },
       {
+        "num": 15,
+        "clue": "You might get one when sitting in a chair that swivels",
+        "answer": "HAIRCUT",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 19,
+        "clue": "\"I ___ run!\"",
+        "answer": "GOTTA",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "Actress Long of \"Michael\"",
+        "answer": "NIA",
+        "row": 5,
+        "col": 6
+      },
+      {
         "num": 22,
-        "clue": "City-related",
-        "answer": "URBAN",
+        "clue": "Purple dishes topped with granola and fruit, as suggested by this puzzle's circled letters",
+        "answer": "ACAIBOWLS",
         "row": 6,
+        "col": 0
+      },
+      {
+        "num": 24,
+        "clue": "Fake bait in a tackle box",
+        "answer": "LURE",
+        "row": 7,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Teeny-tiny bit",
-        "answer": "IOTA",
-        "row": 6,
-        "col": 6
+        "clue": "Stink",
+        "answer": "REEK",
+        "row": 7,
+        "col": 5
       },
       {
         "num": 26,
-        "clue": "Leader of the Jabari Tribe in \"Black Panther\"",
-        "answer": "MBAKU",
-        "row": 7,
+        "clue": "Without changes",
+        "answer": "ASIS",
+        "row": 8,
         "col": 0
       },
       {
         "num": 27,
-        "clue": "So-called \"windows to the soul\"",
-        "answer": "EYES",
-        "row": 7,
-        "col": 6
-      },
-      {
-        "num": 28,
-        "clue": "Yearns (for)",
-        "answer": "PINES",
+        "clue": "Does some back-of-the-envelope calculations",
+        "answer": "ADDS",
         "row": 8,
-        "col": 0
-      },
-      {
-        "num": 29,
-        "clue": "Not all",
-        "answer": "SOME",
-        "row": 8,
-        "col": 6
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "\"Awesome!\"",
-        "answer": "SUPER",
+        "clue": "Sturdy sardines container",
+        "answer": "TIN",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Classic Nintendo rival",
-        "answer": "ATARI",
+        "clue": "Take it one day ___ time",
+        "answer": "ATA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Not striped, as a pool ball",
-        "answer": "SOLID",
+        "clue": "Digital screen variety, for short",
+        "answer": "LCD",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "___ class (cycling workout)",
-        "answer": "SPIN",
+        "clue": "Red Cross and Habitat for Humanity",
+        "answer": "CHARITIES",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Yang's partner",
-        "answer": "YIN",
+        "clue": "Ancient Mexican empire",
+        "answer": "AZTEC",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Total failure",
-        "answer": "FLOP",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "Pad Thai garnish",
-        "answer": "LIME",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 8,
-        "clue": "Poems of praise",
-        "answer": "ODES",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 10,
-        "clue": "Like some committees",
-        "answer": "ADHOC",
-        "row": 1,
         "col": 5
       },
       {
-        "num": 13,
-        "clue": "Newbies",
-        "answer": "ROOKIES",
-        "row": 2,
+        "num": 6,
+        "clue": "Courteous title",
+        "answer": "SIR",
+        "row": 0,
         "col": 6
       },
       {
-        "num": 17,
-        "clue": "Extra benefit",
-        "answer": "BONUS",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 18,
-        "clue": "Tool for a Zen garden",
-        "answer": "RAKE",
-        "row": 5,
-        "col": 3
-      },
-      {
-        "num": 19,
-        "clue": "Toy that has its ups and downs?",
-        "answer": "YOYO",
-        "row": 5,
+        "num": 7,
+        "clue": "\"Saturday Night Live\" alum Gasteyer",
+        "answer": "ANA",
+        "row": 0,
         "col": 7
       },
       {
-        "num": 20,
-        "clue": "Bullet point on an agenda",
-        "answer": "ITEM",
+        "num": 8,
+        "clue": "Doctor seen for routine physicals, for short",
+        "answer": "PCP",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 14,
+        "clue": "Many an Algerian",
+        "answer": "ARAB",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "___-pocus",
+        "answer": "HOCUS",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 16,
+        "clue": "Company that helped kick-start the popularity of video games",
+        "answer": "ATARI",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 17,
+        "clue": "Not married",
+        "answer": "UNWED",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 18,
+        "clue": "Like many backsplashes and showers",
+        "answer": "TILED",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 19,
+        "clue": "Fancy party",
+        "answer": "GALA",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 21,
+        "clue": "Requests",
+        "answer": "ASKS",
         "row": 5,
         "col": 8
       },
       {
-        "num": 21,
-        "clue": "Bouquet holder",
-        "answer": "VASE",
-        "row": 5,
-        "col": 9
-      },
-      {
-        "num": 22,
-        "clue": "Caller of balls and strikes",
-        "answer": "UMP",
-        "row": 6,
-        "col": 0
-      },
-      {
         "num": 23,
-        "clue": "Sports stat informally called a \"ribbie\"",
-        "answer": "RBI",
+        "clue": "Pop singer Rita",
+        "answer": "ORA",
         "row": 6,
-        "col": 1
-      },
-      {
-        "num": 24,
-        "clue": "Outlaw",
-        "answer": "BAN",
-        "row": 6,
-        "col": 2
+        "col": 5
       }
     ]
   }
