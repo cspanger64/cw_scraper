@@ -1,195 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "C",
-      "L",
-      "A",
-      "S",
-      "S",
+      null,
+      null,
+      "F",
       "I",
-      "C"
+      "B"
     ],
     [
-      "R",
-      "I",
-      "C",
-      "O",
-      "T",
-      "T",
-      "A"
-    ],
-    [
-      "O",
-      "P",
-      "E",
-      "N",
-      "B",
-      "A",
-      "R"
-    ],
-    [
-      "A",
-      "R",
-      "T",
-      "G",
+      "W",
       "A",
       "L",
-      "A"
+      "D",
+      "O"
     ],
     [
-      "T",
       "I",
+      "T",
+      "A",
+      "L",
+      "Y"
+    ],
+    [
+      "N",
       "O",
-      null,
-      "R",
-      "I",
-      "M"
-    ],
-    [
-      "I",
-      "N",
-      "N",
-      null,
-      "T",
-      "A",
-      "E"
-    ],
-    [
-      "A",
-      "G",
-      "E",
-      null,
       "S",
-      "N",
-      "L"
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "M",
+      "H",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "\"A book which people praise and don't read,\" per Mark Twain",
-        "answer": "CLASSIC",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Cheese used in lasagna",
-        "answer": "RICOTTA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Two hours of free drinks at a wedding, say",
-        "answer": "OPENBAR",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Swanky event in a gallery",
-        "answer": "ARTGALA",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "Uncle, in Spanish",
-        "answer": "TIO",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Basketball net holder",
-        "answer": "RIM",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "B&B; relative",
-        "answer": "INN",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "___ kwon do",
-        "answer": "TAE",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 15,
-        "clue": "Number shown on a dating profile",
-        "answer": "AGE",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "Show that The Weeknd has performed on, aptly enough",
-        "answer": "SNL",
-        "row": 6,
-        "col": 4
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Zagreb's country",
-        "answer": "CROATIA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Piercing seen while puckering",
-        "answer": "LIPRING",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Chemical ingredient in nail polish remover",
-        "answer": "ACETONE",
+        "clue": "Harmless lie",
+        "answer": "FIB",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Karaoke choice",
-        "answer": "SONG",
+        "clue": "Hard guy to find in a crowd?",
+        "answer": "WALDO",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Milan's land",
+        "answer": "ITALY",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Facial features missing from most emojis",
+        "answer": "NOSES",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Texter's \"Wow ... just wow\"",
+        "answer": "SMH",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "News ___",
+        "answer": "FLASH",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Not doing anything",
+        "answer": "IDLE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Caribbean resort island for the ultrawealthy, familiarly",
-        "answer": "STBARTS",
+        "num": 3,
+        "clue": "They're \"back in town,\" in a 1970s rock hit",
+        "answer": "BOYS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "Like antipasti, manicotti and gelati",
-        "answer": "ITALIAN",
-        "row": 0,
-        "col": 5
+        "num": 4,
+        "clue": "Comes in first",
+        "answer": "WINS",
+        "row": 1,
+        "col": 0
       },
       {
-        "num": 7,
-        "clue": "Gooey part of a Snickers bar",
-        "answer": "CARAMEL",
-        "row": 0,
-        "col": 6
+        "num": 5,
+        "clue": "Tiny thing to split",
+        "answer": "ATOM",
+        "row": 1,
+        "col": 1
       }
     ]
   }

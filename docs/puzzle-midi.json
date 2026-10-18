@@ -1,329 +1,404 @@
 {
   "size": [
-    9,
-    9
+    11,
+    10
   ],
   "grid": [
     [
-      "T",
-      "A",
-      "L",
-      "C",
-      null,
-      "A",
-      "S",
-      "A",
-      "P"
-    ],
-    [
-      "I",
-      "T",
-      "C",
       "H",
-      null,
-      "Z",
-      "I",
-      "N",
-      "C"
-    ],
-    [
-      "N",
       "A",
-      "D",
-      "A",
-      null,
-      "T",
-      "R",
-      "A",
-      "P"
-    ],
-    [
+      "M",
       null,
       null,
       null,
-      "R",
-      "A",
+      "G",
       "E",
-      null,
-      null,
+      "E",
       null
     ],
     [
+      "E",
+      "C",
+      "O",
       null,
-      "H",
-      "A",
-      "I",
-      "R",
       "C",
       "U",
-      "T",
+      "R",
+      "L",
+      "Y",
       null
     ],
     [
-      "G",
+      "L",
+      "C",
+      "D",
+      null,
+      "A",
+      "N",
+      "I",
+      "M",
+      "E",
+      null
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "N",
+      "T",
+      "O",
+      "N",
+      null,
+      null,
+      null
+    ],
+    [
+      "E",
+      "U",
+      "R",
+      "O",
+      null,
+      null,
+      "D",
+      "M",
+      "S",
+      null
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "T",
+      "S",
+      "T",
+      "R",
+      "I",
+      "K",
+      "E"
+    ],
+    [
+      null,
+      null,
+      null,
+      "T",
+      "I",
+      "E",
+      null,
+      "N",
+      "E",
+      "E"
+    ],
+    [
+      null,
+      "C",
+      "U",
+      "R",
+      "R",
+      "E",
+      "N",
+      "T",
+      "L",
+      "Y"
+    ],
+    [
+      "B",
+      "A",
+      "D",
+      "U",
+      null,
+      "M",
       "O",
       "T",
       "T",
-      "A",
-      null,
-      "N",
-      "I",
-      "A"
+      "O"
     ],
     [
-      "A",
-      "C",
-      "A",
-      "I",
+      "O",
       "B",
       "O",
-      "W",
-      "L",
-      "S"
-    ],
-    [
-      "L",
-      "U",
-      "R",
       "E",
       null,
-      "R",
+      null,
+      "S",
       "E",
       "E",
-      "K"
+      "R"
     ],
     [
-      "A",
-      "S",
-      "I",
-      "S",
+      "T",
+      "O",
+      "N",
       null,
+      null,
+      null,
+      "H",
       "A",
-      "D",
-      "D",
-      "S"
+      "R",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Anti-rash powder",
-        "answer": "TALC",
+        "clue": "Honey-glazed meat",
+        "answer": "HAM",
         "row": 0,
         "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "\"I need this, like, yesterday!\"",
-        "answer": "ASAP",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 9,
-        "clue": "Mosquito bite symptom",
-        "answer": "ITCH",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Chemical element one before zirconium, alphabetically",
-        "answer": "ZINC",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 11,
-        "clue": "Zilch",
-        "answer": "NADA",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Golf hazard smoothed by a rake",
-        "answer": "TRAP",
-        "row": 2,
-        "col": 5
-      },
-      {
-        "num": 13,
-        "clue": "Singer Carly ___ Jepsen",
-        "answer": "RAE",
-        "row": 3,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "You might get one when sitting in a chair that swivels",
-        "answer": "HAIRCUT",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 19,
-        "clue": "\"I ___ run!\"",
-        "answer": "GOTTA",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Actress Long of \"Michael\"",
-        "answer": "NIA",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 22,
-        "clue": "Purple dishes topped with granola and fruit, as suggested by this puzzle's circled letters",
-        "answer": "ACAIBOWLS",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 24,
-        "clue": "Fake bait in a tackle box",
-        "answer": "LURE",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 25,
-        "clue": "Stink",
-        "answer": "REEK",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 26,
-        "clue": "Without changes",
-        "answer": "ASIS",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 27,
-        "clue": "Does some back-of-the-envelope calculations",
-        "answer": "ADDS",
-        "row": 8,
-        "col": 5
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Sturdy sardines container",
-        "answer": "TIN",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Take it one day ___ time",
-        "answer": "ATA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Digital screen variety, for short",
-        "answer": "LCD",
-        "row": 0,
-        "col": 2
       },
       {
         "num": 4,
-        "clue": "Red Cross and Habitat for Humanity",
-        "answer": "CHARITIES",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Ancient Mexican empire",
-        "answer": "AZTEC",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Courteous title",
-        "answer": "SIR",
+        "clue": "\"___ whiz!\"",
+        "answer": "GEE",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "\"Saturday Night Live\" alum Gasteyer",
-        "answer": "ANA",
-        "row": 0,
-        "col": 7
+        "clue": "Earth-conscious prefix",
+        "answer": "ECO",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 8,
-        "clue": "Doctor seen for routine physicals, for short",
-        "answer": "PCP",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 14,
-        "clue": "Many an Algerian",
-        "answer": "ARAB",
-        "row": 3,
+        "clue": "Like some hair ... or 24-Across after an 18-Across?",
+        "answer": "CURLY",
+        "row": 1,
         "col": 4
       },
       {
+        "num": 10,
+        "clue": "TV type, for short",
+        "answer": "LCD",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Japanese cartoon art",
+        "answer": "ANIME",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "num": 12,
+        "clue": "New Jersey's capital",
+        "answer": "TRENTON",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Currency in Finland and France",
+        "answer": "EURO",
+        "row": 4,
+        "col": 0
+      },
+      {
         "num": 15,
-        "clue": "___-pocus",
-        "answer": "HOCUS",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 16,
-        "clue": "Company that helped kick-start the popularity of video games",
-        "answer": "ATARI",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 17,
-        "clue": "Not married",
-        "answer": "UNWED",
+        "clue": "Hits up on social media, casually",
+        "answer": "DMS",
         "row": 4,
         "col": 6
       },
       {
         "num": 18,
-        "clue": "Like many backsplashes and showers",
-        "answer": "TILED",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 19,
-        "clue": "Fancy party",
-        "answer": "GALA",
+        "clue": "Form of tenant protest",
+        "answer": "RENTSTRIKE",
         "row": 5,
         "col": 0
       },
       {
-        "num": 21,
-        "clue": "Requests",
-        "answer": "ASKS",
-        "row": 5,
-        "col": 8
+        "num": 22,
+        "clue": "Winnerless result",
+        "answer": "TIE",
+        "row": 6,
+        "col": 3
       },
       {
         "num": 23,
-        "clue": "Pop singer Rita",
-        "answer": "ORA",
+        "clue": "French word before a birth name",
+        "answer": "NEE",
         "row": 6,
+        "col": 7
+      },
+      {
+        "num": 24,
+        "clue": "At the present moment",
+        "answer": "CURRENTLY",
+        "row": 7,
+        "col": 1
+      },
+      {
+        "num": 27,
+        "clue": "R&B; singer Erykah",
+        "answer": "BADU",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 28,
+        "clue": "Personal or state slogan",
+        "answer": "MOTTO",
+        "row": 8,
         "col": 5
+      },
+      {
+        "num": 29,
+        "clue": "Instrument that an orchestra tunes to",
+        "answer": "OBOE",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 30,
+        "clue": "Person who has visions",
+        "answer": "SEER",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "num": 31,
+        "clue": "Huge amount ... or 12-Across after an 18-Across?",
+        "answer": "TON",
+        "row": 10,
+        "col": 0
+      },
+      {
+        "num": 32,
+        "clue": "Rabbit relative",
+        "answer": "HARE",
+        "row": 10,
+        "col": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "With 17-Down, haphazardly",
+        "answer": "HELTER",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Accumulate",
+        "answer": "ACCRUE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Antithesis of ancient",
+        "answer": "MODERN",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Dating app with a mask logo",
+        "answer": "GRINDR",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 5,
+        "clue": "Tree with helicopter seeds",
+        "answer": "ELM",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 6,
+        "clue": "\"The Bluest ___\" (Toni Morrison novel)",
+        "answer": "EYE",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 8,
+        "clue": "Inspiration for many \"purr\" puns",
+        "answer": "CAT",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 9,
+        "clue": "Game with Reverse cards",
+        "answer": "UNO",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 13,
+        "clue": "\"That's a lie!\"",
+        "answer": "NOTTRUE",
+        "row": 3,
+        "col": 3
+      },
+      {
+        "num": 16,
+        "clue": "Beverage also known as pudina chai",
+        "answer": "MINTTEA",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 17,
+        "clue": "See 1-Down",
+        "answer": "SKELTER",
+        "row": 4,
+        "col": 8
+      },
+      {
+        "num": 19,
+        "clue": "Knight's title",
+        "answer": "SIR",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 20,
+        "clue": "Abound",
+        "answer": "TEEM",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 21,
+        "clue": "Donkey friend of Winnie-the-Pooh",
+        "answer": "EEYORE",
+        "row": 5,
+        "col": 9
+      },
+      {
+        "num": 24,
+        "clue": "Mexican tourist destination, familiarly",
+        "answer": "CABO",
+        "row": 7,
+        "col": 1
+      },
+      {
+        "num": 25,
+        "clue": "Thick Japanese noodle",
+        "answer": "UDON",
+        "row": 7,
+        "col": 2
+      },
+      {
+        "num": 26,
+        "clue": "Snack",
+        "answer": "NOSH",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "num": 27,
+        "clue": "Social media \"user\" with no brain",
+        "answer": "BOT",
+        "row": 8,
+        "col": 0
       }
     ]
   }
