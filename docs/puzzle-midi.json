@@ -1,404 +1,322 @@
 {
   "size": [
-    11,
-    10
+    9,
+    9
   ],
   "grid": [
     [
-      "H",
-      "A",
+      "J",
+      "O",
+      "N",
+      null,
+      null,
+      null,
       "M",
+      "B",
+      "A"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "B",
+      null,
+      "B",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "M",
+      "E",
+      "N",
+      "U",
+      null,
+      "A",
+      "S",
+      "I",
+      "A"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "T",
+      "Y",
+      "C",
+      "A",
+      "L",
+      "L"
+    ],
+    [
       null,
       null,
+      null,
+      "T",
+      "O",
+      "K",
+      null,
+      null,
+      null
+    ],
+    [
       null,
       "G",
-      "E",
-      "E",
-      null
-    ],
-    [
-      "E",
-      "C",
       "O",
-      null,
-      "C",
-      "U",
-      "R",
-      "L",
-      "Y",
-      null
-    ],
-    [
-      "L",
-      "C",
-      "D",
-      null,
-      "A",
-      "N",
-      "I",
-      "M",
-      "E",
-      null
-    ],
-    [
-      "T",
-      "R",
-      "E",
-      "N",
-      "T",
-      "O",
-      "N",
-      null,
-      null,
-      null
-    ],
-    [
-      "E",
-      "U",
-      "R",
-      "O",
-      null,
-      null,
-      "D",
-      "M",
-      "S",
-      null
-    ],
-    [
-      "R",
-      "E",
-      "N",
-      "T",
-      "S",
-      "T",
-      "R",
-      "I",
-      "K",
-      "E"
-    ],
-    [
-      null,
-      null,
-      null,
-      "T",
-      "I",
-      "E",
-      null,
-      "N",
-      "E",
-      "E"
-    ],
-    [
-      null,
-      "C",
-      "U",
-      "R",
-      "R",
-      "E",
-      "N",
-      "T",
-      "L",
-      "Y"
-    ],
-    [
-      "B",
-      "A",
       "D",
       "U",
-      null,
-      "M",
-      "O",
       "T",
-      "T",
-      "O"
-    ],
-    [
-      "O",
-      "B",
-      "O",
-      "E",
-      null,
-      null,
-      "S",
-      "E",
-      "E",
-      "R"
-    ],
-    [
-      "T",
-      "O",
-      "N",
-      null,
-      null,
-      null,
+      "C",
       "H",
+      null
+    ],
+    [
+      "N",
+      "O",
+      "R",
+      "I",
+      null,
+      "A",
+      "H",
+      "E",
+      "M"
+    ],
+    [
+      "I",
+      "N",
+      "C",
+      "A",
+      null,
+      "L",
       "A",
       "R",
-      "E"
+      "D"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "L",
+      null,
+      "K",
+      "I",
+      "D",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Honey-glazed meat",
-        "answer": "HAM",
+        "clue": "___ Ossoff, first millennial U.S. senator",
+        "answer": "JON",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "\"___ whiz!\"",
-        "answer": "GEE",
+        "clue": "Deg. from Chicago Booth or N.Y.U. Stern",
+        "answer": "MBA",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "Earth-conscious prefix",
-        "answer": "ECO",
+        "clue": "The \"A\" of U.A.E.",
+        "answer": "ARAB",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Like some hair ... or 24-Across after an 18-Across?",
-        "answer": "CURLY",
+        "num": 9,
+        "clue": "Jelly ___ (colorful candy)",
+        "answer": "BEAN",
         "row": 1,
-        "col": 4
+        "col": 5
       },
       {
         "num": 10,
-        "clue": "TV type, for short",
-        "answer": "LCD",
+        "clue": "Diner handout",
+        "answer": "MENU",
         "row": 2,
         "col": 0
       },
       {
         "num": 11,
-        "clue": "Japanese cartoon art",
-        "answer": "ANIME",
+        "clue": "Home to Jordan and Japan",
+        "answer": "ASIA",
         "row": 2,
-        "col": 4
+        "col": 5
       },
       {
         "num": 12,
-        "clue": "New Jersey's capital",
-        "answer": "TRENTON",
+        "clue": "Ring given to a lover?",
+        "answer": "BOOTYCALL",
         "row": 3,
         "col": 0
       },
       {
         "num": 14,
-        "clue": "Currency in Finland and France",
-        "answer": "EURO",
+        "clue": "Ending with \"book\" or \"cook,\" on social media",
+        "answer": "TOK",
         "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Hits up on social media, casually",
-        "answer": "DMS",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 18,
-        "clue": "Form of tenant protest",
-        "answer": "RENTSTRIKE",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 22,
-        "clue": "Winnerless result",
-        "answer": "TIE",
-        "row": 6,
         "col": 3
       },
       {
-        "num": 23,
-        "clue": "French word before a birth name",
-        "answer": "NEE",
-        "row": 6,
-        "col": 7
-      },
-      {
-        "num": 24,
-        "clue": "At the present moment",
-        "answer": "CURRENTLY",
-        "row": 7,
+        "num": 15,
+        "clue": "Split the check",
+        "answer": "GODUTCH",
+        "row": 5,
         "col": 1
       },
       {
-        "num": 27,
-        "clue": "R&B; singer Erykah",
-        "answer": "BADU",
-        "row": 8,
+        "num": 19,
+        "clue": "Sushi wrapper",
+        "answer": "NORI",
+        "row": 6,
         "col": 0
       },
       {
-        "num": 28,
-        "clue": "Personal or state slogan",
-        "answer": "MOTTO",
-        "row": 8,
+        "num": 20,
+        "clue": "[Don't forget about me!]",
+        "answer": "AHEM",
+        "row": 6,
         "col": 5
       },
       {
-        "num": 29,
-        "clue": "Instrument that an orchestra tunes to",
-        "answer": "OBOE",
-        "row": 9,
+        "num": 22,
+        "clue": "Ancient worshiper of the god Viracocha",
+        "answer": "INCA",
+        "row": 7,
         "col": 0
       },
       {
-        "num": 30,
-        "clue": "Person who has visions",
-        "answer": "SEER",
-        "row": 9,
-        "col": 6
+        "num": 23,
+        "clue": "Classic pie crust ingredient",
+        "answer": "LARD",
+        "row": 7,
+        "col": 5
       },
       {
-        "num": 31,
-        "clue": "Huge amount ... or 12-Across after an 18-Across?",
-        "answer": "TON",
-        "row": 10,
+        "num": 24,
+        "clue": "Bluish-green hue",
+        "answer": "TEAL",
+        "row": 8,
         "col": 0
       },
       {
-        "num": 32,
-        "clue": "Rabbit relative",
-        "answer": "HARE",
-        "row": 10,
-        "col": 6
+        "num": 25,
+        "clue": "They might have their own table during holiday meals",
+        "answer": "KIDS",
+        "row": 8,
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "With 17-Down, haphazardly",
-        "answer": "HELTER",
+        "clue": "Doorframe part",
+        "answer": "JAMB",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Accumulate",
-        "answer": "ACCRUE",
+        "clue": "Cookie mixed into some milkshakes",
+        "answer": "OREO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Antithesis of ancient",
-        "answer": "MODERN",
+        "clue": "Prefix meaning \"one-billionth\"",
+        "answer": "NANO",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Dating app with a mask logo",
-        "answer": "GRINDR",
+        "clue": "Geological formation common in the Southwest",
+        "answer": "MESA",
         "row": 0,
         "col": 6
       },
       {
         "num": 5,
-        "clue": "Tree with helicopter seeds",
-        "answer": "ELM",
+        "clue": "Suddenly flake on some plans",
+        "answer": "BAIL",
         "row": 0,
         "col": 7
       },
       {
         "num": 6,
-        "clue": "\"The Bluest ___\" (Toni Morrison novel)",
-        "answer": "EYE",
+        "clue": "Extremely particular",
+        "answer": "ANAL",
         "row": 0,
         "col": 8
       },
       {
         "num": 8,
-        "clue": "Inspiration for many \"purr\" puns",
-        "answer": "CAT",
+        "clue": "Cheeky mistake?",
+        "answer": "BUTTDIAL",
         "row": 1,
-        "col": 4
+        "col": 3
       },
       {
         "num": 9,
-        "clue": "Game with Reverse cards",
-        "answer": "UNO",
+        "clue": "Sassy insolence ... or an alternate title for this puzzle?",
+        "answer": "BACKTALK",
         "row": 1,
         "col": 5
       },
       {
         "num": 13,
-        "clue": "\"That's a lie!\"",
-        "answer": "NOTTRUE",
+        "clue": "Personal pronoun often represented by a single letter",
+        "answer": "YOU",
         "row": 3,
-        "col": 3
-      },
-      {
-        "num": 16,
-        "clue": "Beverage also known as pudina chai",
-        "answer": "MINTTEA",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 17,
-        "clue": "See 1-Down",
-        "answer": "SKELTER",
-        "row": 4,
-        "col": 8
-      },
-      {
-        "num": 19,
-        "clue": "Knight's title",
-        "answer": "SIR",
-        "row": 5,
         "col": 4
       },
       {
-        "num": 20,
-        "clue": "Abound",
-        "answer": "TEEM",
+        "num": 15,
+        "clue": "\"___ Girl\" (Gillian Flynn thriller)",
+        "answer": "GONE",
         "row": 5,
-        "col": 5
-      },
-      {
-        "num": 21,
-        "clue": "Donkey friend of Winnie-the-Pooh",
-        "answer": "EEYORE",
-        "row": 5,
-        "col": 9
-      },
-      {
-        "num": 24,
-        "clue": "Mexican tourist destination, familiarly",
-        "answer": "CABO",
-        "row": 7,
         "col": 1
       },
       {
-        "num": 25,
-        "clue": "Thick Japanese noodle",
-        "answer": "UDON",
-        "row": 7,
+        "num": 16,
+        "clue": "Friend of the pod?",
+        "answer": "ORCA",
+        "row": 5,
         "col": 2
       },
       {
-        "num": 26,
-        "clue": "Snack",
-        "answer": "NOSH",
-        "row": 7,
+        "num": 17,
+        "clue": "Tea, in Hindi",
+        "answer": "CHAI",
+        "row": 5,
         "col": 6
       },
       {
-        "num": 27,
-        "clue": "Social media \"user\" with no brain",
-        "answer": "BOT",
-        "row": 8,
+        "num": 18,
+        "clue": "Group of cattle",
+        "answer": "HERD",
+        "row": 5,
+        "col": 7
+      },
+      {
+        "num": 19,
+        "clue": "Trivial point to \"pick\"",
+        "answer": "NIT",
+        "row": 6,
         "col": 0
+      },
+      {
+        "num": 21,
+        "clue": "OB/GYNs, e.g.",
+        "answer": "MDS",
+        "row": 6,
+        "col": 8
       }
     ]
   }

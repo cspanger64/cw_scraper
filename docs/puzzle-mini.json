@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      null,
+      "W",
+      "A",
       "F",
+      "T"
+    ],
+    [
+      "G",
+      "E",
+      "N",
       "I",
-      "B"
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "E",
+      "V",
+      "I",
+      "L",
+      null
     ],
     [
       "W",
-      "A",
+      "E",
       "L",
       "D",
-      "O"
-    ],
-    [
-      "I",
-      "T",
-      "A",
-      "L",
-      "Y"
-    ],
-    [
-      "N",
-      "O",
-      "S",
-      "E",
-      "S"
-    ],
-    [
-      "S",
-      "M",
-      "H",
-      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Harmless lie",
-        "answer": "FIB",
+        "clue": "Move through the air, as a smell",
+        "answer": "WAFT",
         "row": 0,
-        "col": 2
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "Hard guy to find in a crowd?",
-        "answer": "WALDO",
+        "num": 5,
+        "clue": "\"Aladdin\" character with the line \"Phenomenal cosmic powers! Itty-bitty living space\"",
+        "answer": "GENIE",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Milan's land",
-        "answer": "ITALY",
+        "clue": "Baltimore N.F.L. player",
+        "answer": "RAVEN",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Facial features missing from most emojis",
-        "answer": "NOSES",
+        "clue": "Wicked",
+        "answer": "EVIL",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Texter's \"Wow ... just wow\"",
-        "answer": "SMH",
+        "clue": "Fuse, as pieces of metal",
+        "answer": "WELD",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "News ___",
-        "answer": "FLASH",
+        "clue": "Use a loom",
+        "answer": "WEAVE",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Metal block falling on Wile E. Coyote's head",
+        "answer": "ANVIL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Not doing anything",
-        "answer": "IDLE",
+        "num": 3,
+        "clue": "Scientist's area of study",
+        "answer": "FIELD",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "They're \"back in town,\" in a 1970s rock hit",
-        "answer": "BOYS",
+        "num": 4,
+        "clue": "Number of clues in this puzzle",
+        "answer": "TEN",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Comes in first",
-        "answer": "WINS",
+        "num": 5,
+        "clue": "Sprouted",
+        "answer": "GREW",
         "row": 1,
         "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Tiny thing to split",
-        "answer": "ATOM",
-        "row": 1,
-        "col": 1
       }
     ]
   }
