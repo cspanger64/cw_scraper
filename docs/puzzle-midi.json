@@ -1,322 +1,382 @@
 {
   "size": [
     9,
-    9
+    11
   ],
   "grid": [
     [
-      "J",
-      "O",
-      "N",
-      null,
-      null,
-      null,
-      "M",
+      "S",
+      "C",
+      "A",
       "B",
+      null,
+      null,
+      "C",
+      "H",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "P",
+      "H",
+      "I",
+      "L",
+      null,
+      "F",
+      "I",
+      "E",
+      "S",
+      "T",
       "A"
     ],
     [
-      "A",
+      "F",
+      "I",
       "R",
-      "A",
-      "B",
-      null,
-      "B",
       "E",
-      "A",
-      "N"
+      "F",
+      "I",
+      "G",
+      "H",
+      "T",
+      "E",
+      "R"
     ],
     [
-      "M",
-      "E",
-      "N",
-      "U",
       null,
+      null,
+      null,
+      "N",
+      "E",
+      "E",
+      null,
+      null,
+      "A",
+      "P",
+      "P"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "D",
+      "E",
+      "R",
+      "D",
       "A",
       "S",
+      "H",
+      null
+    ],
+    [
+      "A",
+      "B",
+      "L",
+      "E",
+      null,
+      "Y",
       "I",
+      "P",
+      null,
+      null,
+      null
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      null,
+      "T",
+      "R",
+      "E",
+      "E",
+      "S"
+    ],
+    [
+      "H",
+      "O",
+      "M",
+      "I",
+      "E",
+      null,
+      "T",
+      "O",
+      "N",
+      "G",
       "A"
     ],
     [
-      "B",
-      "O",
-      "O",
-      "T",
-      "Y",
-      "C",
+      null,
+      "R",
       "A",
-      "L",
-      "L"
-    ],
-    [
-      null,
-      null,
-      null,
-      "T",
-      "O",
+      "N",
       "K",
       null,
-      null,
-      null
-    ],
-    [
-      null,
-      "G",
       "O",
-      "D",
-      "U",
-      "T",
-      "C",
-      "H",
-      null
-    ],
-    [
       "N",
+      "T",
       "O",
-      "R",
-      "I",
-      null,
-      "A",
-      "H",
-      "E",
-      "M"
-    ],
-    [
-      "I",
-      "N",
-      "C",
-      "A",
-      null,
-      "L",
-      "A",
-      "R",
-      "D"
-    ],
-    [
-      "T",
-      "E",
-      "A",
-      "L",
-      null,
-      "K",
-      "I",
-      "D",
-      "S"
+      "P"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ Ossoff, first millennial U.S. senator",
-        "answer": "JON",
+        "clue": "Aftermath of a scrape",
+        "answer": "SCAB",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Deg. from Chicago Booth or N.Y.U. Stern",
-        "answer": "MBA",
+        "num": 5,
+        "clue": "Body part targeted by bench presses",
+        "answer": "CHEST",
         "row": 0,
         "col": 6
       },
       {
-        "num": 7,
-        "clue": "The \"A\" of U.A.E.",
-        "answer": "ARAB",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Jelly ___ (colorful candy)",
-        "answer": "BEAN",
-        "row": 1,
-        "col": 5
-      },
-      {
         "num": 10,
-        "clue": "Diner handout",
-        "answer": "MENU",
-        "row": 2,
+        "clue": "Punxsutawney ___",
+        "answer": "PHIL",
+        "row": 1,
         "col": 0
       },
       {
         "num": 11,
-        "clue": "Home to Jordan and Japan",
-        "answer": "ASIA",
-        "row": 2,
+        "clue": "Party with a piÃ±ata, perhaps",
+        "answer": "FIESTA",
+        "row": 1,
         "col": 5
       },
       {
         "num": 12,
-        "clue": "Ring given to a lover?",
-        "answer": "BOOTYCALL",
-        "row": 3,
+        "clue": "Worker associated with a red truck",
+        "answer": "FIREFIGHTER",
+        "row": 2,
         "col": 0
       },
       {
         "num": 14,
-        "clue": "Ending with \"book\" or \"cook,\" on social media",
-        "answer": "TOK",
-        "row": 4,
+        "clue": "Word before a maiden name, from the French",
+        "answer": "NEE",
+        "row": 3,
         "col": 3
       },
       {
         "num": 15,
-        "clue": "Split the check",
-        "answer": "GODUTCH",
-        "row": 5,
-        "col": 1
+        "clue": "Discord or Dropbox",
+        "answer": "APP",
+        "row": 3,
+        "col": 8
       },
       {
-        "num": 19,
-        "clue": "Sushi wrapper",
-        "answer": "NORI",
-        "row": 6,
+        "num": 16,
+        "clue": "\"Nonsense!\"",
+        "answer": "BALDERDASH",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 20,
-        "clue": "[Don't forget about me!]",
-        "answer": "AHEM",
-        "row": 6,
-        "col": 5
+        "num": 21,
+        "clue": "Up to the task",
+        "answer": "ABLE",
+        "row": 5,
+        "col": 0
       },
       {
         "num": 22,
-        "clue": "Ancient worshiper of the god Viracocha",
-        "answer": "INCA",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "Classic pie crust ingredient",
-        "answer": "LARD",
-        "row": 7,
+        "clue": "Puppy's bark",
+        "answer": "YIP",
+        "row": 5,
         "col": 5
       },
       {
-        "num": 24,
-        "clue": "Bluish-green hue",
-        "answer": "TEAL",
-        "row": 8,
+        "num": 23,
+        "clue": "With 25-Across, shelters from the sun ... or what some squares in 12- and 16-Across do?",
+        "answer": "SHADE",
+        "row": 6,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "They might have their own table during holiday meals",
-        "answer": "KIDS",
+        "clue": "See 23-Across",
+        "answer": "TREES",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "num": 29,
+        "clue": "Marge Simpson's pet name for her husband",
+        "answer": "HOMIE",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 30,
+        "clue": "Polynesian island nation",
+        "answer": "TONGA",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "num": 31,
+        "clue": "Sort in order of preference",
+        "answer": "RANK",
         "row": 8,
-        "col": 5
+        "col": 1
+      },
+      {
+        "num": 32,
+        "clue": "In first place",
+        "answer": "ONTOP",
+        "row": 8,
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Doorframe part",
-        "answer": "JAMB",
+        "clue": "Initials on a beach bottle",
+        "answer": "SPF",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Cookie mixed into some milkshakes",
-        "answer": "OREO",
+        "clue": "Tai ___ (martial art)",
+        "answer": "CHI",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Prefix meaning \"one-billionth\"",
-        "answer": "NANO",
+        "clue": "Breathe it in!",
+        "answer": "AIR",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Geological formation common in the Southwest",
-        "answer": "MESA",
+        "clue": "Didn't stand out from the crowd",
+        "answer": "BLENDEDIN",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "What becomes a butt after it's bummed, informally",
+        "answer": "CIG",
         "row": 0,
         "col": 6
       },
       {
-        "num": 5,
-        "clue": "Suddenly flake on some plans",
-        "answer": "BAIL",
+        "num": 6,
+        "clue": "\"That's kinda funny\"",
+        "answer": "HEH",
         "row": 0,
         "col": 7
       },
       {
-        "num": 6,
-        "clue": "Extremely particular",
-        "answer": "ANAL",
+        "num": 7,
+        "clue": "\"CÃ³mo ___?\"",
+        "answer": "ESTAS",
         "row": 0,
         "col": 8
       },
       {
         "num": 8,
-        "clue": "Cheeky mistake?",
-        "answer": "BUTTDIAL",
-        "row": 1,
-        "col": 3
+        "clue": "N.B.A. star Curry",
+        "answer": "STEPH",
+        "row": 0,
+        "col": 9
       },
       {
         "num": 9,
-        "clue": "Sassy insolence ... or an alternate title for this puzzle?",
-        "answer": "BACKTALK",
+        "clue": "Waterproof cover",
+        "answer": "TARP",
+        "row": 0,
+        "col": 10
+      },
+      {
+        "num": 11,
+        "clue": "Impassioned",
+        "answer": "FIERY",
         "row": 1,
         "col": 5
       },
       {
         "num": 13,
-        "clue": "Personal pronoun often represented by a single letter",
-        "answer": "YOU",
-        "row": 3,
+        "clue": "Extra charge",
+        "answer": "FEE",
+        "row": 2,
         "col": 4
       },
       {
-        "num": 15,
-        "clue": "\"___ Girl\" (Gillian Flynn thriller)",
-        "answer": "GONE",
-        "row": 5,
-        "col": 1
-      },
-      {
         "num": 16,
-        "clue": "Friend of the pod?",
-        "answer": "ORCA",
-        "row": 5,
-        "col": 2
-      },
-      {
-        "num": 17,
-        "clue": "Tea, in Hindi",
-        "answer": "CHAI",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 18,
-        "clue": "Group of cattle",
-        "answer": "HERD",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 19,
-        "clue": "Trivial point to \"pick\"",
-        "answer": "NIT",
-        "row": 6,
+        "clue": "Thwack, as a piÃ±ata",
+        "answer": "BASH",
+        "row": 4,
         "col": 0
       },
       {
-        "num": 21,
-        "clue": "OB/GYNs, e.g.",
-        "answer": "MDS",
+        "num": 17,
+        "clue": "Absolutely despise",
+        "answer": "ABHOR",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 18,
+        "clue": "Llong-necked animall lliving near Llima?",
+        "answer": "LLAMA",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 19,
+        "clue": "\"Same here\"",
+        "answer": "DITTO",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 20,
+        "clue": "Garment for a chef",
+        "answer": "APRON",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 24,
+        "clue": "Interjection that aptly rhymes with \"shriek\"",
+        "answer": "EEK",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "num": 26,
+        "clue": "Doc who might treat a sinus infection",
+        "answer": "ENT",
         "row": 6,
         "col": 8
+      },
+      {
+        "num": 27,
+        "clue": "Sense of self",
+        "answer": "EGO",
+        "row": 6,
+        "col": 9
+      },
+      {
+        "num": 28,
+        "clue": "Sticky liquid",
+        "answer": "SAP",
+        "row": 6,
+        "col": 10
       }
     ]
   }

@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "W",
-      "A",
-      "F",
-      "T"
+      null,
+      "B",
+      "O",
+      "W"
     ],
     [
-      "G",
-      "E",
-      "N",
-      "I",
+      "S",
+      "C",
+      "O",
+      "R",
       "E"
     ],
     [
-      "R",
+      "L",
       "A",
-      "V",
+      "C",
       "E",
-      "N"
+      "S"
     ],
     [
       "E",
-      "V",
-      "I",
-      "L",
-      null
+      "P",
+      "C",
+      "O",
+      "T"
     ],
     [
       "W",
       "E",
-      "L",
-      "D",
+      "E",
+      null,
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Move through the air, as a smell",
-        "answer": "WAFT",
+        "clue": "Gift decoration",
+        "answer": "BOW",
         "row": 0,
-        "col": 1
+        "col": 2
       },
       {
-        "num": 5,
-        "clue": "\"Aladdin\" character with the line \"Phenomenal cosmic powers! Itty-bitty living space\"",
-        "answer": "GENIE",
+        "num": 4,
+        "clue": "What might be all tied up for a basketball game",
+        "answer": "SCORE",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Baltimore N.F.L. player",
-        "answer": "RAVEN",
+        "clue": "What might be all tied up for a basketball game",
+        "answer": "LACES",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Wicked",
-        "answer": "EVIL",
+        "clue": "Theme park that Walt Disney envisioned as a utopian city",
+        "answer": "EPCOT",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Fuse, as pieces of metal",
-        "answer": "WELD",
+        "clue": "Small",
+        "answer": "WEE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Use a loom",
-        "answer": "WEAVE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "Metal block falling on Wile E. Coyote's head",
-        "answer": "ANVIL",
+        "clue": "Lawn bowling game",
+        "answer": "BOCCE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Scientist's area of study",
-        "answer": "FIELD",
+        "num": 2,
+        "clue": "Dunkable cookie",
+        "answer": "OREO",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Number of clues in this puzzle",
-        "answer": "TEN",
+        "num": 3,
+        "clue": "Direction headed by Lewis and Clark",
+        "answer": "WEST",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Sprouted",
-        "answer": "GREW",
+        "num": 4,
+        "clue": "Whole bunch",
+        "answer": "SLEW",
         "row": 1,
         "col": 0
+      },
+      {
+        "num": 5,
+        "clue": "Not every hero wears one, in a saying",
+        "answer": "CAPE",
+        "row": 1,
+        "col": 1
       }
     ]
   }
