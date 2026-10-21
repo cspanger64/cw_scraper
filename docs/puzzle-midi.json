@@ -1,382 +1,301 @@
 {
   "size": [
-    9,
-    11
+    10,
+    10
   ],
   "grid": [
     [
-      "S",
-      "C",
+      null,
+      null,
+      null,
+      "M",
+      "U",
+      "M",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
       "A",
-      "B",
-      null,
-      null,
-      "C",
-      "H",
-      "E",
-      "S",
-      "T"
-    ],
-    [
-      "P",
-      "H",
-      "I",
-      "L",
-      null,
-      "F",
-      "I",
-      "E",
-      "S",
-      "T",
-      "A"
-    ],
-    [
-      "F",
-      "I",
-      "R",
-      "E",
-      "F",
-      "I",
-      "G",
-      "H",
-      "T",
-      "E",
-      "R"
-    ],
-    [
-      null,
-      null,
-      null,
       "N",
-      "E",
-      "E",
-      null,
-      null,
-      "A",
-      "P",
-      "P"
-    ],
-    [
-      "B",
-      "A",
-      "L",
-      "D",
-      "E",
-      "R",
-      "D",
-      "A",
-      "S",
-      "H",
-      null
-    ],
-    [
-      "A",
-      "B",
-      "L",
-      "E",
-      null,
       "Y",
-      "I",
-      "P",
+      null,
       null,
       null,
       null
     ],
     [
-      "S",
-      "H",
-      "A",
-      "D",
-      "E",
       null,
+      null,
+      null,
+      "K",
+      "I",
       "T",
-      "R",
+      "T",
       "E",
-      "E",
+      "N",
       "S"
     ],
     [
-      "H",
-      "O",
-      "M",
-      "I",
-      "E",
       null,
+      null,
+      null,
+      "E",
+      "X",
+      "H",
+      "I",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "A",
       "T",
-      "O",
-      "N",
-      "G",
-      "A"
+      "M",
+      "S",
+      null,
+      null,
+      "P",
+      "I",
+      "X",
+      "Y"
+    ],
+    [
+      "S",
+      "W",
+      "A",
+      "M",
+      null,
+      null,
+      "S",
+      "K",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "I",
+      "X",
+      "E",
+      "L",
+      "A",
+      "T",
+      "E",
+      "D",
+      null
     ],
     [
       null,
+      "X",
+      "E",
       "R",
-      "A",
-      "N",
-      "K",
+      "O",
+      "X",
+      "E",
+      "S",
       null,
-      "O",
-      "N",
-      "T",
-      "O",
-      "P"
+      null
+    ],
+    [
+      null,
+      null,
+      "D",
+      "R",
+      "I",
+      "E",
+      "R",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "Y",
+      "S",
+      "L",
+      null,
+      null,
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Aftermath of a scrape",
-        "answer": "SCAB",
+        "clue": "Tight-lipped",
+        "answer": "MUM",
         "row": 0,
-        "col": 0
+        "col": 3
+      },
+      {
+        "num": 4,
+        "clue": "By ___ means necessary",
+        "answer": "ANY",
+        "row": 1,
+        "col": 3
       },
       {
         "num": 5,
-        "clue": "Body part targeted by bench presses",
-        "answer": "CHEST",
-        "row": 0,
-        "col": 6
+        "clue": "Furry new members of the family, maybe",
+        "answer": "KITTENS",
+        "row": 2,
+        "col": 3
       },
       {
         "num": 10,
-        "clue": "Punxsutawney ___",
-        "answer": "PHIL",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "Party with a piÃ±ata, perhaps",
-        "answer": "FIESTA",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 12,
-        "clue": "Worker associated with a red truck",
-        "answer": "FIREFIGHTER",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "Word before a maiden name, from the French",
-        "answer": "NEE",
+        "clue": "Display at a museum",
+        "answer": "EXHIBIT",
         "row": 3,
         "col": 3
       },
       {
-        "num": 15,
-        "clue": "Discord or Dropbox",
-        "answer": "APP",
-        "row": 3,
-        "col": 8
-      },
-      {
-        "num": 16,
-        "clue": "\"Nonsense!\"",
-        "answer": "BALDERDASH",
+        "num": 11,
+        "clue": "Places to cash out?",
+        "answer": "ATMS",
         "row": 4,
         "col": 0
       },
       {
-        "num": 21,
-        "clue": "Up to the task",
-        "answer": "ABLE",
+        "num": 14,
+        "clue": "___ Stix (powdered candy)",
+        "answer": "PIXY",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 15,
+        "clue": "Practiced backstroke or breaststroke, say",
+        "answer": "SWAM",
         "row": 5,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Puppy's bark",
-        "answer": "YIP",
+        "num": 16,
+        "clue": "___-Ball (arcade game)",
+        "answer": "SKEE",
         "row": 5,
-        "col": 5
+        "col": 6
       },
       {
-        "num": 23,
-        "clue": "With 25-Across, shelters from the sun ... or what some squares in 12- and 16-Across do?",
-        "answer": "SHADE",
+        "num": 17,
+        "clue": "Like the graphics of the original Super Mario Bros.",
+        "answer": "PIXELATED",
         "row": 6,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "See 23-Across",
-        "answer": "TREES",
-        "row": 6,
-        "col": 6
-      },
-      {
-        "num": 29,
-        "clue": "Marge Simpson's pet name for her husband",
-        "answer": "HOMIE",
+        "num": 20,
+        "clue": "Photocopies",
+        "answer": "XEROXES",
         "row": 7,
-        "col": 0
-      },
-      {
-        "num": 30,
-        "clue": "Polynesian island nation",
-        "answer": "TONGA",
-        "row": 7,
-        "col": 6
-      },
-      {
-        "num": 31,
-        "clue": "Sort in order of preference",
-        "answer": "RANK",
-        "row": 8,
         "col": 1
       },
       {
-        "num": 32,
-        "clue": "In first place",
-        "answer": "ONTOP",
+        "num": 21,
+        "clue": "Like British humor vis-Ã -vis American humor, stereotypically",
+        "answer": "DRIER",
         "row": 8,
-        "col": 6
+        "col": 2
+      },
+      {
+        "num": 22,
+        "clue": "French fashion initials",
+        "answer": "YSL",
+        "row": 9,
+        "col": 3
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Initials on a beach bottle",
-        "answer": "SPF",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Tai ___ (martial art)",
-        "answer": "CHI",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Breathe it in!",
-        "answer": "AIR",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Didn't stand out from the crowd",
-        "answer": "BLENDEDIN",
+        "clue": "Rings in the New Year, perhaps",
+        "answer": "MAKESMERRY",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "What becomes a butt after it's bummed, informally",
-        "answer": "CIG",
+        "num": 2,
+        "clue": "Operating system developed at Bell Labs",
+        "answer": "UNIX",
         "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "\"That's kinda funny\"",
-        "answer": "HEH",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "\"CÃ³mo ___?\"",
-        "answer": "ESTAS",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 8,
-        "clue": "N.B.A. star Curry",
-        "answer": "STEPH",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 9,
-        "clue": "Waterproof cover",
-        "answer": "TARP",
-        "row": 0,
-        "col": 10
-      },
-      {
-        "num": 11,
-        "clue": "Impassioned",
-        "answer": "FIERY",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 13,
-        "clue": "Extra charge",
-        "answer": "FEE",
-        "row": 2,
         "col": 4
       },
       {
-        "num": 16,
-        "clue": "Thwack, as a piÃ±ata",
-        "answer": "BASH",
+        "num": 3,
+        "clue": "\"Swallowed gum stays in your body for seven years,\" e.g.",
+        "answer": "MYTH",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Betting adviser",
+        "answer": "TIPSTER",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Two-wheeled vehicles that need charging",
+        "answer": "EBIKES",
+        "row": 2,
+        "col": 7
+      },
+      {
+        "num": 8,
+        "clue": "Vetoed",
+        "answer": "NIXED",
+        "row": 2,
+        "col": 8
+      },
+      {
+        "num": 9,
+        "clue": "Eye affliction that rhymes with \"eye\"",
+        "answer": "STYE",
+        "row": 2,
+        "col": 9
+      },
+      {
+        "num": 11,
+        "clue": "Egyptian snake that bit Cleopatra",
+        "answer": "ASP",
         "row": 4,
         "col": 0
       },
       {
-        "num": 17,
-        "clue": "Absolutely despise",
-        "answer": "ABHOR",
+        "num": 12,
+        "clue": "Candy with the slogan \"Two is more than one\"",
+        "answer": "TWIX",
         "row": 4,
         "col": 1
       },
       {
-        "num": 18,
-        "clue": "Llong-necked animall lliving near Llima?",
-        "answer": "LLAMA",
+        "num": 13,
+        "clue": "Reached full capacity, with \"out\"",
+        "answer": "MAXED",
         "row": 4,
         "col": 2
       },
       {
-        "num": 19,
-        "clue": "\"Same here\"",
-        "answer": "DITTO",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 20,
-        "clue": "Garment for a chef",
-        "answer": "APRON",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 24,
-        "clue": "Interjection that aptly rhymes with \"shriek\"",
-        "answer": "EEK",
+        "num": 18,
+        "clue": "Fictional reporter Lane",
+        "answer": "LOIS",
         "row": 6,
         "col": 4
       },
       {
-        "num": 26,
-        "clue": "Doc who might treat a sinus infection",
-        "answer": "ENT",
+        "num": 19,
+        "clue": "Skating jump",
+        "answer": "AXEL",
         "row": 6,
-        "col": 8
-      },
-      {
-        "num": 27,
-        "clue": "Sense of self",
-        "answer": "EGO",
-        "row": 6,
-        "col": 9
-      },
-      {
-        "num": 28,
-        "clue": "Sticky liquid",
-        "answer": "SAP",
-        "row": 6,
-        "col": 10
+        "col": 5
       }
     ]
   }

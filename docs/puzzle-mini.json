@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      null,
-      "B",
-      "O",
-      "W"
-    ],
-    [
-      "S",
-      "C",
-      "O",
-      "R",
-      "E"
-    ],
-    [
-      "L",
+      "P",
       "A",
-      "C",
+      "S",
+      "S",
+      null
+    ],
+    [
+      "I",
+      "T",
+      "O",
+      "N",
+      null
+    ],
+    [
+      "G",
       "E",
+      "N",
+      "A",
+      "I"
+    ],
+    [
+      null,
+      "U",
+      "G",
+      "G",
       "S"
     ],
     [
-      "E",
-      "P",
-      "C",
-      "O",
-      "T"
-    ],
-    [
-      "W",
-      "E",
-      "E",
       null,
-      null
+      "P",
+      "S",
+      "S",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Gift decoration",
-        "answer": "BOW",
+        "clue": "With 5-Across, words whispered in a game of telephone",
+        "answer": "PASS",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 4,
-        "clue": "What might be all tied up for a basketball game",
-        "answer": "SCORE",
+        "num": 5,
+        "clue": "See 1-Across",
+        "answer": "ITON",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "What might be all tied up for a basketball game",
-        "answer": "LACES",
+        "clue": "Modern way of creating images and text, for short",
+        "answer": "GENAI",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Theme park that Walt Disney envisioned as a utopian city",
-        "answer": "EPCOT",
+        "num": 8,
+        "clue": "Some fuzzy brown boots",
+        "answer": "UGGS",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Small",
-        "answer": "WEE",
+        "num": 9,
+        "clue": "Whisper appropriately spelled (in order!) by the circled letters of 1-/5-Across",
+        "answer": "PSST",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Lawn bowling game",
-        "answer": "BOCCE",
+        "clue": "Wilbur in \"Charlotte's Web,\" e.g.",
+        "answer": "PIG",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Devoured completely",
+        "answer": "ATEUP",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Spotify playlist makeup",
+        "answer": "SONGS",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Dunkable cookie",
-        "answer": "OREO",
+        "num": 4,
+        "clue": "Unexpected problems",
+        "answer": "SNAGS",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Direction headed by Lewis and Clark",
-        "answer": "WEST",
-        "row": 0,
+        "num": 7,
+        "clue": "Suffix with \"novel\" or \"capital\"",
+        "answer": "IST",
+        "row": 2,
         "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Whole bunch",
-        "answer": "SLEW",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Not every hero wears one, in a saying",
-        "answer": "CAPE",
-        "row": 1,
-        "col": 1
       }
     ]
   }
