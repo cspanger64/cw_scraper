@@ -1,125 +1,104 @@
 {
   "size": [
-    10,
-    10
+    9,
+    9
   ],
   "grid": [
     [
       null,
+      "D",
+      "E",
+      "A",
+      "L",
+      "S",
       null,
       null,
+      null
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "L",
+      "I",
+      "N",
+      "S",
+      null,
+      null
+    ],
+    [
+      "H",
+      "E",
+      "L",
+      "L",
       "M",
       "U",
-      "M",
-      null,
-      null,
-      null,
+      "T",
+      "H",
       null
     ],
     [
-      null,
-      null,
+      "I",
+      "R",
+      "A",
       null,
       "A",
-      "N",
-      "Y",
-      null,
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "K",
-      "I",
-      "T",
-      "T",
-      "E",
-      "N",
+      "F",
+      "R",
+      "O",
       "S"
     ],
     [
       null,
       null,
       null,
-      "E",
-      "X",
-      "H",
-      "I",
-      "B",
-      "I",
-      "T"
-    ],
-    [
-      "A",
-      "T",
-      "M",
-      "S",
       null,
       null,
-      "P",
-      "I",
-      "X",
-      "Y"
-    ],
-    [
-      "S",
-      "W",
+      "F",
       "A",
       "M",
-      null,
-      null,
-      "S",
-      "K",
-      "E",
       "E"
     ],
     [
-      "P",
+      null,
       "I",
-      "X",
+      "V",
+      "S",
+      null,
+      null,
+      "N",
       "E",
-      "L",
-      "A",
+      "W"
+    ],
+    [
+      "I",
+      "C",
+      "E",
       "T",
-      "E",
-      "D",
-      null
-    ],
-    [
-      null,
-      "X",
-      "E",
-      "R",
       "O",
-      "X",
-      "E",
+      "N",
+      "G",
       "S",
-      null,
       null
     ],
     [
-      null,
-      null,
       "D",
-      "R",
-      "I",
+      "O",
+      "N",
+      "A",
+      "H",
+      "U",
       "E",
-      "R",
-      null,
       null,
       null
     ],
     [
-      null,
-      null,
-      null,
-      "Y",
-      "S",
-      "L",
-      null,
+      "K",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
       null,
       null,
       null
@@ -129,171 +108,185 @@
     "across": [
       {
         "num": 1,
-        "clue": "Tight-lipped",
-        "answer": "MUM",
+        "clue": "Distributes playing cards",
+        "answer": "DEALS",
         "row": 0,
-        "col": 3
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "By ___ means necessary",
-        "answer": "ANY",
+        "num": 6,
+        "clue": "Phil ___, lead singer/drummer of Genesis",
+        "answer": "COLLINS",
         "row": 1,
-        "col": 3
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "Furry new members of the family, maybe",
-        "answer": "KITTENS",
+        "num": 8,
+        "clue": "Phil ___, winner of World Series of Poker bracelets in five different decades",
+        "answer": "HELLMUTH",
         "row": 2,
-        "col": 3
+        "col": 0
       },
       {
         "num": 10,
-        "clue": "Display at a museum",
-        "answer": "EXHIBIT",
+        "clue": "Retirement savings plan, for short",
+        "answer": "IRA",
         "row": 3,
-        "col": 3
+        "col": 0
       },
       {
         "num": 11,
-        "clue": "Places to cash out?",
-        "answer": "ATMS",
+        "clue": "Some natural hairstyles",
+        "answer": "AFROS",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 13,
+        "clue": "It \"warms you a bit but the warming is temporary,\" per Marilyn Monroe",
+        "answer": "FAME",
         "row": 4,
-        "col": 0
+        "col": 5
       },
       {
         "num": 14,
-        "clue": "___ Stix (powdered candy)",
-        "answer": "PIXY",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 15,
-        "clue": "Practiced backstroke or breaststroke, say",
-        "answer": "SWAM",
+        "clue": "I.C.U. drip lines",
+        "answer": "IVS",
         "row": 5,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "___-Ball (arcade game)",
-        "answer": "SKEE",
-        "row": 5,
-        "col": 6
+        "col": 1
       },
       {
         "num": 17,
-        "clue": "Like the graphics of the original Super Mario Bros.",
-        "answer": "PIXELATED",
+        "clue": "Partner of improved",
+        "answer": "NEW",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 18,
+        "clue": "Champagne bucket grabbers",
+        "answer": "ICETONGS",
         "row": 6,
         "col": 0
       },
       {
-        "num": 20,
-        "clue": "Photocopies",
-        "answer": "XEROXES",
-        "row": 7,
-        "col": 1
-      },
-      {
         "num": 21,
-        "clue": "Like British humor vis-Ã -vis American humor, stereotypically",
-        "answer": "DRIER",
-        "row": 8,
-        "col": 2
+        "clue": "Phil ___, longtime TV talk show host",
+        "answer": "DONAHUE",
+        "row": 7,
+        "col": 0
       },
       {
         "num": 22,
-        "clue": "French fashion initials",
-        "answer": "YSL",
-        "row": 9,
-        "col": 3
+        "clue": "Phil ___, co-founder of Nike",
+        "answer": "KNIGHT",
+        "row": 8,
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Rings in the New Year, perhaps",
-        "answer": "MAKESMERRY",
+        "clue": "Real go-getter",
+        "answer": "DOER",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Jazz singer Fitzgerald",
+        "answer": "ELLA",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 3,
+        "clue": "100%",
+        "answer": "ALL",
         "row": 0,
         "col": 3
       },
       {
-        "num": 2,
-        "clue": "Operating system developed at Bell Labs",
-        "answer": "UNIX",
+        "num": 4,
+        "clue": "Capital of Peru",
+        "answer": "LIMA",
         "row": 0,
         "col": 4
       },
       {
-        "num": 3,
-        "clue": "\"Swallowed gum stays in your body for seven years,\" e.g.",
-        "answer": "MYTH",
+        "num": 5,
+        "clue": "Extinguish, as a candle",
+        "answer": "SNUFF",
         "row": 0,
         "col": 5
       },
       {
         "num": 6,
-        "clue": "Betting adviser",
-        "answer": "TIPSTER",
-        "row": 2,
-        "col": 6
+        "clue": "The N.F.L.'s Bears, on scoreboards",
+        "answer": "CHI",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "Two-wheeled vehicles that need charging",
-        "answer": "EBIKES",
+        "clue": "Odd or bizarre",
+        "answer": "STRANGE",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 9,
+        "clue": "Realtors' listings",
+        "answer": "HOMES",
         "row": 2,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "Vetoed",
-        "answer": "NIXED",
-        "row": 2,
+        "num": 12,
+        "clue": "Work with needle and thread",
+        "answer": "SEW",
+        "row": 3,
         "col": 8
       },
       {
-        "num": 9,
-        "clue": "Eye affliction that rhymes with \"eye\"",
-        "answer": "STYE",
-        "row": 2,
-        "col": 9
-      },
-      {
-        "num": 11,
-        "clue": "Egyptian snake that bit Cleopatra",
-        "answer": "ASP",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Candy with the slogan \"Two is more than one\"",
-        "answer": "TWIX",
-        "row": 4,
+        "num": 14,
+        "clue": "Clickable image",
+        "answer": "ICON",
+        "row": 5,
         "col": 1
       },
       {
-        "num": 13,
-        "clue": "Reached full capacity, with \"out\"",
-        "answer": "MAXED",
-        "row": 4,
+        "num": 15,
+        "clue": "Word before \"vidi\" and \"vici\" in Caesar's boast",
+        "answer": "VENI",
+        "row": 5,
         "col": 2
       },
       {
+        "num": 16,
+        "clue": "Norse mythology's Eikthyrnir (whose antlers drip water that fills the world's rivers), e.g.",
+        "answer": "STAG",
+        "row": 5,
+        "col": 3
+      },
+      {
         "num": 18,
-        "clue": "Fictional reporter Lane",
-        "answer": "LOIS",
+        "clue": "Texter's \"No idea\"",
+        "answer": "IDK",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 19,
+        "clue": "\"NOW it's clear to me!\"",
+        "answer": "OHH",
         "row": 6,
         "col": 4
       },
       {
-        "num": 19,
-        "clue": "Skating jump",
-        "answer": "AXEL",
+        "num": 20,
+        "clue": "Pistachio or pecan",
+        "answer": "NUT",
         "row": 6,
         "col": 5
       }

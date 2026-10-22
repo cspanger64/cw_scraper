@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
+      "S",
       "P",
       "A",
-      "S",
-      "S",
-      null
-    ],
-    [
-      "I",
-      "T",
-      "O",
       "N",
       null
     ],
     [
-      "G",
-      "E",
-      "N",
       "A",
-      "I"
+      "I",
+      "D",
+      "E",
+      null
     ],
     [
-      null,
-      "U",
-      "G",
-      "G",
+      "D",
+      "O",
+      "O",
+      "R",
       "S"
     ],
     [
       null,
+      "U",
       "P",
+      "D",
+      "O"
+    ],
+    [
+      null,
       "S",
-      "S",
-      "T"
+      "T",
+      "Y",
+      "X"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "With 5-Across, words whispered in a game of telephone",
-        "answer": "PASS",
+        "clue": "Go across",
+        "answer": "SPAN",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "See 1-Across",
-        "answer": "ITON",
+        "clue": "Political staffer",
+        "answer": "AIDE",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Modern way of creating images and text, for short",
-        "answer": "GENAI",
+        "clue": "\"Stand clear of the closing ___, please\" (iconic N.Y.C. subway announcement)",
+        "answer": "DOORS",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Some fuzzy brown boots",
-        "answer": "UGGS",
+        "clue": "Hairstyle secured with pins, maybe",
+        "answer": "UPDO",
         "row": 3,
         "col": 1
       },
       {
         "num": 9,
-        "clue": "Whisper appropriately spelled (in order!) by the circled letters of 1-/5-Across",
-        "answer": "PSST",
+        "clue": "Greek river of the underworld",
+        "answer": "STYX",
         "row": 4,
         "col": 1
       }
@@ -81,36 +81,36 @@
     "down": [
       {
         "num": 1,
-        "clue": "Wilbur in \"Charlotte's Web,\" e.g.",
-        "answer": "PIG",
+        "clue": "Feeling down",
+        "answer": "SAD",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Devoured completely",
-        "answer": "ATEUP",
+        "clue": "Devout",
+        "answer": "PIOUS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Spotify playlist makeup",
-        "answer": "SONGS",
+        "clue": "Get from the pound",
+        "answer": "ADOPT",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Unexpected problems",
-        "answer": "SNAGS",
+        "clue": "Excelling at trivia, say",
+        "answer": "NERDY",
         "row": 0,
         "col": 3
       },
       {
         "num": 7,
-        "clue": "Suffix with \"novel\" or \"capital\"",
-        "answer": "IST",
+        "clue": "\"Red\" or \"White\" team",
+        "answer": "SOX",
         "row": 2,
         "col": 4
       }
