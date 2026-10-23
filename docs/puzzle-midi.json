@@ -1,294 +1,400 @@
 {
   "size": [
-    9,
+    11,
     9
   ],
   "grid": [
     [
-      null,
-      "D",
-      "E",
-      "A",
-      "L",
       "S",
+      "K",
+      "Y",
       null,
       null,
-      null
+      null,
+      "S",
+      "A",
+      "Y"
     ],
     [
+      "K",
+      "E",
+      "E",
+      "P",
+      "S",
       "C",
       "O",
-      "L",
-      "L",
-      "I",
-      "N",
-      "S",
-      null,
-      null
+      "R",
+      "E"
     ],
     [
-      "H",
+      "A",
+      "N",
+      "T",
       "E",
       "L",
-      "L",
-      "M",
-      "U",
-      "T",
-      "H",
-      null
-    ],
-    [
-      "I",
-      "R",
-      "A",
-      null,
-      "A",
-      "F",
-      "R",
       "O",
+      "P",
+      "E",
       "S"
     ],
     [
       null,
       null,
       null,
-      null,
-      null,
-      "F",
       "A",
-      "M",
-      "E"
+      "A",
+      "A",
+      null,
+      null,
+      null
     ],
     [
-      null,
-      "I",
-      "V",
-      "S",
-      null,
-      null,
-      "N",
-      "E",
-      "W"
-    ],
-    [
-      "I",
       "C",
+      "H",
+      "A",
+      "R",
+      "M",
+      "L",
       "E",
-      "T",
-      "O",
-      "N",
-      "G",
       "S",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "P",
+      null,
+      null,
+      null,
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "E",
+      "N",
+      "S",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      null,
+      null,
+      null,
+      "M",
+      "A",
+      "I",
+      null,
+      null,
       null
     ],
     [
       "D",
-      "O",
-      "N",
       "A",
-      "H",
-      "U",
-      "E",
-      null,
-      null
+      "T",
+      "I",
+      "N",
+      "G",
+      "A",
+      "P",
+      "P"
     ],
     [
-      "K",
+      "A",
+      "V",
+      "A",
+      "L",
+      "A",
       "N",
-      "I",
-      "G",
+      "C",
       "H",
-      "T",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "P",
       null,
       null,
-      null
+      null,
+      "L",
+      "I",
+      "Z"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Distributes playing cards",
-        "answer": "DEALS",
+        "clue": "Heavens, by another name",
+        "answer": "SKY",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 6,
-        "clue": "Phil ___, lead singer/drummer of Genesis",
-        "answer": "COLLINS",
+        "num": 4,
+        "clue": "Utter",
+        "answer": "SAY",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Tally the points",
+        "answer": "KEEPSCORE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Phil ___, winner of World Series of Poker bracelets in five different decades",
-        "answer": "HELLMUTH",
+        "num": 11,
+        "clue": "Hoofed mammals that can weigh over 2,000 pounds",
+        "answer": "ANTELOPES",
         "row": 2,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Retirement savings plan, for short",
-        "answer": "IRA",
+        "num": 12,
+        "clue": "Small battery size",
+        "answer": "AAA",
         "row": 3,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "Some natural hairstyles",
-        "answer": "AFROS",
-        "row": 3,
-        "col": 4
+        "col": 3
       },
       {
         "num": 13,
-        "clue": "It \"warms you a bit but the warming is temporary,\" per Marilyn Monroe",
-        "answer": "FAME",
+        "clue": "Lacking charisma",
+        "answer": "CHARMLESS",
         "row": 4,
-        "col": 5
+        "col": 0
       },
       {
-        "num": 14,
-        "clue": "I.C.U. drip lines",
-        "answer": "IVS",
+        "num": 19,
+        "clue": "Liquid boiled to make maple syrup",
+        "answer": "SAP",
         "row": 5,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 17,
-        "clue": "Partner of improved",
-        "answer": "NEW",
+        "num": 20,
+        "clue": "Pool workout unit",
+        "answer": "LAP",
         "row": 5,
         "col": 6
       },
       {
-        "num": 18,
-        "clue": "Champagne bucket grabbers",
-        "answer": "ICETONGS",
+        "num": 21,
+        "clue": "Strength and zeal",
+        "answer": "INTENSITY",
         "row": 6,
         "col": 0
       },
       {
-        "num": 21,
-        "clue": "Phil ___, longtime TV talk show host",
-        "answer": "DONAHUE",
+        "num": 25,
+        "clue": "___ tai (rum-based cocktail)",
+        "answer": "MAI",
         "row": 7,
+        "col": 3
+      },
+      {
+        "num": 26,
+        "clue": "Tinder or Hinge",
+        "answer": "DATINGAPP",
+        "row": 8,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Phil ___, co-founder of Nike",
-        "answer": "KNIGHT",
-        "row": 8,
+        "num": 32,
+        "clue": "Snow fall?",
+        "answer": "AVALANCHE",
+        "row": 9,
         "col": 0
+      },
+      {
+        "num": 33,
+        "clue": "Sass",
+        "answer": "LIP",
+        "row": 10,
+        "col": 0
+      },
+      {
+        "num": 34,
+        "clue": "Betsy, by another name",
+        "answer": "LIZ",
+        "row": 10,
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Real go-getter",
-        "answer": "DOER",
+        "clue": "Genre similar to reggae",
+        "answer": "SKA",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Jennings of \"Jeopardy!\"",
+        "answer": "KEN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Jazz singer Fitzgerald",
-        "answer": "ELLA",
+        "num": 3,
+        "clue": "Thus far",
+        "answer": "YET",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "100%",
-        "answer": "ALL",
-        "row": 0,
-        "col": 3
-      },
-      {
         "num": 4,
-        "clue": "Capital of Peru",
-        "answer": "LIMA",
+        "clue": "Soak (up)",
+        "answer": "SOP",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "Extinguish, as a candle",
-        "answer": "SNUFF",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "The N.F.L.'s Bears, on scoreboards",
-        "answer": "CHI",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Odd or bizarre",
-        "answer": "STRANGE",
-        "row": 1,
         "col": 6
       },
       {
-        "num": 9,
-        "clue": "Realtors' listings",
-        "answer": "HOMES",
-        "row": 2,
+        "num": 5,
+        "clue": "Bob Dylan's \"The Times They ___ a-Changin'\"",
+        "answer": "ARE",
+        "row": 0,
         "col": 7
       },
       {
-        "num": 12,
-        "clue": "Work with needle and thread",
-        "answer": "SEW",
-        "row": 3,
+        "num": 6,
+        "clue": "Word of assent",
+        "answer": "YES",
+        "row": 0,
         "col": 8
       },
       {
+        "num": 8,
+        "clue": "Fruit with a bulbous base",
+        "answer": "PEAR",
+        "row": 1,
+        "col": 3
+      },
+      {
+        "num": 9,
+        "clue": "Serena ___ (rare tennis feat)",
+        "answer": "SLAM",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Gift for naughty kids",
+        "answer": "COAL",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 13,
+        "clue": "Long-running forensics show",
+        "answer": "CSI",
+        "row": 4,
+        "col": 0
+      },
+      {
         "num": 14,
-        "clue": "Clickable image",
-        "answer": "ICON",
-        "row": 5,
+        "clue": "Solo who said \"Look, your worshipfulness, let's get one thing straight. I take orders from just one person: me\"",
+        "answer": "HAN",
+        "row": 4,
         "col": 1
       },
       {
         "num": 15,
-        "clue": "Word before \"vidi\" and \"vici\" in Caesar's boast",
-        "answer": "VENI",
-        "row": 5,
+        "clue": "Appropriate",
+        "answer": "APT",
+        "row": 4,
         "col": 2
       },
       {
         "num": 16,
-        "clue": "Norse mythology's Eikthyrnir (whose antlers drip water that fills the world's rivers), e.g.",
-        "answer": "STAG",
-        "row": 5,
-        "col": 3
+        "clue": "Ex-QB Manning",
+        "answer": "ELI",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 17,
+        "clue": "Had a rest, maybe",
+        "answer": "SAT",
+        "row": 4,
+        "col": 7
       },
       {
         "num": 18,
-        "clue": "Texter's \"No idea\"",
-        "answer": "IDK",
-        "row": 6,
-        "col": 0
+        "clue": "\"I ___ with my little eye ...\"",
+        "answer": "SPY",
+        "row": 4,
+        "col": 8
       },
       {
-        "num": 19,
-        "clue": "\"NOW it's clear to me!\"",
-        "answer": "OHH",
+        "num": 22,
+        "clue": "\"S.N.L.\" alum Wakim",
+        "answer": "EMIL",
+        "row": 6,
+        "col": 3
+      },
+      {
+        "num": 23,
+        "clue": "Granny, to some",
+        "answer": "NANA",
         "row": 6,
         "col": 4
       },
       {
-        "num": 20,
-        "clue": "Pistachio or pecan",
-        "answer": "NUT",
+        "num": 24,
+        "clue": "Put pen to paper, say",
+        "answer": "SIGN",
         "row": 6,
         "col": 5
+      },
+      {
+        "num": 26,
+        "clue": "Indian lentil dish",
+        "answer": "DAL",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 27,
+        "clue": "Bird-related: Prefix",
+        "answer": "AVI",
+        "row": 8,
+        "col": 1
+      },
+      {
+        "num": 28,
+        "clue": "Dance form with percussive shoes",
+        "answer": "TAP",
+        "row": 8,
+        "col": 2
+      },
+      {
+        "num": 29,
+        "clue": "Common knee injury site, for short",
+        "answer": "ACL",
+        "row": 8,
+        "col": 6
+      },
+      {
+        "num": 30,
+        "clue": "The Eagles, on scoreboards",
+        "answer": "PHI",
+        "row": 8,
+        "col": 7
+      },
+      {
+        "num": 31,
+        "clue": "Candy with collectible dispensers",
+        "answer": "PEZ",
+        "row": 8,
+        "col": 8
       }
     ]
   }

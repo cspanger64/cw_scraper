@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "S",
-      "P",
+      "F",
       "A",
-      "N",
-      null
-    ],
-    [
-      "A",
-      "I",
-      "D",
-      "E",
-      null
-    ],
-    [
-      "D",
-      "O",
-      "O",
-      "R",
-      "S"
-    ],
-    [
-      null,
-      "U",
-      "P",
-      "D",
-      "O"
-    ],
-    [
-      null,
       "S",
       "T",
-      "Y",
-      "X"
+      null
+    ],
+    [
+      "I",
+      "N",
+      "C",
+      "H",
+      null
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "U",
+      "M"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "H",
+      "A",
+      "W",
+      "K",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Go across",
-        "answer": "SPAN",
+        "clue": "Like bullet trains",
+        "answer": "FAST",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Political staffer",
-        "answer": "AIDE",
+        "clue": "1/12 of a foot",
+        "answer": "INCH",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "\"Stand clear of the closing ___, please\" (iconic N.Y.C. subway announcement)",
-        "answer": "DOORS",
+        "clue": "Place for online discussion",
+        "answer": "FORUM",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Hairstyle secured with pins, maybe",
-        "answer": "UPDO",
+        "clue": "Fashion development",
+        "answer": "TREND",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "Greek river of the underworld",
-        "answer": "STYX",
+        "clue": "Atlanta N.B.A. team",
+        "answer": "HAWKS",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Feeling down",
-        "answer": "SAD",
+        "clue": "Like Staten Island, among all N.Y.C. boroughs in population",
+        "answer": "FIFTH",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Devout",
-        "answer": "PIOUS",
+        "clue": "Best Picture winner after \"Oppenheimer\"",
+        "answer": "ANORA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Get from the pound",
-        "answer": "ADOPT",
+        "clue": "Threaded fastener",
+        "answer": "SCREW",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Excelling at trivia, say",
-        "answer": "NERDY",
+        "clue": "\"Who'd have ___ it!?\"",
+        "answer": "THUNK",
         "row": 0,
         "col": 3
       },
       {
         "num": 7,
-        "clue": "\"Red\" or \"White\" team",
-        "answer": "SOX",
+        "clue": "Many characters on \"Scrubs\": Abbr.",
+        "answer": "MDS",
         "row": 2,
         "col": 4
       }
