@@ -1,118 +1,174 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "F",
-      "A",
-      "S",
-      "T",
+      null,
+      null,
+      "M",
+      "L",
+      "B",
+      null,
       null
     ],
     [
+      null,
+      "P",
+      "R",
       "I",
-      "N",
-      "C",
-      "H",
+      "U",
+      "S",
       null
     ],
     [
-      "F",
-      "O",
+      "P",
+      "A",
+      "C",
+      "K",
       "R",
-      "U",
-      "M"
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "T",
+      "L",
+      "A",
+      "N",
+      "T",
+      "A"
     ],
     [
       "T",
-      "R",
+      "H",
       "E",
-      "N",
-      "D"
+      "B",
+      "E",
+      "A",
+      "N"
     ],
     [
-      "H",
+      null,
+      "S",
       "A",
-      "W",
-      "K",
-      "S"
+      "L",
+      "T",
+      "Y",
+      null
+    ],
+    [
+      null,
+      null,
+      "N",
+      "E",
+      "T",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Like bullet trains",
-        "answer": "FAST",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "1/12 of a foot",
-        "answer": "INCH",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Place for online discussion",
-        "answer": "FORUM",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Fashion development",
-        "answer": "TREND",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Atlanta N.B.A. team",
-        "answer": "HAWKS",
-        "row": 4,
-        "col": 0
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Like Staten Island, among all N.Y.C. boroughs in population",
-        "answer": "FIFTH",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Best Picture winner after \"Oppenheimer\"",
-        "answer": "ANORA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Threaded fastener",
-        "answer": "SCREW",
+        "clue": "World Series org.",
+        "answer": "MLB",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "\"Who'd have ___ it!?\"",
-        "answer": "THUNK",
+        "clue": "Toyota hybrid",
+        "answer": "PRIUS",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Person who hoards random objects",
+        "answer": "PACKRAT",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Southern city where Coca-Cola, Delta and Home Depot are all headquartered",
+        "answer": "ATLANTA",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Landmark Chicago sculpture, informally",
+        "answer": "THEBEAN",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "High in sodium",
+        "answer": "SALTY",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 11,
+        "clue": "___ worth",
+        "answer": "NET",
+        "row": 6,
+        "col": 2
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Commercial mascot with a bald head and golden earring",
+        "answer": "MRCLEAN",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Charming and friendly",
+        "answer": "LIKABLE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Many characters on \"Scrubs\": Abbr.",
-        "answer": "MDS",
-        "row": 2,
+        "num": 3,
+        "clue": "Carol of old TV",
+        "answer": "BURNETT",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Hiking trails",
+        "answer": "PATHS",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Meat-on-a-stick dish in Southeast Asia",
+        "answer": "SATAY",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Reassuring touch",
+        "answer": "PAT",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Camel-colored",
+        "answer": "TAN",
+        "row": 2,
+        "col": 6
       }
     ]
   }

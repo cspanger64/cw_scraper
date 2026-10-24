@@ -1,400 +1,336 @@
 {
   "size": [
-    11,
+    9,
     9
   ],
   "grid": [
     [
+      "P",
+      "A",
       "S",
-      "K",
+      "S",
+      null,
+      null,
+      "S",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "O",
+      null,
+      "R",
+      "I",
+      "M",
+      "S"
+    ],
+    [
+      "T",
+      "O",
       "Y",
-      null,
-      null,
-      null,
       "S",
-      "A",
-      "Y"
-    ],
-    [
-      "K",
-      "E",
-      "E",
-      "P",
-      "S",
-      "C",
+      "T",
       "O",
       "R",
-      "E"
+      "Y",
+      null
     ],
     [
-      "A",
-      "N",
-      "T",
+      "H",
+      "E",
+      "X",
+      null,
+      "O",
+      "U",
+      "I",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "E",
       "E",
       "L",
-      "O",
-      "P",
-      "E",
-      "S"
-    ],
-    [
-      null,
-      null,
-      null,
-      "A",
-      "A",
-      "A",
       null,
       null,
       null
     ],
     [
-      "C",
-      "H",
-      "A",
-      "R",
-      "M",
-      "L",
-      "E",
-      "S",
-      "S"
-    ],
-    [
-      "S",
-      "A",
+      null,
       "P",
-      null,
-      null,
-      null,
-      "L",
-      "A",
-      "P"
-    ],
-    [
-      "I",
-      "N",
-      "T",
-      "E",
-      "N",
-      "S",
-      "I",
-      "T",
-      "Y"
-    ],
-    [
-      null,
-      null,
-      null,
-      "M",
-      "A",
-      "I",
-      null,
-      null,
-      null
-    ],
-    [
-      "D",
-      "A",
-      "T",
-      "I",
-      "N",
-      "G",
-      "A",
-      "P",
-      "P"
-    ],
-    [
-      "A",
-      "V",
-      "A",
-      "L",
-      "A",
-      "N",
-      "C",
       "H",
+      "X",
+      null,
+      "E",
+      "X",
+      "P",
+      "O"
+    ],
+    [
+      "W",
+      "A",
+      "I",
+      "L",
+      null,
+      "T",
+      "B",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "L",
+      "Y",
+      "A",
+      null,
+      "T",
+      "O",
+      "N",
       "E"
     ],
     [
-      "L",
       "I",
-      "P",
+      "M",
+      "A",
+      "X",
       null,
-      null,
-      null,
-      "L",
-      "I",
-      "Z"
+      "E",
+      "X",
+      "E",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Heavens, by another name",
-        "answer": "SKY",
+        "clue": "\"Nah, not for me\"",
+        "answer": "PASS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Utter",
-        "answer": "SAY",
+        "num": 5,
+        "clue": "Maple syrup source",
+        "answer": "SAP",
         "row": 0,
         "col": 6
       },
       {
-        "num": 7,
-        "clue": "Tally the points",
-        "answer": "KEEPSCORE",
+        "num": 8,
+        "clue": "Vocal range for Tracy Chapman and Toni Braxton",
+        "answer": "ALTO",
         "row": 1,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Hoofed mammals that can weigh over 2,000 pounds",
-        "answer": "ANTELOPES",
+        "num": 9,
+        "clue": "Basketball hoops",
+        "answer": "RIMS",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 10,
+        "clue": "Pixar's first sequel with Buzz Lightyear and Woody",
+        "answer": "TOYSTORY",
         "row": 2,
         "col": 0
       },
       {
         "num": 12,
-        "clue": "Small battery size",
-        "answer": "AAA",
+        "clue": "Magic spell",
+        "answer": "HEX",
         "row": 3,
-        "col": 3
+        "col": 0
       },
       {
         "num": 13,
-        "clue": "Lacking charisma",
-        "answer": "CHARMLESS",
+        "clue": "\"Of course, monsieur!\"",
+        "answer": "OUI",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "Letters aptly missing from coral r_ _f s_itherer",
+        "answer": "EEL",
         "row": 4,
-        "col": 0
+        "col": 3
       },
       {
-        "num": 19,
-        "clue": "Liquid boiled to make maple syrup",
-        "answer": "SAP",
+        "num": 15,
+        "clue": "Airport code for an Arizona hub",
+        "answer": "PHX",
         "row": 5,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 20,
-        "clue": "Pool workout unit",
-        "answer": "LAP",
+        "num": 17,
+        "clue": "Convention center event",
+        "answer": "EXPO",
         "row": 5,
-        "col": 6
+        "col": 5
       },
       {
         "num": 21,
-        "clue": "Strength and zeal",
-        "answer": "INTENSITY",
+        "clue": "Sob",
+        "answer": "WAIL",
         "row": 6,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "___ tai (rum-based cocktail)",
-        "answer": "MAI",
-        "row": 7,
-        "col": 3
+        "num": 22,
+        "clue": "Simple conveyance up a ski mountain",
+        "answer": "TBAR",
+        "row": 6,
+        "col": 5
       },
       {
-        "num": 26,
-        "clue": "Tinder or Hinge",
-        "answer": "DATINGAPP",
+        "num": 23,
+        "clue": "___ Rozanov, Russian hockey player on \"Heated Rivalry\"",
+        "answer": "ILYA",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 24,
+        "clue": "Firm (up), as muscles",
+        "answer": "TONE",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 25,
+        "clue": "Super-big film format",
+        "answer": "IMAX",
         "row": 8,
         "col": 0
       },
       {
-        "num": 32,
-        "clue": "Snow fall?",
-        "answer": "AVALANCHE",
-        "row": 9,
-        "col": 0
-      },
-      {
-        "num": 33,
-        "clue": "Sass",
-        "answer": "LIP",
-        "row": 10,
-        "col": 0
-      },
-      {
-        "num": 34,
-        "clue": "Betsy, by another name",
-        "answer": "LIZ",
-        "row": 10,
-        "col": 6
+        "num": 26,
+        "clue": "Old flames",
+        "answer": "EXES",
+        "row": 8,
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Genre similar to reggae",
-        "answer": "SKA",
+        "clue": "This is the way!",
+        "answer": "PATH",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Jennings of \"Jeopardy!\"",
-        "answer": "KEN",
+        "clue": "Balm ingredient",
+        "answer": "ALOE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Thus far",
-        "answer": "YET",
+        "clue": "River of Hades",
+        "answer": "STYX",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Soak (up)",
-        "answer": "SOP",
+        "clue": "Distress call at sea",
+        "answer": "SOS",
         "row": 0,
-        "col": 6
+        "col": 3
       },
       {
         "num": 5,
-        "clue": "Bob Dylan's \"The Times They ___ a-Changin'\"",
-        "answer": "ARE",
+        "clue": "Apple's digital assistant",
+        "answer": "SIRI",
         "row": 0,
-        "col": 7
+        "col": 6
       },
       {
         "num": 6,
-        "clue": "Word of assent",
-        "answer": "YES",
+        "clue": "Actress/podcaster Poehler",
+        "answer": "AMY",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "Popular Sony console released in 2000, familiarly ... or one way to describe the letters in this puzzle's shaded squares",
+        "answer": "PS",
         "row": 0,
         "col": 8
       },
       {
-        "num": 8,
-        "clue": "Fruit with a bulbous base",
-        "answer": "PEAR",
-        "row": 1,
-        "col": 3
-      },
-      {
         "num": 9,
-        "clue": "Serena ___ (rare tennis feat)",
-        "answer": "SLAM",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 10,
-        "clue": "Gift for naughty kids",
-        "answer": "COAL",
+        "clue": "Wheel of fortune?",
+        "answer": "ROULETTE",
         "row": 1,
         "col": 5
       },
       {
-        "num": 13,
-        "clue": "Long-running forensics show",
-        "answer": "CSI",
-        "row": 4,
-        "col": 0
+        "num": 11,
+        "clue": "Often-stubbed body part",
+        "answer": "TOE",
+        "row": 2,
+        "col": 4
       },
       {
         "num": 14,
-        "clue": "Solo who said \"Look, your worshipfulness, let's get one thing straight. I take orders from just one person: me\"",
-        "answer": "HAN",
+        "clue": "Pharmacy product with the slogan \"Gentle overnight relief you can trust\"",
+        "answer": "EXLAX",
         "row": 4,
-        "col": 1
-      },
-      {
-        "num": 15,
-        "clue": "Appropriate",
-        "answer": "APT",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 16,
-        "clue": "Ex-QB Manning",
-        "answer": "ELI",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 17,
-        "clue": "Had a rest, maybe",
-        "answer": "SAT",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 18,
-        "clue": "\"I ___ with my little eye ...\"",
-        "answer": "SPY",
-        "row": 4,
-        "col": 8
-      },
-      {
-        "num": 22,
-        "clue": "\"S.N.L.\" alum Wakim",
-        "answer": "EMIL",
-        "row": 6,
         "col": 3
       },
       {
-        "num": 23,
-        "clue": "Granny, to some",
-        "answer": "NANA",
-        "row": 6,
-        "col": 4
-      },
-      {
-        "num": 24,
-        "clue": "Put pen to paper, say",
-        "answer": "SIGN",
-        "row": 6,
-        "col": 5
-      },
-      {
-        "num": 26,
-        "clue": "Indian lentil dish",
-        "answer": "DAL",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 27,
-        "clue": "Bird-related: Prefix",
-        "answer": "AVI",
-        "row": 8,
+        "num": 15,
+        "clue": "___ Sunday (pre-Easter observance)",
+        "answer": "PALM",
+        "row": 5,
         "col": 1
       },
       {
-        "num": 28,
-        "clue": "Dance form with percussive shoes",
-        "answer": "TAP",
-        "row": 8,
+        "num": 16,
+        "clue": "Informal greeting",
+        "answer": "HIYA",
+        "row": 5,
         "col": 2
       },
       {
-        "num": 29,
-        "clue": "Common knee injury site, for short",
-        "answer": "ACL",
-        "row": 8,
+        "num": 18,
+        "clue": "Popular Microsoft console ... or what is formed by this puzzle's circled squares?",
+        "answer": "XBOX",
+        "row": 5,
         "col": 6
       },
       {
-        "num": 30,
-        "clue": "The Eagles, on scoreboards",
-        "answer": "PHI",
-        "row": 8,
+        "num": 19,
+        "clue": "Section of a window",
+        "answer": "PANE",
+        "row": 5,
         "col": 7
       },
       {
-        "num": 31,
-        "clue": "Candy with collectible dispensers",
-        "answer": "PEZ",
-        "row": 8,
+        "num": 20,
+        "clue": "Mined rocks",
+        "answer": "ORES",
+        "row": 5,
         "col": 8
+      },
+      {
+        "num": 21,
+        "clue": "Popular Nintendo console ... or a homophone of 13-Across",
+        "answer": "WII",
+        "row": 6,
+        "col": 0
       }
     ]
   }
