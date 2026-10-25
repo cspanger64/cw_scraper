@@ -1,69 +1,41 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
-      null,
-      "M",
+      "F",
+      "O",
       "L",
-      "B",
-      null,
-      null
+      "K"
     ],
     [
-      null,
-      "P",
-      "R",
-      "I",
-      "U",
-      "S",
-      null
-    ],
-    [
-      "P",
-      "A",
-      "C",
-      "K",
-      "R",
-      "A",
-      "T"
-    ],
-    [
-      "A",
-      "T",
       "L",
-      "A",
-      "N",
-      "T",
-      "A"
-    ],
-    [
-      "T",
-      "H",
       "E",
-      "B",
+      "V",
+      "E",
+      "E"
+    ],
+    [
+      "I",
+      "M",
       "E",
       "A",
       "N"
     ],
     [
-      null,
-      "S",
-      "A",
-      "L",
-      "T",
-      "Y",
+      "F",
+      "U",
+      "N",
+      "K",
       null
     ],
     [
-      null,
-      null,
-      "N",
       "E",
-      "T",
+      "R",
+      "S",
       null,
       null
     ]
@@ -72,103 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "World Series org.",
-        "answer": "MLB",
+        "clue": "Music genre for Joni Mitchell or Woody Guthrie",
+        "answer": "FOLK",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Toyota hybrid",
-        "answer": "PRIUS",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "Person who hoards random objects",
-        "answer": "PACKRAT",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Southern city where Coca-Cola, Delta and Home Depot are all headquartered",
-        "answer": "ATLANTA",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Landmark Chicago sculpture, informally",
-        "answer": "THEBEAN",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "High in sodium",
-        "answer": "SALTY",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 11,
-        "clue": "___ worth",
-        "answer": "NET",
-        "row": 6,
-        "col": 2
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Commercial mascot with a bald head and golden earring",
-        "answer": "MRCLEAN",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 2,
-        "clue": "Charming and friendly",
-        "answer": "LIKABLE",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Carol of old TV",
-        "answer": "BURNETT",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 4,
-        "clue": "Hiking trails",
-        "answer": "PATHS",
-        "row": 1,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Meat-on-a-stick dish in Southeast Asia",
-        "answer": "SATAY",
+        "clue": "Flood embankment",
+        "answer": "LEVEE",
         "row": 1,
-        "col": 5
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Reassuring touch",
-        "answer": "PAT",
+        "clue": "\"That is to say ...\"",
+        "answer": "IMEAN",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Camel-colored",
-        "answer": "TAN",
-        "row": 2,
-        "col": 6
+        "clue": "Music genre with the same first and last letters as 1-Across",
+        "answer": "FUNK",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Hosp. areas that are usually on the ground floor",
+        "answer": "ERS",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Strongest bone in the human body",
+        "answer": "FEMUR",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Array in a culinary classroom",
+        "answer": "OVENS",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 3,
+        "clue": "Plumbing problem",
+        "answer": "LEAK",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 4,
+        "clue": "He's a doll!",
+        "answer": "KEN",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Magazine whose cover featured Elizabeth Taylor a record 14 times",
+        "answer": "LIFE",
+        "row": 1,
+        "col": 0
       }
     ]
   }

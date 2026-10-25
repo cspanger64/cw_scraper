@@ -1,336 +1,338 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
-      "P",
-      "A",
-      "S",
-      "S",
-      null,
-      null,
-      "S",
-      "A",
-      "P"
-    ],
-    [
-      "A",
-      "L",
-      "T",
-      "O",
-      null,
-      "R",
-      "I",
-      "M",
-      "S"
-    ],
-    [
-      "T",
-      "O",
-      "Y",
-      "S",
-      "T",
-      "O",
-      "R",
-      "Y",
-      null
-    ],
-    [
-      "H",
-      "E",
-      "X",
-      null,
-      "O",
+      "C",
       "U",
-      "I",
+      "B",
+      "A",
+      null,
+      "S",
+      "A",
+      "C",
       null,
       null
     ],
     [
+      "O",
+      "F",
+      "A",
+      "N",
       null,
-      null,
-      null,
+      "K",
+      "N",
       "E",
-      "E",
-      "L",
-      null,
-      null,
+      "W",
       null
     ],
     [
-      null,
-      "P",
+      "B",
+      "O",
+      "N",
+      "G",
+      "J",
+      "O",
+      "O",
+      "N",
       "H",
-      "X",
-      null,
-      "E",
-      "X",
-      "P",
       "O"
     ],
     [
-      "W",
+      null,
+      null,
+      "G",
+      "E",
       "A",
-      "I",
-      "L",
+      "R",
       null,
       "T",
-      "B",
-      "A",
-      "R"
+      "E",
+      "A"
     ],
     [
+      "E",
+      "M",
       "I",
       "L",
       "Y",
-      "A",
+      "B",
+      "L",
+      "U",
+      "N",
+      "T"
+    ],
+    [
+      "T",
+      "E",
+      "T",
       null,
+      "L",
+      "A",
+      "I",
+      "R",
+      null,
+      null
+    ],
+    [
+      "S",
       "T",
       "O",
       "N",
-      "E"
+      "E",
+      "R",
+      "F",
+      "I",
+      "L",
+      "M"
     ],
     [
+      "Y",
+      "O",
+      "U",
       "I",
-      "M",
-      "A",
-      "X",
+      "N",
       null,
-      "E",
-      "X",
-      "E",
-      "S"
+      "T",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      null,
+      "O",
+      "T",
+      "T",
+      "O",
+      null,
+      "S",
+      "N",
+      "O",
+      "B"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "\"Nah, not for me\"",
-        "answer": "PASS",
+        "clue": "Havana's home",
+        "answer": "CUBA",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Maple syrup source",
-        "answer": "SAP",
+        "clue": "Ink ___ (squid's pouch)",
+        "answer": "SAC",
         "row": 0,
-        "col": 6
+        "col": 5
       },
       {
         "num": 8,
-        "clue": "Vocal range for Tracy Chapman and Toni Braxton",
-        "answer": "ALTO",
+        "clue": "\"It's the end ___ era\"",
+        "answer": "OFAN",
         "row": 1,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Basketball hoops",
-        "answer": "RIMS",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 10,
-        "clue": "Pixar's first sequel with Buzz Lightyear and Woody",
-        "answer": "TOYSTORY",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Magic spell",
-        "answer": "HEX",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "\"Of course, monsieur!\"",
-        "answer": "OUI",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 14,
-        "clue": "Letters aptly missing from coral r_ _f s_itherer",
-        "answer": "EEL",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "Airport code for an Arizona hub",
-        "answer": "PHX",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 17,
-        "clue": "Convention center event",
-        "answer": "EXPO",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 21,
-        "clue": "Sob",
-        "answer": "WAIL",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 22,
-        "clue": "Simple conveyance up a ski mountain",
-        "answer": "TBAR",
-        "row": 6,
-        "col": 5
-      },
-      {
-        "num": 23,
-        "clue": "___ Rozanov, Russian hockey player on \"Heated Rivalry\"",
-        "answer": "ILYA",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 24,
-        "clue": "Firm (up), as muscles",
-        "answer": "TONE",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 25,
-        "clue": "Super-big film format",
-        "answer": "IMAX",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Old flames",
-        "answer": "EXES",
-        "row": 8,
-        "col": 5
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "This is the way!",
-        "answer": "PATH",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Balm ingredient",
-        "answer": "ALOE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "River of Hades",
-        "answer": "STYX",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Distress call at sea",
-        "answer": "SOS",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Apple's digital assistant",
-        "answer": "SIRI",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "Actress/podcaster Poehler",
-        "answer": "AMY",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "Popular Sony console released in 2000, familiarly ... or one way to describe the letters in this puzzle's shaded squares",
-        "answer": "PS",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 9,
-        "clue": "Wheel of fortune?",
-        "answer": "ROULETTE",
+        "clue": "Lacked a shadow of a doubt",
+        "answer": "KNEW",
         "row": 1,
         "col": 5
       },
       {
         "num": 11,
-        "clue": "Often-stubbed body part",
-        "answer": "TOE",
+        "clue": "Director of 2019's \"Parasite,\" the first non-English language movie to win Best Picture",
+        "answer": "BONGJOONHO",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Equipment",
+        "answer": "GEAR",
+        "row": 3,
+        "col": 2
+      },
+      {
+        "num": 15,
+        "clue": "Synonym for \"hot goss\"",
+        "answer": "TEA",
+        "row": 3,
+        "col": 7
+      },
+      {
+        "num": 16,
+        "clue": "Actress who reprised an earlier role in 2026's \"The Devil Wears Prada 2\"",
+        "answer": "EMILYBLUNT",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 19,
+        "clue": "Vietnamese New Year",
+        "answer": "TET",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "Secret hideout",
+        "answer": "LAIR",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 21,
+        "clue": "Type of movie that would be apt for 11- and 16-Across?",
+        "answer": "STONERFILM",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 25,
+        "clue": "\"Wanna play?,\" at the poker table",
+        "answer": "YOUIN",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 26,
+        "clue": "Item in a chest",
+        "answer": "TOOL",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "num": 27,
+        "clue": "Dr. ___ Octavius a.k.a. Doctor Octopus",
+        "answer": "OTTO",
+        "row": 8,
+        "col": 1
+      },
+      {
+        "num": 28,
+        "clue": "\"Ooh, look at me, I'm so cultured\" sort",
+        "answer": "SNOB",
+        "row": 8,
+        "col": 6
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Cornfield discard",
+        "answer": "COB",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Sighting mentioned in classified files, maybe",
+        "answer": "UFO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Quickly do a task",
+        "answer": "BANGITOUT",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Sweetie",
+        "answer": "ANGEL",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Chocolate-and-toffee confection from Hershey",
+        "answer": "SKORBAR",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "\"That's gonna be ___ from me, dawg\"",
+        "answer": "ANO",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Roman soldier for which an Amex card is named",
+        "answer": "CENTURION",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 10,
+        "clue": "\"What time?\"",
+        "answer": "WHEN",
+        "row": 1,
+        "col": 8
+      },
+      {
+        "num": 12,
+        "clue": "Host of the most episodes of \"The Tonight Show\" (4,610)",
+        "answer": "JAYLENO",
         "row": 2,
         "col": 4
       },
       {
-        "num": 14,
-        "clue": "Pharmacy product with the slogan \"Gentle overnight relief you can trust\"",
-        "answer": "EXLAX",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "___ Sunday (pre-Easter observance)",
-        "answer": "PALM",
-        "row": 5,
-        "col": 1
+        "num": 13,
+        "clue": "Kind of milk in lieu of soy or almond",
+        "answer": "OAT",
+        "row": 2,
+        "col": 9
       },
       {
         "num": 16,
-        "clue": "Informal greeting",
-        "answer": "HIYA",
-        "row": 5,
-        "col": 2
+        "clue": "Online crafts marketplace",
+        "answer": "ETSY",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 17,
+        "clue": "\"Same here\"",
+        "answer": "METOO",
+        "row": 4,
+        "col": 1
       },
       {
         "num": 18,
-        "clue": "Popular Microsoft console ... or what is formed by this puzzle's circled squares?",
-        "answer": "XBOX",
-        "row": 5,
+        "clue": "Pumps iron",
+        "answer": "LIFTS",
+        "row": 4,
         "col": 6
       },
       {
-        "num": 19,
-        "clue": "Section of a window",
-        "answer": "PANE",
-        "row": 5,
-        "col": 7
+        "num": 22,
+        "clue": "Tiny quibble",
+        "answer": "NIT",
+        "row": 6,
+        "col": 3
       },
       {
-        "num": 20,
-        "clue": "Mined rocks",
-        "answer": "ORES",
-        "row": 5,
+        "num": 23,
+        "clue": "Brit's toilet",
+        "answer": "LOO",
+        "row": 6,
         "col": 8
       },
       {
-        "num": 21,
-        "clue": "Popular Nintendo console ... or a homophone of 13-Across",
-        "answer": "WII",
+        "num": 24,
+        "clue": "Org. for the Giants and Guardians",
+        "answer": "MLB",
         "row": 6,
-        "col": 0
+        "col": 9
       }
     ]
   }
