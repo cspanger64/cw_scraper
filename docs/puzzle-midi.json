@@ -1,338 +1,336 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "C",
-      "U",
-      "B",
+      "R",
+      "O",
       "A",
-      null,
+      "D",
       "S",
-      "A",
-      "C",
       null,
-      null
+      "A",
+      "T",
+      "E"
     ],
     [
-      "O",
-      "F",
+      "I",
+      "N",
+      "D",
+      "I",
       "A",
-      "N",
       null,
-      "K",
-      "N",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "P",
       "E",
-      "W",
-      null
-    ],
-    [
-      "B",
-      "O",
-      "N",
+      "D",
+      "A",
+      "L",
+      null,
+      "E",
       "G",
-      "J",
-      "O",
-      "O",
-      "N",
-      "H",
       "O"
     ],
     [
       null,
       null,
-      "G",
+      null,
+      "P",
       "E",
       "A",
-      "R",
-      null,
-      "T",
-      "E",
-      "A"
-    ],
-    [
-      "E",
-      "M",
-      "I",
-      "L",
-      "Y",
-      "B",
-      "L",
-      "U",
       "N",
+      "U",
       "T"
     ],
     [
-      "T",
-      "E",
-      "T",
       null,
-      "L",
       "A",
-      "I",
+      "L",
+      "E",
+      null,
+      "G",
+      "A",
+      "P",
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "O",
       "R",
+      "M",
+      "E",
+      null,
       null,
       null
     ],
     [
-      "S",
-      "T",
-      "O",
-      "N",
-      "E",
+      "U",
       "R",
-      "F",
-      "I",
       "L",
-      "M"
+      null,
+      "E",
+      "G",
+      "G",
+      "O",
+      "N"
     ],
     [
+      "S",
+      "T",
+      "L",
+      null,
+      "S",
+      "A",
+      "U",
+      "N",
+      "A"
+    ],
+    [
+      "H",
+      "A",
+      "S",
+      null,
+      "S",
+      "P",
       "Y",
       "O",
-      "U",
-      "I",
-      "N",
-      null,
-      "T",
-      "O",
-      "O",
-      "L"
-    ],
-    [
-      null,
-      "O",
-      "T",
-      "T",
-      "O",
-      null,
-      "S",
-      "N",
-      "O",
-      "B"
+      "N"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Havana's home",
-        "answer": "CUBA",
+        "clue": "\"All ___ lead to Rome\"",
+        "answer": "ROADS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Ink ___ (squid's pouch)",
-        "answer": "SAC",
+        "num": 6,
+        "clue": "Had some food",
+        "answer": "ATE",
         "row": 0,
-        "col": 5
-      },
-      {
-        "num": 8,
-        "clue": "\"It's the end ___ era\"",
-        "answer": "OFAN",
-        "row": 1,
-        "col": 0
+        "col": 6
       },
       {
         "num": 9,
-        "clue": "Lacked a shadow of a doubt",
-        "answer": "KNEW",
+        "clue": "Country whose capital is New Delhi",
+        "answer": "INDIA",
         "row": 1,
-        "col": 5
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Male sheep",
+        "answer": "RAM",
+        "row": 1,
+        "col": 6
       },
       {
         "num": 11,
-        "clue": "Director of 2019's \"Parasite,\" the first non-English language movie to win Best Picture",
-        "answer": "BONGJOONHO",
+        "clue": "One of four on a standard tandem bike",
+        "answer": "PEDAL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "Equipment",
-        "answer": "GEAR",
+        "num": 12,
+        "clue": "A conceited person has a big one",
+        "answer": "EGO",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 13,
+        "clue": "Crop whose cultivation was popularized in the U.S. by George Washington Carver",
+        "answer": "PEANUT",
         "row": 3,
-        "col": 2
+        "col": 3
       },
       {
         "num": 15,
-        "clue": "Synonym for \"hot goss\"",
-        "answer": "TEA",
-        "row": 3,
-        "col": 7
-      },
-      {
-        "num": 16,
-        "clue": "Actress who reprised an earlier role in 2026's \"The Devil Wears Prada 2\"",
-        "answer": "EMILYBLUNT",
+        "clue": "The \"A\" of I.P.A.",
+        "answer": "ALE",
         "row": 4,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 19,
-        "clue": "Vietnamese New Year",
-        "answer": "TET",
+        "num": 17,
+        "clue": "Open the mouth very wide",
+        "answer": "GAPE",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 18,
+        "clue": "\"I never seem to catch a break!\"",
+        "answer": "POORME",
         "row": 5,
         "col": 0
       },
       {
         "num": 20,
-        "clue": "Secret hideout",
-        "answer": "LAIR",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 21,
-        "clue": "Type of movie that would be apt for 11- and 16-Across?",
-        "answer": "STONERFILM",
+        "clue": "Digital address, for short",
+        "answer": "URL",
         "row": 6,
         "col": 0
       },
       {
+        "num": 21,
+        "clue": "Goad",
+        "answer": "EGGON",
+        "row": 6,
+        "col": 4
+      },
+      {
         "num": 25,
-        "clue": "\"Wanna play?,\" at the poker table",
-        "answer": "YOUIN",
+        "clue": "Midwest city that's home to the Gateway Arch: Abbr.",
+        "answer": "STL",
         "row": 7,
         "col": 0
       },
       {
         "num": 26,
-        "clue": "Item in a chest",
-        "answer": "TOOL",
+        "clue": "Spa's spot for sweaters",
+        "answer": "SAUNA",
         "row": 7,
-        "col": 6
+        "col": 4
       },
       {
         "num": 27,
-        "clue": "Dr. ___ Octavius a.k.a. Doctor Octopus",
-        "answer": "OTTO",
+        "clue": "___-been (washed-up star)",
+        "answer": "HAS",
         "row": 8,
-        "col": 1
+        "col": 0
       },
       {
         "num": 28,
-        "clue": "\"Ooh, look at me, I'm so cultured\" sort",
-        "answer": "SNOB",
+        "clue": "Watch through binoculars, say",
+        "answer": "SPYON",
         "row": 8,
-        "col": 6
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Cornfield discard",
-        "answer": "COB",
+        "clue": "Defraud, with \"off\"",
+        "answer": "RIP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Sighting mentioned in classified files, maybe",
-        "answer": "UFO",
+        "clue": "Any nonzero number divided by itself",
+        "answer": "ONE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Quickly do a task",
-        "answer": "BANGITOUT",
+        "clue": "Contribute",
+        "answer": "ADD",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Sweetie",
-        "answer": "ANGEL",
+        "clue": "Something worn by a newborn",
+        "answer": "DIAPER",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Chocolate-and-toffee confection from Hershey",
-        "answer": "SKORBAR",
+        "clue": "Event on Black Friday or Cyber Monday",
+        "answer": "SALE",
         "row": 0,
-        "col": 5
+        "col": 4
       },
       {
         "num": 6,
-        "clue": "\"That's gonna be ___ from me, dawg\"",
-        "answer": "ANO",
+        "clue": "Bowl game venue",
+        "answer": "ARENA",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "Roman soldier for which an Amex card is named",
-        "answer": "CENTURION",
+        "clue": "Get ready to advance after a fly ball",
+        "answer": "TAGUP",
         "row": 0,
         "col": 7
       },
       {
-        "num": 10,
-        "clue": "\"What time?\"",
-        "answer": "WHEN",
-        "row": 1,
+        "num": 8,
+        "clue": "Be melodramatic on stage",
+        "answer": "EMOTE",
+        "row": 0,
         "col": 8
       },
       {
-        "num": 12,
-        "clue": "Host of the most episodes of \"The Tonight Show\" (4,610)",
-        "answer": "JAYLENO",
-        "row": 2,
-        "col": 4
+        "num": 14,
+        "clue": "Feature of a cross-generational relationship",
+        "answer": "AGEGAP",
+        "row": 3,
+        "col": 5
       },
       {
-        "num": 13,
-        "clue": "Kind of milk in lieu of soy or almond",
-        "answer": "OAT",
-        "row": 2,
-        "col": 9
-      },
-      {
-        "num": 16,
-        "clue": "Online crafts marketplace",
-        "answer": "ETSY",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "\"Same here\"",
-        "answer": "METOO",
+        "num": 15,
+        "clue": "Artery from the heart",
+        "answer": "AORTA",
         "row": 4,
         "col": 1
       },
       {
-        "num": 18,
-        "clue": "Pumps iron",
-        "answer": "LIFTS",
+        "num": 16,
+        "clue": "Lounges (around)",
+        "answer": "LOLLS",
         "row": 4,
-        "col": 6
+        "col": 2
+      },
+      {
+        "num": 18,
+        "clue": "Propel a bobsled at the start of a race, say",
+        "answer": "PUSH",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 19,
+        "clue": "A slob makes one",
+        "answer": "MESS",
+        "row": 5,
+        "col": 4
       },
       {
         "num": 22,
-        "clue": "Tiny quibble",
-        "answer": "NIT",
+        "clue": "___ Fawkes Day (annual celebration in Great Britain)",
+        "answer": "GUY",
         "row": 6,
-        "col": 3
+        "col": 6
       },
       {
         "num": 23,
-        "clue": "Brit's toilet",
-        "answer": "LOO",
+        "clue": "Musician Yoko with a palindromic last name",
+        "answer": "ONO",
         "row": 6,
-        "col": 8
+        "col": 7
       },
       {
         "num": 24,
-        "clue": "Org. for the Giants and Guardians",
-        "answer": "MLB",
+        "clue": "Artist/photographer Goldin with a palindromic first name",
+        "answer": "NAN",
         "row": 6,
-        "col": 9
+        "col": 8
       }
     ]
   }

@@ -1,118 +1,130 @@
 {
   "size": [
     5,
-    5
+    6
   ],
   "grid": [
     [
-      null,
-      "F",
+      "C",
+      "R",
+      "U",
+      "N",
+      "C",
+      "H"
+    ],
+    [
+      "H",
       "O",
-      "L",
-      "K"
+      "H",
+      "O",
+      "H",
+      "O"
     ],
     [
-      "L",
-      "E",
-      "V",
-      "E",
-      "E"
-    ],
-    [
-      "I",
-      "M",
-      "E",
       "A",
+      "V",
+      "A",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "E",
+      "U",
+      "R",
+      "O",
       "N"
     ],
     [
-      "F",
-      "U",
-      "N",
-      "K",
-      null
-    ],
-    [
-      "E",
-      "R",
-      "S",
       null,
-      null
+      null,
+      "L",
+      "E",
+      "S",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Music genre for Joni Mitchell or Woody Guthrie",
-        "answer": "FOLK",
+        "clue": "Sound of fall leaves underfoot",
+        "answer": "CRUNCH",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Flood embankment",
-        "answer": "LEVEE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "\"That is to say ...\"",
-        "answer": "IMEAN",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Music genre with the same first and last letters as 1-Across",
-        "answer": "FUNK",
-        "row": 3,
+        "clue": "Santa's laugh",
+        "answer": "HOHOHO",
+        "row": 1,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Hosp. areas that are usually on the ground floor",
-        "answer": "ERS",
-        "row": 4,
+        "clue": "Hit film franchise with blue-skinned aliens known as Na'vi",
+        "answer": "AVATAR",
+        "row": 2,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Brain nerve cell",
+        "answer": "NEURON",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "\"Say ___!\" (\"Alright, I get it\")",
+        "answer": "LESS",
+        "row": 4,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Strongest bone in the human body",
-        "answer": "FEMUR",
+        "clue": "Action star Jackie",
+        "answer": "CHAN",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Wander this way and that",
+        "answer": "ROVE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Array in a culinary classroom",
-        "answer": "OVENS",
+        "num": 3,
+        "clue": "Big name in moving vans",
+        "answer": "UHAUL",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Plumbing problem",
-        "answer": "LEAK",
+        "num": 4,
+        "clue": "___-Dame Cathedral",
+        "answer": "NOTRE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "He's a doll!",
-        "answer": "KEN",
+        "num": 5,
+        "clue": "Complete pandemonium",
+        "answer": "CHAOS",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Magazine whose cover featured Elizabeth Taylor a record 14 times",
-        "answer": "LIFE",
-        "row": 1,
-        "col": 0
+        "num": 6,
+        "clue": "\"Hook 'em ___\" (battle cry of the University of Texas)",
+        "answer": "HORNS",
+        "row": 0,
+        "col": 5
       }
     ]
   }
