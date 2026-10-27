@@ -1,336 +1,359 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
-      "R",
-      "O",
+      "C",
       "A",
-      "D",
+      "C",
+      "T",
+      "U",
       "S",
       null,
       "A",
-      "T",
-      "E"
-    ],
-    [
-      "I",
-      "N",
-      "D",
-      "I",
-      "A",
-      null,
-      "R",
-      "A",
-      "M"
-    ],
-    [
       "P",
-      "E",
-      "D",
-      "A",
+      "R"
+    ],
+    [
       "L",
-      null,
       "E",
+      "H",
+      "I",
       "G",
+      "H",
+      null,
+      "N",
+      "E",
       "O"
     ],
     [
-      null,
-      null,
-      null,
-      "P",
-      "E",
+      "O",
+      "R",
       "A",
       "N",
-      "U",
-      "T"
-    ],
-    [
-      null,
-      "A",
-      "L",
+      "G",
       "E",
       null,
-      "G",
+      "T",
       "A",
+      "D"
+    ],
+    [
       "P",
+      "O",
+      "S",
+      "T",
+      null,
+      "S",
+      "P",
+      "I",
+      "C",
       "E"
     ],
     [
-      "P",
+      null,
+      null,
+      "T",
+      "I",
+      "A",
+      null,
       "O",
-      "O",
+      "C",
+      "H",
+      "O"
+    ],
+    [
       "R",
-      "M",
-      "E",
+      "A",
+      "I",
+      "N",
+      "B",
+      "O",
+      "W",
       null,
       null,
       null
     ],
     [
-      "U",
-      "R",
-      "L",
-      null,
       "E",
-      "G",
-      "G",
+      "R",
+      "S",
+      null,
+      "C",
       "O",
-      "N"
+      "W",
+      "B",
+      "O",
+      "Y"
     ],
     [
-      "S",
+      "A",
+      "C",
+      "E",
+      null,
+      null,
+      "F",
+      "O",
+      "R",
       "T",
-      "L",
-      null,
-      "S",
-      "A",
-      "U",
-      "N",
-      "A"
+      "E"
     ],
     [
+      "P",
       "H",
+      "D",
+      null,
+      null,
+      null,
+      "W",
       "A",
       "S",
-      null,
-      "S",
-      "P",
-      "Y",
-      "O",
-      "N"
+      "P"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "\"All ___ lead to Rome\"",
-        "answer": "ROADS",
+        "clue": "Image on ... an Arizona license plate",
+        "answer": "CACTUS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Had some food",
-        "answer": "ATE",
+        "num": 7,
+        "clue": "Month in which flowering and filing occurs: Abbr.",
+        "answer": "APR",
         "row": 0,
-        "col": 6
-      },
-      {
-        "num": 9,
-        "clue": "Country whose capital is New Delhi",
-        "answer": "INDIA",
-        "row": 1,
-        "col": 0
+        "col": 7
       },
       {
         "num": 10,
-        "clue": "Male sheep",
-        "answer": "RAM",
+        "clue": "University in Bethlehem, Pa.",
+        "answer": "LEHIGH",
         "row": 1,
-        "col": 6
+        "col": 0
       },
       {
         "num": 11,
-        "clue": "One of four on a standard tandem bike",
-        "answer": "PEDAL",
+        "clue": "Prefix with classical",
+        "answer": "NEO",
+        "row": 1,
+        "col": 7
+      },
+      {
+        "num": 12,
+        "clue": "... a Florida license plate",
+        "answer": "ORANGE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "A conceited person has a big one",
-        "answer": "EGO",
+        "num": 13,
+        "clue": "Smidgen",
+        "answer": "TAD",
         "row": 2,
-        "col": 6
+        "col": 7
       },
       {
-        "num": 13,
-        "clue": "Crop whose cultivation was popularized in the U.S. by George Washington Carver",
-        "answer": "PEANUT",
+        "num": 14,
+        "clue": "The Washington ___",
+        "answer": "POST",
         "row": 3,
-        "col": 3
+        "col": 0
       },
       {
         "num": 15,
-        "clue": "The \"A\" of I.P.A.",
-        "answer": "ALE",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 17,
-        "clue": "Open the mouth very wide",
-        "answer": "GAPE",
-        "row": 4,
+        "clue": "Cumin or coriander",
+        "answer": "SPICE",
+        "row": 3,
         "col": 5
       },
       {
-        "num": 18,
-        "clue": "\"I never seem to catch a break!\"",
-        "answer": "POORME",
+        "num": 17,
+        "clue": "Spanish for \"aunt\"",
+        "answer": "TIA",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 19,
+        "clue": "Spanish for \"eight\"",
+        "answer": "OCHO",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 20,
+        "clue": "... a Hawaii license plate",
+        "answer": "RAINBOW",
         "row": 5,
         "col": 0
       },
       {
-        "num": 20,
-        "clue": "Digital address, for short",
-        "answer": "URL",
+        "num": 23,
+        "clue": "Settings for \"The Pitt\" and \"Grey's Anatomy,\" for short",
+        "answer": "ERS",
         "row": 6,
         "col": 0
       },
       {
-        "num": 21,
-        "clue": "Goad",
-        "answer": "EGGON",
+        "num": 24,
+        "clue": "... a Wyoming license plate",
+        "answer": "COWBOY",
         "row": 6,
         "col": 4
-      },
-      {
-        "num": 25,
-        "clue": "Midwest city that's home to the Gateway Arch: Abbr.",
-        "answer": "STL",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Spa's spot for sweaters",
-        "answer": "SAUNA",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 27,
-        "clue": "___-been (washed-up star)",
-        "answer": "HAS",
-        "row": 8,
-        "col": 0
       },
       {
         "num": 28,
-        "clue": "Watch through binoculars, say",
-        "answer": "SPYON",
+        "clue": "Good heart?",
+        "answer": "ACE",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 29,
+        "clue": "Specialty",
+        "answer": "FORTE",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 30,
+        "clue": "Degree that may take up to seven years to earn, for short",
+        "answer": "PHD",
         "row": 8,
-        "col": 4
+        "col": 0
+      },
+      {
+        "num": 31,
+        "clue": "\"Ant-Man and the ___,\" 2018 superhero movie",
+        "answer": "WASP",
+        "row": 8,
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Defraud, with \"off\"",
-        "answer": "RIP",
+        "clue": "Sound of a hoof hitting the ground",
+        "answer": "CLOP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Any nonzero number divided by itself",
-        "answer": "ONE",
+        "clue": "Aviation lead-in to mÃ©xico or lÃ­neas Argentinas",
+        "answer": "AERO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Contribute",
-        "answer": "ADD",
+        "clue": "Scolded",
+        "answer": "CHASTISED",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Something worn by a newborn",
-        "answer": "DIAPER",
+        "clue": "Old comic book hero with a reduplicative name",
+        "answer": "TINTIN",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Event on Black Friday or Cyber Monday",
-        "answer": "SALE",
+        "clue": "Brand of fuzzy boots",
+        "answer": "UGG",
         "row": 0,
         "col": 4
       },
       {
         "num": 6,
-        "clue": "Bowl game venue",
-        "answer": "ARENA",
+        "clue": "\"___ the One\" (1996 rom-com co-starring Jennifer Aniston)",
+        "answer": "SHES",
         "row": 0,
-        "col": 6
+        "col": 5
       },
       {
         "num": 7,
-        "clue": "Get ready to advance after a fly ball",
-        "answer": "TAGUP",
+        "clue": "Bit of tomfoolery",
+        "answer": "ANTIC",
         "row": 0,
         "col": 7
       },
       {
         "num": 8,
-        "clue": "Be melodramatic on stage",
-        "answer": "EMOTE",
+        "clue": "... a Georgia license plate",
+        "answer": "PEACH",
         "row": 0,
         "col": 8
       },
       {
-        "num": 14,
-        "clue": "Feature of a cross-generational relationship",
-        "answer": "AGEGAP",
-        "row": 3,
-        "col": 5
-      },
-      {
-        "num": 15,
-        "clue": "Artery from the heart",
-        "answer": "AORTA",
-        "row": 4,
-        "col": 1
+        "num": 9,
+        "clue": "___ Drive, retail district in Beverly Hills",
+        "answer": "RODEO",
+        "row": 0,
+        "col": 9
       },
       {
         "num": 16,
-        "clue": "Lounges (around)",
-        "answer": "LOLLS",
-        "row": 4,
-        "col": 2
+        "clue": "Certain Native American celebration",
+        "answer": "POWWOW",
+        "row": 3,
+        "col": 6
       },
       {
         "num": 18,
-        "clue": "Propel a bobsled at the start of a race, say",
-        "answer": "PUSH",
+        "clue": "Letters under 2 on a phone",
+        "answer": "ABC",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 20,
+        "clue": "Collect, as crops",
+        "answer": "REAP",
         "row": 5,
         "col": 0
       },
       {
-        "num": 19,
-        "clue": "A slob makes one",
-        "answer": "MESS",
+        "num": 21,
+        "clue": "... a Utah license plate",
+        "answer": "ARCH",
         "row": 5,
-        "col": 4
+        "col": 1
       },
       {
         "num": 22,
-        "clue": "___ Fawkes Day (annual celebration in Great Britain)",
-        "answer": "GUY",
-        "row": 6,
-        "col": 6
+        "clue": "Sound after a punch to the gut",
+        "answer": "OOF",
+        "row": 5,
+        "col": 5
       },
       {
-        "num": 23,
-        "clue": "Musician Yoko with a palindromic last name",
-        "answer": "ONO",
+        "num": 25,
+        "clue": "Supportive garment",
+        "answer": "BRA",
         "row": 6,
         "col": 7
       },
       {
-        "num": 24,
-        "clue": "Artist/photographer Goldin with a palindromic first name",
-        "answer": "NAN",
+        "num": 26,
+        "clue": "Tie-breaking periods, for short",
+        "answer": "OTS",
         "row": 6,
         "col": 8
+      },
+      {
+        "num": 27,
+        "clue": "\"Mm-hmm\"",
+        "answer": "YEP",
+        "row": 6,
+        "col": 9
       }
     ]
   }

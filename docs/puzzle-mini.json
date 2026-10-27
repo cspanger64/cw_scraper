@@ -1,130 +1,118 @@
 {
   "size": [
     5,
-    6
+    5
   ],
   "grid": [
     [
-      "C",
-      "R",
-      "U",
-      "N",
-      "C",
-      "H"
-    ],
-    [
-      "H",
-      "O",
-      "H",
-      "O",
-      "H",
-      "O"
-    ],
-    [
-      "A",
-      "V",
-      "A",
-      "T",
-      "A",
-      "R"
-    ],
-    [
-      "N",
-      "E",
-      "U",
-      "R",
-      "O",
-      "N"
-    ],
-    [
-      null,
-      null,
-      "L",
-      "E",
       "S",
+      "P",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "T",
+      "H",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "R",
+      "O",
+      "O",
+      "M",
       "S"
+    ],
+    [
+      "U",
+      "N",
+      "D",
+      "O",
+      null
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "N",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sound of fall leaves underfoot",
-        "answer": "CRUNCH",
+        "clue": "Say \"C-H-E-E-S-E\"?",
+        "answer": "SPELL",
         "row": 0,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Santa's laugh",
-        "answer": "HOHOHO",
+        "num": 6,
+        "clue": "Number of stripes on many world flags",
+        "answer": "THREE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Hit film franchise with blue-skinned aliens known as Na'vi",
-        "answer": "AVATAR",
+        "num": 7,
+        "clue": "Places visited on a Clue board",
+        "answer": "ROOMS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Brain nerve cell",
-        "answer": "NEURON",
+        "num": 8,
+        "clue": "\"Go back\" command",
+        "answer": "UNDO",
         "row": 3,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "\"Say ___!\" (\"Alright, I get it\")",
-        "answer": "LESS",
+        "num": 9,
+        "clue": "Follower of six or seven, but not five",
+        "answer": "TEEN",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Action star Jackie",
-        "answer": "CHAN",
+        "clue": "Walk with swagger",
+        "answer": "STRUT",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Wander this way and that",
-        "answer": "ROVE",
+        "clue": "What gets texts (and also scrolls?)",
+        "answer": "PHONE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Big name in moving vans",
-        "answer": "UHAUL",
+        "clue": "Wear away slowly",
+        "answer": "ERODE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "___-Dame Cathedral",
-        "answer": "NOTRE",
+        "clue": "Kind of juice in a French 75 cocktail",
+        "answer": "LEMON",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Complete pandemonium",
-        "answer": "CHAOS",
+        "clue": "\"___ MisÃ©rables\"",
+        "answer": "LES",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "\"Hook 'em ___\" (battle cry of the University of Texas)",
-        "answer": "HORNS",
-        "row": 0,
-        "col": 5
       }
     ]
   }
