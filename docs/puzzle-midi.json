@@ -5,353 +5,353 @@
   ],
   "grid": [
     [
-      "C",
-      "A",
-      "C",
       "T",
-      "U",
+      "O",
+      "P",
       "S",
       null,
-      "A",
-      "P",
-      "R"
-    ],
-    [
-      "L",
-      "E",
-      "H",
-      "I",
-      "G",
-      "H",
       null,
-      "N",
+      "P",
       "E",
+      "S",
       "O"
     ],
     [
-      "O",
-      "R",
-      "A",
-      "N",
-      "G",
       "E",
+      "P",
+      "I",
+      "C",
+      "S",
       null,
+      "S",
       "T",
-      "A",
+      "U",
       "D"
     ],
     [
-      "P",
-      "O",
-      "S",
-      "T",
-      null,
-      "S",
-      "P",
-      "I",
-      "C",
-      "E"
-    ],
-    [
-      null,
-      null,
-      "T",
-      "I",
       "A",
-      null,
-      "O",
-      "C",
-      "H",
-      "O"
-    ],
-    [
+      "S",
+      "P",
       "R",
-      "A",
+      "O",
+      "M",
       "I",
-      "N",
+      "S",
+      "E",
+      "D"
+    ],
+    [
+      null,
+      null,
+      null,
+      "U",
+      "S",
+      "A",
+      null,
+      "Y",
+      "D",
+      "S"
+    ],
+    [
+      "T",
+      "O",
+      "Y",
       "B",
       "O",
-      "W",
-      null,
+      "A",
+      "T",
+      "S",
       null,
       null
     ],
     [
-      "E",
-      "R",
-      "S",
-      null,
-      "C",
-      "O",
-      "W",
-      "B",
-      "O",
-      "Y"
-    ],
-    [
       "A",
-      "C",
+      "G",
       "E",
       null,
       null,
-      "F",
-      "O",
-      "R",
-      "T",
-      "E"
-    ],
-    [
-      "P",
+      null,
+      "A",
       "H",
-      "D",
-      null,
-      null,
-      null,
-      "W",
       "A",
+      null
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "I",
+      "T",
+      "O",
+      "R",
+      "O",
+      "U",
+      "S"
+    ],
+    [
       "S",
-      "P"
+      "E",
+      "R",
+      "M",
+      "O",
+      "N",
+      null,
+      "P",
+      "R",
+      "O"
+    ],
+    [
+      null,
+      "S",
+      "N",
+      "O",
+      "R",
+      "E",
+      null,
+      "S",
+      "A",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Image on ... an Arizona license plate",
-        "answer": "CACTUS",
+        "clue": "Tees and tanks",
+        "answer": "TOPS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Month in which flowering and filing occurs: Abbr.",
-        "answer": "APR",
+        "num": 5,
+        "clue": "Money in Mexico",
+        "answer": "PESO",
         "row": 0,
-        "col": 7
+        "col": 6
       },
       {
-        "num": 10,
-        "clue": "University in Bethlehem, Pa.",
-        "answer": "LEHIGH",
+        "num": 9,
+        "clue": "Long poems with heroes",
+        "answer": "EPICS",
         "row": 1,
         "col": 0
       },
       {
         "num": 11,
-        "clue": "Prefix with classical",
-        "answer": "NEO",
+        "clue": "Basic earring",
+        "answer": "STUD",
         "row": 1,
-        "col": 7
+        "col": 6
       },
       {
         "num": 12,
-        "clue": "... a Florida license plate",
-        "answer": "ORANGE",
+        "clue": "\"Just like we discussed ...\"",
+        "answer": "ASPROMISED",
         "row": 2,
         "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Smidgen",
-        "answer": "TAD",
-        "row": 2,
-        "col": 7
       },
       {
         "num": 14,
-        "clue": "The Washington ___",
-        "answer": "POST",
+        "clue": "___ Today",
+        "answer": "USA",
         "row": 3,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Cumin or coriander",
-        "answer": "SPICE",
-        "row": 3,
-        "col": 5
-      },
-      {
-        "num": 17,
-        "clue": "Spanish for \"aunt\"",
-        "answer": "TIA",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 19,
-        "clue": "Spanish for \"eight\"",
-        "answer": "OCHO",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 20,
-        "clue": "... a Hawaii license plate",
-        "answer": "RAINBOW",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "Settings for \"The Pitt\" and \"Grey's Anatomy,\" for short",
-        "answer": "ERS",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 24,
-        "clue": "... a Wyoming license plate",
-        "answer": "COWBOY",
-        "row": 6,
-        "col": 4
-      },
-      {
-        "num": 28,
-        "clue": "Good heart?",
-        "answer": "ACE",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 29,
-        "clue": "Specialty",
-        "answer": "FORTE",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 30,
-        "clue": "Degree that may take up to seven years to earn, for short",
-        "answer": "PHD",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 31,
-        "clue": "\"Ant-Man and the ___,\" 2018 superhero movie",
-        "answer": "WASP",
-        "row": 8,
-        "col": 6
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Sound of a hoof hitting the ground",
-        "answer": "CLOP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Aviation lead-in to mÃ©xico or lÃ­neas Argentinas",
-        "answer": "AERO",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Scolded",
-        "answer": "CHASTISED",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Old comic book hero with a reduplicative name",
-        "answer": "TINTIN",
-        "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Brand of fuzzy boots",
-        "answer": "UGG",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "\"___ the One\" (1996 rom-com co-starring Jennifer Aniston)",
-        "answer": "SHES",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "Bit of tomfoolery",
-        "answer": "ANTIC",
-        "row": 0,
+        "num": 15,
+        "clue": "QB's passing units: Abbr.",
+        "answer": "YDS",
+        "row": 3,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "... a Georgia license plate",
-        "answer": "PEACH",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 9,
-        "clue": "___ Drive, retail district in Beverly Hills",
-        "answer": "RODEO",
-        "row": 0,
-        "col": 9
-      },
-      {
         "num": 16,
-        "clue": "Certain Native American celebration",
-        "answer": "POWWOW",
-        "row": 3,
-        "col": 6
-      },
-      {
-        "num": 18,
-        "clue": "Letters under 2 on a phone",
-        "answer": "ABC",
+        "clue": "Some bath time playthings",
+        "answer": "TOYBOATS",
         "row": 4,
-        "col": 4
+        "col": 0
       },
       {
         "num": 20,
-        "clue": "Collect, as crops",
-        "answer": "REAP",
+        "clue": "Number that changes on your birthday",
+        "answer": "AGE",
         "row": 5,
         "col": 0
       },
       {
         "num": 21,
-        "clue": "... a Utah license plate",
-        "answer": "ARCH",
+        "clue": "\"Ohhh, I see now!\"",
+        "answer": "AHA",
         "row": 5,
-        "col": 1
+        "col": 6
       },
       {
-        "num": 22,
-        "clue": "Sound after a punch to the gut",
-        "answer": "OOF",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 25,
-        "clue": "Supportive garment",
-        "answer": "BRA",
+        "num": 23,
+        "clue": "Like a snake in the grass",
+        "answer": "TRAITOROUS",
         "row": 6,
+        "col": 0
+      },
+      {
+        "num": 28,
+        "clue": "Religious leader's speech",
+        "answer": "SERMON",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 29,
+        "clue": "Opposite of con",
+        "answer": "PRO",
+        "row": 7,
         "col": 7
       },
       {
-        "num": 26,
-        "clue": "Tie-breaking periods, for short",
-        "answer": "OTS",
-        "row": 6,
+        "num": 30,
+        "clue": "Sound from a sleeper",
+        "answer": "SNORE",
+        "row": 8,
+        "col": 1
+      },
+      {
+        "num": 31,
+        "clue": "\"So whaddya ___?\"",
+        "answer": "SAY",
+        "row": 8,
+        "col": 7
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Drink that may be served with grass jelly or boba",
+        "answer": "TEA",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Photo ___",
+        "answer": "OPS",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Dot on a domino",
+        "answer": "PIP",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Thoroughly clean",
+        "answer": "SCRUB",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Letter before omega",
+        "answer": "PSI",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "Certain \"storefronts\" that often sell handmade items",
+        "answer": "ETSYSHOPS",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "Took to court",
+        "answer": "SUED",
+        "row": 0,
         "col": 8
       },
       {
+        "num": 8,
+        "clue": "Betting figures",
+        "answer": "ODDS",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 10,
+        "clue": "Meh",
+        "answer": "SOSO",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 13,
+        "clue": "Cry on a goat farm",
+        "answer": "MAA",
+        "row": 2,
+        "col": 5
+      },
+      {
+        "num": 16,
+        "clue": "Bits of body art",
+        "answer": "TATS",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 17,
+        "clue": "\"___ are like onions ... onions have layers, ___ have layers\" (\"Shrek\" line)",
+        "answer": "OGRES",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 18,
+        "clue": "Wish (for)",
+        "answer": "YEARN",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 19,
+        "clue": "Roofing material",
+        "answer": "TAR",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 22,
+        "clue": "Cool factor, in Gen Z slang",
+        "answer": "AURA",
+        "row": 5,
+        "col": 8
+      },
+      {
+        "num": 24,
+        "clue": "Texter's \"What I think is ... \"",
+        "answer": "IMO",
+        "row": 6,
+        "col": 3
+      },
+      {
+        "num": 25,
+        "clue": "The Blue Jays, on scoreboards",
+        "answer": "TOR",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "num": 26,
+        "clue": "20-Across of some toddlers",
+        "answer": "ONE",
+        "row": 6,
+        "col": 5
+      },
+      {
         "num": 27,
-        "clue": "\"Mm-hmm\"",
-        "answer": "YEP",
+        "clue": "Impossible Foods \"meat\" base",
+        "answer": "SOY",
         "row": 6,
         "col": 9
       }

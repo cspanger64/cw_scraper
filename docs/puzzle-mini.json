@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "S",
+      null,
       "P",
       "E",
-      "L",
-      "L"
+      "R",
+      "K"
     ],
     [
+      "S",
+      "I",
       "T",
-      "H",
-      "R",
-      "E",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "A",
+      "U",
+      "S",
       "E"
     ],
     [
-      "R",
-      "O",
-      "O",
-      "M",
-      "S"
-    ],
-    [
-      "U",
+      "I",
       "N",
       "D",
-      "O",
-      null
+      "E",
+      "X"
     ],
     [
       "T",
+      "O",
       "E",
-      "E",
-      "N",
+      "S",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Say \"C-H-E-E-S-E\"?",
-        "answer": "SPELL",
+        "clue": "Work benefit",
+        "answer": "PERK",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Number of stripes on many world flags",
-        "answer": "THREE",
+        "num": 5,
+        "clue": "Delay airing, as a news story",
+        "answer": "SITON",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Places visited on a Clue board",
-        "answer": "ROOMS",
+        "num": 6,
+        "clue": ":pause_button:, on a remote",
+        "answer": "PAUSE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "\"Go back\" command",
-        "answer": "UNDO",
+        "num": 7,
+        "clue": "Back-of-book search feature",
+        "answer": "INDEX",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Follower of six or seven, but not five",
-        "answer": "TEEN",
+        "num": 8,
+        "clue": "They get socked",
+        "answer": "TOES",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Walk with swagger",
-        "answer": "STRUT",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "What gets texts (and also scrolls?)",
-        "answer": "PHONE",
+        "clue": "Chopin's instrument",
+        "answer": "PIANO",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Wear away slowly",
-        "answer": "ERODE",
+        "num": 2,
+        "clue": "Chopin practice piece",
+        "answer": "ETUDE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Kind of juice in a French 75 cocktail",
-        "answer": "LEMON",
+        "num": 3,
+        "clue": "Pinkish wines",
+        "answer": "ROSES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "\"___ MisÃ©rables\"",
-        "answer": "LES",
+        "num": 4,
+        "clue": "Lego competitor",
+        "answer": "KNEX",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "___ and polish",
+        "answer": "SPIT",
+        "row": 1,
+        "col": 0
       }
     ]
   }
