@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "P",
+      "B",
       "E",
-      "R",
-      "K"
-    ],
-    [
-      "S",
-      "I",
-      "T",
-      "O",
-      "N"
-    ],
-    [
-      "P",
       "A",
-      "U",
-      "S",
-      "E"
+      "R",
+      null
     ],
     [
       "I",
-      "N",
       "D",
-      "E",
-      "X"
+      "I",
+      "O",
+      "T"
     ],
     [
-      "T",
-      "O",
+      "B",
       "E",
+      "L",
+      "L",
+      "Y"
+    ],
+    [
       "S",
-      null
+      "N",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      null,
+      null,
+      "D",
+      "S",
+      "A"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Work benefit",
-        "answer": "PERK",
+        "clue": "Gummy ___",
+        "answer": "BEAR",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Delay airing, as a news story",
-        "answer": "SITON",
+        "clue": "Dummy",
+        "answer": "IDIOT",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": ":pause_button:, on a remote",
-        "answer": "PAUSE",
+        "num": 7,
+        "clue": "Tummy",
+        "answer": "BELLY",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Back-of-book search feature",
-        "answer": "INDEX",
+        "num": 8,
+        "clue": "Mean facial expression",
+        "answer": "SNEER",
         "row": 3,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "They get socked",
-        "answer": "TOES",
+        "num": 9,
+        "clue": "Left-wing political org. that includes Zohran Mamdani and A.O.C.",
+        "answer": "DSA",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Chopin's instrument",
-        "answer": "PIANO",
+        "clue": "Garments worn in high chairs",
+        "answer": "BIBS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Garden for Adam and Eve",
+        "answer": "EDEN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Chopin practice piece",
-        "answer": "ETUDE",
+        "num": 3,
+        "clue": "Felt sick",
+        "answer": "AILED",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Pinkish wines",
-        "answer": "ROSES",
+        "num": 4,
+        "clue": "Willy Wonka and Bob Dylan, for TimothÃ©e Chalamet",
+        "answer": "ROLES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Lego competitor",
-        "answer": "KNEX",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "___ and polish",
-        "answer": "SPIT",
+        "num": 6,
+        "clue": "Banks of \"America's Next Top Model\"",
+        "answer": "TYRA",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }

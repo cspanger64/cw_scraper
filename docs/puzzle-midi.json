@@ -1,359 +1,336 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "T",
-      "O",
-      "P",
       "S",
-      null,
-      null,
-      "P",
       "E",
-      "S",
-      "O"
-    ],
-    [
-      "E",
-      "P",
-      "I",
       "C",
-      "S",
-      null,
-      "S",
       "T",
-      "U",
-      "D"
+      null,
+      "A",
+      "J",
+      "A",
+      "R"
     ],
     [
-      "A",
-      "S",
       "P",
-      "R",
-      "O",
-      "M",
-      "I",
-      "S",
       "E",
-      "D"
-    ],
-    [
+      "L",
+      "E",
       null,
-      null,
-      null,
-      "U",
-      "S",
-      "A",
-      null,
-      "Y",
       "D",
-      "S"
+      "O",
+      "L",
+      "E"
     ],
     [
-      "T",
-      "O",
-      "Y",
-      "B",
-      "O",
+      "F",
+      "L",
       "A",
-      "T",
-      "S",
-      null,
-      null
-    ],
-    [
-      "A",
-      "G",
-      "E",
-      null,
-      null,
-      null,
-      "A",
-      "H",
-      "A",
-      null
-    ],
-    [
-      "T",
-      "R",
-      "A",
-      "I",
-      "T",
-      "O",
-      "R",
-      "O",
-      "U",
-      "S"
-    ],
-    [
-      "S",
-      "E",
-      "R",
-      "M",
-      "O",
       "N",
       null,
+      "D",
+      "E",
+      "A",
+      "F"
+    ],
+    [
+      null,
+      null,
+      "S",
+      "E",
+      "W",
+      "S",
+      null,
+      null,
+      null
+    ],
+    [
       "P",
-      "R",
-      "O"
+      "A",
+      "S",
+      "T",
+      "A",
+      null,
+      "B",
+      "F",
+      "F"
     ],
     [
+      "A",
+      "T",
+      "M",
       null,
       "S",
-      "N",
-      "O",
-      "R",
+      "T",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "A",
+      "F",
+      "P",
+      "I",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "M",
+      "U",
+      "T",
       "E",
       null,
+      "N",
+      "E",
       "S",
+      "T"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "D",
+      null,
       "A",
-      "Y"
+      "S",
+      "H",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Tees and tanks",
-        "answer": "TOPS",
+        "clue": "Religious offshoot",
+        "answer": "SECT",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Money in Mexico",
-        "answer": "PESO",
+        "clue": "Propped open, say",
+        "answer": "AJAR",
         "row": 0,
-        "col": 6
+        "col": 5
       },
       {
         "num": 9,
-        "clue": "Long poems with heroes",
-        "answer": "EPICS",
+        "clue": "Soccer legend born Edson Arantes do Nascimento",
+        "answer": "PELE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Basic earring",
-        "answer": "STUD",
+        "num": 10,
+        "clue": "Bob who lost to Clinton in 1996",
+        "answer": "DOLE",
         "row": 1,
-        "col": 6
+        "col": 5
       },
       {
-        "num": 12,
-        "clue": "\"Just like we discussed ...\"",
-        "answer": "ASPROMISED",
+        "num": 11,
+        "clue": "Dessert topped with caramel sauce",
+        "answer": "FLAN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "___ Today",
-        "answer": "USA",
-        "row": 3,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "QB's passing units: Abbr.",
-        "answer": "YDS",
-        "row": 3,
-        "col": 7
-      },
-      {
-        "num": 16,
-        "clue": "Some bath time playthings",
-        "answer": "TOYBOATS",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Number that changes on your birthday",
-        "answer": "AGE",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 21,
-        "clue": "\"Ohhh, I see now!\"",
-        "answer": "AHA",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 23,
-        "clue": "Like a snake in the grass",
-        "answer": "TRAITOROUS",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 28,
-        "clue": "Religious leader's speech",
-        "answer": "SERMON",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 29,
-        "clue": "Opposite of con",
-        "answer": "PRO",
-        "row": 7,
-        "col": 7
-      },
-      {
-        "num": 30,
-        "clue": "Sound from a sleeper",
-        "answer": "SNORE",
-        "row": 8,
-        "col": 1
-      },
-      {
-        "num": 31,
-        "clue": "\"So whaddya ___?\"",
-        "answer": "SAY",
-        "row": 8,
-        "col": 7
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Drink that may be served with grass jelly or boba",
-        "answer": "TEA",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Photo ___",
-        "answer": "OPS",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Dot on a domino",
-        "answer": "PIP",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Thoroughly clean",
-        "answer": "SCRUB",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Letter before omega",
-        "answer": "PSI",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "Certain \"storefronts\" that often sell handmade items",
-        "answer": "ETSYSHOPS",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 7,
-        "clue": "Took to court",
-        "answer": "SUED",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 8,
-        "clue": "Betting figures",
-        "answer": "ODDS",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 10,
-        "clue": "Meh",
-        "answer": "SOSO",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "Cry on a goat farm",
-        "answer": "MAA",
+        "num": 12,
+        "clue": "Not able to hear",
+        "answer": "DEAF",
         "row": 2,
         "col": 5
       },
       {
-        "num": 16,
-        "clue": "Bits of body art",
-        "answer": "TATS",
+        "num": 13,
+        "clue": "Stitches up",
+        "answer": "SEWS",
+        "row": 3,
+        "col": 2
+      },
+      {
+        "num": 15,
+        "clue": "Fusilli, farfalle or fregula",
+        "answer": "PASTA",
         "row": 4,
         "col": 0
       },
       {
         "num": 17,
-        "clue": "\"___ are like onions ... onions have layers, ___ have layers\" (\"Shrek\" line)",
-        "answer": "OGRES",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 18,
-        "clue": "Wish (for)",
-        "answer": "YEARN",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 19,
-        "clue": "Roofing material",
-        "answer": "TAR",
+        "clue": "Closest bud, in brief",
+        "answer": "BFF",
         "row": 4,
         "col": 6
       },
       {
-        "num": 22,
-        "clue": "Cool factor, in Gen Z slang",
-        "answer": "AURA",
+        "num": 20,
+        "clue": "\"Bread\" dispenser",
+        "answer": "ATM",
         "row": 5,
-        "col": 8
+        "col": 0
       },
       {
-        "num": 24,
-        "clue": "Texter's \"What I think is ... \"",
-        "answer": "IMO",
-        "row": 6,
-        "col": 3
-      },
-      {
-        "num": 25,
-        "clue": "The Blue Jays, on scoreboards",
-        "answer": "TOR",
-        "row": 6,
+        "num": 21,
+        "clue": "Like bread used to make stuffing",
+        "answer": "STALE",
+        "row": 5,
         "col": 4
       },
       {
-        "num": 26,
-        "clue": "20-Across of some toddlers",
-        "answer": "ONE",
+        "num": 23,
+        "clue": "Seasonal buildups kids may jump into ... or a hint to this puzzle's circled letters",
+        "answer": "LEAFPILES",
         "row": 6,
+        "col": 0
+      },
+      {
+        "num": 25,
+        "clue": "Online meeting button pushed when sneezing, perhaps",
+        "answer": "MUTE",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 26,
+        "clue": "See 14-Down",
+        "answer": "NEST",
+        "row": 7,
         "col": 5
       },
       {
         "num": 27,
-        "clue": "Impossible Foods \"meat\" base",
-        "answer": "SOY",
+        "clue": "Zipped along",
+        "answer": "SPED",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 28,
+        "clue": "One shade of gray",
+        "answer": "ASH",
+        "row": 8,
+        "col": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Beach bottle letters",
+        "answer": "SPF",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Slithery swimmer",
+        "answer": "EEL",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Research fellow?",
+        "answer": "CLASSMATE",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "2020 Christopher Nolan film with a palindromic title",
+        "answer": "TENET",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Puts two and two together, say",
+        "answer": "ADDS",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "QB Burrow",
+        "answer": "JOE",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Pie ___ mode",
+        "answer": "ALA",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 8,
+        "clue": "Whistle blower",
+        "answer": "REF",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 14,
+        "clue": "Insect that may live in a basketball-sized 26-Across",
+        "answer": "WASP",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "Trees common in Miami's South Beach neighborhood",
+        "answer": "PALMS",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Inhaled, so to speak",
+        "answer": "ATEUP",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 17,
+        "clue": "Bundles of hay",
+        "answer": "BALES",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 18,
+        "clue": "___ and blood (kin)",
+        "answer": "FLESH",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 19,
+        "clue": "Suffix with snooze or gab",
+        "answer": "FEST",
+        "row": 4,
+        "col": 8
+      },
+      {
+        "num": 22,
+        "clue": "Actress Fey",
+        "answer": "TINA",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 24,
+        "clue": "Org. headed by Kevin Warsh, with \"the\"",
+        "answer": "FED",
         "row": 6,
-        "col": 9
+        "col": 3
       }
     ]
   }
