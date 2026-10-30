@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
+      null,
+      null,
       "B",
-      "E",
       "A",
-      "R",
-      null
-    ],
-    [
-      "I",
-      "D",
-      "I",
-      "O",
       "T"
     ],
     [
+      null,
+      "T",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "T",
+      "I",
       "B",
       "E",
-      "L",
-      "L",
-      "Y"
+      "T"
     ],
     [
+      "O",
+      "R",
+      "B",
       "S",
-      "N",
-      "E",
-      "E",
-      "R"
+      null
     ],
     [
+      "K",
+      "E",
+      "Y",
       null,
-      null,
-      "D",
-      "S",
-      "A"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Gummy ___",
-        "answer": "BEAR",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Dummy",
-        "answer": "IDIOT",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Tummy",
-        "answer": "BELLY",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Mean facial expression",
-        "answer": "SNEER",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Left-wing political org. that includes Zohran Mamdani and A.O.C.",
-        "answer": "DSA",
-        "row": 4,
-        "col": 2
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Garments worn in high chairs",
-        "answer": "BIBS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Garden for Adam and Eve",
-        "answer": "EDEN",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Felt sick",
-        "answer": "AILED",
+        "clue": "Vampire ___ (flying mammal)",
+        "answer": "BAT",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Willy Wonka and Bob Dylan, for TimothÃ©e Chalamet",
-        "answer": "ROLES",
+        "clue": "Ghost ___ (abandoned place)",
+        "answer": "TOWN",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Land on the northern edge of Mount Everest",
+        "answer": "TIBET",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "Shapes of Whopper candies",
+        "answer": "ORBS",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 7,
+        "clue": "Skeleton ___ (super's item)",
+        "answer": "KEY",
+        "row": 4,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Celebrity chef Flay",
+        "answer": "BOBBY",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 2,
+        "clue": "Amazes",
+        "answer": "AWES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Banks of \"America's Next Top Model\"",
-        "answer": "TYRA",
-        "row": 1,
+        "num": 3,
+        "clue": "Explosive material",
+        "answer": "TNT",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 4,
+        "clue": "Something attached to a rope for a tree swing",
+        "answer": "TIRE",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Tik___",
+        "answer": "TOK",
+        "row": 2,
+        "col": 0
       }
     ]
   }
