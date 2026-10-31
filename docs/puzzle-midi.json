@@ -1,245 +1,192 @@
 {
   "size": [
     9,
-    11
+    9
   ],
   "grid": [
     [
-      "B",
-      "U",
-      "L",
-      "L",
       null,
       null,
-      null,
-      "B",
-      "U",
       "L",
-      "L"
+      "E",
+      "A",
+      "P",
+      "S",
+      null,
+      null
     ],
     [
-      "A",
-      "D",
+      null,
+      "L",
       "I",
       "E",
-      "U",
+      "D",
+      "O",
+      "W",
+      "N",
+      null
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "L",
+      "O",
+      "W",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "V",
+      "A",
       null,
-      "P",
-      "U",
+      null,
+      null,
+      "A",
+      "N",
+      "Y"
+    ],
+    [
+      "C",
+      "A",
+      "C",
+      "A",
+      "O",
+      "T",
       "R",
       "E",
       "E"
     ],
     [
-      "R",
-      "O",
-      "S",
-      "I",
-      "N",
-      null,
-      "A",
-      "N",
-      "N",
-      "E",
-      "X"
-    ],
-    [
-      "D",
-      "N",
-      "A",
-      null,
-      "P",
-      "E",
-      "P",
       null,
       null,
       null,
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "P",
-      "A",
-      "R",
-      "A",
       "B",
-      "L",
-      "E",
-      "S"
-    ],
-    [
-      "T",
-      "U",
-      "N",
-      "I",
-      "C",
-      "S",
-      null,
-      "L",
       "A",
-      "V",
-      "A"
-    ],
-    [
-      "K",
-      "N",
-      "I",
-      "C",
-      "K",
-      null,
-      "S",
-      "I",
-      "T",
-      "I",
-      "N"
-    ],
-    [
       "O",
-      "I",
-      "N",
-      "K",
-      "S",
       null,
-      "K",
-      "N",
-      "I",
-      "C",
-      "K"
+      null,
+      null
     ],
     [
-      "S",
-      "T",
-      "A",
-      "Y",
-      null,
-      null,
-      "A",
-      "I",
+      "E",
       "N",
+      "D",
+      "U",
+      "R",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "B",
+      "O",
+      "U",
       "T",
-      null
+      null,
+      "D",
+      "O",
+      "O",
+      "M"
+    ],
+    [
+      "B",
+      "R",
+      "O",
+      null,
+      null,
+      null,
+      "B",
+      "I",
+      "O"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Michael Jordan, notably",
-        "answer": "BULL",
+        "clue": "By ___ and bounds",
+        "answer": "LEAPS",
         "row": 0,
+        "col": 2
+      },
+      {
+        "num": 6,
+        "clue": "Prepare to nap",
+        "answer": "LIEDOWN",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 8,
+        "clue": "Time for spooky sights and sounds",
+        "answer": "HALLOWEEN",
+        "row": 2,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "China shop menace, in a saying",
-        "answer": "BULL",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 9,
-        "clue": "\"Catch you on the flippity flip, FranÃ§oise!\"",
-        "answer": "ADIEU",
-        "row": 1,
+        "num": 10,
+        "clue": "Egg cells",
+        "answer": "OVA",
+        "row": 3,
         "col": 0
       },
       {
         "num": 11,
-        "clue": "Blender setting for making applesauce",
-        "answer": "PUREE",
-        "row": 1,
+        "clue": "This or that or whichever",
+        "answer": "ANY",
+        "row": 3,
         "col": 6
       },
       {
         "num": 12,
-        "clue": "Coating used by violin players",
-        "answer": "ROSIN",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Building wing",
-        "answer": "ANNEX",
-        "row": 2,
-        "col": 6
-      },
-      {
-        "num": 14,
-        "clue": "___ profiling (lab technique)",
-        "answer": "DNA",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Lively spirit",
-        "answer": "PEP",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 17,
-        "clue": "Some biblical stories ... or, homophonically, a description of 1- and 5-Across",
-        "answer": "PARABLES",
+        "clue": "Tropical evergreen that's the source of chocolate",
+        "answer": "CACAOTREE",
         "row": 4,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Chinese steamed bun",
+        "answer": "BAO",
+        "row": 5,
         "col": 3
       },
       {
-        "num": 22,
-        "clue": "Simple Roman garments ... or, homophonically, a description of 26- and 29-Across",
-        "answer": "TUNICS",
-        "row": 5,
+        "num": 17,
+        "clue": "Useful trait for climbing a mountain or wrangling an energetic toddler",
+        "answer": "ENDURANCE",
+        "row": 6,
         "col": 0
+      },
+      {
+        "num": 23,
+        "clue": "Spell of activity",
+        "answer": "BOUT",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 24,
+        "clue": "Fitting rhyme for \"gloom\"",
+        "answer": "DOOM",
+        "row": 7,
+        "col": 5
       },
       {
         "num": 25,
-        "clue": "What the floor is, in a children's game",
-        "answer": "LAVA",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 26,
-        "clue": "Jalen Brunson, notably",
-        "answer": "KNICK",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 27,
-        "clue": "Peaceful type of protest",
-        "answer": "SITIN",
-        "row": 6,
-        "col": 6
-      },
-      {
-        "num": 28,
-        "clue": "Pig squeals",
-        "answer": "OINKS",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 29,
-        "clue": "\"The ___\" (Clive Owen medical drama set in N.Y.C.)",
-        "answer": "KNICK",
-        "row": 7,
-        "col": 6
-      },
-      {
-        "num": 30,
-        "clue": "Command to a dog",
-        "answer": "STAY",
+        "clue": "Dude",
+        "answer": "BRO",
         "row": 8,
         "col": 0
       },
       {
-        "num": 31,
-        "clue": "\"You ___ seen nothin' yet!\"",
-        "answer": "AINT",
+        "num": 26,
+        "clue": "Class that teaches about DNA, in brief",
+        "answer": "BIO",
         "row": 8,
         "col": 6
       }
@@ -247,143 +194,129 @@
     "down": [
       {
         "num": 1,
-        "clue": "Teller of tales",
-        "answer": "BARD",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Japanese noodle often served with tempura",
-        "answer": "UDON",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Maggie's big sis on \"The Simpsons\"",
-        "answer": "LISA",
+        "clue": "Pale purple",
+        "answer": "LILAC",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Souvenir from Hawaii",
-        "answer": "LEI",
+        "num": 2,
+        "clue": "Sushi fish served with a sweet-salty sauce",
+        "answer": "EEL",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "What ramen substitutes for in a ramen burger",
-        "answer": "BUN",
+        "num": 3,
+        "clue": "Hubbub",
+        "answer": "ADO",
         "row": 0,
-        "col": 7
-      },
-      {
-        "num": 6,
-        "clue": "Large vase",
-        "answer": "URN",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 7,
-        "clue": "Actor/martial artist Bruce",
-        "answer": "LEE",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 8,
-        "clue": "Comics villain Luthor",
-        "answer": "LEX",
-        "row": 0,
-        "col": 10
-      },
-      {
-        "num": 10,
-        "clue": "Empties, as a suitcase",
-        "answer": "UNPACKS",
-        "row": 1,
         "col": 4
       },
       {
-        "num": 11,
-        "clue": "Smurf with a beard",
-        "answer": "PAPA",
-        "row": 1,
+        "num": 4,
+        "clue": "Comic book onomatopoeia",
+        "answer": "POW",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "Say with a hand on the Bible",
+        "answer": "SWEAR",
+        "row": 0,
         "col": 6
       },
       {
-        "num": 16,
-        "clue": "Hosp. spots for triaging",
-        "answer": "ERS",
-        "row": 3,
+        "num": 6,
+        "clue": "What the blobs of some groovy lamps resemble",
+        "answer": "LAVA",
+        "row": 1,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "State bird of Hawaii",
+        "answer": "NENE",
+        "row": 1,
+        "col": 7
+      },
+      {
+        "num": 8,
+        "clue": "Ad ___ (formed for a particular purpose)",
+        "answer": "HOC",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Holiday celebrated two months after 8-Across, for short",
+        "answer": "NYE",
+        "row": 2,
+        "col": 8
+      },
+      {
+        "num": 13,
+        "clue": "Be next to",
+        "answer": "ABUT",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 14,
+        "clue": "Rowboat tool",
+        "answer": "OAR",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "\"Frog and ___\" (children's book series)",
+        "answer": "TOAD",
+        "row": 4,
         "col": 5
       },
       {
         "num": 17,
-        "clue": "Choosy",
-        "answer": "PICKY",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 18,
-        "clue": "Russian pancakes",
-        "answer": "BLINI",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 19,
-        "clue": "Like \"carpe diem,\" but not \"YOLO\"",
-        "answer": "LATIN",
-        "row": 4,
-        "col": 8
-      },
-      {
-        "num": 20,
-        "clue": "Kick out, as a tenant",
-        "answer": "EVICT",
-        "row": 4,
-        "col": 9
-      },
-      {
-        "num": 21,
-        "clue": "Plummeted into the abyss, say",
-        "answer": "SANK",
-        "row": 4,
-        "col": 10
-      },
-      {
-        "num": 22,
-        "clue": "Some boxing match outcomes, in brief",
-        "answer": "TKOS",
-        "row": 5,
+        "clue": "Flow back",
+        "answer": "EBB",
+        "row": 6,
         "col": 0
       },
       {
-        "num": 23,
-        "clue": "The \"U\" of B.T.U.",
-        "answer": "UNIT",
-        "row": 5,
+        "num": 18,
+        "clue": "\"Neither snow ___ rain ___ heat ___ gloom of night ...\" (motto associated with the U.S. Postal Service)",
+        "answer": "NOR",
+        "row": 6,
         "col": 1
       },
       {
-        "num": 24,
-        "clue": "Singer/civil rights activist Simone",
-        "answer": "NINA",
-        "row": 5,
+        "num": 19,
+        "clue": "\"Dynamic\" grouping of people",
+        "answer": "DUO",
+        "row": 6,
         "col": 2
       },
       {
-        "num": 27,
-        "clue": "Cousin of reggae",
-        "answer": "SKA",
+        "num": 20,
+        "clue": "Head, in slang",
+        "answer": "NOB",
         "row": 6,
         "col": 6
+      },
+      {
+        "num": 21,
+        "clue": "___ Leray, rapper with the 2023 hit \"Players\"",
+        "answer": "COI",
+        "row": 6,
+        "col": 7
+      },
+      {
+        "num": 22,
+        "clue": "Rock genre with confessional lyrics",
+        "answer": "EMO",
+        "row": 6,
+        "col": 8
       }
     ]
   }

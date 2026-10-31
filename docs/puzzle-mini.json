@@ -1,41 +1,69 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
       null,
       null,
+      null,
       "B",
       "A",
-      "T"
-    ],
-    [
-      null,
-      "T",
-      "O",
-      "W",
-      "N"
-    ],
-    [
-      "T",
-      "I",
-      "B",
-      "E",
-      "T"
-    ],
-    [
-      "O",
-      "R",
-      "B",
-      "S",
+      "G",
       null
     ],
     [
-      "K",
+      null,
+      null,
+      "N",
+      "A",
+      "S",
+      "A",
+      null
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "L",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      null,
+      "R",
+      "O",
+      "O"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "H",
+      "O",
+      "R",
+      "N"
+    ],
+    [
+      null,
+      "M",
+      "O",
+      "U",
+      "S",
       "E",
-      "Y",
+      "S"
+    ],
+    [
+      null,
+      "E",
+      "W",
+      "E",
+      null,
       null,
       null
     ]
@@ -44,75 +72,117 @@
     "across": [
       {
         "num": 1,
-        "clue": "Vampire ___ (flying mammal)",
-        "answer": "BAT",
+        "clue": "Candy holder for a trick-or-treater",
+        "answer": "BAG",
         "row": 0,
-        "col": 2
+        "col": 3
       },
       {
         "num": 4,
-        "clue": "Ghost ___ (abandoned place)",
-        "answer": "TOWN",
+        "clue": "Org. interested in Mars and the Milky Way",
+        "answer": "NASA",
         "row": 1,
-        "col": 1
+        "col": 2
       },
       {
         "num": 5,
-        "clue": "Land on the northern edge of Mount Everest",
-        "answer": "TIBET",
+        "clue": "Half Starburst, half Skittle?",
+        "answer": "STARTLE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Shapes of Whopper candies",
-        "answer": "ORBS",
+        "num": 8,
+        "clue": "Golfer's goal",
+        "answer": "PAR",
         "row": 3,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Skeleton ___ (super's item)",
-        "answer": "KEY",
+        "num": 9,
+        "clue": "Iconic Australian animal, for short",
+        "answer": "ROO",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 10,
+        "clue": "Half Airhead, half candy corn?",
+        "answer": "AIRHORN",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Half Mounds, half Reese's?",
+        "answer": "MOUSES",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 13,
+        "clue": "Female sheep",
+        "answer": "EWE",
+        "row": 6,
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Celebrity chef Flay",
-        "answer": "BOBBY",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 2,
-        "clue": "Amazes",
-        "answer": "AWES",
+        "clue": "Candy ___",
+        "answer": "BAR",
         "row": 0,
         "col": 3
       },
       {
-        "num": 3,
-        "clue": "Explosive material",
-        "answer": "TNT",
+        "num": 2,
+        "clue": "Houston baseball team",
+        "answer": "ASTROS",
         "row": 0,
         "col": 4
       },
       {
+        "num": 3,
+        "clue": "Aplenty",
+        "answer": "GALORE",
+        "row": 0,
+        "col": 5
+      },
+      {
         "num": 4,
-        "clue": "Something attached to a rope for a tree swing",
-        "answer": "TIRE",
+        "clue": "Opposite of wide",
+        "answer": "NARROW",
         "row": 1,
-        "col": 1
+        "col": 2
       },
       {
         "num": 5,
-        "clue": "Tik___",
-        "answer": "TOK",
+        "clue": "Health resort",
+        "answer": "SPA",
         "row": 2,
         "col": 0
+      },
+      {
+        "num": 6,
+        "clue": "\"Je ___\" (French \"I love you\")",
+        "answer": "TAIME",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 7,
+        "clue": "Many, many millennia",
+        "answer": "EONS",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 11,
+        "clue": "Shade of a color",
+        "answer": "HUE",
+        "row": 4,
+        "col": 3
       }
     ]
   }
