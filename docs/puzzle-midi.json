@@ -1,322 +1,385 @@
 {
   "size": [
-    9,
-    9
+    10,
+    10
   ],
   "grid": [
     [
-      null,
-      null,
-      "L",
-      "E",
+      "J",
       "A",
+      "Y",
+      null,
+      null,
+      null,
+      "T",
+      "Y",
       "P",
-      "S",
-      null,
-      null
+      "O"
     ],
     [
-      null,
-      "L",
-      "I",
-      "E",
-      "D",
-      "O",
-      "W",
-      "N",
-      null
-    ],
-    [
-      "H",
       "A",
-      "L",
-      "L",
+      "T",
       "O",
-      "W",
-      "E",
-      "E",
+      "M",
+      null,
+      null,
+      "R",
+      "A",
+      "I",
       "N"
     ],
     [
+      "B",
       "O",
-      "V",
-      "A",
-      null,
-      null,
-      null,
-      "A",
-      "N",
-      "Y"
-    ],
-    [
-      "C",
-      "A",
-      "C",
-      "A",
-      "O",
-      "T",
-      "R",
+      "G",
       "E",
+      "Y",
+      null,
+      "E",
+      "D",
+      "G",
       "E"
     ],
     [
-      null,
-      null,
-      null,
-      "B",
+      "S",
+      "P",
       "A",
-      "O",
-      null,
+      "R",
+      "E",
+      "B",
+      "E",
+      "D",
       null,
       null
     ],
     [
+      null,
+      null,
+      "S",
+      "I",
+      "T",
       "E",
-      "N",
-      "D",
-      "U",
-      "R",
+      null,
       "A",
-      "N",
-      "C",
+      "B",
       "E"
     ],
     [
-      "B",
-      "O",
-      "U",
+      "W",
+      "A",
+      "T",
       "T",
       null,
-      "D",
-      "O",
-      "O",
-      "M"
+      "L",
+      "A",
+      "Y",
+      "U",
+      "P"
     ],
     [
-      "B",
+      "A",
+      "M",
+      "U",
+      "S",
+      "E",
+      null,
+      "P",
+      "A",
       "R",
-      "O",
-      null,
-      null,
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "D",
       null,
       "B",
       "I",
-      "O"
+      "R",
+      "D",
+      "I",
+      "E"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      null,
+      "B",
+      "R",
+      "I",
+      "D",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      null,
+      "S",
+      "A",
+      "L",
+      "A",
+      "D",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "By ___ and bounds",
-        "answer": "LEAPS",
+        "clue": "Apt name for a birder",
+        "answer": "JAY",
         "row": 0,
-        "col": 2
+        "col": 0
       },
       {
-        "num": 6,
-        "clue": "Prepare to nap",
-        "answer": "LIEDOWN",
-        "row": 1,
-        "col": 1
+        "num": 4,
+        "clue": "Off-key outcome?",
+        "answer": "TYPO",
+        "row": 0,
+        "col": 6
       },
       {
         "num": 8,
-        "clue": "Time for spooky sights and sounds",
-        "answer": "HALLOWEEN",
-        "row": 2,
+        "clue": "Chemistry building block",
+        "answer": "ATOM",
+        "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Egg cells",
-        "answer": "OVA",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "This or that or whichever",
-        "answer": "ANY",
-        "row": 3,
+        "clue": "Unfortunate weather for an outdoor concert",
+        "answer": "RAIN",
+        "row": 1,
         "col": 6
       },
       {
-        "num": 12,
-        "clue": "Tropical evergreen that's the source of chocolate",
-        "answer": "CACAOTREE",
-        "row": 4,
+        "num": 11,
+        "clue": "Unidentified aircraft, in military slang",
+        "answer": "BOGEY",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "\"___ of Tomorrow\" (2014 Tom Cruise sci-fi film)",
+        "answer": "EDGE",
+        "row": 2,
+        "col": 6
+      },
+      {
+        "num": 14,
+        "clue": "Extra spot to sleep",
+        "answer": "SPAREBED",
+        "row": 3,
         "col": 0
       },
       {
         "num": 16,
-        "clue": "Chinese steamed bun",
-        "answer": "BAO",
-        "row": 5,
-        "col": 3
+        "clue": "Location",
+        "answer": "SITE",
+        "row": 4,
+        "col": 2
       },
       {
         "num": 17,
-        "clue": "Useful trait for climbing a mountain or wrangling an energetic toddler",
-        "answer": "ENDURANCE",
+        "clue": "Pres. Lincoln",
+        "answer": "ABE",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 20,
+        "clue": "Unit of power",
+        "answer": "WATT",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 22,
+        "clue": "Easy win",
+        "answer": "LAYUP",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 24,
+        "clue": "Tickle, say",
+        "answer": "AMUSE",
         "row": 6,
         "col": 0
       },
       {
-        "num": 23,
-        "clue": "Spell of activity",
-        "answer": "BOUT",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 24,
-        "clue": "Fitting rhyme for \"gloom\"",
-        "answer": "DOOM",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 25,
-        "clue": "Dude",
-        "answer": "BRO",
-        "row": 8,
-        "col": 0
-      },
-      {
         "num": 26,
-        "clue": "Class that teaches about DNA, in brief",
-        "answer": "BIO",
-        "row": 8,
+        "clue": "Word whose letters can aptly be used to spell \"prepare a pear\"",
+        "answer": "PARE",
+        "row": 6,
         "col": 6
+      },
+      {
+        "num": 27,
+        "clue": "Freed (of)",
+        "answer": "RID",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 28,
+        "clue": "\"Bye Bye ___\"",
+        "answer": "BIRDIE",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "num": 30,
+        "clue": "Pressure measure: Abbr.",
+        "answer": "PSI",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 31,
+        "clue": "Pair at some weddings",
+        "answer": "BRIDES",
+        "row": 8,
+        "col": 4
+      },
+      {
+        "num": 32,
+        "clue": "\"Couples Therapy\" network, for short",
+        "answer": "SHO",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 33,
+        "clue": "Greens for lunch, perhaps",
+        "answer": "SALAD",
+        "row": 9,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Pale purple",
-        "answer": "LILAC",
+        "clue": "Quick boxing punches",
+        "answer": "JABS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Upon",
+        "answer": "ATOP",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Business promoting flexibility?",
+        "answer": "YOGASTUDIO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Sushi fish served with a sweet-salty sauce",
-        "answer": "EEL",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Hubbub",
-        "answer": "ADO",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 4,
-        "clue": "Comic book onomatopoeia",
-        "answer": "POW",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "Say with a hand on the Bible",
-        "answer": "SWEAR",
+        "clue": "Something commonly planted on Earth Day",
+        "answer": "TREE",
         "row": 0,
         "col": 6
       },
       {
-        "num": 6,
-        "clue": "What the blobs of some groovy lamps resemble",
-        "answer": "LAVA",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 7,
-        "clue": "State bird of Hawaii",
-        "answer": "NENE",
-        "row": 1,
+        "num": 5,
+        "clue": "\"You know the rest\"",
+        "answer": "YADDAYADDA",
+        "row": 0,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "Ad ___ (formed for a particular purpose)",
-        "answer": "HOC",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Holiday celebrated two months after 8-Across, for short",
-        "answer": "NYE",
-        "row": 2,
+        "num": 6,
+        "clue": "Oinker",
+        "answer": "PIG",
+        "row": 0,
         "col": 8
       },
       {
-        "num": 13,
-        "clue": "Be next to",
-        "answer": "ABUT",
-        "row": 4,
+        "num": 7,
+        "clue": "Single",
+        "answer": "ONE",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 9,
+        "clue": "Is worthy of",
+        "answer": "MERITS",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 14,
-        "clue": "Rowboat tool",
-        "answer": "OAR",
-        "row": 4,
+        "num": 12,
+        "clue": "So far",
+        "answer": "YET",
+        "row": 2,
         "col": 4
       },
       {
         "num": 15,
-        "clue": "\"Frog and ___\" (children's book series)",
-        "answer": "TOAD",
-        "row": 4,
+        "clue": "\"The Fresh Prince of ___-Air\"",
+        "answer": "BEL",
+        "row": 3,
         "col": 5
       },
       {
-        "num": 17,
-        "clue": "Flow back",
-        "answer": "EBB",
-        "row": 6,
-        "col": 0
-      },
-      {
         "num": 18,
-        "clue": "\"Neither snow ___ rain ___ heat ___ gloom of night ...\" (motto associated with the U.S. Postal Service)",
-        "answer": "NOR",
-        "row": 6,
-        "col": 1
+        "clue": "Bottled up, as emotions",
+        "answer": "BURIED",
+        "row": 4,
+        "col": 8
       },
       {
         "num": 19,
-        "clue": "\"Dynamic\" grouping of people",
-        "answer": "DUO",
-        "row": 6,
-        "col": 2
+        "clue": "Olympic fencing swords",
+        "answer": "EPEES",
+        "row": 4,
+        "col": 9
       },
       {
         "num": 20,
-        "clue": "Head, in slang",
-        "answer": "NOB",
-        "row": 6,
-        "col": 6
+        "clue": "Bends out of shape",
+        "answer": "WARPS",
+        "row": 5,
+        "col": 0
       },
       {
         "num": 21,
-        "clue": "___ Leray, rapper with the 2023 hit \"Players\"",
-        "answer": "COI",
-        "row": 6,
-        "col": 7
+        "clue": "Group known for traveling by horse and buggy",
+        "answer": "AMISH",
+        "row": 5,
+        "col": 1
       },
       {
-        "num": 22,
-        "clue": "Rock genre with confessional lyrics",
-        "answer": "EMO",
+        "num": 23,
+        "clue": "Arab American Heritage Month",
+        "answer": "APRIL",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 25,
+        "clue": "Counterpart of flows",
+        "answer": "EBBS",
         "row": 6,
-        "col": 8
+        "col": 4
+      },
+      {
+        "num": 29,
+        "clue": "Nest egg initials",
+        "answer": "IRA",
+        "row": 7,
+        "col": 5
       }
     ]
   }
