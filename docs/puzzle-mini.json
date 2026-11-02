@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
+      "J",
       "A",
-      "B",
-      "C",
-      "S"
-    ],
-    [
-      null,
-      "C",
-      "L",
-      "A",
-      "P"
-    ],
-    [
-      "W",
-      "H",
-      "I",
-      "N",
-      "Y"
-    ],
-    [
-      "H",
-      "O",
       "M",
-      "E",
       null
     ],
     [
+      "T",
       "O",
-      "O",
-      "P",
+      "U",
+      "C",
+      "H"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "I",
+      "A"
+    ],
+    [
       "S",
+      "A",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      null,
+      "H",
+      "O",
+      "G",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Preschoolers sing them",
-        "answer": "ABCS",
+        "clue": "Awesome song, informally",
+        "answer": "JAM",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Give applause",
-        "answer": "CLAP",
+        "num": 4,
+        "clue": "Word after \"Midas\" or \"magic\"",
+        "answer": "TOUCH",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Constantly complaining",
-        "answer": "WHINY",
+        "clue": "World's most populous country",
+        "answer": "INDIA",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Remote button with a house icon",
-        "answer": "HOME",
+        "clue": "Holy person",
+        "answer": "SAINT",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Bad comment to hear from your barber",
-        "answer": "OOPS",
+        "clue": "Ticker symbol for Harley-Davidson on the N.Y.S.E., appropriately",
+        "answer": "HOG",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Sneeze sound",
-        "answer": "ACHOO",
+        "clue": "Biblical whale bait",
+        "answer": "JONAH",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Goodyear aircraft",
-        "answer": "BLIMP",
+        "clue": "Sound",
+        "answer": "AUDIO",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Some decorations on Christmas trees",
-        "answer": "CANES",
+        "clue": "Hosting, informally",
+        "answer": "MCING",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Undercover agent",
-        "answer": "SPY",
-        "row": 0,
-        "col": 4
+        "clue": "\"___ the season!\"",
+        "answer": "TIS",
+        "row": 1,
+        "col": 0
       },
       {
-        "num": 6,
-        "clue": "\"Pinball Wizard\" band, with \"The\"",
-        "answer": "WHO",
-        "row": 2,
-        "col": 0
+        "num": 5,
+        "clue": "Pharrell's signature item of apparel",
+        "answer": "HAT",
+        "row": 1,
+        "col": 4
       }
     ]
   }
