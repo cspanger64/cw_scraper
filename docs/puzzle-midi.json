@@ -1,371 +1,336 @@
 {
   "size": [
-    10,
-    10
+    9,
+    9
   ],
   "grid": [
     [
-      "A",
-      "P",
-      "P",
-      null,
-      null,
-      null,
-      "C",
-      "L",
-      "E",
-      "F"
-    ],
-    [
       "B",
       "A",
-      "R",
-      "S",
-      null,
-      null,
+      "W",
       "L",
-      "O",
+      null,
+      "A",
+      "B",
       "C",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "H",
+      "E",
+      null,
+      "S",
+      "O",
+      "U",
+      "P"
+    ],
+    [
+      "S",
+      "U",
+      "I",
+      "T",
+      null,
+      "A",
+      "N",
+      "D",
+      "Y"
+    ],
+    [
+      "E",
+      "R",
+      "R",
+      null,
+      "A",
+      "D",
+      "E",
+      null,
+      null
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "T",
+      "S",
+      "A",
+      "W",
+      "A",
+      "Y"
+    ],
+    [
+      null,
+      null,
+      "W",
+      "O",
+      "K",
+      null,
+      "H",
+      "O",
       "O"
     ],
     [
-      "C",
-      "L",
-      "I",
-      "N",
-      "G",
-      null,
-      "O",
-      "G",
-      "R",
-      "E"
-    ],
-    [
-      null,
-      null,
-      "C",
-      "O",
-      "U",
-      "S",
-      "C",
-      "O",
-      "U",
-      "S"
-    ],
-    [
-      null,
-      "N",
-      "E",
-      "W",
-      "A",
-      "R",
-      "K",
-      null,
-      null,
-      null
-    ],
-    [
-      "M",
-      "A",
-      "H",
-      "I",
-      "M",
-      "A",
-      "H",
-      "I",
-      null,
-      null
-    ],
-    [
-      "A",
-      "S",
-      "I",
-      "N",
-      null,
-      null,
-      "A",
-      "D",
-      "S",
-      null
-    ],
-    [
-      "A",
       "S",
       "K",
-      null,
-      "B",
-      "O",
-      "N",
-      "B",
-      "O",
-      "N"
-    ],
-    [
-      "M",
-      "A",
-      "E",
-      null,
-      "U",
-      "D",
-      "D",
-      "E",
-      "R",
-      "S"
-    ],
-    [
-      "S",
-      "U",
-      "S",
-      null,
-      "N",
-      "E",
-      "S",
+      "I",
       "T",
+      null,
+      "A",
+      "I",
+      "R",
+      "Y"
+    ],
+    [
+      "P",
+      "I",
+      "N",
       "E",
-      "A"
+      null,
+      "O",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "A",
+      "D",
+      "D",
+      "S",
+      null,
+      "L",
+      "E",
+      "A",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Spotify or Shopify",
-        "answer": "APP",
+        "clue": "Cry like a baby",
+        "answer": "BAWL",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Symbol at the start of a music staff",
-        "answer": "CLEF",
+        "num": 5,
+        "clue": "Topic of a children's song with the lyric \"Next time won't you sing with me?\"",
+        "answer": "ABCS",
         "row": 0,
-        "col": 6
+        "col": 5
       },
       {
-        "num": 8,
-        "clue": "Establishments with liquor licenses",
-        "answer": "BARS",
+        "num": 9,
+        "clue": "Long (for)",
+        "answer": "ACHE",
         "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Totally bonkers",
-        "answer": "LOCO",
+        "clue": "Gazpacho or garbure",
+        "answer": "SOUP",
         "row": 1,
-        "col": 6
+        "col": 5
       },
       {
         "num": 11,
-        "clue": "Hold on tightly",
-        "answer": "CLING",
+        "clue": "Common attire for a Secret Service agent",
+        "answer": "SUIT",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Monster in a fairy tale",
-        "answer": "OGRE",
+        "num": 12,
+        "clue": "Samberg of \"7 Days in Hell\"",
+        "answer": "ANDY",
         "row": 2,
-        "col": 6
+        "col": 5
+      },
+      {
+        "num": 13,
+        "clue": "\"To ___ is human; to forgive, divine\"",
+        "answer": "ERR",
+        "row": 3,
+        "col": 0
       },
       {
         "num": 14,
-        "clue": "Steamed semolina dish with a repetitive name",
-        "answer": "COUSCOUS",
+        "clue": "Commercial ending with Gator",
+        "answer": "ADE",
         "row": 3,
-        "col": 2
+        "col": 4
       },
       {
-        "num": 16,
-        "clue": "New Jersey's most populous city",
-        "answer": "NEWARK",
+        "num": 15,
+        "clue": "Sets aside for a rainy day",
+        "answer": "SALTSAWAY",
         "row": 4,
-        "col": 1
-      },
-      {
-        "num": 17,
-        "clue": "Fish in Hawaiian cuisine with a repetitive name",
-        "answer": "MAHIMAHI",
-        "row": 5,
         "col": 0
       },
       {
         "num": 19,
-        "clue": "\"A ___ apple\"",
-        "answer": "ASIN",
-        "row": 6,
-        "col": 0
+        "clue": "Stir-frying pan",
+        "answer": "WOK",
+        "row": 5,
+        "col": 2
       },
       {
         "num": 20,
-        "clue": "Podcast interruptions",
-        "answer": "ADS",
-        "row": 6,
+        "clue": "\"___ boy!\"",
+        "answer": "HOO",
+        "row": 5,
         "col": 6
       },
       {
-        "num": 22,
-        "clue": "Inquire",
-        "answer": "ASK",
-        "row": 7,
+        "num": 21,
+        "clue": "Comedic sketch",
+        "answer": "SKIT",
+        "row": 6,
         "col": 0
       },
       {
         "num": 23,
-        "clue": "Chocolate confection with a repetitive name",
-        "answer": "BONBON",
+        "clue": "Well-ventilated",
+        "answer": "AIRY",
+        "row": 6,
+        "col": 5
+      },
+      {
+        "num": 24,
+        "clue": "Norway ___ (state tree of Minnesota)",
+        "answer": "PINE",
         "row": 7,
-        "col": 4
+        "col": 0
+      },
+      {
+        "num": 25,
+        "clue": "Palindromic man's name",
+        "answer": "OTTO",
+        "row": 7,
+        "col": 5
       },
       {
         "num": 26,
-        "clue": "___ Jemison (first Black woman to travel to space)",
-        "answer": "MAE",
+        "clue": "Counts on one's fingers, say",
+        "answer": "ADDS",
         "row": 8,
         "col": 0
       },
       {
         "num": 27,
-        "clue": "Cow parts that dispense milk",
-        "answer": "UDDERS",
+        "clue": "Actress/singer Salonga",
+        "answer": "LEA",
         "row": 8,
-        "col": 4
-      },
-      {
-        "num": 28,
-        "clue": "Pretty shady, slangily",
-        "answer": "SUS",
-        "row": 9,
-        "col": 0
-      },
-      {
-        "num": 29,
-        "clue": "Swiss-based competitor of Lipton",
-        "answer": "NESTEA",
-        "row": 9,
-        "col": 4
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Easy as ___",
-        "answer": "ABC",
+        "clue": "Diamond quartet",
+        "answer": "BASES",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Buddy",
-        "answer": "PAL",
+        "clue": "Luxury brand of Honda",
+        "answer": "ACURA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Cost increases",
-        "answer": "PRICEHIKES",
+        "clue": "Action-packed and exhausting, as a weekend",
+        "answer": "WHIRLWIND",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Pointers that tell time",
-        "answer": "CLOCKHANDS",
+        "clue": "\"___ freedom ring\" (line from Martin Luther King Jr.'s \"I Have a Dream\" speech)",
+        "answer": "LET",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Carne ___",
+        "answer": "ASADA",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Color similar to beige, despite its name",
+        "answer": "BONEWHITE",
         "row": 0,
         "col": 6
       },
       {
-        "num": 5,
-        "clue": "Wikipedia's globe made of puzzle pieces, for one",
-        "answer": "LOGO",
+        "num": 7,
+        "clue": "Cow's mouthful",
+        "answer": "CUD",
         "row": 0,
         "col": 7
       },
       {
-        "num": 6,
-        "clue": "Beigelike color",
-        "answer": "ECRU",
+        "num": 8,
+        "clue": "Many a character on BBC's \"The Night Manager\"",
+        "answer": "SPY",
         "row": 0,
         "col": 8
       },
       {
-        "num": 7,
-        "clue": "Enemies",
-        "answer": "FOES",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 9,
-        "clue": "Strand during the winter, maybe",
-        "answer": "SNOWIN",
-        "row": 1,
-        "col": 3
-      },
-      {
-        "num": 12,
-        "clue": "U.S. territory in Oceania",
-        "answer": "GUAM",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 15,
-        "clue": "Mrs., in Spanish",
-        "answer": "SRA",
+        "num": 14,
+        "clue": "\"Say, can I ___ you something?\"",
+        "answer": "ASK",
         "row": 3,
-        "col": 5
+        "col": 4
       },
       {
         "num": 16,
-        "clue": "Capital of the Bahamas",
-        "answer": "NASSAU",
+        "clue": "\"Oh, 100%,\" in slang",
+        "answer": "TOTES",
         "row": 4,
-        "col": 1
+        "col": 3
       },
       {
         "num": 17,
-        "clue": "Counterparts of sirs",
-        "answer": "MAAMS",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 18,
-        "clue": "\"My best guess is ...\"",
-        "answer": "IDBET",
-        "row": 5,
+        "clue": "Main artery of the human body",
+        "answer": "AORTA",
+        "row": 4,
         "col": 7
       },
       {
-        "num": 21,
-        "clue": "___ loser (bad sport)",
-        "answer": "SORE",
-        "row": 6,
+        "num": 18,
+        "clue": "Toy on a string",
+        "answer": "YOYO",
+        "row": 4,
         "col": 8
       },
       {
+        "num": 21,
+        "clue": "Relaxing escape",
+        "answer": "SPA",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 22,
+        "clue": "Josh",
+        "answer": "KID",
+        "row": 6,
+        "col": 1
+      },
+      {
         "num": 23,
-        "clue": "Seeded part of a Big Mac",
-        "answer": "BUN",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 24,
-        "clue": "\"___ to Joy\"",
-        "answer": "ODE",
-        "row": 7,
+        "clue": "Internet company that popularized instant messaging",
+        "answer": "AOL",
+        "row": 6,
         "col": 5
-      },
-      {
-        "num": 25,
-        "clue": "Government org. focused on cryptography",
-        "answer": "NSA",
-        "row": 7,
-        "col": 9
       }
     ]
   }

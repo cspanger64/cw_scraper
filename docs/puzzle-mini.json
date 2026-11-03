@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "J",
-      "A",
-      "M",
-      null
-    ],
-    [
-      "T",
-      "O",
-      "U",
       "C",
-      "H"
+      "L",
+      "A",
+      "I",
+      "M"
     ],
     [
+      "L",
       "I",
-      "N",
-      "D",
+      "M",
+      "B",
+      "O"
+    ],
+    [
+      "A",
+      "V",
+      "A",
       "I",
+      "L"
+    ],
+    [
+      "P",
+      "I",
+      "Z",
+      "Z",
       "A"
     ],
     [
-      "S",
-      "A",
-      "I",
-      "N",
-      "T"
-    ],
-    [
       null,
-      "H",
-      "O",
-      "G",
-      null
+      "D",
+      "E",
+      "A",
+      "R"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Awesome song, informally",
-        "answer": "JAM",
+        "clue": "Insurance filing",
+        "answer": "CLAIM",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "Word after \"Midas\" or \"magic\"",
-        "answer": "TOUCH",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "World's most populous country",
-        "answer": "INDIA",
-        "row": 2,
+        "clue": "Bar game?",
+        "answer": "LIMBO",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Holy person",
-        "answer": "SAINT",
-        "row": 3,
+        "clue": "To no ___ (uselessly)",
+        "answer": "AVAIL",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Ticker symbol for Harley-Davidson on the N.Y.S.E., appropriately",
-        "answer": "HOG",
+        "clue": "Pie you likely wouldn't see at a Thanksgiving table",
+        "answer": "PIZZA",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Much-loved",
+        "answer": "DEAR",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Biblical whale bait",
-        "answer": "JONAH",
+        "clue": "Sudden sound of thunder",
+        "answer": "CLAP",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Hopping mad",
+        "answer": "LIVID",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Sound",
-        "answer": "AUDIO",
+        "num": 3,
+        "clue": "Elicit oohs and aahs from",
+        "answer": "AMAZE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Hosting, informally",
-        "answer": "MCING",
+        "num": 4,
+        "clue": "Spanish island known for its nightlife",
+        "answer": "IBIZA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "\"___ the season!\"",
-        "answer": "TIS",
-        "row": 1,
-        "col": 0
-      },
-      {
         "num": 5,
-        "clue": "Pharrell's signature item of apparel",
-        "answer": "HAT",
-        "row": 1,
+        "clue": "Back tooth",
+        "answer": "MOLAR",
+        "row": 0,
         "col": 4
       }
     ]
