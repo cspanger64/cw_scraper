@@ -1,118 +1,130 @@
 {
   "size": [
     5,
-    5
+    6
   ],
   "grid": [
     [
-      "C",
-      "L",
-      "A",
-      "I",
-      "M"
-    ],
-    [
-      "L",
-      "I",
-      "M",
       "B",
-      "O"
-    ],
-    [
-      "A",
-      "V",
-      "A",
+      "R",
       "I",
-      "L"
-    ],
-    [
-      "P",
-      "I",
-      "Z",
-      "Z",
-      "A"
-    ],
-    [
-      null,
       "D",
-      "E",
+      "G",
+      "E"
+    ],
+    [
+      "O",
+      "H",
+      "M",
       "A",
-      "R"
+      "R",
+      "Y"
+    ],
+    [
+      "W",
+      "I",
+      "E",
+      "N",
+      "I",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "A",
+      "C",
+      "T",
+      null
+    ],
+    [
+      "N",
+      "O",
+      "N",
+      "E",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Insurance filing",
-        "answer": "CLAIM",
+        "clue": "One of 21 around the island of Manhattan - most famously, the Brooklyn one",
+        "answer": "BRIDGE",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Bar game?",
-        "answer": "LIMBO",
+        "num": 7,
+        "clue": "Tony-winning play that reimagines Abraham Lincoln's wife as an aspiring cabaret star",
+        "answer": "OHMARY",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "To no ___ (uselessly)",
-        "answer": "AVAIL",
+        "num": 8,
+        "clue": "Hot dog, informally",
+        "answer": "WIENIE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Pie you likely wouldn't see at a Thanksgiving table",
-        "answer": "PIZZA",
+        "num": 9,
+        "clue": "Put into law",
+        "answer": "ENACT",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Much-loved",
-        "answer": "DEAR",
+        "num": 10,
+        "clue": "Not a single one",
+        "answer": "NONE",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Sudden sound of thunder",
-        "answer": "CLAP",
+        "clue": "Yang who once played the iceberg that sank the Titanic on \"S.N.L.\"",
+        "answer": "BOWEN",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Hopping mad",
-        "answer": "LIVID",
+        "clue": "Big zoo animal",
+        "answer": "RHINO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Elicit oohs and aahs from",
-        "answer": "AMAZE",
+        "clue": "\"Sorry, let me rephrase ...\"",
+        "answer": "IMEAN",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Spanish island known for its nightlife",
-        "answer": "IBIZA",
+        "clue": "Class where you might wear a leotard",
+        "answer": "DANCE",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Back tooth",
-        "answer": "MOLAR",
+        "clue": "Courage and perseverance",
+        "answer": "GRIT",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "\"Keep your ___ on the ball!\"",
+        "answer": "EYE",
+        "row": 0,
+        "col": 5
       }
     ]
   }

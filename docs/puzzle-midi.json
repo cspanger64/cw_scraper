@@ -1,336 +1,437 @@
 {
   "size": [
-    9,
-    9
+    10,
+    11
   ],
   "grid": [
     [
-      "B",
-      "A",
-      "W",
-      "L",
-      null,
-      "A",
-      "B",
-      "C",
-      "S"
-    ],
-    [
-      "A",
-      "C",
-      "H",
-      "E",
-      null,
-      "S",
-      "O",
-      "U",
-      "P"
-    ],
-    [
-      "S",
-      "U",
-      "I",
-      "T",
-      null,
-      "A",
-      "N",
-      "D",
-      "Y"
-    ],
-    [
-      "E",
-      "R",
-      "R",
-      null,
-      "A",
-      "D",
-      "E",
-      null,
-      null
-    ],
-    [
-      "S",
-      "A",
-      "L",
-      "T",
-      "S",
-      "A",
-      "W",
-      "A",
-      "Y"
-    ],
-    [
-      null,
-      null,
-      "W",
-      "O",
-      "K",
-      null,
-      "H",
-      "O",
-      "O"
-    ],
-    [
-      "S",
-      "K",
-      "I",
-      "T",
-      null,
-      "A",
-      "I",
-      "R",
-      "Y"
-    ],
-    [
       "P",
-      "I",
-      "N",
-      "E",
+      "A",
+      "C",
+      "S",
       null,
-      "O",
-      "T",
-      "T",
-      "O"
+      null,
+      null,
+      "A",
+      "C",
+      "A",
+      "I"
     ],
     [
-      "A",
-      "D",
-      "D",
       "S",
+      "Q",
+      "U",
+      "I",
+      "D",
+      null,
+      "S",
+      "H",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "S",
+      "U",
+      "T",
+      "R",
+      "A",
+      null,
+      "T",
+      "A",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "S",
+      null,
+      "S",
+      "C",
+      "I",
+      null,
+      "T",
+      "S",
+      "A"
+    ],
+    [
+      null,
+      null,
+      null,
+      "W",
+      "H",
+      "A",
+      "L",
+      "E",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "W",
+      "H",
+      "I",
+      "T",
+      "T",
+      "L",
+      "E",
+      null,
+      null
+    ],
+    [
+      "F",
+      "O",
+      "I",
+      "E",
+      null,
+      null,
+      null,
+      "S",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      "T",
+      "H",
+      "E",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "J",
+      "E",
+      "T",
+      null,
+      "O",
+      "U",
+      "I",
+      null,
+      "E",
+      "M",
+      "T"
+    ],
+    [
+      "I",
+      "S",
+      "H",
+      null,
+      "T",
+      "B",
+      "D",
       null,
       "L",
       "E",
-      "A",
-      null
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Cry like a baby",
-        "answer": "BAWL",
+        "clue": "Campaign-funding orgs.",
+        "answer": "PACS",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Topic of a children's song with the lyric \"Next time won't you sing with me?\"",
-        "answer": "ABCS",
+        "clue": "Berry spelled with only one consonant",
+        "answer": "ACAI",
         "row": 0,
-        "col": 5
+        "col": 7
       },
       {
         "num": 9,
-        "clue": "Long (for)",
-        "answer": "ACHE",
+        "clue": "Creature that squirts ink",
+        "answer": "SQUID",
         "row": 1,
         "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Gazpacho or garbure",
-        "answer": "SOUP",
-        "row": 1,
-        "col": 5
       },
       {
         "num": 11,
-        "clue": "Common attire for a Secret Service agent",
-        "answer": "SUIT",
+        "clue": "Creature with lemon and nurse varieties",
+        "answer": "SHARK",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 12,
+        "clue": "Kama ___",
+        "answer": "SUTRA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Samberg of \"7 Days in Hell\"",
-        "answer": "ANDY",
+        "num": 13,
+        "clue": "\"Tell me if it needs more salt ...\"",
+        "answer": "TASTE",
         "row": 2,
-        "col": 5
+        "col": 6
       },
       {
-        "num": 13,
-        "clue": "\"To ___ is human; to forgive, divine\"",
-        "answer": "ERR",
+        "num": 14,
+        "clue": "Professor's helpers, for short",
+        "answer": "TAS",
         "row": 3,
         "col": 0
       },
       {
-        "num": 14,
-        "clue": "Commercial ending with Gator",
-        "answer": "ADE",
+        "num": 15,
+        "clue": "The \"S\" in STEAM, informally",
+        "answer": "SCI",
         "row": 3,
         "col": 4
       },
       {
-        "num": 15,
-        "clue": "Sets aside for a rainy day",
-        "answer": "SALTSAWAY",
-        "row": 4,
-        "col": 0
+        "num": 17,
+        "clue": "Org. that may search your bags",
+        "answer": "TSA",
+        "row": 3,
+        "col": 8
       },
       {
-        "num": 19,
-        "clue": "Stir-frying pan",
-        "answer": "WOK",
+        "num": 18,
+        "clue": "Creature whose heart can weigh over 400 pounds",
+        "answer": "WHALE",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 20,
+        "clue": "Carve, as from a small piece of wood",
+        "answer": "WHITTLE",
         "row": 5,
         "col": 2
       },
       {
-        "num": 20,
-        "clue": "\"___ boy!\"",
-        "answer": "HOO",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 21,
-        "clue": "Comedic sketch",
-        "answer": "SKIT",
+        "num": 22,
+        "clue": "___ gras",
+        "answer": "FOIE",
         "row": 6,
         "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "Well-ventilated",
-        "answer": "AIRY",
-        "row": 6,
-        "col": 5
       },
       {
         "num": 24,
-        "clue": "Norway ___ (state tree of Minnesota)",
-        "answer": "PINE",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 25,
-        "clue": "Palindromic man's name",
-        "answer": "OTTO",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 26,
-        "clue": "Counts on one's fingers, say",
-        "answer": "ADDS",
-        "row": 8,
-        "col": 0
+        "clue": "\"Ditto!\"",
+        "answer": "SAME",
+        "row": 6,
+        "col": 7
       },
       {
         "num": 27,
-        "clue": "Actress/singer Salonga",
-        "answer": "LEA",
+        "clue": "Where each shaded creature can be found in nature ... and in this puzzle's grid?",
+        "answer": "UNDERTHESEA",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 31,
+        "clue": "Private plane, maybe",
+        "answer": "JET",
         "row": 8,
-        "col": 5
+        "col": 0
+      },
+      {
+        "num": 32,
+        "clue": "Yes, in French",
+        "answer": "OUI",
+        "row": 8,
+        "col": 4
+      },
+      {
+        "num": 33,
+        "clue": "CPR pro",
+        "answer": "EMT",
+        "row": 8,
+        "col": 8
+      },
+      {
+        "num": 34,
+        "clue": "\"Kinda sorta\"",
+        "answer": "ISH",
+        "row": 9,
+        "col": 0
+      },
+      {
+        "num": 35,
+        "clue": "Not yet scheduled: Abbr.",
+        "answer": "TBD",
+        "row": 9,
+        "col": 4
+      },
+      {
+        "num": 36,
+        "clue": "\"___ MisÃ©rables\"",
+        "answer": "LES",
+        "row": 9,
+        "col": 8
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Diamond quartet",
-        "answer": "BASES",
+        "clue": "Sound made when you're passing a note to someone in class",
+        "answer": "PSST",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Luxury brand of Honda",
-        "answer": "ACURA",
+        "clue": "Blue-green shade",
+        "answer": "AQUA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Action-packed and exhausting, as a weekend",
-        "answer": "WHIRLWIND",
+        "clue": "Uses scissors",
+        "answer": "CUTS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "\"___ freedom ring\" (line from Martin Luther King Jr.'s \"I Have a Dream\" speech)",
-        "answer": "LET",
+        "clue": "\"Dear ___ or madam ...\"",
+        "answer": "SIR",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Carne ___",
-        "answer": "ASADA",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Color similar to beige, despite its name",
-        "answer": "BONEWHITE",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 7,
-        "clue": "Cow's mouthful",
-        "answer": "CUD",
+        "clue": "\"Got it!\"",
+        "answer": "AHA",
         "row": 0,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "Many a character on BBC's \"The Night Manager\"",
-        "answer": "SPY",
+        "num": 6,
+        "clue": "Group of actors",
+        "answer": "CAST",
         "row": 0,
         "col": 8
       },
       {
-        "num": 14,
-        "clue": "\"Say, can I ___ you something?\"",
-        "answer": "ASK",
-        "row": 3,
+        "num": 7,
+        "clue": "The \"A\" in STEAM",
+        "answer": "ARTS",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 8,
+        "clue": "Store that sells mattresses and meatballs",
+        "answer": "IKEA",
+        "row": 0,
+        "col": 10
+      },
+      {
+        "num": 10,
+        "clue": "Miso soup base",
+        "answer": "DASHI",
+        "row": 1,
         "col": 4
       },
       {
+        "num": 11,
+        "clue": "Walking stick?",
+        "answer": "STILT",
+        "row": 1,
+        "col": 6
+      },
+      {
         "num": 16,
-        "clue": "\"Oh, 100%,\" in slang",
-        "answer": "TOTES",
+        "clue": "Animal revered in ancient Egypt",
+        "answer": "CAT",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "num": 18,
+        "clue": "\"Yahooooooo!\"",
+        "answer": "WHEE",
         "row": 4,
         "col": 3
       },
       {
-        "num": 17,
-        "clue": "Main artery of the human body",
-        "answer": "AORTA",
+        "num": 19,
+        "clue": "\"Who ___ could it be?\"",
+        "answer": "ELSE",
         "row": 4,
         "col": 7
       },
       {
-        "num": 18,
-        "clue": "Toy on a string",
-        "answer": "YOYO",
-        "row": 4,
-        "col": 8
+        "num": 20,
+        "clue": "What D, E and EE signify in shoes",
+        "answer": "WIDTH",
+        "row": 5,
+        "col": 2
       },
       {
         "num": 21,
-        "clue": "Relaxing escape",
-        "answer": "SPA",
+        "clue": "Painter's studio stand",
+        "answer": "EASEL",
+        "row": 5,
+        "col": 8
+      },
+      {
+        "num": 22,
+        "clue": "Variety of apple ... or the name of a stratovolcano",
+        "answer": "FUJI",
         "row": 6,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Josh",
-        "answer": "KID",
+        "num": 23,
+        "clue": "Singles",
+        "answer": "ONES",
         "row": 6,
         "col": 1
       },
       {
-        "num": 23,
-        "clue": "Internet company that popularized instant messaging",
-        "answer": "AOL",
+        "num": 25,
+        "clue": "Image that goes viral",
+        "answer": "MEME",
         "row": 6,
+        "col": 9
+      },
+      {
+        "num": 26,
+        "clue": "Fills up on, say",
+        "answer": "EATS",
+        "row": 6,
+        "col": 10
+      },
+      {
+        "num": 28,
+        "clue": "Decompose",
+        "answer": "ROT",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "num": 29,
+        "clue": "Spot for a relaxing soak",
+        "answer": "TUB",
+        "row": 7,
         "col": 5
+      },
+      {
+        "num": 30,
+        "clue": "Concealed",
+        "answer": "HID",
+        "row": 7,
+        "col": 6
       }
     ]
   }
