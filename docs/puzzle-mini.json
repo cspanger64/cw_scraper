@@ -1,47 +1,42 @@
 {
   "size": [
     5,
-    6
+    5
   ],
   "grid": [
     [
-      "B",
-      "R",
-      "I",
+      null,
+      "E",
       "D",
       "G",
-      "E"
-    ],
-    [
-      "O",
-      "H",
-      "M",
-      "A",
-      "R",
       "Y"
     ],
     [
-      "W",
-      "I",
-      "E",
-      "N",
-      "I",
-      "E"
-    ],
-    [
-      "E",
-      "N",
-      "A",
       "C",
-      "T",
-      null
+      "A",
+      "R",
+      "L",
+      "A"
     ],
     [
+      "A",
+      "G",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "S",
+      "L",
+      "I",
       "N",
-      "O",
-      "N",
+      "G"
+    ],
+    [
+      "T",
       "E",
-      null,
+      "N",
+      "T",
       null
     ]
   ],
@@ -49,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "One of 21 around the island of Manhattan - most famously, the Brooklyn one",
-        "answer": "BRIDGE",
+        "clue": "Experimental and provocative",
+        "answer": "EDGY",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 7,
-        "clue": "Tony-winning play that reimagines Abraham Lincoln's wife as an aspiring cabaret star",
-        "answer": "OHMARY",
+        "num": 5,
+        "clue": "\"Top Chef\" alum ___ Hall",
+        "answer": "CARLA",
         "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Hot dog, informally",
-        "answer": "WIENIE",
+        "num": 6,
+        "clue": "Once more",
+        "answer": "AGAIN",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Put into law",
-        "answer": "ENACT",
+        "num": 7,
+        "clue": "Throw ... or a protection for an injured arm",
+        "answer": "SLING",
         "row": 3,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Not a single one",
-        "answer": "NONE",
+        "num": 8,
+        "clue": "Something a camper sets up",
+        "answer": "TENT",
         "row": 4,
         "col": 0
       }
@@ -86,45 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Yang who once played the iceberg that sank the Titanic on \"S.N.L.\"",
-        "answer": "BOWEN",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Big zoo animal",
-        "answer": "RHINO",
+        "clue": "Keen-eyed bird of prey",
+        "answer": "EAGLE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "\"Sorry, let me rephrase ...\"",
-        "answer": "IMEAN",
+        "num": 2,
+        "clue": "\"You Can Never Go Down the ___\" (Mister Rogers song for kids afraid of bath time)",
+        "answer": "DRAIN",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Class where you might wear a leotard",
-        "answer": "DANCE",
+        "num": 3,
+        "clue": "Flash of light",
+        "answer": "GLINT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Courage and perseverance",
-        "answer": "GRIT",
+        "num": 4,
+        "clue": "Yin's counterpart",
+        "answer": "YANG",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "\"Keep your ___ on the ball!\"",
-        "answer": "EYE",
-        "row": 0,
-        "col": 5
+        "num": 5,
+        "clue": "Throw ... or a protection for an injured arm",
+        "answer": "CAST",
+        "row": 1,
+        "col": 0
       }
     ]
   }

@@ -1,137 +1,106 @@
 {
   "size": [
-    10,
-    11
+    9,
+    9
   ],
   "grid": [
     [
+      "M",
+      "A",
+      "S",
+      "H",
+      null,
+      "S",
       "P",
       "A",
-      "C",
-      "S",
-      null,
-      null,
-      null,
-      "A",
-      "C",
-      "A",
-      "I"
+      "M"
     ],
     [
-      "S",
-      "Q",
-      "U",
       "I",
-      "D",
-      null,
-      "S",
-      "H",
-      "A",
-      "R",
-      "K"
-    ],
-    [
-      "S",
-      "U",
-      "T",
-      "R",
-      "A",
-      null,
-      "T",
-      "A",
-      "S",
-      "T",
-      "E"
-    ],
-    [
-      "T",
-      "A",
-      "S",
-      null,
-      "S",
-      "C",
-      "I",
-      null,
-      "T",
-      "S",
-      "A"
-    ],
-    [
-      null,
-      null,
-      null,
-      "W",
-      "H",
-      "A",
-      "L",
-      "E",
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      "W",
-      "H",
-      "I",
-      "T",
-      "T",
-      "L",
-      "E",
-      null,
-      null
-    ],
-    [
-      "F",
-      "O",
-      "I",
-      "E",
-      null,
-      null,
-      null,
-      "S",
-      "A",
-      "M",
-      "E"
-    ],
-    [
-      "U",
       "N",
-      "D",
-      "E",
-      "R",
+      "K",
+      "Y",
+      null,
       "T",
-      "H",
-      "E",
-      "S",
-      "E",
-      "A"
+      "A",
+      "L",
+      "E"
     ],
     [
-      "J",
-      "E",
-      "T",
-      null,
-      "O",
-      "U",
+      "S",
+      "K",
       "I",
+      "P",
       null,
-      "E",
-      "M",
+      "A",
+      "L",
+      "O",
       "T"
     ],
     [
-      "I",
-      "S",
+      "O",
       "H",
-      null,
-      "T",
-      "B",
       "D",
-      null,
-      "L",
       "E",
+      "A",
+      "R",
+      "M",
+      "E",
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "R",
+      "A",
+      "T",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "C",
+      "A",
+      "L",
+      "A",
+      "M",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "W",
+      "I",
+      "F",
+      "I",
+      null,
+      "E",
+      "G",
+      "A",
+      "D"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "N",
+      null,
+      "N",
+      "E",
+      "M",
+      "O"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "K",
+      null,
+      "U",
+      "S",
+      "P",
       "S"
     ]
   ],
@@ -139,299 +108,215 @@
     "across": [
       {
         "num": 1,
-        "clue": "Campaign-funding orgs.",
-        "answer": "PACS",
+        "clue": "Prep, as Thanksgiving potatoes",
+        "answer": "MASH",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Berry spelled with only one consonant",
-        "answer": "ACAI",
+        "clue": "Unwanted email from a bot",
+        "answer": "SPAM",
         "row": 0,
-        "col": 7
+        "col": 5
       },
       {
         "num": 9,
-        "clue": "Creature that squirts ink",
-        "answer": "SQUID",
+        "clue": "Jet black",
+        "answer": "INKY",
         "row": 1,
         "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Folk story",
+        "answer": "TALE",
+        "row": 1,
+        "col": 5
       },
       {
         "num": 11,
-        "clue": "Creature with lemon and nurse varieties",
-        "answer": "SHARK",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 12,
-        "clue": "Kama ___",
-        "answer": "SUTRA",
+        "clue": "Button clicked to bypass ads on YouTube videos",
+        "answer": "SKIP",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "\"Tell me if it needs more salt ...\"",
-        "answer": "TASTE",
+        "num": 12,
+        "clue": "\"I get that ___\"",
+        "answer": "ALOT",
         "row": 2,
-        "col": 6
+        "col": 5
       },
       {
-        "num": 14,
-        "clue": "Professor's helpers, for short",
-        "answer": "TAS",
+        "num": 13,
+        "clue": "\"Good grief!\"",
+        "answer": "OHDEARME",
         "row": 3,
         "col": 0
       },
       {
         "num": 15,
-        "clue": "The \"S\" in STEAM, informally",
-        "answer": "SCI",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 17,
-        "clue": "Org. that may search your bags",
-        "answer": "TSA",
-        "row": 3,
-        "col": 8
-      },
-      {
-        "num": 18,
-        "clue": "Creature whose heart can weigh over 400 pounds",
-        "answer": "WHALE",
+        "clue": "Animal in a 2007 Pixar film",
+        "answer": "RAT",
         "row": 4,
         "col": 3
       },
       {
-        "num": 20,
-        "clue": "Carve, as from a small piece of wood",
-        "answer": "WHITTLE",
+        "num": 16,
+        "clue": "Appetizer made with squid",
+        "answer": "CALAMARI",
         "row": 5,
-        "col": 2
+        "col": 1
       },
       {
-        "num": 22,
-        "clue": "___ gras",
-        "answer": "FOIE",
+        "num": 21,
+        "clue": "Often-spotty hotel amenity",
+        "answer": "WIFI",
         "row": 6,
         "col": 0
       },
       {
-        "num": 24,
-        "clue": "\"Ditto!\"",
-        "answer": "SAME",
+        "num": 22,
+        "clue": "\"Zounds!\"",
+        "answer": "EGAD",
         "row": 6,
-        "col": 7
+        "col": 5
       },
       {
-        "num": 27,
-        "clue": "Where each shaded creature can be found in nature ... and in this puzzle's grid?",
-        "answer": "UNDERTHESEA",
+        "num": 23,
+        "clue": "Merit",
+        "answer": "EARN",
         "row": 7,
         "col": 0
       },
       {
-        "num": 31,
-        "clue": "Private plane, maybe",
-        "answer": "JET",
+        "num": 24,
+        "clue": "Clownfish in a 2003 Pixar film",
+        "answer": "NEMO",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 25,
+        "clue": "Reserve, as a hotel room",
+        "answer": "BOOK",
         "row": 8,
         "col": 0
       },
       {
-        "num": 32,
-        "clue": "Yes, in French",
-        "answer": "OUI",
+        "num": 26,
+        "clue": "Mail org. whose two-letter abbreviations are used to spell 9-, 13-, 16- and 24-Across",
+        "answer": "USPS",
         "row": 8,
-        "col": 4
-      },
-      {
-        "num": 33,
-        "clue": "CPR pro",
-        "answer": "EMT",
-        "row": 8,
-        "col": 8
-      },
-      {
-        "num": 34,
-        "clue": "\"Kinda sorta\"",
-        "answer": "ISH",
-        "row": 9,
-        "col": 0
-      },
-      {
-        "num": 35,
-        "clue": "Not yet scheduled: Abbr.",
-        "answer": "TBD",
-        "row": 9,
-        "col": 4
-      },
-      {
-        "num": 36,
-        "clue": "\"___ MisÃ©rables\"",
-        "answer": "LES",
-        "row": 9,
-        "col": 8
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Sound made when you're passing a note to someone in class",
-        "answer": "PSST",
+        "clue": "Japanese soup",
+        "answer": "MISO",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Blue-green shade",
-        "answer": "AQUA",
+        "clue": "Egyptian symbol known as the \"key of life\"",
+        "answer": "ANKH",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Uses scissors",
-        "answer": "CUTS",
+        "clue": "Lose traction",
+        "answer": "SKID",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "\"Dear ___ or madam ...\"",
-        "answer": "SIR",
+        "clue": "Clickable text in a news article",
+        "answer": "HYPERLINK",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "\"Got it!\"",
-        "answer": "AHA",
+        "clue": "Where \"Sleep\" and \"Shut down\" actions are found on a Windows PC",
+        "answer": "STARTMENU",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Holder of a hidden quarter, perhaps",
+        "answer": "PALM",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "___ vera",
+        "answer": "ALOE",
         "row": 0,
         "col": 7
       },
       {
-        "num": 6,
-        "clue": "Group of actors",
-        "answer": "CAST",
+        "num": 8,
+        "clue": "Rendezvoused with",
+        "answer": "MET",
         "row": 0,
         "col": 8
       },
       {
-        "num": 7,
-        "clue": "The \"A\" in STEAM",
-        "answer": "ARTS",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 8,
-        "clue": "Store that sells mattresses and meatballs",
-        "answer": "IKEA",
-        "row": 0,
-        "col": 10
-      },
-      {
-        "num": 10,
-        "clue": "Miso soup base",
-        "answer": "DASHI",
-        "row": 1,
+        "num": 14,
+        "clue": "Small battery size",
+        "answer": "AAA",
+        "row": 3,
         "col": 4
       },
       {
-        "num": 11,
-        "clue": "Walking stick?",
-        "answer": "STILT",
-        "row": 1,
-        "col": 6
-      },
-      {
         "num": 16,
-        "clue": "Animal revered in ancient Egypt",
-        "answer": "CAT",
-        "row": 3,
-        "col": 5
+        "clue": "Farewell pronounced like \"chow\"",
+        "answer": "CIAO",
+        "row": 5,
+        "col": 1
       },
       {
-        "num": 18,
-        "clue": "\"Yahooooooo!\"",
-        "answer": "WHEE",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 19,
-        "clue": "\"Who ___ could it be?\"",
-        "answer": "ELSE",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 20,
-        "clue": "What D, E and EE signify in shoes",
-        "answer": "WIDTH",
+        "num": 17,
+        "clue": "Natural hairstyle",
+        "answer": "AFRO",
         "row": 5,
         "col": 2
       },
       {
-        "num": 21,
-        "clue": "Painter's studio stand",
-        "answer": "EASEL",
+        "num": 18,
+        "clue": "Gets on in years",
+        "answer": "AGES",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 19,
+        "clue": "Wheelchair-accessible incline",
+        "answer": "RAMP",
+        "row": 5,
+        "col": 7
+      },
+      {
+        "num": 20,
+        "clue": "Words exchanged at a wedding",
+        "answer": "IDOS",
         "row": 5,
         "col": 8
       },
       {
-        "num": 22,
-        "clue": "Variety of apple ... or the name of a stratovolcano",
-        "answer": "FUJI",
+        "num": 21,
+        "clue": "\"Charlotte's ___\"",
+        "answer": "WEB",
         "row": 6,
         "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "Singles",
-        "answer": "ONES",
-        "row": 6,
-        "col": 1
-      },
-      {
-        "num": 25,
-        "clue": "Image that goes viral",
-        "answer": "MEME",
-        "row": 6,
-        "col": 9
-      },
-      {
-        "num": 26,
-        "clue": "Fills up on, say",
-        "answer": "EATS",
-        "row": 6,
-        "col": 10
-      },
-      {
-        "num": 28,
-        "clue": "Decompose",
-        "answer": "ROT",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 29,
-        "clue": "Spot for a relaxing soak",
-        "answer": "TUB",
-        "row": 7,
-        "col": 5
-      },
-      {
-        "num": 30,
-        "clue": "Concealed",
-        "answer": "HID",
-        "row": 7,
-        "col": 6
       }
     ]
   }
