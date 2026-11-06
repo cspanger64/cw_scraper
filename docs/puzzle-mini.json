@@ -1,42 +1,47 @@
 {
   "size": [
     5,
-    5
+    6
   ],
   "grid": [
     [
       null,
+      null,
+      "S",
+      "U",
       "E",
-      "D",
-      "G",
-      "Y"
+      "D"
+    ],
+    [
+      null,
+      "F",
+      "O",
+      "R",
+      "C",
+      "E"
     ],
     [
       "C",
       "A",
       "R",
-      "L",
-      "A"
-    ],
-    [
-      "A",
-      "G",
-      "A",
-      "I",
+      "B",
+      "O",
       "N"
     ],
     [
-      "S",
-      "L",
-      "I",
-      "N",
-      "G"
+      "A",
+      "R",
+      "E",
+      "A",
+      null,
+      null
     ],
     [
-      "T",
+      "B",
       "E",
+      "R",
       "N",
-      "T",
+      null,
       null
     ]
   ],
@@ -44,36 +49,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Experimental and provocative",
-        "answer": "EDGY",
+        "clue": "Took legal action against",
+        "answer": "SUED",
         "row": 0,
-        "col": 1
+        "col": 2
       },
       {
         "num": 5,
-        "clue": "\"Top Chef\" alum ___ Hall",
-        "answer": "CARLA",
+        "clue": "An \"F\" in Physics?",
+        "answer": "FORCE",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Once more",
-        "answer": "AGAIN",
+        "clue": "A \"C\" in Chemistry?",
+        "answer": "CARBON",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Throw ... or a protection for an injured arm",
-        "answer": "SLING",
+        "clue": "An \"A\" in Geometry?",
+        "answer": "AREA",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Something a camper sets up",
-        "answer": "TENT",
+        "clue": "\"Feel the ___\" (2010s political slogan)",
+        "answer": "BERN",
         "row": 4,
         "col": 0
       }
@@ -81,37 +86,44 @@
     "down": [
       {
         "num": 1,
-        "clue": "Keen-eyed bird of prey",
-        "answer": "EAGLE",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 2,
-        "clue": "\"You Can Never Go Down the ___\" (Mister Rogers song for kids afraid of bath time)",
-        "answer": "DRAIN",
+        "clue": "More achy",
+        "answer": "SORER",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Flash of light",
-        "answer": "GLINT",
+        "num": 2,
+        "clue": "Rural's opposite",
+        "answer": "URBAN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Yin's counterpart",
-        "answer": "YANG",
+        "num": 3,
+        "clue": "Shorthand for things that are green",
+        "answer": "ECO",
         "row": 0,
         "col": 4
       },
       {
+        "num": 4,
+        "clue": "Where a bear hibernates in the winter",
+        "answer": "DEN",
+        "row": 0,
+        "col": 5
+      },
+      {
         "num": 5,
-        "clue": "Throw ... or a protection for an injured arm",
-        "answer": "CAST",
+        "clue": "Cost of a 6-Down",
+        "answer": "FARE",
         "row": 1,
+        "col": 1
+      },
+      {
+        "num": 6,
+        "clue": "Traditionally, it's black in London and yellow in New York City",
+        "answer": "CAB",
+        "row": 2,
         "col": 0
       }
     ]
