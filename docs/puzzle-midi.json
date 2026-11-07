@@ -5,318 +5,311 @@
   ],
   "grid": [
     [
-      "M",
-      "A",
-      "S",
-      "H",
-      null,
-      "S",
-      "P",
-      "A",
-      "M"
-    ],
-    [
-      "I",
-      "N",
-      "K",
-      "Y",
-      null,
-      "T",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "S",
-      "K",
-      "I",
-      "P",
-      null,
-      "A",
-      "L",
+      "J",
       "O",
-      "T"
+      "G",
+      null,
+      null,
+      "A",
+      "S",
+      "I",
+      "A"
     ],
     [
-      "O",
-      "H",
-      "D",
-      "E",
       "A",
       "R",
-      "M",
-      "E",
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "R",
       "A",
-      "T",
-      null,
-      null,
-      null
-    ],
-    [
+      "B",
       null,
       "C",
       "A",
-      "L",
-      "A",
-      "M",
-      "A",
       "R",
-      "I"
+      "B"
     ],
     [
-      "W",
-      "I",
-      "F",
-      "I",
-      null,
-      "E",
-      "G",
-      "A",
-      "D"
-    ],
-    [
-      "E",
-      "A",
-      "R",
-      "N",
-      null,
-      "N",
-      "E",
       "M",
-      "O"
-    ],
-    [
+      "C",
       "B",
+      "A",
+      "T",
+      "T",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      null,
+      null,
+      null,
+      "R",
+      "E",
+      "S",
+      "T",
+      null,
+      null
+    ],
+    [
+      "N",
+      "A",
+      "M",
+      "E",
+      "N",
+      "A",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "F",
+      "L",
+      "U",
+      "B",
+      null,
+      "S",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "S",
+      "A",
+      null,
+      "I",
+      "N",
       "O",
-      "O",
+      "N"
+    ],
+    [
+      null,
+      "S",
+      "E",
+      "C",
+      null,
+      "F",
+      "E",
+      "D",
+      "S"
+    ],
+    [
+      null,
+      "T",
+      "S",
       "K",
       null,
-      "U",
+      null,
       "S",
-      "P",
-      "S"
+      "E",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Prep, as Thanksgiving potatoes",
-        "answer": "MASH",
+        "clue": "Light run",
+        "answer": "JOG",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Unwanted email from a bot",
-        "answer": "SPAM",
+        "num": 4,
+        "clue": "Landmass that includes Laos",
+        "answer": "ASIA",
         "row": 0,
         "col": 5
       },
       {
-        "num": 9,
-        "clue": "Jet black",
-        "answer": "INKY",
+        "num": 8,
+        "clue": "Like the vast majority of Bedouins",
+        "answer": "ARAB",
         "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Folk story",
-        "answer": "TALE",
+        "clue": "Low-___ diet",
+        "answer": "CARB",
         "row": 1,
         "col": 5
       },
       {
         "num": 11,
-        "clue": "Button clicked to bypass ads on YouTube videos",
-        "answer": "SKIP",
+        "clue": "Fights to beat the rap, in brief?",
+        "answer": "MCBATTLES",
         "row": 2,
         "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "\"I get that ___\"",
-        "answer": "ALOT",
-        "row": 2,
-        "col": 5
       },
       {
         "num": 13,
-        "clue": "\"Good grief!\"",
-        "answer": "OHDEARME",
+        "clue": "Take a breather",
+        "answer": "REST",
         "row": 3,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Animal in a 2007 Pixar film",
-        "answer": "RAT",
-        "row": 4,
         "col": 3
       },
       {
-        "num": 16,
-        "clue": "Appetizer made with squid",
-        "answer": "CALAMARI",
+        "num": 14,
+        "clue": "Give up one's accomplices / Grandmothers, affectionately",
+        "answer": "NAMENAMES",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 19,
+        "clue": "Botch",
+        "answer": "FLUB",
         "row": 5,
-        "col": 1
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "Lordly term of address",
+        "answer": "SIRE",
+        "row": 5,
+        "col": 5
       },
       {
         "num": 21,
-        "clue": "Often-spotty hotel amenity",
-        "answer": "WIFI",
+        "clue": "\"Homer and ___ Exchange Cross Words\" (\"The Simpsons\" episode)",
+        "answer": "LISA",
         "row": 6,
         "col": 0
       },
       {
         "num": 22,
-        "clue": "\"Zounds!\"",
-        "answer": "EGAD",
+        "clue": "Privy to, as secret plans",
+        "answer": "INON",
         "row": 6,
         "col": 5
       },
       {
         "num": 23,
-        "clue": "Merit",
-        "answer": "EARN",
+        "clue": "Sixtieth of a min",
+        "answer": "SEC",
         "row": 7,
-        "col": 0
+        "col": 1
       },
       {
         "num": 24,
-        "clue": "Clownfish in a 2003 Pixar film",
-        "answer": "NEMO",
+        "clue": "Government agents, for short",
+        "answer": "FEDS",
         "row": 7,
         "col": 5
       },
       {
         "num": 25,
-        "clue": "Reserve, as a hotel room",
-        "answer": "BOOK",
+        "clue": "Tongue-clicking sound",
+        "answer": "TSK",
         "row": 8,
-        "col": 0
+        "col": 1
       },
       {
         "num": 26,
-        "clue": "Mail org. whose two-letter abbreviations are used to spell 9-, 13-, 16- and 24-Across",
-        "answer": "USPS",
+        "clue": "\"I'd like to ___ you try\"",
+        "answer": "SEE",
         "row": 8,
-        "col": 5
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Japanese soup",
-        "answer": "MISO",
+        "clue": "Word after Def, Pearl or Space",
+        "answer": "JAM",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Egyptian symbol known as the \"key of life\"",
-        "answer": "ANKH",
+        "clue": "Foe encountered by Frodo on the way to Mordor",
+        "answer": "ORC",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Lose traction",
-        "answer": "SKID",
+        "clue": "Gift of ___",
+        "answer": "GAB",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Clickable text in a news article",
-        "answer": "HYPERLINK",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Where \"Sleep\" and \"Shut down\" actions are found on a Windows PC",
-        "answer": "STARTMENU",
+        "clue": "Pretends it's the case that",
+        "answer": "ACTSASIF",
         "row": 0,
         "col": 5
       },
       {
-        "num": 6,
-        "clue": "Holder of a hidden quarter, perhaps",
-        "answer": "PALM",
+        "num": 5,
+        "clue": "Backbreaking workplaces, so to speak / Crackers traditionally used to soothe an upset stomach",
+        "answer": "SALTMINES",
         "row": 0,
         "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "Fury",
+        "answer": "IRE",
+        "row": 0,
+        "col": 7
       },
       {
         "num": 7,
-        "clue": "___ vera",
-        "answer": "ALOE",
-        "row": 0,
-        "col": 7
-      },
-      {
-        "num": 8,
-        "clue": "Rendezvoused with",
-        "answer": "MET",
+        "clue": "Muscles retracted when doing the vacuum pose",
+        "answer": "ABS",
         "row": 0,
         "col": 8
       },
       {
-        "num": 14,
-        "clue": "Small battery size",
-        "answer": "AAA",
-        "row": 3,
+        "num": 9,
+        "clue": "On a horse without a saddle / Helper who refills liquor bottles and cleans glassware",
+        "answer": "BAREBACK",
+        "row": 1,
+        "col": 3
+      },
+      {
+        "num": 12,
+        "clue": "Number of Oscars won by \"West Side Story\" (1961)",
+        "answer": "TEN",
+        "row": 2,
         "col": 4
       },
       {
-        "num": 16,
-        "clue": "Farewell pronounced like \"chow\"",
-        "answer": "CIAO",
-        "row": 5,
+        "num": 14,
+        "clue": "Org. with Lions and Bears, oh my!",
+        "answer": "NFL",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Top-tier celebrity's status",
+        "answer": "ALIST",
+        "row": 4,
         "col": 1
       },
       {
-        "num": 17,
-        "clue": "Natural hairstyle",
-        "answer": "AFRO",
-        "row": 5,
+        "num": 16,
+        "clue": "Sources of creative inspiration / Swiss Army knives have many of these",
+        "answer": "MUSES",
+        "row": 4,
         "col": 2
       },
       {
-        "num": 18,
-        "clue": "Gets on in years",
-        "answer": "AGES",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 19,
-        "clue": "Wheelchair-accessible incline",
-        "answer": "RAMP",
-        "row": 5,
+        "num": 17,
+        "clue": "Diminish, as trust / Was a passenger on",
+        "answer": "ERODE",
+        "row": 4,
         "col": 7
       },
       {
-        "num": 20,
-        "clue": "Words exchanged at a wedding",
-        "answer": "IDOS",
-        "row": 5,
+        "num": 18,
+        "clue": "One of a person's five (six, if they're psychic)",
+        "answer": "SENSE",
+        "row": 4,
         "col": 8
-      },
-      {
-        "num": 21,
-        "clue": "\"Charlotte's ___\"",
-        "answer": "WEB",
-        "row": 6,
-        "col": 0
       }
     ]
   }

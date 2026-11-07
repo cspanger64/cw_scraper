@@ -1,130 +1,216 @@
 {
   "size": [
-    5,
-    6
+    7,
+    7
   ],
   "grid": [
     [
-      null,
-      null,
-      "S",
-      "U",
-      "E",
-      "D"
-    ],
-    [
+      "D",
+      "O",
+      "G",
       null,
       "F",
-      "O",
-      "R",
-      "C",
-      "E"
-    ],
-    [
-      "C",
-      "A",
-      "R",
-      "B",
-      "O",
+      "I",
       "N"
     ],
     [
       "A",
       "R",
       "E",
-      "A",
       null,
+      "R",
+      "N",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "T",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      null,
+      "G",
+      "U",
+      "E",
+      "S",
+      "T",
       null
     ],
     [
-      "B",
-      "E",
       "R",
+      "A",
+      "I",
+      "N",
+      "B",
+      "O",
+      "W"
+    ],
+    [
+      "A",
+      "N",
       "N",
       null,
-      null
+      "E",
+      "C",
+      "O"
+    ],
+    [
+      "P",
+      "O",
+      "E",
+      null,
+      "E",
+      "K",
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Took legal action against",
-        "answer": "SUED",
+        "clue": "Pupper",
+        "answer": "DOG",
         "row": 0,
-        "col": 2
-      },
-      {
-        "num": 5,
-        "clue": "An \"F\" in Physics?",
-        "answer": "FORCE",
-        "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "A \"C\" in Chemistry?",
-        "answer": "CARBON",
-        "row": 2,
         "col": 0
       },
       {
+        "num": 4,
+        "clue": "Sight in a shark movie ... or at the end of a French film",
+        "answer": "FIN",
+        "row": 0,
+        "col": 4
+      },
+      {
         "num": 7,
-        "clue": "An \"A\" in Geometry?",
-        "answer": "AREA",
-        "row": 3,
+        "clue": "\"___ you serious?\"",
+        "answer": "ARE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "\"Feel the ___\" (2010s political slogan)",
-        "answer": "BERN",
+        "clue": "Genetic molecule",
+        "answer": "RNA",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 9,
+        "clue": "Canine expert",
+        "answer": "DENTIST",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Common word in a hotel Wi-Fi network name",
+        "answer": "GUEST",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 12,
+        "clue": "What Dorothy from \"The Wizard of Oz\" wants to get over?",
+        "answer": "RAINBOW",
         "row": 4,
         "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "___ Taylor (fashion brand)",
+        "answer": "ANN",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Prefix with friendly",
+        "answer": "ECO",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 16,
+        "clue": "\"The Tell-Tale Heart\" writer",
+        "answer": "POE",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 17,
+        "clue": "Barely manage, with \"out\"",
+        "answer": "EKE",
+        "row": 6,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "More achy",
-        "answer": "SORER",
+        "clue": "Father's Day honoree",
+        "answer": "DAD",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Herb for spaghetti sauce",
+        "answer": "OREGANO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "The real deal",
+        "answer": "GENUINE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 2,
-        "clue": "Rural's opposite",
-        "answer": "URBAN",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 3,
-        "clue": "Shorthand for things that are green",
-        "answer": "ECO",
+        "num": 4,
+        "clue": "Toy that's flying off the shelves?",
+        "answer": "FRISBEE",
         "row": 0,
         "col": 4
       },
       {
-        "num": 4,
-        "clue": "Where a bear hibernates in the winter",
-        "answer": "DEN",
+        "num": 5,
+        "clue": "On the shelves",
+        "answer": "INSTOCK",
         "row": 0,
         "col": 5
       },
       {
-        "num": 5,
-        "clue": "Cost of a 6-Down",
-        "answer": "FARE",
-        "row": 1,
-        "col": 1
+        "num": 6,
+        "clue": "Singer ___ King Cole",
+        "answer": "NAT",
+        "row": 0,
+        "col": 6
       },
       {
-        "num": 6,
-        "clue": "Traditionally, it's black in London and yellow in New York City",
-        "answer": "CAB",
+        "num": 10,
+        "clue": "Highest point value for a Scrabble tile",
+        "answer": "TEN",
         "row": 2,
+        "col": 3
+      },
+      {
+        "num": 12,
+        "clue": "Jay-Z's genre",
+        "answer": "RAP",
+        "row": 4,
         "col": 0
+      },
+      {
+        "num": 13,
+        "clue": "Misfortune",
+        "answer": "WOE",
+        "row": 4,
+        "col": 6
       }
     ]
   }
