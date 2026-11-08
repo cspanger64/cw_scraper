@@ -1,216 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
-      "D",
-      "O",
-      "G",
-      null,
       "F",
-      "I",
-      "N"
-    ],
-    [
-      "A",
       "R",
-      "E",
-      null,
-      "R",
-      "N",
-      "A"
-    ],
-    [
-      "D",
-      "E",
-      "N",
-      "T",
-      "I",
+      "O",
       "S",
       "T"
     ],
     [
-      null,
-      "G",
-      "U",
       "E",
-      "S",
-      "T",
-      null
+      "A",
+      "R",
+      "L",
+      "Y"
     ],
     [
-      "R",
+      "E",
+      "M",
       "A",
       "I",
-      "N",
-      "B",
-      "O",
-      "W"
+      "L"
     ],
     [
-      "A",
-      "N",
-      "N",
-      null,
+      "L",
       "E",
-      "C",
-      "O"
-    ],
-    [
-      "P",
-      "O",
-      "E",
-      null,
-      "E",
-      "K",
+      "T",
+      "M",
       "E"
+    ],
+    [
+      "S",
+      "N",
+      "E",
+      "E",
+      "R"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Pupper",
-        "answer": "DOG",
+        "clue": "Thin winter coat?",
+        "answer": "FROST",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Sight in a shark movie ... or at the end of a French film",
-        "answer": "FIN",
-        "row": 0,
-        "col": 4
+        "num": 6,
+        "clue": "When morning people like to wake up",
+        "answer": "EARLY",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 7,
-        "clue": "\"___ you serious?\"",
-        "answer": "ARE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Genetic molecule",
-        "answer": "RNA",
-        "row": 1,
-        "col": 4
-      },
-      {
-        "num": 9,
-        "clue": "Canine expert",
-        "answer": "DENTIST",
+        "clue": "Option on the \"How would you like to receive your receipt?\" screen",
+        "answer": "EMAIL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Common word in a hotel Wi-Fi network name",
-        "answer": "GUEST",
+        "num": 8,
+        "clue": "\"Please, it would be my pleasure\"",
+        "answer": "LETME",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 12,
-        "clue": "What Dorothy from \"The Wizard of Oz\" wants to get over?",
-        "answer": "RAINBOW",
+        "num": 9,
+        "clue": "Villain's facial expression",
+        "answer": "SNEER",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "___ Taylor (fashion brand)",
-        "answer": "ANN",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Prefix with friendly",
-        "answer": "ECO",
-        "row": 5,
-        "col": 4
-      },
-      {
-        "num": 16,
-        "clue": "\"The Tell-Tale Heart\" writer",
-        "answer": "POE",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "Barely manage, with \"out\"",
-        "answer": "EKE",
-        "row": 6,
-        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Father's Day honoree",
-        "answer": "DAD",
+        "clue": "Perceives by touch",
+        "answer": "FEELS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Herb for spaghetti sauce",
-        "answer": "OREGANO",
+        "clue": "Japanese dish with a name from Chinese (\"pulled noodles\")",
+        "answer": "RAMEN",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "The real deal",
-        "answer": "GENUINE",
+        "clue": "Give a grand speech",
+        "answer": "ORATE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Toy that's flying off the shelves?",
-        "answer": "FRISBEE",
+        "clue": "Gooey kids' toy",
+        "answer": "SLIME",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "On the shelves",
-        "answer": "INSTOCK",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 6,
-        "clue": "Singer ___ King Cole",
-        "answer": "NAT",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 10,
-        "clue": "Highest point value for a Scrabble tile",
-        "answer": "TEN",
-        "row": 2,
         "col": 3
       },
       {
-        "num": 12,
-        "clue": "Jay-Z's genre",
-        "answer": "RAP",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Misfortune",
-        "answer": "WOE",
-        "row": 4,
-        "col": 6
+        "num": 5,
+        "clue": "___ Durden, Brad Pitt's character in \"Fight Club\"",
+        "answer": "TYLER",
+        "row": 0,
+        "col": 4
       }
     ]
   }

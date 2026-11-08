@@ -5,311 +5,318 @@
   ],
   "grid": [
     [
-      "J",
+      "Z",
       "O",
-      "G",
+      "O",
       null,
       null,
+      null,
+      "Y",
       "A",
-      "S",
+      "P"
+    ],
+    [
       "I",
-      "A"
+      "N",
+      "D",
+      "I",
+      "A",
+      "G",
+      "A",
+      "T",
+      "E"
     ],
     [
-      "A",
-      "R",
-      "A",
-      "B",
-      null,
-      "C",
-      "A",
-      "R",
-      "B"
-    ],
-    [
+      "T",
+      "E",
+      "E",
       "M",
-      "C",
-      "B",
       "A",
-      "T",
-      "T",
-      "L",
+      "R",
+      "K",
       "E",
-      "S"
+      "R"
     ],
     [
       null,
       null,
       null,
-      "R",
-      "E",
-      "S",
-      "T",
+      "P",
+      "H",
+      "I",
+      null,
       null,
       null
     ],
     [
-      "N",
-      "A",
-      "M",
-      "E",
-      "N",
-      "A",
-      "M",
-      "E",
-      "S"
-    ],
-    [
-      "F",
-      "L",
-      "U",
-      "B",
       null,
       "S",
-      "I",
+      "M",
+      "S",
+      null,
+      "P",
       "R",
+      "E",
+      null
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      null,
+      null,
+      null,
+      "A",
+      "M",
+      "P"
+    ],
+    [
+      "B",
+      "A",
+      "D",
+      "A",
+      "D",
+      "V",
+      "I",
+      "C",
       "E"
     ],
     [
-      "L",
       "I",
-      "S",
-      "A",
-      null,
-      "I",
+      "V",
+      "E",
       "N",
       "O",
-      "N"
-    ],
-    [
-      null,
-      "S",
-      "E",
-      "C",
-      null,
-      "F",
-      "E",
+      "I",
       "D",
-      "S"
+      "E",
+      "A"
     ],
     [
-      null,
-      "T",
-      "S",
-      "K",
-      null,
-      null,
+      "D",
+      "E",
+      "L",
+      "I",
+      "C",
+      "A",
       "S",
       "E",
-      "E"
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Light run",
-        "answer": "JOG",
+        "clue": "Where you might not be allowed to feed the animals",
+        "answer": "ZOO",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "Landmass that includes Laos",
-        "answer": "ASIA",
+        "clue": "Talk on and on and on",
+        "answer": "YAP",
         "row": 0,
-        "col": 5
+        "col": 6
       },
       {
-        "num": 8,
-        "clue": "Like the vast majority of Bedouins",
-        "answer": "ARAB",
+        "num": 7,
+        "clue": "New Delhi monument described as a \"creative reworking of the Arc de Triomphe\" ... or a hint to this puzzle's circled letters",
+        "answer": "INDIAGATE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Low-___ diet",
-        "answer": "CARB",
-        "row": 1,
-        "col": 5
-      },
-      {
         "num": 11,
-        "clue": "Fights to beat the rap, in brief?",
-        "answer": "MCBATTLES",
+        "clue": "Indicator at the start of a golf hole",
+        "answer": "TEEMARKER",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Take a breather",
-        "answer": "REST",
+        "num": 12,
+        "clue": "Letter after upsilon",
+        "answer": "PHI",
         "row": 3,
         "col": 3
       },
       {
-        "num": 14,
-        "clue": "Give up one's accomplices / Grandmothers, affectionately",
-        "answer": "NAMENAMES",
+        "num": 13,
+        "clue": "Texting format, for short",
+        "answer": "SMS",
         "row": 4,
+        "col": 1
+      },
+      {
+        "num": 15,
+        "clue": "T.S.A. ___Check",
+        "answer": "PRE",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 18,
+        "clue": "From ___ Z (everything)",
+        "answer": "ATO",
+        "row": 5,
         "col": 0
       },
       {
         "num": 19,
-        "clue": "Botch",
-        "answer": "FLUB",
+        "clue": "Electric guitar accessory",
+        "answer": "AMP",
         "row": 5,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Lordly term of address",
-        "answer": "SIRE",
-        "row": 5,
-        "col": 5
+        "col": 6
       },
       {
         "num": 21,
-        "clue": "\"Homer and ___ Exchange Cross Words\" (\"The Simpsons\" episode)",
-        "answer": "LISA",
+        "clue": "\"Get A.I. to write your college thesis!,\" e.g.",
+        "answer": "BADADVICE",
         "row": 6,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Privy to, as secret plans",
-        "answer": "INON",
-        "row": 6,
-        "col": 5
-      },
-      {
-        "num": 23,
-        "clue": "Sixtieth of a min",
-        "answer": "SEC",
-        "row": 7,
-        "col": 1
-      },
-      {
-        "num": 24,
-        "clue": "Government agents, for short",
-        "answer": "FEDS",
-        "row": 7,
-        "col": 5
-      },
-      {
         "num": 25,
-        "clue": "Tongue-clicking sound",
-        "answer": "TSK",
-        "row": 8,
-        "col": 1
+        "clue": "\"Beats me\"",
+        "answer": "IVENOIDEA",
+        "row": 7,
+        "col": 0
       },
       {
         "num": 26,
-        "clue": "\"I'd like to ___ you try\"",
-        "answer": "SEE",
+        "clue": "Lunch meat holders at a supermarket counter",
+        "answer": "DELICASES",
         "row": 8,
-        "col": 6
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Word after Def, Pearl or Space",
-        "answer": "JAM",
+        "clue": "Pimple",
+        "answer": "ZIT",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Foe encountered by Frodo on the way to Mordor",
-        "answer": "ORC",
+        "clue": "Last number shouted in a New Year's Eve countdown",
+        "answer": "ONE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Gift of ___",
-        "answer": "GAB",
+        "clue": "Poem of praise",
+        "answer": "ODE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Pretends it's the case that",
-        "answer": "ACTSASIF",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "Backbreaking workplaces, so to speak / Crackers traditionally used to soothe an upset stomach",
-        "answer": "SALTMINES",
+        "clue": "Himalayan ox",
+        "answer": "YAK",
         "row": 0,
         "col": 6
       },
       {
-        "num": 6,
-        "clue": "Fury",
-        "answer": "IRE",
+        "num": 5,
+        "clue": "Had paneer tikka masala, perhaps",
+        "answer": "ATE",
         "row": 0,
         "col": 7
       },
       {
-        "num": 7,
-        "clue": "Muscles retracted when doing the vacuum pose",
-        "answer": "ABS",
+        "num": 6,
+        "clue": "In accordance with",
+        "answer": "PER",
         "row": 0,
         "col": 8
       },
       {
-        "num": 9,
-        "clue": "On a horse without a saddle / Helper who refills liquor bottles and cleans glassware",
-        "answer": "BAREBACK",
+        "num": 8,
+        "clue": "Little troublemakers",
+        "answer": "IMPS",
         "row": 1,
         "col": 3
       },
       {
-        "num": 12,
-        "clue": "Number of Oscars won by \"West Side Story\" (1961)",
-        "answer": "TEN",
-        "row": 2,
+        "num": 9,
+        "clue": "\"That hits the spot!\"",
+        "answer": "AAH",
+        "row": 1,
         "col": 4
       },
       {
-        "num": 14,
-        "clue": "Org. with Lions and Bears, oh my!",
-        "answer": "NFL",
-        "row": 4,
-        "col": 0
+        "num": 10,
+        "clue": "Concern when swinging a golf club or tennis racket",
+        "answer": "GRIP",
+        "row": 1,
+        "col": 5
       },
       {
-        "num": 15,
-        "clue": "Top-tier celebrity's status",
-        "answer": "ALIST",
+        "num": 13,
+        "clue": "Ward (off)",
+        "answer": "STAVE",
         "row": 4,
         "col": 1
       },
       {
-        "num": 16,
-        "clue": "Sources of creative inspiration / Swiss Army knives have many of these",
-        "answer": "MUSES",
+        "num": 14,
+        "clue": "Runway walker",
+        "answer": "MODEL",
         "row": 4,
         "col": 2
       },
       {
+        "num": 16,
+        "clue": "Midnight fridge visits",
+        "answer": "RAIDS",
+        "row": 4,
+        "col": 6
+      },
+      {
         "num": 17,
-        "clue": "Diminish, as trust / Was a passenger on",
-        "answer": "ERODE",
+        "clue": "Awards show figure who sounds like its second and third letters",
+        "answer": "EMCEE",
         "row": 4,
         "col": 7
       },
       {
         "num": 18,
-        "clue": "One of a person's five (six, if they're psychic)",
-        "answer": "SENSE",
-        "row": 4,
+        "clue": "Put in ___ (try for on eBay)",
+        "answer": "ABID",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "Samosa veggies",
+        "answer": "PEAS",
+        "row": 5,
         "col": 8
+      },
+      {
+        "num": 22,
+        "clue": "Singer/songwriter DiFranco",
+        "answer": "ANI",
+        "row": 6,
+        "col": 3
+      },
+      {
+        "num": 23,
+        "clue": "Med school grad",
+        "answer": "DOC",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "num": 24,
+        "clue": "Through, on an itinerary",
+        "answer": "VIA",
+        "row": 6,
+        "col": 5
       }
     ]
   }
