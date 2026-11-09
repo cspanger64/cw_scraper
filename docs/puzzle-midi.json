@@ -5,102 +5,102 @@
   ],
   "grid": [
     [
-      "Z",
       "O",
-      "O",
-      null,
-      null,
-      null,
-      "Y",
       "A",
-      "P"
+      "F",
+      "S",
+      null,
+      null,
+      "P",
+      "A",
+      "D"
     ],
     [
-      "I",
-      "N",
-      "D",
-      "I",
+      "O",
+      "M",
       "A",
-      "G",
+      "H",
       "A",
-      "T",
+      null,
+      "R",
+      "Y",
       "E"
     ],
     [
-      "T",
-      "E",
-      "E",
-      "M",
-      "A",
+      "F",
+      "I",
       "R",
-      "K",
       "E",
-      "R"
-    ],
-    [
-      null,
-      null,
-      null,
-      "P",
+      "C",
       "H",
       "I",
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      "S",
-      "M",
-      "S",
-      null,
-      "P",
-      "R",
       "E",
-      null
+      "F"
     ],
     [
-      "A",
-      "T",
-      "O",
       null,
       null,
       null,
+      null,
+      "D",
       "A",
       "M",
-      "P"
+      null,
+      null
     ],
     [
       "B",
       "A",
-      "D",
-      "A",
-      "D",
-      "V",
-      "I",
+      "R",
+      "E",
       "C",
+      "H",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "Y",
+      null,
+      null,
+      "T",
+      "I",
       "E"
     ],
     [
-      "I",
-      "V",
+      "R",
+      "A",
+      "R",
       "E",
-      "N",
+      "C",
       "O",
       "I",
-      "D",
-      "E",
-      "A"
+      "N",
+      "S"
     ],
     [
-      "D",
-      "E",
-      "L",
-      "I",
-      "C",
       "A",
-      "S",
+      "T",
+      "A",
+      null,
+      "C",
+      "O",
+      "M",
       "E",
+      "T"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      null,
+      "S",
+      "P",
+      "E",
+      "W",
       "S"
     ]
   ],
@@ -108,213 +108,220 @@
     "across": [
       {
         "num": 1,
-        "clue": "Where you might not be allowed to feed the animals",
-        "answer": "ZOO",
+        "clue": "Blundering fools",
+        "answer": "OAFS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Talk on and on and on",
-        "answer": "YAP",
+        "num": 5,
+        "clue": "Something to write notes on",
+        "answer": "PAD",
         "row": 0,
         "col": 6
       },
       {
-        "num": 7,
-        "clue": "New Delhi monument described as a \"creative reworking of the Arc de Triomphe\" ... or a hint to this puzzle's circled letters",
-        "answer": "INDIAGATE",
+        "num": 8,
+        "clue": "Midwest city just north of the Platte River",
+        "answer": "OMAHA",
         "row": 1,
         "col": 0
       },
       {
+        "num": 10,
+        "clue": "\"The Catcher in the ___\"",
+        "answer": "RYE",
+        "row": 1,
+        "col": 6
+      },
+      {
         "num": 11,
-        "clue": "Indicator at the start of a golf hole",
-        "answer": "TEEMARKER",
+        "clue": "Boss in a big red truck",
+        "answer": "FIRECHIEF",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Letter after upsilon",
-        "answer": "PHI",
-        "row": 3,
-        "col": 3
-      },
-      {
         "num": 13,
-        "clue": "Texting format, for short",
-        "answer": "SMS",
-        "row": 4,
-        "col": 1
+        "clue": "Beaver's construction",
+        "answer": "DAM",
+        "row": 3,
+        "col": 4
       },
       {
-        "num": 15,
-        "clue": "T.S.A. ___Check",
-        "answer": "PRE",
+        "num": 14,
+        "clue": "Image on many a men's health magazine cover",
+        "answer": "BARECHEST",
         "row": 4,
-        "col": 5
+        "col": 0
       },
       {
-        "num": 18,
-        "clue": "From ___ Z (everything)",
-        "answer": "ATO",
+        "num": 20,
+        "clue": "Comply with, as a command",
+        "answer": "OBEY",
         "row": 5,
         "col": 0
       },
       {
-        "num": 19,
-        "clue": "Electric guitar accessory",
-        "answer": "AMP",
+        "num": 21,
+        "clue": "Unnecessary fashion item on casual Friday",
+        "answer": "TIE",
         "row": 5,
         "col": 6
       },
       {
-        "num": 21,
-        "clue": "\"Get A.I. to write your college thesis!,\" e.g.",
-        "answer": "BADADVICE",
+        "num": 22,
+        "clue": "Items of interest to a numismatist",
+        "answer": "RARECOINS",
         "row": 6,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "\"Beats me\"",
-        "answer": "IVENOIDEA",
+        "clue": "One ___ time",
+        "answer": "ATA",
         "row": 7,
         "col": 0
       },
       {
         "num": 26,
-        "clue": "Lunch meat holders at a supermarket counter",
-        "answer": "DELICASES",
+        "clue": "Streaker in space",
+        "answer": "COMET",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "num": 27,
+        "clue": "X",
+        "answer": "TEN",
         "row": 8,
         "col": 0
+      },
+      {
+        "num": 28,
+        "clue": "Gushes, as lava",
+        "answer": "SPEWS",
+        "row": 8,
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Pimple",
-        "answer": "ZIT",
+        "clue": "\"Tough one\"",
+        "answer": "OOF",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Last number shouted in a New Year's Eve countdown",
-        "answer": "ONE",
+        "clue": "French for \"friend\"",
+        "answer": "AMI",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Poem of praise",
-        "answer": "ODE",
+        "clue": "Opposite of near",
+        "answer": "FAR",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Himalayan ox",
-        "answer": "YAK",
+        "clue": "\"___ lives in daydreams with me\" (lyric from a 2019 Harry Styles song)",
+        "answer": "SHE",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "8:00-11:00 p.m., in East Coast TV programming",
+        "answer": "PRIMETIME",
         "row": 0,
         "col": 6
       },
       {
-        "num": 5,
-        "clue": "Had paneer tikka masala, perhaps",
-        "answer": "ATE",
+        "num": 6,
+        "clue": "Agreement at sea",
+        "answer": "AYE",
         "row": 0,
         "col": 7
       },
       {
-        "num": 6,
-        "clue": "In accordance with",
-        "answer": "PER",
+        "num": 7,
+        "clue": "Rock's ___ Leppard",
+        "answer": "DEF",
         "row": 0,
         "col": 8
       },
       {
-        "num": 8,
-        "clue": "Little troublemakers",
-        "answer": "IMPS",
-        "row": 1,
-        "col": 3
-      },
-      {
         "num": 9,
-        "clue": "\"That hits the spot!\"",
-        "answer": "AAH",
+        "clue": "\"Hells Bells\" rockers",
+        "answer": "ACDC",
         "row": 1,
         "col": 4
       },
       {
-        "num": 10,
-        "clue": "Concern when swinging a golf club or tennis racket",
-        "answer": "GRIP",
-        "row": 1,
+        "num": 12,
+        "clue": "\"Too funny\"",
+        "answer": "HAH",
+        "row": 2,
         "col": 5
       },
       {
-        "num": 13,
-        "clue": "Ward (off)",
-        "answer": "STAVE",
+        "num": 14,
+        "clue": "Mockumentary character with the catchphrase \"Great success!\"",
+        "answer": "BORAT",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Lessen",
+        "answer": "ABATE",
         "row": 4,
         "col": 1
       },
       {
-        "num": 14,
-        "clue": "Runway walker",
-        "answer": "MODEL",
+        "num": 16,
+        "clue": "Showed on TV again",
+        "answer": "RERAN",
         "row": 4,
         "col": 2
       },
       {
-        "num": 16,
-        "clue": "Midnight fridge visits",
-        "answer": "RAIDS",
+        "num": 17,
+        "clue": "Survivor's \"___ of the Tiger\"",
+        "answer": "EYE",
         "row": 4,
-        "col": 6
+        "col": 3
       },
       {
-        "num": 17,
-        "clue": "Awards show figure who sounds like its second and third letters",
-        "answer": "EMCEE",
+        "num": 18,
+        "clue": "Tissue connecting muscle and bone",
+        "answer": "SINEW",
         "row": 4,
         "col": 7
       },
       {
-        "num": 18,
-        "clue": "Put in ___ (try for on eBay)",
-        "answer": "ABID",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Samosa veggies",
-        "answer": "PEAS",
-        "row": 5,
+        "num": 19,
+        "clue": "School assessments",
+        "answer": "TESTS",
+        "row": 4,
         "col": 8
       },
       {
-        "num": 22,
-        "clue": "Singer/songwriter DiFranco",
-        "answer": "ANI",
-        "row": 6,
-        "col": 3
-      },
-      {
         "num": 23,
-        "clue": "Med school grad",
-        "answer": "DOC",
+        "clue": "Keeps in the know, electronically",
+        "answer": "CCS",
         "row": 6,
         "col": 4
       },
       {
         "num": 24,
-        "clue": "Through, on an itinerary",
-        "answer": "VIA",
+        "clue": "Alley-___",
+        "answer": "OOP",
         "row": 6,
         "col": 5
       }
