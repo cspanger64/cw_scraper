@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "L",
-      "O",
-      "T",
-      null
-    ],
-    [
-      "G",
-      "O",
-      "U",
-      "R",
-      "D"
-    ],
-    [
-      "A",
       "C",
+      "U",
       "T",
-      "O",
-      "R"
+      "E",
+      null
     ],
     [
-      "S",
-      "A",
-      "D",
-      "L",
-      "Y"
+      "U",
+      "N",
+      "I",
+      "X",
+      null
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "T",
+      "S"
     ],
     [
       null,
-      "L",
       "O",
-      "L",
-      null
+      "G",
+      "R",
+      "E"
+    ],
+    [
+      null,
+      "N",
+      "E",
+      "A",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Paradoxically, it might only have a little parking",
-        "answer": "LOT",
+        "clue": "___ as a button",
+        "answer": "CUTE",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 4,
-        "clue": "Colorful fruit on a Thanksgiving table",
-        "answer": "GOURD",
+        "num": 5,
+        "clue": "Computer operating system since 1969",
+        "answer": "UNIX",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "The Rock or Chris Rock",
-        "answer": "ACTOR",
+        "clue": "Units of ice cream or beer",
+        "answer": "PINTS",
         "row": 2,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "\"It pains me to say ...\"",
-        "answer": "SADLY",
+        "num": 8,
+        "clue": "Green-skinned monster, perhaps",
+        "answer": "OGRE",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Text that's rarely true",
-        "answer": "LOL",
+        "num": 9,
+        "clue": "___ as a pin",
+        "answer": "NEAT",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Good person to ask for directions",
-        "answer": "LOCAL",
+        "clue": "Container for ice cream or beer",
+        "answer": "CUP",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Worker's collective",
+        "answer": "UNION",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Perform better than",
-        "answer": "OUTDO",
+        "num": 3,
+        "clue": "Slightest bit of color",
+        "answer": "TINGE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Deliberately try to make angry online",
-        "answer": "TROLL",
+        "num": 4,
+        "clue": "Background actor",
+        "answer": "EXTRA",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Road trip expense",
-        "answer": "GAS",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "In need of a humidifier",
-        "answer": "DRY",
-        "row": 1,
+        "num": 7,
+        "clue": "Word before \"... go!\"",
+        "answer": "SET",
+        "row": 2,
         "col": 4
       }
     ]

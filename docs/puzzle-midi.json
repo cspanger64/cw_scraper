@@ -5,325 +5,311 @@
   ],
   "grid": [
     [
-      "O",
-      "A",
-      "F",
-      "S",
       null,
-      null,
-      "P",
       "A",
-      "D"
-    ],
-    [
-      "O",
-      "M",
       "A",
-      "H",
       "A",
       null,
-      "R",
-      "Y",
-      "E"
-    ],
-    [
-      "F",
-      "I",
-      "R",
-      "E",
       "C",
-      "H",
+      "C",
+      "C",
+      null
+    ],
+    [
+      "T",
       "I",
+      "K",
+      "I",
+      null,
+      "R",
+      "O",
+      "O",
+      "M"
+    ],
+    [
+      "I",
+      "M",
+      "I",
+      "N",
+      null,
+      "A",
+      "R",
+      "L",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "T",
+      "I",
+      "N",
+      "G",
+      "O",
+      "N"
+    ],
+    [
       "E",
-      "F"
+      "T",
+      "A",
+      null,
+      "A",
+      "K",
+      "I",
+      "N",
+      null
     ],
     [
       null,
       null,
       null,
-      null,
-      "D",
-      "A",
+      "T",
       "M",
+      "I",
+      null,
       null,
       null
     ],
     [
-      "B",
-      "A",
-      "R",
-      "E",
+      null,
       "C",
-      "H",
       "E",
-      "S",
-      "T"
+      "R",
+      "B",
+      "E",
+      "R",
+      "U",
+      "S"
     ],
     [
-      "O",
-      "B",
+      null,
+      "P",
+      "R",
       "E",
-      "Y",
-      null,
-      null,
-      "T",
-      "I",
+      "S",
+      "S",
+      "U",
+      "R",
       "E"
     ],
     [
-      "R",
-      "A",
-      "R",
-      "E",
-      "C",
-      "O",
-      "I",
-      "N",
-      "S"
-    ],
-    [
-      "A",
-      "T",
-      "A",
       null,
-      "C",
-      "O",
-      "M",
+      "A",
+      "R",
       "E",
+      null,
+      "T",
+      "E",
+      "N",
       "T"
-    ],
-    [
-      "T",
-      "E",
-      "N",
-      null,
-      "S",
-      "P",
-      "E",
-      "W",
-      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Blundering fools",
-        "answer": "OAFS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 5,
-        "clue": "Something to write notes on",
-        "answer": "PAD",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 8,
-        "clue": "Midwest city just north of the Platte River",
-        "answer": "OMAHA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "\"The Catcher in the ___\"",
-        "answer": "RYE",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "num": 11,
-        "clue": "Boss in a big red truck",
-        "answer": "FIRECHIEF",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 13,
-        "clue": "Beaver's construction",
-        "answer": "DAM",
-        "row": 3,
-        "col": 4
-      },
-      {
-        "num": 14,
-        "clue": "Image on many a men's health magazine cover",
-        "answer": "BARECHEST",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "Comply with, as a command",
-        "answer": "OBEY",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 21,
-        "clue": "Unnecessary fashion item on casual Friday",
-        "answer": "TIE",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 22,
-        "clue": "Items of interest to a numismatist",
-        "answer": "RARECOINS",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 25,
-        "clue": "One ___ time",
-        "answer": "ATA",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 26,
-        "clue": "Streaker in space",
-        "answer": "COMET",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 27,
-        "clue": "X",
-        "answer": "TEN",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 28,
-        "clue": "Gushes, as lava",
-        "answer": "SPEWS",
-        "row": 8,
-        "col": 4
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "\"Tough one\"",
-        "answer": "OOF",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "French for \"friend\"",
-        "answer": "AMI",
+        "clue": "Roadside service org.",
+        "answer": "AAA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Opposite of near",
-        "answer": "FAR",
-        "row": 0,
-        "col": 2
-      },
-      {
         "num": 4,
-        "clue": "\"___ lives in daydreams with me\" (lyric from a 2019 Harry Styles song)",
-        "answer": "SHE",
+        "clue": "300, in Roman numerals",
+        "answer": "CCC",
         "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "8:00-11:00 p.m., in East Coast TV programming",
-        "answer": "PRIMETIME",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 6,
-        "clue": "Agreement at sea",
-        "answer": "AYE",
-        "row": 0,
-        "col": 7
+        "col": 5
       },
       {
         "num": 7,
-        "clue": "Rock's ___ Leppard",
-        "answer": "DEF",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 9,
-        "clue": "\"Hells Bells\" rockers",
-        "answer": "ACDC",
+        "clue": "With 8-Across, Polynesian-themed attraction at Disneyland",
+        "answer": "TIKI",
         "row": 1,
-        "col": 4
+        "col": 0
       },
       {
-        "num": 12,
-        "clue": "\"Too funny\"",
-        "answer": "HAH",
+        "num": 8,
+        "clue": "See 7-Across",
+        "answer": "ROOM",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 10,
+        "clue": "\"Sign me up!\"",
+        "answer": "IMIN",
+        "row": 2,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Folk singer Guthrie",
+        "answer": "ARLO",
         "row": 2,
         "col": 5
       },
       {
+        "num": 12,
+        "clue": "Betraying to the feds, maybe",
+        "answer": "RATTINGON",
+        "row": 3,
+        "col": 0
+      },
+      {
         "num": 14,
-        "clue": "Mockumentary character with the catchphrase \"Great success!\"",
-        "answer": "BORAT",
+        "clue": "\"when are u getting here?\"",
+        "answer": "ETA",
         "row": 4,
         "col": 0
       },
       {
         "num": 15,
-        "clue": "Lessen",
-        "answer": "ABATE",
+        "clue": "Similar (to)",
+        "answer": "AKIN",
         "row": 4,
-        "col": 1
-      },
-      {
-        "num": 16,
-        "clue": "Showed on TV again",
-        "answer": "RERAN",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 17,
-        "clue": "Survivor's \"___ of the Tiger\"",
-        "answer": "EYE",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 18,
-        "clue": "Tissue connecting muscle and bone",
-        "answer": "SINEW",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 19,
-        "clue": "School assessments",
-        "answer": "TESTS",
-        "row": 4,
-        "col": 8
-      },
-      {
-        "num": 23,
-        "clue": "Keeps in the know, electronically",
-        "answer": "CCS",
-        "row": 6,
         "col": 4
       },
       {
-        "num": 24,
-        "clue": "Alley-___",
-        "answer": "OOP",
+        "num": 16,
+        "clue": "\"I did NOT need to hear all that!\"",
+        "answer": "TMI",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 17,
+        "clue": "Mythological dog with three heads ... like the figures in this puzzle?",
+        "answer": "CERBERUS",
         "row": 6,
+        "col": 1
+      },
+      {
+        "num": 22,
+        "clue": "Feeling that might cause an athlete to choke",
+        "answer": "PRESSURE",
+        "row": 7,
+        "col": 1
+      },
+      {
+        "num": 23,
+        "clue": "\"I Played 'The Boys ___ Back in Town' on a Bar Jukebox Until I Got Kicked Out\" (VICE article)",
+        "answer": "ARE",
+        "row": 8,
+        "col": 1
+      },
+      {
+        "num": 24,
+        "clue": "Circus enclosure",
+        "answer": "TENT",
+        "row": 8,
         "col": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Put in the crosshairs",
+        "answer": "AIMAT",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 2,
+        "clue": "Dog breed from Japan",
+        "answer": "AKITA",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 3,
+        "clue": "\"Say it ___ so!\"",
+        "answer": "AINT",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 4,
+        "clue": "Most grouchy",
+        "answer": "CRANKIEST",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 5,
+        "clue": "Dog breed from Wales",
+        "answer": "CORGI",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 6,
+        "clue": "This: :",
+        "answer": "COLON",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "A unicycle has one",
+        "answer": "TIRE",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Day before Tue.",
+        "answer": "MON",
+        "row": 1,
+        "col": 8
+      },
+      {
+        "num": 13,
+        "clue": "Poetic feet with the pattern \"duh-DUH\"",
+        "answer": "IAMBS",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 16,
+        "clue": "Birch or beech",
+        "answer": "TREE",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "num": 17,
+        "clue": "Many an I.R.S. employee",
+        "answer": "CPA",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "num": 18,
+        "clue": "\"To ___ is human ...\"",
+        "answer": "ERR",
+        "row": 6,
+        "col": 2
+      },
+      {
+        "num": 19,
+        "clue": "Regret",
+        "answer": "RUE",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "num": 20,
+        "clue": "\"Ode on a Grecian ___\" (Keats poem)",
+        "answer": "URN",
+        "row": 6,
+        "col": 7
+      },
+      {
+        "num": 21,
+        "clue": "Complete collection",
+        "answer": "SET",
+        "row": 6,
+        "col": 8
       }
     ]
   }
