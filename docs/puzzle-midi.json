@@ -5,311 +5,304 @@
   ],
   "grid": [
     [
-      null,
-      "A",
-      "A",
-      "A",
-      null,
-      "C",
-      "C",
-      "C",
-      null
-    ],
-    [
-      "T",
-      "I",
-      "K",
-      "I",
-      null,
-      "R",
-      "O",
-      "O",
-      "M"
-    ],
-    [
-      "I",
-      "M",
-      "I",
-      "N",
-      null,
-      "A",
-      "R",
-      "L",
-      "O"
-    ],
-    [
-      "R",
-      "A",
-      "T",
-      "T",
-      "I",
-      "N",
-      "G",
-      "O",
-      "N"
-    ],
-    [
       "E",
-      "T",
-      "A",
-      null,
-      "A",
-      "K",
-      "I",
       "N",
-      null
-    ],
-    [
-      null,
-      null,
+      "D",
+      "S",
       null,
       "T",
-      "M",
-      "I",
-      null,
-      null,
-      null
-    ],
-    [
-      null,
-      "C",
-      "E",
-      "R",
-      "B",
-      "E",
-      "R",
       "U",
+      "T",
+      "U"
+    ],
+    [
+      "M",
+      "E",
+      "R",
+      "E",
+      null,
+      "A",
+      "T",
+      "V",
       "S"
     ],
     [
-      null,
-      "P",
-      "R",
+      "T",
+      "W",
       "E",
-      "S",
-      "S",
-      "U",
-      "R",
+      "E",
+      null,
+      "T",
+      "I",
+      "D",
       "E"
     ],
     [
       null,
-      "A",
-      "R",
-      "E",
-      null,
-      "T",
-      "E",
+      "S",
+      "S",
       "N",
+      null,
+      "A",
+      "L",
+      "I",
+      null
+    ],
+    [
+      "I",
+      "F",
+      "S",
+      null,
+      null,
+      null,
+      "I",
+      "N",
+      "C"
+    ],
+    [
+      "S",
+      "E",
+      "E",
+      "M",
+      null,
+      "E",
+      "T",
+      "N",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "D",
+      "I",
+      "A",
+      "D",
+      "I",
+      "E",
       "T"
+    ],
+    [
+      null,
+      "D",
+      "U",
+      "S",
+      "T",
+      "I",
+      "E",
+      "R",
+      null
+    ],
+    [
+      null,
+      null,
+      "P",
+      "O",
+      "E",
+      "T",
+      "S",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Roadside service org.",
-        "answer": "AAA",
+        "clue": "Make ___ meet",
+        "answer": "ENDS",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 4,
-        "clue": "300, in Roman numerals",
-        "answer": "CCC",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 7,
-        "clue": "With 8-Across, Polynesian-themed attraction at Disneyland",
-        "answer": "TIKI",
-        "row": 1,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "See 7-Across",
-        "answer": "ROOM",
-        "row": 1,
+        "num": 5,
+        "clue": "Ballet garment with a repetitive name",
+        "answer": "TUTU",
+        "row": 0,
         "col": 5
+      },
+      {
+        "num": 9,
+        "clue": "Nothing more than",
+        "answer": "MERE",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 10,
-        "clue": "\"Sign me up!\"",
-        "answer": "IMIN",
+        "clue": "Off-roaders, for short",
+        "answer": "ATVS",
+        "row": 1,
+        "col": 5
+      },
+      {
+        "num": 11,
+        "clue": "Overly precious",
+        "answer": "TWEE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Folk singer Guthrie",
-        "answer": "ARLO",
+        "num": 12,
+        "clue": "Ocean's ebb and flow",
+        "answer": "TIDE",
         "row": 2,
         "col": 5
       },
       {
-        "num": 12,
-        "clue": "Betraying to the feds, maybe",
-        "answer": "RATTINGON",
+        "num": 13,
+        "clue": "XXX-XX-XXXX ID",
+        "answer": "SSN",
         "row": 3,
-        "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "\"when are u getting here?\"",
-        "answer": "ETA",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Similar (to)",
-        "answer": "AKIN",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 16,
-        "clue": "\"I did NOT need to hear all that!\"",
-        "answer": "TMI",
-        "row": 5,
-        "col": 3
-      },
-      {
-        "num": 17,
-        "clue": "Mythological dog with three heads ... like the figures in this puzzle?",
-        "answer": "CERBERUS",
-        "row": 6,
         "col": 1
       },
       {
-        "num": 22,
-        "clue": "Feeling that might cause an athlete to choke",
-        "answer": "PRESSURE",
+        "num": 14,
+        "clue": "\"Baby Cobra\" comedian Wong",
+        "answer": "ALI",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "num": 15,
+        "clue": "\"No ___, ands or buts!\"",
+        "answer": "IFS",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Company name abbr.",
+        "answer": "INC",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "num": 18,
+        "clue": "Appear to be",
+        "answer": "SEEM",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 20,
+        "clue": "Sicilian volcano that anagrams to the name NATE",
+        "answer": "ETNA",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 21,
+        "clue": "One's sources of information and entertainment, collectively ... or a hint to 2- and 7-Down?",
+        "answer": "MEDIADIET",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 23,
+        "clue": "More in need of a wipe-down, maybe",
+        "answer": "DUSTIER",
         "row": 7,
         "col": 1
       },
       {
-        "num": 23,
-        "clue": "\"I Played 'The Boys ___ Back in Town' on a Bar Jukebox Until I Got Kicked Out\" (VICE article)",
-        "answer": "ARE",
-        "row": 8,
-        "col": 1
-      },
-      {
         "num": 24,
-        "clue": "Circus enclosure",
-        "answer": "TENT",
+        "clue": "Competitors in a slam",
+        "answer": "POETS",
         "row": 8,
-        "col": 5
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Put in the crosshairs",
-        "answer": "AIMAT",
+        "clue": "CPR pro",
+        "answer": "EMT",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Online stream that may be doomscrolled",
+        "answer": "NEWSFEED",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Dog breed from Japan",
-        "answer": "AKITA",
+        "num": 3,
+        "clue": "Wearing one's best outfit, perhaps",
+        "answer": "DRESSEDUP",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "\"Say it ___ so!\"",
-        "answer": "AINT",
+        "num": 4,
+        "clue": "\"Now I've ___ everything!\"",
+        "answer": "SEEN",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Most grouchy",
-        "answer": "CRANKIEST",
+        "num": 5,
+        "clue": "\"Toodles!\"",
+        "answer": "TATA",
         "row": 0,
         "col": 5
       },
       {
-        "num": 5,
-        "clue": "Dog breed from Wales",
-        "answer": "CORGI",
+        "num": 6,
+        "clue": "Electricity, water, gas, etc.",
+        "answer": "UTILITIES",
         "row": 0,
         "col": 6
       },
       {
-        "num": 6,
-        "clue": "This: :",
-        "answer": "COLON",
+        "num": 7,
+        "clue": "Meal enjoyed in a den, say",
+        "answer": "TVDINNER",
         "row": 0,
         "col": 7
       },
       {
-        "num": 7,
-        "clue": "A unicycle has one",
-        "answer": "TIRE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "Day before Tue.",
-        "answer": "MON",
-        "row": 1,
+        "num": 8,
+        "clue": "Take advantage of",
+        "answer": "USE",
+        "row": 0,
         "col": 8
       },
       {
-        "num": 13,
-        "clue": "Poetic feet with the pattern \"duh-DUH\"",
-        "answer": "IAMBS",
-        "row": 3,
-        "col": 4
+        "num": 15,
+        "clue": "Suffix with Confucian",
+        "answer": "ISM",
+        "row": 4,
+        "col": 0
       },
       {
-        "num": 16,
-        "clue": "Birch or beech",
-        "answer": "TREE",
+        "num": 17,
+        "clue": "Keyboard ___ (meme-famous pet)",
+        "answer": "CAT",
+        "row": 4,
+        "col": 8
+      },
+      {
+        "num": 19,
+        "clue": "Sushi bar soup",
+        "answer": "MISO",
         "row": 5,
         "col": 3
       },
       {
-        "num": 17,
-        "clue": "Many an I.R.S. employee",
-        "answer": "CPA",
-        "row": 6,
-        "col": 1
-      },
-      {
-        "num": 18,
-        "clue": "\"To ___ is human ...\"",
-        "answer": "ERR",
-        "row": 6,
-        "col": 2
-      },
-      {
-        "num": 19,
-        "clue": "Regret",
-        "answer": "RUE",
-        "row": 6,
-        "col": 6
-      },
-      {
         "num": 20,
-        "clue": "\"Ode on a Grecian ___\" (Keats poem)",
-        "answer": "URN",
-        "row": 6,
-        "col": 7
+        "clue": "Revise for publication",
+        "answer": "EDIT",
+        "row": 5,
+        "col": 5
       },
       {
-        "num": 21,
-        "clue": "Complete collection",
-        "answer": "SET",
+        "num": 22,
+        "clue": "Had a snack",
+        "answer": "ATE",
         "row": 6,
-        "col": 8
+        "col": 4
       }
     ]
   }

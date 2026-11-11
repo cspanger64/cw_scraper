@@ -6,74 +6,74 @@
   "grid": [
     [
       "C",
-      "U",
-      "T",
+      "A",
+      "M",
       "E",
-      null
+      "L"
     ],
     [
-      "U",
-      "N",
+      "O",
+      "L",
       "I",
-      "X",
-      null
+      "V",
+      "E"
     ],
     [
       "P",
       "I",
-      "N",
+      "X",
+      "I",
+      "E"
+    ],
+    [
+      "S",
       "T",
-      "S"
+      "U",
+      "C",
+      "K"
     ],
     [
       null,
       "O",
-      "G",
-      "R",
-      "E"
-    ],
-    [
-      null,
-      "N",
-      "E",
-      "A",
-      "T"
+      "P",
+      "T",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "___ as a button",
-        "answer": "CUTE",
+        "clue": "Animal whose prominent feature makes it an unofficial mascot of Wednesday",
+        "answer": "CAMEL",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "Computer operating system since 1969",
-        "answer": "UNIX",
+        "num": 6,
+        "clue": "Black pizza topping",
+        "answer": "OLIVE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Units of ice cream or beer",
-        "answer": "PINTS",
+        "num": 7,
+        "clue": "Mischievous sprite",
+        "answer": "PIXIE",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Green-skinned monster, perhaps",
-        "answer": "OGRE",
+        "clue": "In a pickle",
+        "answer": "STUCK",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
         "num": 9,
-        "clue": "___ as a pin",
-        "answer": "NEAT",
+        "clue": "Make a choice",
+        "answer": "OPT",
         "row": 4,
         "col": 1
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Container for ice cream or beer",
-        "answer": "CUP",
+        "clue": "Halloween costumes with badges and handcuffs",
+        "answer": "COPS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Worker's collective",
-        "answer": "UNION",
+        "clue": "Supreme Court justice Samuel",
+        "answer": "ALITO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Slightest bit of color",
-        "answer": "TINGE",
+        "clue": "Minor confusion",
+        "answer": "MIXUP",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Background actor",
-        "answer": "EXTRA",
+        "clue": "Force out, as from an apartment",
+        "answer": "EVICT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "Word before \"... go!\"",
-        "answer": "SET",
-        "row": 2,
+        "num": 5,
+        "clue": "Vegetable that resembles a large scallion",
+        "answer": "LEEK",
+        "row": 0,
         "col": 4
       }
     ]
