@@ -5,37 +5,37 @@
   ],
   "grid": [
     [
-      "C",
-      "A",
-      "M",
-      "E",
-      "L"
+      null,
+      "B",
+      "L",
+      "U",
+      "E"
     ],
     [
+      "B",
+      "R",
+      "O",
+      "N",
+      "X"
+    ],
+    [
+      "A",
+      "I",
       "O",
       "L",
-      "I",
-      "V",
-      "E"
+      "I"
     ],
     [
-      "P",
-      "I",
-      "X",
-      "I",
-      "E"
-    ],
-    [
-      "S",
-      "T",
       "U",
-      "C",
-      "K"
+      "N",
+      "F",
+      "I",
+      "T"
     ],
     [
-      null,
-      "O",
-      "P",
+      "M",
+      "E",
+      "A",
       "T",
       null
     ]
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Animal whose prominent feature makes it an unofficial mascot of Wednesday",
-        "answer": "CAMEL",
+        "clue": "Eye color of white tigers",
+        "answer": "BLUE",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 6,
-        "clue": "Black pizza topping",
-        "answer": "OLIVE",
+        "num": 5,
+        "clue": "Home to the largest urban zoo in the United States, with \"the\"",
+        "answer": "BRONX",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Mischievous sprite",
-        "answer": "PIXIE",
+        "num": 6,
+        "clue": "Mayonnaise-like condiment",
+        "answer": "AIOLI",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "In a pickle",
-        "answer": "STUCK",
+        "num": 7,
+        "clue": "Not suited for leadership",
+        "answer": "UNFIT",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Make a choice",
-        "answer": "OPT",
+        "num": 8,
+        "clue": "What Chik'n Nuggets and Beyond Burgers lack",
+        "answer": "MEAT",
         "row": 4,
-        "col": 1
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Halloween costumes with badges and handcuffs",
-        "answer": "COPS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Supreme Court justice Samuel",
-        "answer": "ALITO",
+        "clue": "Pickle juice",
+        "answer": "BRINE",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "Minor confusion",
-        "answer": "MIXUP",
+        "num": 2,
+        "clue": "Shower scrubber",
+        "answer": "LOOFA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Force out, as from an apartment",
-        "answer": "EVICT",
+        "num": 3,
+        "clue": "Dark, as a room",
+        "answer": "UNLIT",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Vegetable that resembles a large scallion",
-        "answer": "LEEK",
+        "num": 4,
+        "clue": "Door to the outside",
+        "answer": "EXIT",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "L. Frank ___, author of \"The Wonderful Wizard of Oz\"",
+        "answer": "BAUM",
+        "row": 1,
+        "col": 0
       }
     ]
   }
