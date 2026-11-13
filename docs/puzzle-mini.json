@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
-      "B",
+      "W",
+      "A",
       "L",
-      "U",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "G",
+      "L",
       "E"
     ],
     [
-      "B",
-      "R",
-      "O",
+      "I",
       "N",
+      "B",
+      "O",
       "X"
     ],
     [
-      "A",
-      "I",
-      "O",
       "L",
-      "I"
-    ],
-    [
-      "U",
-      "N",
-      "F",
-      "I",
-      "T"
-    ],
-    [
-      "M",
-      "E",
       "A",
       "T",
-      null
+      "T",
+      "E"
+    ],
+    [
+      null,
+      null,
+      "Q",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Eye color of white tigers",
-        "answer": "BLUE",
+        "clue": "England's neighbor to the west",
+        "answer": "WALES",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Home to the largest urban zoo in the United States, with \"the\"",
-        "answer": "BRONX",
-        "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Mayonnaise-like condiment",
-        "answer": "AIOLI",
-        "row": 2,
+        "clue": "Something a selfie taker tries to get right",
+        "answer": "ANGLE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Not suited for leadership",
-        "answer": "UNFIT",
-        "row": 3,
+        "clue": "Where emails pile up",
+        "answer": "INBOX",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "What Chik'n Nuggets and Beyond Burgers lack",
-        "answer": "MEAT",
-        "row": 4,
+        "clue": "\"I love you a ___!\" (coffee drinker's pun)",
+        "answer": "LATTE",
+        "row": 3,
         "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "End of a mathematical proof",
+        "answer": "QED",
+        "row": 4,
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Pickle juice",
-        "answer": "BRINE",
+        "clue": "Cry loudly",
+        "answer": "WAIL",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Actress Kendrick of \"Pitch Perfect\"",
+        "answer": "ANNA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Shower scrubber",
-        "answer": "LOOFA",
+        "num": 3,
+        "clue": "Pride initials",
+        "answer": "LGBTQ",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Dark, as a room",
-        "answer": "UNLIT",
+        "num": 4,
+        "clue": "Mexican street corn",
+        "answer": "ELOTE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Door to the outside",
-        "answer": "EXIT",
+        "num": 5,
+        "clue": "High school health class topic, for short",
+        "answer": "SEXED",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "L. Frank ___, author of \"The Wonderful Wizard of Oz\"",
-        "answer": "BAUM",
-        "row": 1,
-        "col": 0
       }
     ]
   }
