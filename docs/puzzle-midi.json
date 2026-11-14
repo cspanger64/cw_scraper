@@ -1,443 +1,396 @@
 {
   "size": [
-    11,
+    9,
     11
   ],
   "grid": [
     [
-      null,
-      null,
-      null,
-      "T",
-      "H",
-      "I",
-      "S",
-      null,
       "E",
-      "L",
-      "F"
-    ],
-    [
-      null,
-      null,
-      "H",
-      "O",
-      "I",
-      "S",
       "T",
+      "C",
+      null,
+      "A",
+      "B",
+      "S",
       null,
       "B",
+      "L",
+      "T"
+    ],
+    [
+      "B",
       "O",
+      "A",
+      null,
+      "T",
+      "E",
+      "A",
+      null,
+      "A",
+      "M",
       "A"
     ],
     [
-      null,
-      "M",
-      "E",
-      "M",
-      "P",
-      "H",
-      "I",
-      "S",
       "B",
-      "B",
-      "Q"
-    ],
-    [
-      "S",
-      "O",
-      "L",
-      "E",
-      "S",
-      null,
       "R",
-      "I",
-      "S",
-      "E",
-      "S"
-    ],
-    [
-      "P",
-      "O",
-      "L",
+      "R",
       null,
       "T",
-      "O",
-      "U",
-      "R",
+      "A",
+      "X",
+      "I",
+      "C",
+      "A",
+      "B"
+    ],
+    [
       null,
+      "O",
+      "P",
+      "T",
+      "I",
+      "C",
+      null,
+      "T",
+      "K",
+      "O",
+      null
+    ],
+    [
+      null,
+      null,
+      "O",
+      "R",
+      "C",
+      "H",
+      "A",
+      "R",
+      "D",
       null,
       null
     ],
     [
-      "F",
-      "R",
+      null,
+      "T",
       "O",
-      "Z",
-      "E",
-      "N",
+      "O",
+      null,
+      "S",
       "P",
-      "I",
-      "Z",
-      "Z",
-      "A"
+      "Y",
+      "O",
+      "N",
+      null
     ],
     [
-      null,
-      null,
-      null,
+      "W",
+      "A",
+      "L",
+      "T",
+      "Z",
       "I",
-      "R",
-      "E",
-      null,
+      "N",
       null,
       "O",
       "I",
       "L"
     ],
     [
-      "P",
-      "R",
-      "E",
-      "P",
-      null,
-      null,
-      "S",
-      "U",
-      "N",
-      "N",
-      "Y"
-    ],
-    [
-      "A",
-      "U",
-      "D",
       "I",
-      "O",
-      "J",
-      "A",
       "C",
-      "K",
-      "S",
-      null
-    ],
-    [
-      "R",
       "E",
+      null,
+      "A",
+      "D",
+      "E",
+      null,
+      "R",
       "N",
-      "T",
-      "R",
-      "O",
-      "L",
-      "L",
-      "S",
-      null,
-      null
+      "A"
     ],
     [
-      "T",
-      "S",
-      "A",
+      "G",
+      "O",
+      "D",
       null,
-      "B",
+      "P",
       "E",
-      "T",
       "A",
       null,
-      null,
-      null
+      "S",
+      "E",
+      "W"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "\"What's the meaning of all ___?\"",
-        "answer": "THIS",
+        "clue": "And so forth: Abbr.",
+        "answer": "ETC",
         "row": 0,
-        "col": 3
+        "col": 0
       },
       {
-        "num": 5,
-        "clue": "Helper in a red-and-green hat",
-        "answer": "ELF",
+        "num": 4,
+        "clue": "\"Six-pack\" muscles",
+        "answer": "ABS",
         "row": 0,
-        "col": 8
+        "col": 4
       },
       {
-        "num": 8,
-        "clue": "Lift",
-        "answer": "HOIST",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 9,
-        "clue": "Squeezing snake",
-        "answer": "BOA",
-        "row": 1,
+        "num": 7,
+        "clue": "Sandwich often held together with a toothpick, in brief",
+        "answer": "BLT",
+        "row": 0,
         "col": 8
       },
       {
         "num": 10,
-        "clue": "Rack of ribs at a 2009 Broadway musical?",
-        "answer": "MEMPHISBBQ",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 12,
-        "clue": "Shoe parts that can have treads",
-        "answer": "SOLES",
-        "row": 3,
+        "clue": "Neck wrap named after a snake",
+        "answer": "BOA",
+        "row": 1,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Climbs",
-        "answer": "RISES",
-        "row": 3,
-        "col": 6
-      },
-      {
-        "num": 14,
-        "clue": "One on the campaign trail, informally",
-        "answer": "POL",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "___ de force",
-        "answer": "TOUR",
-        "row": 4,
+        "num": 11,
+        "clue": "Earl Grey ___",
+        "answer": "TEA",
+        "row": 1,
         "col": 4
       },
       {
-        "num": 17,
-        "clue": "Italian pie at a 2018 Broadway musical?",
-        "answer": "FROZENPIZZA",
-        "row": 5,
+        "num": 12,
+        "clue": "Doctors' org.",
+        "answer": "AMA",
+        "row": 1,
+        "col": 8
+      },
+      {
+        "num": 13,
+        "clue": "\"It's cold out here!\"",
+        "answer": "BRR",
+        "row": 2,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Dublin's land: Abbr.",
-        "answer": "IRE",
-        "row": 6,
-        "col": 3
+        "num": 14,
+        "clue": "Wine best enjoyed while moving on a runway?",
+        "answer": "TAXICAB",
+        "row": 2,
+        "col": 4
       },
       {
-        "num": 23,
-        "clue": "Word with baron, boom or barrel",
+        "num": 16,
+        "clue": "Sight-related",
+        "answer": "OPTIC",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 18,
+        "clue": "Boxing match result, for short",
+        "answer": "TKO",
+        "row": 3,
+        "col": 7
+      },
+      {
+        "num": 19,
+        "clue": "Wine best enjoyed while touring an R.N.'s workplace?",
+        "answer": "ORCHARD",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 21,
+        "clue": "Also",
+        "answer": "TOO",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 22,
+        "clue": "Secretly monitor",
+        "answer": "SPYON",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 24,
+        "clue": "Wine best enjoyed while visiting Disney World?",
+        "answer": "WALTZIN",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 26,
+        "clue": "Petroleum, e.g.",
         "answer": "OIL",
         "row": 6,
         "col": 8
       },
       {
-        "num": 24,
-        "clue": "Assemble ingredients in the kitchen, say",
-        "answer": "PREP",
+        "num": 28,
+        "clue": "Skating rink surface",
+        "answer": "ICE",
         "row": 7,
         "col": 0
       },
       {
-        "num": 27,
-        "clue": "Marvin Gaye song with the lyric \"Oh, the dark days are done, and the bright days are here\"",
-        "answer": "SUNNY",
+        "num": 29,
+        "clue": "Suffix with Gator or Power",
+        "answer": "ADE",
         "row": 7,
-        "col": 6
+        "col": 4
       },
       {
-        "num": 29,
-        "clue": "Stereo system cable hookups",
-        "answer": "AUDIOJACKS",
+        "num": 30,
+        "clue": "Genetic messenger",
+        "answer": "RNA",
+        "row": 7,
+        "col": 8
+      },
+      {
+        "num": 31,
+        "clue": "Janus or Jupiter",
+        "answer": "GOD",
         "row": 8,
         "col": 0
       },
       {
         "num": 32,
-        "clue": "Sushi servings at a 1996 Broadway musical?",
-        "answer": "RENTROLLS",
-        "row": 9,
-        "col": 0
+        "clue": "Green morsel",
+        "answer": "PEA",
+        "row": 8,
+        "col": 4
       },
       {
         "num": 33,
-        "clue": "Bag-screening org.",
-        "answer": "TSA",
-        "row": 10,
-        "col": 0
-      },
-      {
-        "num": 34,
-        "clue": "Phi ___ Kappa",
-        "answer": "BETA",
-        "row": 10,
-        "col": 4
+        "clue": "Stitch up",
+        "answer": "SEW",
+        "row": 8,
+        "col": 8
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Weighty book",
-        "answer": "TOME",
+        "clue": "Recede, as a tide",
+        "answer": "EBB",
         "row": 0,
-        "col": 3
+        "col": 0
       },
       {
         "num": 2,
-        "clue": "Person who embraces non-mainstream trends",
-        "answer": "HIPSTER",
+        "clue": "Director Guillermo del ___",
+        "answer": "TORO",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Shared a ride",
+        "answer": "CARPOOLED",
+        "row": 0,
+        "col": 2
+      },
+      {
+        "num": 4,
+        "clue": "Room beneath the roof",
+        "answer": "ATTIC",
         "row": 0,
         "col": 4
       },
       {
-        "num": 3,
-        "clue": "\"Kinda sorta\"",
-        "answer": "ISH",
+        "num": 5,
+        "clue": "Next to a sandy shore, like some hotels",
+        "answer": "BEACHSIDE",
         "row": 0,
         "col": 5
       },
       {
-        "num": 4,
-        "clue": "Provoke, as trouble",
-        "answer": "STIRUP",
+        "num": 6,
+        "clue": "Jazz band instrument, for short",
+        "answer": "SAX",
         "row": 0,
         "col": 6
       },
       {
-        "num": 5,
-        "clue": "___ and flows",
-        "answer": "EBBS",
+        "num": 7,
+        "clue": "Some patio entrances",
+        "answer": "BACKDOORS",
         "row": 0,
         "col": 8
       },
       {
-        "num": 6,
-        "clue": "Part of the ear",
-        "answer": "LOBE",
+        "num": 8,
+        "clue": "\"so hilarious!!\"",
+        "answer": "LMAO",
         "row": 0,
         "col": 9
       },
       {
-        "num": 7,
-        "clue": "Common queries, for short",
-        "answer": "FAQS",
+        "num": 9,
+        "clue": "Bar bill",
+        "answer": "TAB",
         "row": 0,
         "col": 10
       },
       {
-        "num": 8,
-        "clue": "Meaning of \"Ni hao\" and \"Ciao\"",
-        "answer": "HELLO",
-        "row": 1,
-        "col": 2
-      },
-      {
-        "num": 10,
-        "clue": "Tie up, as a boat",
-        "answer": "MOOR",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "num": 11,
-        "clue": "Apple's virtual assistant",
-        "answer": "SIRI",
+        "num": 15,
+        "clue": "Modest reply to \"Good work!\"",
+        "answer": "ITRY",
         "row": 2,
         "col": 7
       },
       {
-        "num": 12,
-        "clue": "Letters on lotion bottle",
-        "answer": "SPF",
+        "num": 17,
+        "clue": "Horse gait that's faster than a walk",
+        "answer": "TROT",
         "row": 3,
-        "col": 0
-      },
-      {
-        "num": 16,
-        "clue": "\"___ potato, two potato ...\"",
-        "answer": "ONE",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 18,
-        "clue": "\"Hush!\"",
-        "answer": "ZIPIT",
-        "row": 5,
         "col": 3
       },
       {
-        "num": 19,
-        "clue": "Falls deeply asleep, with \"out\"",
-        "answer": "ZONKS",
-        "row": 5,
-        "col": 8
+        "num": 20,
+        "clue": "Sleep ___ (breathing issue)",
+        "answer": "APNEA",
+        "row": 4,
+        "col": 6
       },
       {
-        "num": 20,
-        "clue": "Red wine selections, for short",
-        "answer": "ZINS",
+        "num": 21,
+        "clue": "Tex-Mex order",
+        "answer": "TACO",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 23,
+        "clue": "The numeral 6, when rotated 180 degrees",
+        "answer": "NINE",
         "row": 5,
         "col": 9
       },
       {
-        "num": 21,
-        "clue": "Olympic gymnast Raisman",
-        "answer": "ALY",
-        "row": 5,
-        "col": 10
-      },
-      {
         "num": 24,
-        "clue": "Role played on stage",
-        "answer": "PART",
-        "row": 7,
+        "clue": "Hairpiece",
+        "answer": "WIG",
+        "row": 6,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Wishes undone",
-        "answer": "RUES",
-        "row": 7,
-        "col": 1
-      },
-      {
-        "num": 26,
-        "clue": "Teacher Krabappel on \"The Simpsons\"",
-        "answer": "EDNA",
-        "row": 7,
-        "col": 2
-      },
-      {
-        "num": 27,
-        "clue": "Mineral once called \"white gold\"",
-        "answer": "SALT",
-        "row": 7,
-        "col": 6
-      },
-      {
-        "num": 28,
-        "clue": "The Bruins of the N.C.A.A.",
-        "answer": "UCLA",
-        "row": 7,
-        "col": 7
-      },
-      {
-        "num": 30,
-        "clue": "Sphere",
-        "answer": "ORB",
-        "row": 8,
+        "clue": "Stick in the microwave",
+        "answer": "ZAP",
+        "row": 6,
         "col": 4
       },
       {
-        "num": 31,
-        "clue": "QB Montana",
-        "answer": "JOE",
-        "row": 8,
-        "col": 5
+        "num": 27,
+        "clue": "What a judge interprets",
+        "answer": "LAW",
+        "row": 6,
+        "col": 10
       }
     ]
   }

@@ -1,118 +1,233 @@
 {
   "size": [
-    5,
-    5
+    8,
+    8
   ],
   "grid": [
     [
-      "W",
+      null,
+      null,
+      null,
+      "S",
       "A",
-      "L",
+      "C",
+      "K",
+      null
+    ],
+    [
+      null,
+      null,
+      "S",
+      "C",
+      "I",
+      "O",
+      "N",
+      "S"
+    ],
+    [
+      null,
+      "S",
+      "H",
+      "A",
+      "R",
+      "P",
+      "E",
+      "I"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "R",
+      "P",
+      "I",
       "E",
       "S"
     ],
     [
-      "A",
-      "N",
-      "G",
-      "L",
-      "E"
-    ],
-    [
-      "I",
-      "N",
-      "B",
-      "O",
-      "X"
-    ],
-    [
-      "L",
-      "A",
       "T",
-      "T",
-      "E"
-    ],
-    [
-      null,
-      null,
-      "Q",
       "E",
-      "D"
+      "N",
+      "F",
+      "O",
+      "L",
+      "D",
+      null
+    ],
+    [
+      "E",
+      "L",
+      "K",
+      null,
+      "D",
+      "O",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      null,
+      "S",
+      "T",
+      "E",
+      "T"
+    ],
+    [
+      "R",
+      "E",
+      "D",
+      null,
+      null,
+      "S",
+      "P",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "England's neighbor to the west",
-        "answer": "WALES",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "Something a selfie taker tries to get right",
-        "answer": "ANGLE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Where emails pile up",
-        "answer": "INBOX",
-        "row": 2,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "\"I love you a ___!\" (coffee drinker's pun)",
-        "answer": "LATTE",
-        "row": 3,
-        "col": 0
-      },
-      {
-        "num": 9,
-        "clue": "End of a mathematical proof",
-        "answer": "QED",
-        "row": 4,
-        "col": 2
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Cry loudly",
-        "answer": "WAIL",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Actress Kendrick of \"Pitch Perfect\"",
-        "answer": "ANNA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Pride initials",
-        "answer": "LGBTQ",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Mexican street corn",
-        "answer": "ELOTE",
+        "clue": "Santa's present holder",
+        "answer": "SACK",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "High school health class topic, for short",
-        "answer": "SEXED",
+        "clue": "Descendants of a wealthy family",
+        "answer": "SCIONS",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "num": 7,
+        "clue": "Chinese dog breed known for its wrinkles",
+        "answer": "SHARPEI",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 8,
+        "clue": "Trademarked markers",
+        "answer": "SHARPIES",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "Like the increase from 15 to 150",
+        "answer": "TENFOLD",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Antlered animal in the American West",
+        "answer": "ELK",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Accomplishes",
+        "answer": "DOES",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "num": 13,
+        "clue": "All Hallows' ___",
+        "answer": "EVE",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Proofreading mark meaning \"Leave it in\"",
+        "answer": "STET",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "Color of lanterns on Chinese New Year",
+        "answer": "RED",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Any member of the \"slow horses\" on \"Slow Horses\"",
+        "answer": "SPY",
+        "row": 7,
+        "col": 5
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Neckwear for a snowman",
+        "answer": "SCARF",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 2,
+        "clue": "A couple buds you might run with?",
+        "answer": "AIRPODS",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 3,
+        "clue": "#2s in the sky",
+        "answer": "COPILOTS",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 4,
+        "clue": "Mired (in)",
+        "answer": "KNEEDEEP",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 5,
+        "clue": "Completely mishit, as a golf ball",
+        "answer": "SHANKED",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "num": 6,
+        "clue": "Bro's sibling",
+        "answer": "SIS",
+        "row": 1,
+        "col": 7
+      },
+      {
+        "num": 7,
+        "clue": "Table for later",
+        "answer": "SHELVE",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "num": 8,
+        "clue": "Operate a car wheel",
+        "answer": "STEER",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 12,
+        "clue": "Messy home for pigs",
+        "answer": "STY",
+        "row": 5,
+        "col": 7
       }
     ]
   }
