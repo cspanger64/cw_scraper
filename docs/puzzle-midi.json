@@ -1,396 +1,464 @@
 {
   "size": [
-    9,
+    11,
     11
   ],
   "grid": [
     [
-      "E",
-      "T",
-      "C",
-      null,
+      "B",
       "A",
-      "B",
-      "S",
+      "D",
+      "P",
+      "R",
       null,
-      "B",
-      "L",
+      null,
+      "F",
+      "A",
+      "S",
       "T"
     ],
     [
-      "B",
-      "O",
+      "U",
+      "S",
       "A",
-      null,
-      "T",
+      "G",
       "E",
-      "A",
       null,
-      "A",
-      "M",
+      "V",
+      "I",
+      "S",
+      "T",
       "A"
     ],
     [
-      "B",
       "R",
-      "R",
-      null,
-      "T",
-      "A",
-      "X",
-      "I",
-      "C",
-      "A",
-      "B"
-    ],
-    [
-      null,
-      "O",
-      "P",
-      "T",
-      "I",
-      "C",
-      null,
-      "T",
-      "K",
-      "O",
-      null
-    ],
-    [
-      null,
-      null,
-      "O",
-      "R",
-      "C",
+      "E",
       "H",
       "A",
-      "R",
-      "D",
-      null,
-      null
-    ],
-    [
-      null,
-      "T",
-      "O",
-      "O",
-      null,
-      "S",
-      "P",
-      "Y",
-      "O",
-      "N",
-      null
-    ],
-    [
-      "W",
-      "A",
-      "L",
-      "T",
-      "Z",
-      "I",
-      "N",
-      null,
-      "O",
-      "I",
-      "L"
-    ],
-    [
-      "I",
+      "B",
       "C",
       "E",
-      null,
-      "A",
-      "D",
-      "E",
-      null,
-      "R",
       "N",
-      "A"
+      "T",
+      "E",
+      "R"
     ],
     [
-      "G",
-      "O",
-      "D",
-      null,
       "P",
-      "E",
       "A",
+      "L",
+      null,
+      "A",
+      "I",
+      "R",
+      null,
+      "R",
+      "A",
+      "G"
+    ],
+    [
+      null,
+      null,
+      null,
+      "C",
+      "R",
+      "A",
+      "B",
+      "C",
+      "A",
+      "K",
+      "E"
+    ],
+    [
       null,
       "S",
+      "A",
+      "D",
+      null,
+      null,
+      null,
+      "C",
+      "Y",
+      "S",
+      "T"
+    ],
+    [
+      "L",
+      "A",
+      "B",
+      "C",
+      "O",
+      "A",
+      "T",
+      "S",
+      null,
+      null,
+      null
+    ],
+    [
       "E",
-      "W"
+      "L",
+      "S",
+      null,
+      "A",
+      "N",
+      "O",
+      null,
+      "W",
+      "I",
+      "I"
+    ],
+    [
+      "A",
+      "S",
+      "E",
+      "A",
+      "S",
+      "Y",
+      "A",
+      "S",
+      "A",
+      "B",
+      "C"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "T",
+      "E",
+      null,
+      "S",
+      "H",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      null,
+      null,
+      "T",
+      "V",
+      "S",
+      null,
+      "T",
+      "E",
+      "S",
+      "T",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "And so forth: Abbr.",
-        "answer": "ETC",
+        "clue": "Unflattering press coverage, for short",
+        "answer": "BADPR",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "\"Six-pack\" muscles",
-        "answer": "ABS",
+        "num": 6,
+        "clue": "Do without food",
+        "answer": "FAST",
         "row": 0,
-        "col": 4
-      },
-      {
-        "num": 7,
-        "clue": "Sandwich often held together with a toothpick, in brief",
-        "answer": "BLT",
-        "row": 0,
-        "col": 8
+        "col": 7
       },
       {
         "num": 10,
-        "clue": "Neck wrap named after a snake",
-        "answer": "BOA",
+        "clue": "Cellphone bill figure",
+        "answer": "USAGE",
         "row": 1,
         "col": 0
       },
       {
         "num": 11,
-        "clue": "Earl Grey ___",
-        "answer": "TEA",
+        "clue": "View from a mountaintop",
+        "answer": "VISTA",
         "row": 1,
-        "col": 4
+        "col": 6
       },
       {
         "num": 12,
-        "clue": "Doctors' org.",
-        "answer": "AMA",
-        "row": 1,
-        "col": 8
-      },
-      {
-        "num": 13,
-        "clue": "\"It's cold out here!\"",
-        "answer": "BRR",
+        "clue": "Place to recover from knee or shoulder surgery",
+        "answer": "REHABCENTER",
         "row": 2,
         "col": 0
       },
       {
         "num": 14,
-        "clue": "Wine best enjoyed while moving on a runway?",
-        "answer": "TAXICAB",
-        "row": 2,
+        "clue": "\"Hey, buddy old ___!\"",
+        "answer": "PAL",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 15,
+        "clue": "Beach ball filler",
+        "answer": "AIR",
+        "row": 3,
         "col": 4
       },
       {
         "num": 16,
-        "clue": "Sight-related",
-        "answer": "OPTIC",
+        "clue": "Mechanic's cloth",
+        "answer": "RAG",
         "row": 3,
-        "col": 1
+        "col": 8
       },
       {
-        "num": 18,
-        "clue": "Boxing match result, for short",
-        "answer": "TKO",
-        "row": 3,
-        "col": 7
+        "num": 17,
+        "clue": "Signature Maryland seafood offering",
+        "answer": "CRABCAKE",
+        "row": 4,
+        "col": 3
       },
       {
         "num": 19,
-        "clue": "Wine best enjoyed while touring an R.N.'s workplace?",
-        "answer": "ORCHARD",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 21,
-        "clue": "Also",
-        "answer": "TOO",
+        "clue": "Down in the dumps",
+        "answer": "SAD",
         "row": 5,
         "col": 1
       },
       {
-        "num": 22,
-        "clue": "Secretly monitor",
-        "answer": "SPYON",
+        "num": 21,
+        "clue": "Skin bump",
+        "answer": "CYST",
         "row": 5,
-        "col": 5
+        "col": 7
       },
       {
-        "num": 24,
-        "clue": "Wine best enjoyed while visiting Disney World?",
-        "answer": "WALTZIN",
+        "num": 22,
+        "clue": "Chemists' attire",
+        "answer": "LABCOATS",
         "row": 6,
         "col": 0
       },
       {
         "num": 26,
-        "clue": "Petroleum, e.g.",
-        "answer": "OIL",
-        "row": 6,
-        "col": 8
-      },
-      {
-        "num": 28,
-        "clue": "Skating rink surface",
-        "answer": "ICE",
+        "clue": "Chicago trains",
+        "answer": "ELS",
         "row": 7,
         "col": 0
       },
       {
-        "num": 29,
-        "clue": "Suffix with Gator or Power",
-        "answer": "ADE",
+        "num": 27,
+        "clue": "\"I'll take that as ___\"",
+        "answer": "ANO",
         "row": 7,
         "col": 4
       },
       {
-        "num": 30,
-        "clue": "Genetic messenger",
-        "answer": "RNA",
+        "num": 28,
+        "clue": "Gaming console with a motion-sensing remote",
+        "answer": "WII",
         "row": 7,
         "col": 8
       },
       {
         "num": 31,
-        "clue": "Janus or Jupiter",
-        "answer": "GOD",
+        "clue": "Like child's play ... or (hopefully!) this puzzle?",
+        "answer": "ASEASYASABC",
         "row": 8,
         "col": 0
       },
       {
-        "num": 32,
-        "clue": "Green morsel",
-        "answer": "PEA",
-        "row": 8,
-        "col": 4
+        "num": 34,
+        "clue": "\"Inferno\" author",
+        "answer": "DANTE",
+        "row": 9,
+        "col": 0
       },
       {
-        "num": 33,
-        "clue": "Stitch up",
-        "answer": "SEW",
-        "row": 8,
-        "col": 8
+        "num": 35,
+        "clue": "Animated ogre of film",
+        "answer": "SHREK",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "num": 36,
+        "clue": "Living room staples",
+        "answer": "TVS",
+        "row": 10,
+        "col": 2
+      },
+      {
+        "num": 37,
+        "clue": "On edge",
+        "answer": "TESTY",
+        "row": 10,
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Recede, as a tide",
-        "answer": "EBB",
+        "clue": "Rude sound preceding \"Excuse me\"",
+        "answer": "BURP",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Director Guillermo del ___",
-        "answer": "TORO",
+        "clue": "Cruising along?",
+        "answer": "ASEA",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Shared a ride",
-        "answer": "CARPOOLED",
+        "clue": "Roald of children's literature",
+        "answer": "DAHL",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Room beneath the roof",
-        "answer": "ATTIC",
+        "clue": "Scottie Scheffler's org.",
+        "answer": "PGA",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Metal rod placed in concrete",
+        "answer": "REBAR",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Next to a sandy shore, like some hotels",
-        "answer": "BEACHSIDE",
-        "row": 0,
-        "col": 5
-      },
-      {
         "num": 6,
-        "clue": "Jazz band instrument, for short",
-        "answer": "SAX",
+        "clue": "Ominous sight when swimming in the ocean",
+        "answer": "FIN",
         "row": 0,
-        "col": 6
+        "col": 7
       },
       {
         "num": 7,
-        "clue": "Some patio entrances",
-        "answer": "BACKDOORS",
+        "clue": "Wide of the mark",
+        "answer": "ASTRAY",
         "row": 0,
         "col": 8
       },
       {
         "num": 8,
-        "clue": "\"so hilarious!!\"",
-        "answer": "LMAO",
+        "clue": "T-bones and tomahawks",
+        "answer": "STEAKS",
         "row": 0,
         "col": 9
       },
       {
         "num": 9,
-        "clue": "Bar bill",
-        "answer": "TAB",
+        "clue": "Chain with a red bull's-eye logo",
+        "answer": "TARGET",
         "row": 0,
         "col": 10
       },
       {
-        "num": 15,
-        "clue": "Modest reply to \"Good work!\"",
-        "answer": "ITRY",
-        "row": 2,
-        "col": 7
-      },
-      {
-        "num": 17,
-        "clue": "Horse gait that's faster than a walk",
-        "answer": "TROT",
-        "row": 3,
-        "col": 3
-      },
-      {
-        "num": 20,
-        "clue": "Sleep ___ (breathing issue)",
-        "answer": "APNEA",
-        "row": 4,
+        "num": 11,
+        "clue": "Boom or bust, e.g.",
+        "answer": "VERB",
+        "row": 1,
         "col": 6
       },
       {
-        "num": 21,
-        "clue": "Tex-Mex order",
-        "answer": "TACO",
+        "num": 13,
+        "clue": "U.S. org. concerned with bugs",
+        "answer": "CIA",
+        "row": 2,
+        "col": 5
+      },
+      {
+        "num": 17,
+        "clue": "U.S. org. concerned with bugs",
+        "answer": "CDC",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "num": 18,
+        "clue": "Includes in an email chain, for short",
+        "answer": "CCS",
+        "row": 4,
+        "col": 7
+      },
+      {
+        "num": 19,
+        "clue": "Tortilla chip dip",
+        "answer": "SALSA",
         "row": 5,
         "col": 1
       },
       {
-        "num": 23,
-        "clue": "The numeral 6, when rotated 180 degrees",
-        "answer": "NINE",
+        "num": 20,
+        "clue": "Missing",
+        "answer": "ABSENT",
         "row": 5,
-        "col": 9
+        "col": 2
       },
       {
-        "num": 24,
-        "clue": "Hairpiece",
-        "answer": "WIG",
+        "num": 22,
+        "clue": "Metal alchemists tried to turn into gold",
+        "answer": "LEAD",
         "row": 6,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "Stick in the microwave",
-        "answer": "ZAP",
+        "num": 23,
+        "clue": "Places of refuge",
+        "answer": "OASES",
         "row": 6,
         "col": 4
       },
       {
-        "num": 27,
-        "clue": "What a judge interprets",
-        "answer": "LAW",
+        "num": 24,
+        "clue": "\"___ idea?\"",
+        "answer": "ANY",
         "row": 6,
+        "col": 5
+      },
+      {
+        "num": 25,
+        "clue": "Eggs go-with",
+        "answer": "TOAST",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "num": 28,
+        "clue": "Major conflicts",
+        "answer": "WARS",
+        "row": 7,
+        "col": 8
+      },
+      {
+        "num": 29,
+        "clue": "Possible response to someone who claims to be able to do a double backflip",
+        "answer": "IBET",
+        "row": 7,
+        "col": 9
+      },
+      {
+        "num": 30,
+        "clue": "Disgusting",
+        "answer": "ICKY",
+        "row": 7,
         "col": 10
+      },
+      {
+        "num": 32,
+        "clue": "Off-roader's ride",
+        "answer": "ATV",
+        "row": 8,
+        "col": 3
+      },
+      {
+        "num": 33,
+        "clue": "___-wolf",
+        "answer": "SHE",
+        "row": 8,
+        "col": 7
       }
     ]
   }
