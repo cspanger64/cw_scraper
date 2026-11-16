@@ -5,112 +5,112 @@
   ],
   "grid": [
     [
-      "C",
+      "A",
       "H",
-      "U",
-      "B",
+      "A",
+      null,
       null
     ],
     [
-      "O",
-      "Y",
-      "V",
+      "C",
+      "A",
+      "G",
       "E",
+      "S"
+    ],
+    [
+      "D",
+      "I",
+      "R",
+      "T",
       "Y"
     ],
     [
-      "V",
-      "E",
-      "R",
-      "N",
-      "E"
-    ],
-    [
-      "E",
-      "N",
-      "A",
       "C",
-      "T"
+      "L",
+      "E",
+      "A",
+      "N"
     ],
     [
+      null,
+      null,
+      "E",
       "S",
-      "A",
-      "Y",
-      "H",
-      "I"
+      "C"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Fat-sounding freshwater fish",
-        "answer": "CHUB",
+        "clue": "Puzzle solver's cry of delight",
+        "answer": "AHA",
         "row": 0,
         "col": 0
       },
       {
-        "num": 5,
-        "clue": "\"What a headache!\"",
-        "answer": "OYVEY",
+        "num": 4,
+        "clue": "Batting practice enclosures",
+        "answer": "CAGES",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Jules who wrote \"Around the World in 80 Days\"",
-        "answer": "VERNE",
+        "clue": "Like dishes in the sink",
+        "answer": "DIRTY",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Put into effect, as a law",
-        "answer": "ENACT",
+        "clue": "Opposite of 7-Across",
+        "answer": "CLEAN",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Give a friendly greeting",
-        "answer": "SAYHI",
+        "clue": "Upper-left keyboard key",
+        "answer": "ESC",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Sheltered inlets",
-        "answer": "COVES",
+        "clue": "Rock band with an \"electric\" name",
+        "answer": "ACDC",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "African carnivore known for its laugh",
-        "answer": "HYENA",
+        "clue": "Frozen rain",
+        "answer": "HAIL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Bit of light that sunscreen protects against, for short",
-        "answer": "UVRAY",
+        "clue": "What a subject and verb must do",
+        "answer": "AGREE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Park seating",
-        "answer": "BENCH",
-        "row": 0,
+        "num": 5,
+        "clue": "Figs. that rise in traffic jams",
+        "answer": "ETAS",
+        "row": 1,
         "col": 3
       },
       {
         "num": 6,
-        "clue": "Snowy mountain version of Bigfoot",
-        "answer": "YETI",
+        "clue": "Make sure everyone is on the same page, with \"up\"",
+        "answer": "SYNC",
         "row": 1,
         "col": 4
       }
