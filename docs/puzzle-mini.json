@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "A",
-      "H",
-      "A",
-      null,
-      null
-    ],
-    [
-      "C",
-      "A",
-      "G",
-      "E",
-      "S"
-    ],
-    [
-      "D",
-      "I",
+      "F",
       "R",
-      "T",
-      "Y"
+      "I",
+      "Z",
+      "Z"
     ],
     [
-      "C",
       "L",
       "E",
+      "V",
+      "E",
+      "E"
+    ],
+    [
       "A",
+      "C",
+      "O",
+      "R",
       "N"
     ],
     [
-      null,
-      null,
-      "E",
+      "T",
+      "A",
+      "R",
+      "O",
+      null
+    ],
+    [
       "S",
-      "C"
+      "P",
+      "Y",
+      null,
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Puzzle solver's cry of delight",
-        "answer": "AHA",
+        "clue": "Hair problem due to high humidity",
+        "answer": "FRIZZ",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Batting practice enclosures",
-        "answer": "CAGES",
+        "num": 6,
+        "clue": "Flood blocker",
+        "answer": "LEVEE",
         "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Like dishes in the sink",
-        "answer": "DIRTY",
+        "clue": "Nut for a squirrel",
+        "answer": "ACORN",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Opposite of 7-Across",
-        "answer": "CLEAN",
+        "clue": "Purple flavor of bubble tea",
+        "answer": "TARO",
         "row": 3,
         "col": 0
       },
       {
         "num": 9,
-        "clue": "Upper-left keyboard key",
-        "answer": "ESC",
+        "clue": "\"The ___ Who Loved Me\" (Bond film)",
+        "answer": "SPY",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Rock band with an \"electric\" name",
-        "answer": "ACDC",
+        "clue": "Heelless shoes",
+        "answer": "FLATS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Frozen rain",
-        "answer": "HAIL",
+        "clue": "Postgame wrap-up",
+        "answer": "RECAP",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "What a subject and verb must do",
-        "answer": "AGREE",
+        "clue": "What high-end billiard balls were once made from",
+        "answer": "IVORY",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Figs. that rise in traffic jams",
-        "answer": "ETAS",
-        "row": 1,
+        "num": 4,
+        "clue": "It's nothing",
+        "answer": "ZERO",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Make sure everyone is on the same page, with \"up\"",
-        "answer": "SYNC",
-        "row": 1,
+        "num": 5,
+        "clue": "Chill and peaceful",
+        "answer": "ZEN",
+        "row": 0,
         "col": 4
       }
     ]
