@@ -5,38 +5,38 @@
   ],
   "grid": [
     [
-      "F",
-      "R",
-      "I",
-      "Z",
-      "Z"
-    ],
-    [
-      "L",
-      "E",
-      "V",
-      "E",
-      "E"
-    ],
-    [
-      "A",
-      "C",
+      null,
+      "D",
       "O",
-      "R",
+      "W",
       "N"
     ],
     [
-      "T",
-      "A",
-      "R",
+      null,
       "O",
+      "U",
+      "R",
+      "A"
+    ],
+    [
+      "M",
+      "U",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "C",
       null
     ],
     [
-      "S",
       "P",
-      "Y",
-      null,
+      "A",
+      "R",
+      "K",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "Hair problem due to high humidity",
-        "answer": "FRIZZ",
+        "clue": "Answer that shouldn't lead off the Acrosses?",
+        "answer": "DOWN",
         "row": 0,
-        "col": 0
+        "col": 1
+      },
+      {
+        "num": 5,
+        "clue": "Big name in smart rings",
+        "answer": "OURA",
+        "row": 1,
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Flood blocker",
-        "answer": "LEVEE",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 7,
-        "clue": "Nut for a squirrel",
-        "answer": "ACORN",
+        "clue": "Silences notifications from, as a text thread",
+        "answer": "MUTES",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Purple flavor of bubble tea",
-        "answer": "TARO",
+        "num": 7,
+        "clue": "Actor Baldwin of \"30 Rock\"",
+        "answer": "ALEC",
         "row": 3,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "\"The ___ Who Loved Me\" (Bond film)",
-        "answer": "SPY",
+        "num": 8,
+        "clue": "What \"P\" stands for in a Prius",
+        "answer": "PARK",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Heelless shoes",
-        "answer": "FLATS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Postgame wrap-up",
-        "answer": "RECAP",
+        "clue": "Childbirth support person",
+        "answer": "DOULA",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "What high-end billiard balls were once made from",
-        "answer": "IVORY",
+        "num": 2,
+        "clue": "North Carolina's ___ Banks",
+        "answer": "OUTER",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "It's nothing",
-        "answer": "ZERO",
+        "num": 3,
+        "clue": "Total emotional mess",
+        "answer": "WRECK",
         "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Chill and peaceful",
-        "answer": "ZEN",
+        "num": 4,
+        "clue": "\"Illmatic\" rapper",
+        "answer": "NAS",
         "row": 0,
         "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Helpful diagram at a mall",
+        "answer": "MAP",
+        "row": 2,
+        "col": 0
       }
     ]
   }

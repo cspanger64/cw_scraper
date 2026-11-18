@@ -5,350 +5,357 @@
   ],
   "grid": [
     [
-      "A",
+      "C",
       "L",
-      "U",
-      "M",
-      null,
-      "I",
-      "M",
+      "A",
       "P",
-      null
+      null,
+      "A",
+      "C",
+      "I",
+      "D"
     ],
     [
-      "R",
-      "O",
-      "M",
-      "A",
-      null,
-      "D",
-      "O",
       "H",
-      null
-    ],
-    [
-      "F",
-      "L",
       "A",
-      "T",
-      "T",
-      "E",
-      "R",
-      "Y",
-      null
-    ],
-    [
-      null,
-      null,
-      null,
-      "T",
       "U",
-      "S",
-      "S",
       "L",
+      null,
+      "N",
+      "O",
+      "P",
       "E"
     ],
     [
-      "O",
-      "W",
-      "L",
-      "E",
-      "T",
-      null,
-      "E",
-      "L",
-      "K"
-    ],
-    [
-      "D",
-      "E",
-      "E",
-      "R",
-      null,
-      "V",
-      "L",
-      "O",
-      "G"
-    ],
-    [
-      "D",
       "I",
-      "S",
-      "H",
-      "U",
-      "P",
+      "T",
+      "T",
+      "Y",
       null,
+      "J",
+      "L",
+      "A",
+      "W"
+    ],
+    [
+      "L",
+      "E",
+      "O",
+      null,
+      "K",
+      "O",
+      "D",
       null,
       null
     ],
     [
-      null,
+      "I",
+      "N",
       "G",
-      "L",
-      "O",
-      "S",
-      "S",
-      "A",
       "R",
-      "Y"
+      "O",
+      "U",
+      "P",
+      "S",
+      null
     ],
     [
       null,
-      "H",
-      "I",
+      "T",
       "R",
-      "E",
-      null,
-      "M",
+      "I",
       "O",
+      null,
+      "L",
+      "E",
       "I"
     ],
     [
       null,
-      "T",
-      "E",
-      "N",
-      "D",
       null,
+      "A",
+      "L",
+      "L",
+      null,
+      "U",
+      "N",
+      "S"
+    ],
+    [
+      "V",
+      "A",
       "P",
       "E",
-      "P"
+      null,
+      "A",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "O",
+      "A",
+      "H",
+      "U",
+      null,
+      "O",
+      "G",
+      "R",
+      "E"
+    ],
+    [
+      "W",
+      "A",
+      "S",
+      "P",
+      null,
+      "K",
+      "E",
+      "Y",
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "One solicited for school donations, informally",
-        "answer": "ALUM",
+        "clue": ":clapping_hands:",
+        "answer": "CLAP",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "Little mischief-maker",
-        "answer": "IMP",
+        "clue": "Base's counterpart, in chemistry",
+        "answer": "ACID",
         "row": 0,
         "col": 5
       },
       {
-        "num": 8,
-        "clue": "Oblong tomato type",
-        "answer": "ROMA",
+        "num": 9,
+        "clue": "U-___ van",
+        "answer": "HAUL",
         "row": 1,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "\"Silly me!\"",
-        "answer": "DOH",
+        "num": 10,
+        "clue": "\"This one isn't for me\"",
+        "answer": "NOPE",
         "row": 1,
         "col": 5
       },
       {
-        "num": 10,
-        "clue": "Imitation is the sincerest form of it, in a phrase",
-        "answer": "FLATTERY",
+        "num": 11,
+        "clue": "Wee",
+        "answer": "ITTY",
         "row": 2,
         "col": 0
       },
       {
         "num": 12,
-        "clue": "Brawl",
-        "answer": "TUSSLE",
-        "row": 3,
-        "col": 3
-      },
-      {
-        "num": 14,
-        "clue": "One \"whoo\" is new to the nest",
-        "answer": "OWLET",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "Animal that can grow a new set of antlers every year",
-        "answer": "ELK",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "num": 18,
-        "clue": "___ Xing (yellow road sign)",
-        "answer": "DEER",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 19,
-        "clue": "YouTuber's journal",
-        "answer": "VLOG",
-        "row": 5,
+        "clue": "Co-star of \"Don't Look Up,\" familiarly",
+        "answer": "JLAW",
+        "row": 2,
         "col": 5
       },
       {
-        "num": 20,
-        "clue": "Plate, as a meal",
-        "answer": "DISHUP",
-        "row": 6,
+        "num": 13,
+        "clue": "Co-star of \"Don't Look Up,\" familiarly",
+        "answer": "LEO",
+        "row": 3,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "Where terms get spelled out?",
-        "answer": "GLOSSARY",
-        "row": 7,
+        "num": 14,
+        "clue": "Sent to the mat, in brief",
+        "answer": "KOD",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 15,
+        "clue": "Cliques",
+        "answer": "INGROUPS",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 18,
+        "clue": "Beastie Boys or The Chicks, e.g.",
+        "answer": "TRIO",
+        "row": 5,
         "col": 1
+      },
+      {
+        "num": 19,
+        "clue": "Hawaiian garland",
+        "answer": "LEI",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 21,
+        "clue": "100%",
+        "answer": "ALL",
+        "row": 6,
+        "col": 2
+      },
+      {
+        "num": 22,
+        "clue": "Young '___ (tykes)",
+        "answer": "UNS",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "num": 23,
+        "clue": "Use an e-cigarette",
+        "answer": "VAPE",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 25,
+        "clue": "Pre-deal poker wager",
+        "answer": "ANTE",
+        "row": 7,
+        "col": 5
       },
       {
         "num": 26,
-        "clue": "Employ",
-        "answer": "HIRE",
+        "clue": "Island home to the Ko'olau Mountains",
+        "answer": "OAHU",
         "row": 8,
-        "col": 1
+        "col": 0
       },
       {
         "num": 27,
-        "clue": "\"Excusez-___!\"",
-        "answer": "MOI",
+        "clue": "Ferocious fairy tale figure",
+        "answer": "OGRE",
         "row": 8,
-        "col": 6
+        "col": 5
       },
       {
         "num": 28,
-        "clue": "Lean (toward)",
-        "answer": "TEND",
+        "clue": "Yellow jacket, e.g.",
+        "answer": "WASP",
         "row": 9,
-        "col": 1
+        "col": 0
       },
       {
         "num": 29,
-        "clue": "Rah-rah energy",
-        "answer": "PEP",
+        "clue": "Item a first-time homebuyer might hold up in a picture",
+        "answer": "KEY",
         "row": 9,
-        "col": 6
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Puppy's sound",
-        "answer": "ARF",
+        "clue": "Spicy pepper",
+        "answer": "CHILI",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "\"OMG, I'm dying\"",
-        "answer": "LOL",
+        "clue": "Hidden, as talent",
+        "answer": "LATENT",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Actress Thurman",
-        "answer": "UMA",
+        "clue": "Celebrity endorsements?",
+        "answer": "AUTOGRAPHS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Disneyland attraction named for a mountain in the Alps",
-        "answer": "MATTERHORN",
+        "clue": "Toilet paper thickness",
+        "answer": "PLY",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Midmonth day",
-        "answer": "IDES",
+        "clue": "Certain green-skinned pear",
+        "answer": "ANJOU",
         "row": 0,
         "col": 5
       },
       {
         "num": 6,
-        "clue": "Tidbit",
-        "answer": "MORSEL",
+        "clue": "Trendy water therapy activity ... or a hint to this puzzle's shaded answers, phonetically",
+        "answer": "COLDPLUNGE",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "Flaky dough used in baklava and spanakopita",
-        "answer": "PHYLLO",
+        "clue": "\"Session\" brew, for short",
+        "answer": "IPA",
         "row": 0,
         "col": 7
       },
       {
-        "num": 11,
-        "clue": "Egyptian boy king",
-        "answer": "TUT",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 13,
-        "clue": "Diagnostic heart test, for short",
-        "answer": "EKG",
-        "row": 3,
+        "num": 8,
+        "clue": "Lawn droplets",
+        "answer": "DEW",
+        "row": 0,
         "col": 8
       },
       {
         "num": 14,
-        "clue": "Peculiar",
-        "answer": "ODD",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 15,
-        "clue": "Measurement alternative to volume, in baking",
-        "answer": "WEIGHT",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 16,
-        "clue": "Lead role on \"Parks and Recreation\"",
-        "answer": "LESLIE",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 19,
-        "clue": "#2's, in politics",
-        "answer": "VPS",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 21,
-        "clue": "Like many items on Facebook Marketplace",
-        "answer": "USED",
-        "row": 6,
+        "clue": "___-Aid Man, anthropomorphic mascot filled with red liquid",
+        "answer": "KOOL",
+        "row": 3,
         "col": 4
       },
       {
-        "num": 23,
-        "clue": "Sound enhancer",
-        "answer": "AMP",
-        "row": 7,
-        "col": 6
+        "num": 16,
+        "clue": "Agitate",
+        "answer": "RILEUP",
+        "row": 4,
+        "col": 3
       },
       {
-        "num": 24,
-        "clue": "Sushi topping",
-        "answer": "ROE",
-        "row": 7,
+        "num": 17,
+        "clue": "Person on guard duty",
+        "answer": "SENTRY",
+        "row": 4,
         "col": 7
       },
       {
-        "num": 25,
-        "clue": "Puppy's sound",
-        "answer": "YIP",
-        "row": 7,
+        "num": 20,
+        "clue": "\"Yep, makes sense\"",
+        "answer": "ISEE",
+        "row": 5,
         "col": 8
+      },
+      {
+        "num": 23,
+        "clue": "Solemn ___",
+        "answer": "VOW",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 24,
+        "clue": "Small battery",
+        "answer": "AAA",
+        "row": 7,
+        "col": 1
+      },
+      {
+        "num": 25,
+        "clue": "Perfectly fine",
+        "answer": "AOK",
+        "row": 7,
+        "col": 5
       }
     ]
   }
