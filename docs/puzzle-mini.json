@@ -5,75 +5,75 @@
   ],
   "grid": [
     [
-      null,
-      "D",
-      "O",
-      "W",
-      "N"
+      "S",
+      "H",
+      "I",
+      "F",
+      "T"
     ],
     [
-      null,
-      "O",
-      "U",
-      "R",
-      "A"
-    ],
-    [
-      "M",
-      "U",
-      "T",
+      "C",
       "E",
-      "S"
+      "L",
+      "L",
+      "O"
     ],
     [
       "A",
       "L",
-      "E",
-      "C",
-      null
+      "L",
+      "O",
+      "W"
     ],
     [
-      "P",
-      "A",
+      "B",
+      "E",
+      "G",
+      "U",
+      "N"
+    ],
+    [
+      "S",
+      "N",
+      "O",
       "R",
-      "K",
-      null
+      "E"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Answer that shouldn't lead off the Acrosses?",
-        "answer": "DOWN",
+        "clue": "It turns \"1\" into \"!\"",
+        "answer": "SHIFT",
         "row": 0,
-        "col": 1
-      },
-      {
-        "num": 5,
-        "clue": "Big name in smart rings",
-        "answer": "OURA",
-        "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Silences notifications from, as a text thread",
-        "answer": "MUTES",
-        "row": 2,
+        "clue": "Stringed instrument propped up by an endpin",
+        "answer": "CELLO",
+        "row": 1,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Actor Baldwin of \"30 Rock\"",
-        "answer": "ALEC",
-        "row": 3,
+        "clue": "Permit",
+        "answer": "ALLOW",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "What \"P\" stands for in a Prius",
-        "answer": "PARK",
+        "clue": "\"We've only just ___\"",
+        "answer": "BEGUN",
+        "row": 3,
+        "col": 0
+      },
+      {
+        "num": 9,
+        "clue": "[This lecture is soooo boring!]",
+        "answer": "SNORE",
         "row": 4,
         "col": 0
       }
@@ -81,38 +81,38 @@
     "down": [
       {
         "num": 1,
-        "clue": "Childbirth support person",
-        "answer": "DOULA",
+        "clue": "Covers for healing wounds",
+        "answer": "SCABS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Lupita Nyong'o's role in 2026's \"The Odyssey\"",
+        "answer": "HELEN",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "North Carolina's ___ Banks",
-        "answer": "OUTER",
+        "num": 3,
+        "clue": "\"Happy to volunteer!\"",
+        "answer": "ILLGO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "Total emotional mess",
-        "answer": "WRECK",
+        "num": 4,
+        "clue": "Ingredient sifted by a baker",
+        "answer": "FLOUR",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "\"Illmatic\" rapper",
-        "answer": "NAS",
+        "num": 5,
+        "clue": "Olde ___ (quaint name for a historic district)",
+        "answer": "TOWNE",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Helpful diagram at a mall",
-        "answer": "MAP",
-        "row": 2,
-        "col": 0
       }
     ]
   }
