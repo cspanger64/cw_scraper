@@ -1,347 +1,364 @@
 {
   "size": [
     10,
-    9
+    10
   ],
   "grid": [
     [
-      "L",
-      "A",
       "S",
+      "O",
+      "C",
+      "C",
       "E",
       "R",
-      null,
-      "I",
+      "B",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "O",
       "C",
+      "O",
+      "O",
+      "K",
+      "I",
       "E"
     ],
     [
+      "D",
       "A",
       "L",
-      "E",
-      "X",
-      "A",
-      null,
-      "T",
-      "O",
-      "N"
-    ],
-    [
-      "P",
-      "A",
-      "R",
-      "T",
-      "B",
-      null,
-      "W",
-      "A",
-      "D"
-    ],
-    [
-      null,
-      null,
-      "B",
-      "O",
-      "B",
-      "C",
+      "M",
       "A",
       "T",
+      "I",
+      "A",
+      "N",
       "S"
     ],
     [
       null,
-      "S",
-      "I",
+      null,
+      null,
+      "M",
       "R",
-      "I",
-      "U",
+      "T",
+      null,
       "S",
+      "E",
+      "T"
+    ],
+    [
+      null,
+      "R",
+      "H",
+      "O",
+      "D",
+      "E",
+      null,
+      null,
       null,
       null
     ],
     [
+      "W",
+      "E",
+      "A",
+      "N",
       null,
-      "H",
+      "N",
       "A",
       "T",
-      "T",
+      null,
+      null
+    ],
+    [
+      "A",
+      "W",
+      "W",
+      null,
+      null,
+      null,
+      "M",
+      "U",
+      "A",
+      "Y"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "P",
+      "B",
+      "U",
+      "B",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "P",
       "R",
       "I",
-      "C",
-      "K"
-    ],
-    [
-      "T",
-      "A",
-      null,
-      null,
-      null,
-      null,
-      null,
       "D",
-      "A"
-    ],
-    [
-      "O",
-      "W",
+      "E",
+      "F",
       "L",
-      null,
-      null,
-      null,
-      "E",
-      "R",
-      "R"
-    ],
-    [
       "A",
-      "T",
-      "E",
-      null,
-      null,
-      null,
-      "M",
-      "O",
-      "M"
+      "G",
+      "S"
     ],
     [
-      "D",
-      "Y",
+      "S",
+      "K",
+      "I",
+      "T",
+      "T",
+      "L",
       "E",
+      "S",
       null,
-      null,
-      null,
-      "U",
-      "M",
-      "A"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Device used for some light shows",
-        "answer": "LASER",
+        "clue": "Black-and-white sports equipment",
+        "answer": "SOCCERBALL",
         "row": 0,
         "col": 0
-      },
-      {
-        "num": 6,
-        "clue": "\"Rocks,\" in bartender-speak",
-        "answer": "ICE",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 9,
-        "clue": "Apple : Siri :: Amazon : ___",
-        "answer": "ALEXA",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Unit at a weigh station",
-        "answer": "TON",
-        "row": 1,
-        "col": 6
       },
       {
         "num": 11,
-        "clue": "Second section on a form, maybe",
-        "answer": "PARTB",
-        "row": 2,
+        "clue": "Black-and-white treat",
+        "answer": "OREOCOOKIE",
+        "row": 1,
         "col": 0
       },
       {
         "num": 12,
-        "clue": "Bundle",
-        "answer": "WAD",
+        "clue": "Black-and-white dogs",
+        "answer": "DALMATIANS",
         "row": 2,
-        "col": 6
+        "col": 0
       },
       {
         "num": 13,
-        "clue": "Members of the genus Lynx",
-        "answer": "BOBCATS",
+        "clue": "Actor with the catchphrase \"I pity the fool!\"",
+        "answer": "MRT",
         "row": 3,
-        "col": 2
-      },
-      {
-        "num": 15,
-        "clue": "___XM",
-        "answer": "SIRIUS",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 16,
-        "clue": "Impressive soccer feat ... or an alternative title for this puzzle?",
-        "answer": "HATTRICK",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 19,
-        "clue": "With 20-Across, appropriate shout upon solving this puzzle",
-        "answer": "TA",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 20,
-        "clue": "See 19-Across",
-        "answer": "DA",
-        "row": 6,
-        "col": 7
-      },
-      {
-        "num": 21,
-        "clue": "Mr. ___, animal mascot who's asked \"How many licks does it take to get to the Tootsie Roll center of a Tootsie Pop?\"",
-        "answer": "OWL",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 23,
-        "clue": "Leave a typo in a corsswrod clue, say",
-        "answer": "ERR",
-        "row": 7,
-        "col": 6
-      },
-      {
-        "num": 24,
-        "clue": "Consumed",
-        "answer": "ATE",
-        "row": 8,
-        "col": 0
-      },
-      {
-        "num": 25,
-        "clue": "Vixen, to her kit",
-        "answer": "MOM",
-        "row": 8,
-        "col": 6
-      },
-      {
-        "num": 26,
-        "clue": "Recolor, as hair",
-        "answer": "DYE",
-        "row": 9,
-        "col": 0
-      },
-      {
-        "num": 27,
-        "clue": "Thurman of \"Pulp Fiction\"",
-        "answer": "UMA",
-        "row": 9,
-        "col": 6
-      }
-    ],
-    "down": [
-      {
-        "num": 1,
-        "clue": "Gym teacher's punishment for an unruly student, maybe",
-        "answer": "LAP",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "In the style of",
-        "answer": "ALA",
-        "row": 0,
-        "col": 1
-      },
-      {
-        "num": 3,
-        "clue": "Country east of Bosnia and Herzegovina",
-        "answer": "SERBIA",
-        "row": 0,
-        "col": 2
-      },
-      {
-        "num": 4,
-        "clue": "Obtain via blackmail",
-        "answer": "EXTORT",
-        "row": 0,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Animal that's \"pulled\" in this puzzle's magic act",
-        "answer": "RABBIT",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Formal admission",
-        "answer": "ITWASI",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 7,
-        "clue": "Glaze, say",
-        "answer": "COAT",
-        "row": 0,
+        "num": 14,
+        "clue": "Matching group",
+        "answer": "SET",
+        "row": 3,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "They might be loose or split",
-        "answer": "ENDS",
-        "row": 0,
-        "col": 8
-      },
-      {
-        "num": 14,
-        "clue": "Junkyard dog",
-        "answer": "CUR",
-        "row": 3,
-        "col": 5
-      },
-      {
         "num": 15,
-        "clue": "Good-looking young woman, slangily",
-        "answer": "SHAWTY",
+        "clue": "Providence, ___ Island",
+        "answer": "RHODE",
         "row": 4,
         "col": 1
       },
       {
         "num": 17,
-        "clue": "Largely bygone PC game holder",
-        "answer": "CDROM",
+        "clue": "Gradually detach, as from a habit",
+        "answer": "WEAN",
         "row": 5,
-        "col": 7
+        "col": 0
       },
       {
         "num": 18,
-        "clue": "What comes around?",
-        "answer": "KARMA",
+        "clue": "___ 20 (critical success in Dungeons & Dragons, informally)",
+        "answer": "NAT",
         "row": 5,
-        "col": 8
+        "col": 5
       },
       {
-        "num": 19,
-        "clue": "Frog's buddy, in kid-lit",
-        "answer": "TOAD",
+        "num": 21,
+        "clue": "Reaction to kitten photos",
+        "answer": "AWW",
         "row": 6,
         "col": 0
       },
       {
         "num": 22,
-        "clue": "Director Spike",
-        "answer": "LEE",
+        "clue": "___ Thai (martial art)",
+        "answer": "MUAY",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "num": 25,
+        "clue": "Colorful sphere in a bathtub",
+        "answer": "SOAPBUBBLE",
         "row": 7,
+        "col": 0
+      },
+      {
+        "num": 29,
+        "clue": "Colorful gayborhood banners",
+        "answer": "PRIDEFLAGS",
+        "row": 8,
+        "col": 0
+      },
+      {
+        "num": 30,
+        "clue": "Colorful candy in a red bag",
+        "answer": "SKITTLES",
+        "row": 9,
+        "col": 0
+      }
+    ],
+    "down": [
+      {
+        "num": 1,
+        "clue": "Turf sold in rolls",
+        "answer": "SOD",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Singer Rita referred to in The Onion headline \"Agent Scores Singer Another Prime Crossword Puzzle Placement\"",
+        "answer": "ORA",
+        "row": 0,
+        "col": 1
+      },
+      {
+        "num": 3,
+        "clue": "Animator's transparent sheet",
+        "answer": "CEL",
+        "row": 0,
         "col": 2
       },
       {
-        "num": 23,
-        "clue": "Outback bird",
-        "answer": "EMU",
-        "row": 7,
+        "num": 4,
+        "clue": "A dime a dozen",
+        "answer": "COMMON",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "Digital greeting from Hallmark",
+        "answer": "ECARD",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Way past ripe",
+        "answer": "ROTTEN",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 7,
+        "clue": "\"Sk8er ___\" (2002 Avril Lavigne hit)",
+        "answer": "BOI",
+        "row": 0,
         "col": 6
+      },
+      {
+        "num": 8,
+        "clue": "Members of the oldest Divine Nine sorority, for short",
+        "answer": "AKAS",
+        "row": 0,
+        "col": 7
+      },
+      {
+        "num": 9,
+        "clue": "Queue",
+        "answer": "LINE",
+        "row": 0,
+        "col": 8
+      },
+      {
+        "num": 10,
+        "clue": "\"___ we forget ...\"",
+        "answer": "LEST",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 15,
+        "clue": "Alter",
+        "answer": "REWORK",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "num": 16,
+        "clue": "Queen Lili'uokalani's kingdom",
+        "answer": "HAWAII",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "num": 17,
+        "clue": "Winged pollinators",
+        "answer": "WASPS",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 19,
+        "clue": "Walk leisurely",
+        "answer": "AMBLE",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 20,
+        "clue": "Heavy marching band instruments",
+        "answer": "TUBAS",
+        "row": 5,
+        "col": 7
+      },
+      {
+        "num": 23,
+        "clue": "Olympic code for Africa's largest country",
+        "answer": "ALG",
+        "row": 6,
+        "col": 8
+      },
+      {
+        "num": 24,
+        "clue": "\"Can I help you?\"",
+        "answer": "YES",
+        "row": 6,
+        "col": 9
+      },
+      {
+        "num": 26,
+        "clue": "Time zone for L.A. summers",
+        "answer": "PDT",
+        "row": 7,
+        "col": 3
+      },
+      {
+        "num": 27,
+        "clue": "Gamble",
+        "answer": "BET",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "num": 28,
+        "clue": "Sports org. with the St. Louis Battlehawks",
+        "answer": "UFL",
+        "row": 7,
+        "col": 5
       }
     ]
   }

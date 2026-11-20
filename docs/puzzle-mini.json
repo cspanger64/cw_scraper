@@ -5,113 +5,113 @@
   ],
   "grid": [
     [
-      "S",
       "H",
-      "I",
-      "F",
-      "T"
+      "A",
+      "S",
+      null,
+      null
     ],
     [
+      "M",
+      "I",
       "C",
       "E",
-      "L",
-      "L",
-      "O"
+      null
     ],
     [
-      "A",
-      "L",
-      "L",
-      "O",
-      "W"
+      "M",
+      "M",
+      "H",
+      "M",
+      "M"
     ],
     [
-      "B",
-      "E",
-      "G",
-      "U",
-      "N"
-    ],
-    [
+      null,
       "S",
-      "N",
-      "O",
-      "R",
-      "E"
+      "W",
+      "I",
+      "M"
+    ],
+    [
+      null,
+      null,
+      "A",
+      "T",
+      "M"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "It turns \"1\" into \"!\"",
-        "answer": "SHIFT",
+        "clue": "\"That ship ___ sailed\"",
+        "answer": "HAS",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Stringed instrument propped up by an endpin",
-        "answer": "CELLO",
+        "num": 4,
+        "clue": "As animals, they squeak; as objects, they click",
+        "answer": "MICE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Permit",
-        "answer": "ALLOW",
+        "num": 6,
+        "clue": "Vowelless way of saying \"Yes\"",
+        "answer": "MMHMM",
         "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "\"We've only just ___\"",
-        "answer": "BEGUN",
+        "clue": "Do the butterfly, perhaps",
+        "answer": "SWIM",
         "row": 3,
-        "col": 0
+        "col": 1
       },
       {
         "num": 9,
-        "clue": "[This lecture is soooo boring!]",
-        "answer": "SNORE",
+        "clue": "Place to enter a PIN",
+        "answer": "ATM",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Covers for healing wounds",
-        "answer": "SCABS",
+        "clue": "\"Let me think ...\"",
+        "answer": "HMM",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Lupita Nyong'o's role in 2026's \"The Odyssey\"",
-        "answer": "HELEN",
+        "clue": "Prepares to throw a dart",
+        "answer": "AIMS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "\"Happy to volunteer!\"",
-        "answer": "ILLGO",
+        "clue": "The \"uh\" vowel sound at the starts of words like \"agree\" and \"occur\"",
+        "answer": "SCHWA",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Ingredient sifted by a baker",
-        "answer": "FLOUR",
-        "row": 0,
+        "num": 5,
+        "clue": "Give off",
+        "answer": "EMIT",
+        "row": 1,
         "col": 3
       },
       {
-        "num": 5,
-        "clue": "Olde ___ (quaint name for a historic district)",
-        "answer": "TOWNE",
-        "row": 0,
+        "num": 7,
+        "clue": "\"Delicious!\"",
+        "answer": "MMM",
+        "row": 2,
         "col": 4
       }
     ]
