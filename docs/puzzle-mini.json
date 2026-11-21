@@ -1,118 +1,195 @@
 {
   "size": [
-    5,
-    5
+    7,
+    7
   ],
   "grid": [
     [
-      "H",
-      "A",
-      "S",
       null,
-      null
-    ],
-    [
-      "M",
-      "I",
-      "C",
+      "P",
+      "A",
+      "D",
+      "R",
       "E",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "D",
+      "R",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      "S",
+      "O",
+      "F",
+      "N",
+      "O",
+      "W"
+    ],
+    [
+      "L",
+      "I",
+      "R",
+      "A",
+      null,
+      null,
       null
     ],
     [
       "M",
-      "M",
-      "H",
-      "M",
-      "M"
+      "E",
+      "N",
+      "U",
+      "B",
+      "A",
+      "R"
     ],
     [
       null,
       "S",
-      "W",
-      "I",
-      "M"
+      "E",
+      "C",
+      "U",
+      "R",
+      "E"
     ],
     [
       null,
       null,
-      "A",
-      "T",
-      "M"
+      "D",
+      "I",
+      "S",
+      "C",
+      "S"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "\"That ship ___ sailed\"",
-        "answer": "HAS",
+        "clue": "Sports team in San Diego",
+        "answer": "PADRES",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 4,
-        "clue": "As animals, they squeak; as objects, they click",
-        "answer": "MICE",
+        "num": 7,
+        "clue": "Sporting event in \"Star Wars: Episode I\"",
+        "answer": "PODRACE",
         "row": 1,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Vowelless way of saying \"Yes\"",
-        "answer": "MMHMM",
+        "num": 8,
+        "clue": "Up to this very moment",
+        "answer": "ASOFNOW",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "Do the butterfly, perhaps",
-        "answer": "SWIM",
+        "num": 9,
+        "clue": "Turkey's currency",
+        "answer": "LIRA",
         "row": 3,
+        "col": 0
+      },
+      {
+        "num": 10,
+        "clue": "Where File and Edit are listed on a computer screen",
+        "answer": "MENUBAR",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 14,
+        "clue": "Feeling comfortable in one's identity",
+        "answer": "SECURE",
+        "row": 5,
         "col": 1
       },
       {
-        "num": 9,
-        "clue": "Place to enter a PIN",
-        "answer": "ATM",
-        "row": 4,
+        "num": 15,
+        "clue": "Shapes of checkers",
+        "answer": "DISCS",
+        "row": 6,
         "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "\"Let me think ...\"",
-        "answer": "HMM",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Prepares to throw a dart",
-        "answer": "AIMS",
+        "clue": "Pocketful in \"Ring Around the Rosie\"",
+        "answer": "POSIES",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "The \"uh\" vowel sound at the starts of words like \"agree\" and \"occur\"",
-        "answer": "SCHWA",
+        "num": 2,
+        "clue": "Decorated",
+        "answer": "ADORNED",
         "row": 0,
         "col": 2
       },
       {
-        "num": 5,
-        "clue": "Give off",
-        "answer": "EMIT",
-        "row": 1,
+        "num": 3,
+        "clue": "Physician who gave briefings during the Covid-19 pandemic",
+        "answer": "DRFAUCI",
+        "row": 0,
         "col": 3
       },
       {
-        "num": 7,
-        "clue": "\"Delicious!\"",
-        "answer": "MMM",
-        "row": 2,
+        "num": 4,
+        "clue": "Sought a Senate seat, say",
+        "answer": "RAN",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "___-warrior (certain activist)",
+        "answer": "ECO",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "Stitch with a needle",
+        "answer": "SEW",
+        "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "Kind of tree seen in Los Angeles and Miami",
+        "answer": "PALM",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 11,
+        "clue": "Vehicle that might have a stop sign attached to it",
+        "answer": "BUS",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 12,
+        "clue": "Eyebrow's shape",
+        "answer": "ARC",
+        "row": 4,
+        "col": 5
+      },
+      {
+        "num": 13,
+        "clue": "Restaurant booking, for short",
+        "answer": "RES",
+        "row": 4,
+        "col": 6
       }
     ]
   }
