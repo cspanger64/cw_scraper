@@ -1,195 +1,118 @@
 {
   "size": [
-    7,
-    7
+    5,
+    5
   ],
   "grid": [
     [
       null,
-      "P",
-      "A",
-      "D",
-      "R",
-      "E",
-      "S"
-    ],
-    [
-      "P",
-      "O",
-      "D",
-      "R",
-      "A",
-      "C",
-      "E"
-    ],
-    [
-      "A",
-      "S",
-      "O",
+      "I",
       "F",
-      "N",
-      "O",
+      "S",
+      "O"
+    ],
+    [
+      null,
+      "V",
+      "I",
+      "E",
       "W"
     ],
     [
-      "L",
+      "F",
       "I",
-      "R",
+      "N",
       "A",
-      null,
-      null,
+      "L"
+    ],
+    [
+      "D",
+      "E",
+      "E",
+      "R",
       null
     ],
     [
-      "M",
-      "E",
-      "N",
-      "U",
-      "B",
       "A",
-      "R"
-    ],
-    [
-      null,
-      "S",
-      "E",
-      "C",
-      "U",
-      "R",
-      "E"
-    ],
-    [
-      null,
-      null,
       "D",
-      "I",
+      "D",
       "S",
-      "C",
-      "S"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Sports team in San Diego",
-        "answer": "PADRES",
+        "clue": "\"Should that be the case ...\"",
+        "answer": "IFSO",
         "row": 0,
         "col": 1
       },
       {
-        "num": 7,
-        "clue": "Sporting event in \"Star Wars: Episode I\"",
-        "answer": "PODRACE",
+        "num": 5,
+        "clue": "Two cents, so to speak",
+        "answer": "VIEW",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
-        "num": 8,
-        "clue": "Up to this very moment",
-        "answer": "ASOFNOW",
+        "num": 6,
+        "clue": "Culminating test",
+        "answer": "FINAL",
         "row": 2,
         "col": 0
       },
       {
-        "num": 9,
-        "clue": "Turkey's currency",
-        "answer": "LIRA",
+        "num": 7,
+        "clue": "A couple of bucks, perhaps",
+        "answer": "DEER",
         "row": 3,
         "col": 0
       },
       {
-        "num": 10,
-        "clue": "Where File and Edit are listed on a computer screen",
-        "answer": "MENUBAR",
+        "num": 8,
+        "clue": "Throws into the mix",
+        "answer": "ADDS",
         "row": 4,
         "col": 0
-      },
-      {
-        "num": 14,
-        "clue": "Feeling comfortable in one's identity",
-        "answer": "SECURE",
-        "row": 5,
-        "col": 1
-      },
-      {
-        "num": 15,
-        "clue": "Shapes of checkers",
-        "answer": "DISCS",
-        "row": 6,
-        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Pocketful in \"Ring Around the Rosie\"",
-        "answer": "POSIES",
+        "clue": "Covered in vines, like old college buildings",
+        "answer": "IVIED",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Decorated",
-        "answer": "ADORNED",
+        "clue": "Punished for speeding",
+        "answer": "FINED",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Physician who gave briefings during the Covid-19 pandemic",
-        "answer": "DRFAUCI",
+        "clue": "In 1991, Walmart overtook this store as the nation's largest retailer",
+        "answer": "SEARS",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Sought a Senate seat, say",
-        "answer": "RAN",
+        "clue": "Bird that can hunt in total darkness",
+        "answer": "OWL",
         "row": 0,
         "col": 4
-      },
-      {
-        "num": 5,
-        "clue": "___-warrior (certain activist)",
-        "answer": "ECO",
-        "row": 0,
-        "col": 5
       },
       {
         "num": 6,
-        "clue": "Stitch with a needle",
-        "answer": "SEW",
-        "row": 0,
-        "col": 6
-      },
-      {
-        "num": 7,
-        "clue": "Kind of tree seen in Los Angeles and Miami",
-        "answer": "PALM",
-        "row": 1,
+        "clue": "Medicine-approving org.",
+        "answer": "FDA",
+        "row": 2,
         "col": 0
-      },
-      {
-        "num": 11,
-        "clue": "Vehicle that might have a stop sign attached to it",
-        "answer": "BUS",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "Eyebrow's shape",
-        "answer": "ARC",
-        "row": 4,
-        "col": 5
-      },
-      {
-        "num": 13,
-        "clue": "Restaurant booking, for short",
-        "answer": "RES",
-        "row": 4,
-        "col": 6
       }
     ]
   }

@@ -1,364 +1,359 @@
 {
   "size": [
-    10,
+    9,
     10
   ],
   "grid": [
     [
-      "S",
-      "O",
-      "C",
-      "C",
+      "P",
+      "I",
       "E",
-      "R",
-      "B",
+      null,
+      null,
       "A",
-      "L",
+      "T",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "O",
+      "M",
+      "G",
+      null,
+      "C",
+      "H",
+      "A",
+      "P",
+      "E",
       "L"
     ],
     [
-      "O",
-      "R",
-      "E",
-      "O",
-      "C",
-      "O",
-      "O",
-      "K",
-      "I",
-      "E"
-    ],
-    [
       "D",
-      "A",
-      "L",
-      "M",
-      "A",
-      "T",
-      "I",
-      "A",
-      "N",
-      "S"
-    ],
-    [
-      null,
-      null,
-      null,
-      "M",
-      "R",
-      "T",
-      null,
-      "S",
-      "E",
-      "T"
-    ],
-    [
-      null,
-      "R",
-      "H",
       "O",
-      "D",
-      "E",
-      null,
-      null,
-      null,
-      null
-    ],
-    [
-      "W",
-      "E",
-      "A",
-      "N",
-      null,
-      "N",
-      "A",
-      "T",
-      null,
-      null
-    ],
-    [
-      "A",
-      "W",
-      "W",
-      null,
-      null,
-      null,
-      "M",
-      "U",
-      "A",
-      "Y"
-    ],
-    [
-      "S",
-      "O",
-      "A",
-      "P",
-      "B",
-      "U",
-      "B",
-      "B",
-      "L",
-      "E"
-    ],
-    [
-      "P",
-      "R",
-      "I",
-      "D",
-      "E",
-      "F",
-      "L",
-      "A",
       "G",
-      "S"
+      null,
+      "F",
+      "E",
+      "M",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      null,
+      null,
+      "B",
+      "O",
+      "O",
+      "M",
+      "E",
+      "R",
+      null,
+      null
     ],
     [
       "S",
-      "K",
+      "P",
+      "A",
+      "S",
+      null,
+      null,
+      "S",
+      "E",
+      "G",
+      "A"
+    ],
+    [
+      "A",
+      "U",
+      "G",
+      "U",
+      "S",
+      "T",
+      null,
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      null,
+      "O",
+      "U",
+      "T",
       "I",
-      "T",
-      "T",
+      "N",
+      "G"
+    ],
+    [
+      "G",
+      "E",
       "L",
+      null,
+      "S",
+      "N",
+      "A",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "Y",
       "E",
       "S",
       null,
-      null
+      null,
+      "E",
+      "X",
+      "E",
+      "R",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Black-and-white sports equipment",
-        "answer": "SOCCERBALL",
+        "clue": "Dessert humorously served on March 14",
+        "answer": "PIE",
         "row": 0,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "Black-and-white treat",
-        "answer": "OREOCOOKIE",
+        "num": 4,
+        "clue": "Sailing, perhaps",
+        "answer": "ATSEA",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 9,
+        "clue": "\"ur kidding!\"",
+        "answer": "OMG",
         "row": 1,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Black-and-white dogs",
-        "answer": "DALMATIANS",
+        "num": 10,
+        "clue": "Place to tie the knot",
+        "answer": "CHAPEL",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 11,
+        "clue": "Snoopy or Pluto",
+        "answer": "DOG",
         "row": 2,
         "col": 0
       },
       {
-        "num": 13,
-        "clue": "Actor with the catchphrase \"I pity the fool!\"",
-        "answer": "MRT",
-        "row": 3,
-        "col": 3
+        "num": 12,
+        "clue": "Iron man?",
+        "answer": "FEMALE",
+        "row": 2,
+        "col": 4
       },
       {
-        "num": 14,
-        "clue": "Matching group",
-        "answer": "SET",
+        "num": 13,
+        "clue": "Many a grandparent of a Gen Zer",
+        "answer": "BOOMER",
         "row": 3,
-        "col": 7
+        "col": 2
       },
       {
         "num": 15,
-        "clue": "Providence, ___ Island",
-        "answer": "RHODE",
+        "clue": "Places for pampering",
+        "answer": "SPAS",
         "row": 4,
-        "col": 1
+        "col": 0
       },
       {
         "num": 17,
-        "clue": "Gradually detach, as from a habit",
-        "answer": "WEAN",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 18,
-        "clue": "___ 20 (critical success in Dungeons & Dragons, informally)",
-        "answer": "NAT",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 21,
-        "clue": "Reaction to kitten photos",
-        "answer": "AWW",
-        "row": 6,
-        "col": 0
-      },
-      {
-        "num": 22,
-        "clue": "___ Thai (martial art)",
-        "answer": "MUAY",
-        "row": 6,
+        "clue": "Game company behind Sonic the Hedgehog",
+        "answer": "SEGA",
+        "row": 4,
         "col": 6
       },
       {
+        "num": 20,
+        "clue": "Gold rush?",
+        "answer": "AUGUST",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "num": 23,
+        "clue": "Hit like a ___ of bricks",
+        "answer": "TON",
+        "row": 5,
+        "col": 7
+      },
+      {
+        "num": 24,
+        "clue": "Test for future master's students: Abbr.",
+        "answer": "GRE",
+        "row": 6,
+        "col": 0
+      },
+      {
         "num": 25,
-        "clue": "Colorful sphere in a bathtub",
-        "answer": "SOAPBUBBLE",
+        "clue": "Class field trip, e.g.",
+        "answer": "OUTING",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "num": 27,
+        "clue": "Alternative to acrylic, in a nail salon",
+        "answer": "GEL",
         "row": 7,
         "col": 0
       },
       {
+        "num": 28,
+        "clue": "Tin god?",
+        "answer": "SNARES",
+        "row": 7,
+        "col": 4
+      },
+      {
         "num": 29,
-        "clue": "Colorful gayborhood banners",
-        "answer": "PRIDEFLAGS",
+        "clue": "Hoped-for response to a promposal",
+        "answer": "YES",
         "row": 8,
         "col": 0
       },
       {
         "num": 30,
-        "clue": "Colorful candy in a red bag",
-        "answer": "SKITTLES",
-        "row": 9,
-        "col": 0
+        "clue": "Put forth, as effort",
+        "answer": "EXERT",
+        "row": 8,
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Turf sold in rolls",
-        "answer": "SOD",
+        "clue": "Laundry detergent unit",
+        "answer": "POD",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Singer Rita referred to in The Onion headline \"Agent Scores Singer Another Prime Crossword Puzzle Placement\"",
-        "answer": "ORA",
+        "clue": "Texter's \"The way I see it ...\"",
+        "answer": "IMO",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Animator's transparent sheet",
-        "answer": "CEL",
+        "clue": "Yellow deli orders",
+        "answer": "EGGBAGELS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "A dime a dozen",
-        "answer": "COMMON",
-        "row": 0,
-        "col": 3
-      },
-      {
-        "num": 5,
-        "clue": "Digital greeting from Hallmark",
-        "answer": "ECARD",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Way past ripe",
-        "answer": "ROTTEN",
+        "clue": "[Pay attention!]",
+        "answer": "AHEM",
         "row": 0,
         "col": 5
       },
       {
-        "num": 7,
-        "clue": "\"Sk8er ___\" (2002 Avril Lavigne hit)",
-        "answer": "BOI",
+        "num": 5,
+        "clue": "Subdues",
+        "answer": "TAMES",
         "row": 0,
         "col": 6
       },
       {
-        "num": 8,
-        "clue": "Members of the oldest Divine Nine sorority, for short",
-        "answer": "AKAS",
+        "num": 6,
+        "clue": "Extra item stored in a trunk",
+        "answer": "SPARETIRE",
         "row": 0,
         "col": 7
       },
       {
-        "num": 9,
-        "clue": "Queue",
-        "answer": "LINE",
+        "num": 7,
+        "clue": "Electric ___",
+        "answer": "EEL",
         "row": 0,
         "col": 8
       },
       {
-        "num": 10,
-        "clue": "\"___ we forget ...\"",
-        "answer": "LEST",
+        "num": 8,
+        "clue": "The \"A\" of I.P.A.",
+        "answer": "ALE",
         "row": 0,
         "col": 9
       },
       {
+        "num": 10,
+        "clue": "$$$ overseer in a company",
+        "answer": "CFO",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 14,
+        "clue": "The Buckeyes of the N.C.A.A.",
+        "answer": "OSU",
+        "row": 3,
+        "col": 3
+      },
+      {
         "num": 15,
-        "clue": "Alter",
-        "answer": "REWORK",
+        "clue": "Like pants in need of a belt, maybe",
+        "answer": "SAGGY",
+        "row": 4,
+        "col": 0
+      },
+      {
+        "num": 16,
+        "clue": "Blend into a mush",
+        "answer": "PUREE",
         "row": 4,
         "col": 1
       },
       {
-        "num": 16,
-        "clue": "Queen Lili'uokalani's kingdom",
-        "answer": "HAWAII",
+        "num": 18,
+        "clue": "Someone who's a lost cause",
+        "answer": "GONER",
         "row": 4,
-        "col": 2
-      },
-      {
-        "num": 17,
-        "clue": "Winged pollinators",
-        "answer": "WASPS",
-        "row": 5,
-        "col": 0
-      },
-      {
-        "num": 19,
-        "clue": "Walk leisurely",
-        "answer": "AMBLE",
-        "row": 5,
-        "col": 6
-      },
-      {
-        "num": 20,
-        "clue": "Heavy marching band instruments",
-        "answer": "TUBAS",
-        "row": 5,
-        "col": 7
-      },
-      {
-        "num": 23,
-        "clue": "Olympic code for Africa's largest country",
-        "answer": "ALG",
-        "row": 6,
         "col": 8
       },
       {
-        "num": 24,
-        "clue": "\"Can I help you?\"",
-        "answer": "YES",
-        "row": 6,
+        "num": 19,
+        "clue": "Uneasy feeling",
+        "answer": "ANGST",
+        "row": 4,
         "col": 9
       },
       {
-        "num": 26,
-        "clue": "Time zone for L.A. summers",
-        "answer": "PDT",
-        "row": 7,
-        "col": 3
-      },
-      {
-        "num": 27,
-        "clue": "Gamble",
-        "answer": "BET",
-        "row": 7,
+        "num": 21,
+        "clue": "Signal from a marooned boat",
+        "answer": "SOS",
+        "row": 5,
         "col": 4
       },
       {
-        "num": 28,
-        "clue": "Sports org. with the St. Louis Battlehawks",
-        "answer": "UFL",
-        "row": 7,
+        "num": 22,
+        "clue": "Adjust, as a piano",
+        "answer": "TUNE",
+        "row": 5,
         "col": 5
+      },
+      {
+        "num": 26,
+        "clue": "Extra cost on a receipt",
+        "answer": "TAX",
+        "row": 6,
+        "col": 6
       }
     ]
   }
