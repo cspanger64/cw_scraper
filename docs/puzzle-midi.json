@@ -1,359 +1,329 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "P",
+      "M",
       "I",
-      "E",
+      "R",
       null,
       null,
-      "A",
-      "T",
+      null,
       "S",
-      "E",
-      "A"
+      "P",
+      "F"
     ],
     [
-      "O",
-      "M",
-      "G",
-      null,
-      "C",
-      "H",
       "A",
-      "P",
+      "G",
+      "O",
+      null,
+      null,
+      "F",
+      "U",
       "E",
       "L"
     ],
     [
-      "D",
+      "N",
       "O",
-      "G",
-      null,
-      "F",
-      "E",
       "M",
+      null,
+      "J",
       "A",
-      "L",
-      "E"
+      "Z",
+      "Z",
+      "Y"
     ],
     [
-      null,
-      null,
-      "B",
-      "O",
-      "O",
-      "M",
       "E",
       "R",
+      "A",
+      "S",
+      "U",
+      "R",
+      "E",
       null,
       null
     ],
     [
-      "S",
-      "P",
+      null,
+      null,
+      "N",
       "A",
-      "S",
+      "M",
       null,
-      null,
-      "S",
-      "E",
+      "O",
+      "I",
+      "L"
+    ],
+    [
       "G",
+      "O",
+      "T",
+      "T",
+      "A",
+      null,
+      "R",
+      "C",
       "A"
     ],
     [
       "A",
-      "U",
-      "G",
-      "U",
-      "S",
-      "T",
+      "D",
+      "A",
       null,
-      "T",
+      "N",
+      "I",
+      "M",
       "O",
-      "N"
+      "Y"
     ],
     [
-      "G",
-      "R",
-      "E",
-      null,
+      "S",
       "O",
-      "U",
-      "T",
+      "S",
+      null,
+      "J",
+      "O",
+      "A",
+      "N",
+      null
+    ],
+    [
+      "P",
+      "R",
+      "Y",
+      null,
       "I",
       "N",
-      "G"
-    ],
-    [
-      "G",
-      "E",
-      "L",
-      null,
-      "S",
       "N",
-      "A",
-      "R",
-      "E",
-      "S"
-    ],
-    [
-      "Y",
-      "E",
-      "S",
       null,
-      null,
-      "E",
-      "X",
-      "E",
-      "R",
-      "T"
+      null
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Dessert humorously served on March 14",
-        "answer": "PIE",
+        "clue": "Bygone space station whose name means \"peace\" in Russian",
+        "answer": "MIR",
         "row": 0,
         "col": 0
       },
       {
         "num": 4,
-        "clue": "Sailing, perhaps",
-        "answer": "ATSEA",
+        "clue": "Letters on a tanning lotion bottle",
+        "answer": "SPF",
         "row": 0,
+        "col": 6
+      },
+      {
+        "num": 7,
+        "clue": "In the past",
+        "answer": "AGO",
+        "row": 1,
+        "col": 0
+      },
+      {
+        "num": 8,
+        "clue": "Auto tank filler",
+        "answer": "FUEL",
+        "row": 1,
         "col": 5
       },
       {
         "num": 9,
-        "clue": "\"ur kidding!\"",
-        "answer": "OMG",
-        "row": 1,
+        "clue": "___ de plume",
+        "answer": "NOM",
+        "row": 2,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Place to tie the knot",
-        "answer": "CHAPEL",
-        "row": 1,
+        "clue": "Like the music of Mingus and Monk",
+        "answer": "JAZZY",
+        "row": 2,
         "col": 4
       },
       {
         "num": 11,
-        "clue": "Snoopy or Pluto",
-        "answer": "DOG",
-        "row": 2,
+        "clue": "Smudge on a test paper",
+        "answer": "ERASURE",
+        "row": 3,
         "col": 0
-      },
-      {
-        "num": 12,
-        "clue": "Iron man?",
-        "answer": "FEMALE",
-        "row": 2,
-        "col": 4
       },
       {
         "num": 13,
-        "clue": "Many a grandparent of a Gen Zer",
-        "answer": "BOOMER",
-        "row": 3,
+        "clue": "Setting for the war in \"Apocalypse Now,\" for short",
+        "answer": "NAM",
+        "row": 4,
         "col": 2
       },
       {
-        "num": 15,
-        "clue": "Places for pampering",
-        "answer": "SPAS",
-        "row": 4,
-        "col": 0
-      },
-      {
-        "num": 17,
-        "clue": "Game company behind Sonic the Hedgehog",
-        "answer": "SEGA",
+        "num": 14,
+        "clue": "Squeaky wheel's need",
+        "answer": "OIL",
         "row": 4,
         "col": 6
       },
       {
-        "num": 20,
-        "clue": "Gold rush?",
-        "answer": "AUGUST",
+        "num": 17,
+        "clue": "\"She's ___ Have It\" (Spike Lee film)",
+        "answer": "GOTTA",
         "row": 5,
         "col": 0
+      },
+      {
+        "num": 19,
+        "clue": "Color TV pioneer",
+        "answer": "RCA",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 20,
+        "clue": "Palindromic name hidden in \"headache\"",
+        "answer": "ADA",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 21,
+        "clue": "Leonard who played Mr. Spock",
+        "answer": "NIMOY",
+        "row": 6,
+        "col": 4
       },
       {
         "num": 23,
-        "clue": "Hit like a ___ of bricks",
-        "answer": "TON",
-        "row": 5,
-        "col": 7
+        "clue": "Boat's call for help",
+        "answer": "SOS",
+        "row": 7,
+        "col": 0
       },
       {
         "num": 24,
-        "clue": "Test for future master's students: Abbr.",
-        "answer": "GRE",
-        "row": 6,
-        "col": 0
+        "clue": "___ of Arc (French saint)",
+        "answer": "JOAN",
+        "row": 7,
+        "col": 4
       },
       {
         "num": 25,
-        "clue": "Class field trip, e.g.",
-        "answer": "OUTING",
-        "row": 6,
-        "col": 4
-      },
-      {
-        "num": 27,
-        "clue": "Alternative to acrylic, in a nail salon",
-        "answer": "GEL",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 28,
-        "clue": "Tin god?",
-        "answer": "SNARES",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 29,
-        "clue": "Hoped-for response to a promposal",
-        "answer": "YES",
+        "clue": "Act like a yenta",
+        "answer": "PRY",
         "row": 8,
         "col": 0
       },
       {
-        "num": 30,
-        "clue": "Put forth, as effort",
-        "answer": "EXERT",
+        "num": 26,
+        "clue": "Bed-and-breakfast, e.g.",
+        "answer": "INN",
         "row": 8,
-        "col": 5
+        "col": 4
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Laundry detergent unit",
-        "answer": "POD",
+        "clue": "Horse's hair",
+        "answer": "MANE",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Texter's \"The way I see it ...\"",
-        "answer": "IMO",
+        "clue": "Stravinsky or Sikorsky",
+        "answer": "IGOR",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Yellow deli orders",
-        "answer": "EGGBAGELS",
+        "clue": "Portmanteau genre for a love story with centaurs, say",
+        "answer": "ROMANTASY",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "[Pay attention!]",
-        "answer": "AHEM",
-        "row": 0,
-        "col": 5
-      },
-      {
-        "num": 5,
-        "clue": "Subdues",
-        "answer": "TAMES",
+        "clue": "Financial adviser who wrote \"The Road to Wealth\"",
+        "answer": "SUZEORMAN",
         "row": 0,
         "col": 6
       },
       {
-        "num": 6,
-        "clue": "Extra item stored in a trunk",
-        "answer": "SPARETIRE",
+        "num": 5,
+        "clue": "Candy that comes in a dispenser",
+        "answer": "PEZ",
         "row": 0,
         "col": 7
       },
       {
-        "num": 7,
-        "clue": "Electric ___",
-        "answer": "EEL",
+        "num": 6,
+        "clue": "___ in the ointment",
+        "answer": "FLY",
         "row": 0,
         "col": 8
       },
       {
         "num": 8,
-        "clue": "The \"A\" of I.P.A.",
-        "answer": "ALE",
-        "row": 0,
-        "col": 9
+        "clue": "A long distance away",
+        "answer": "FAR",
+        "row": 1,
+        "col": 5
       },
       {
         "num": 10,
-        "clue": "$$$ overseer in a company",
-        "answer": "CFO",
-        "row": 1,
+        "clue": "1995 Robin Williams blockbuster with the tagline \"Roll the dice and unleash the excitement!\"",
+        "answer": "JUMANJI",
+        "row": 2,
         "col": 4
       },
       {
-        "num": 14,
-        "clue": "The Buckeyes of the N.C.A.A.",
-        "answer": "OSU",
+        "num": 12,
+        "clue": "Used a chair",
+        "answer": "SAT",
         "row": 3,
         "col": 3
       },
       {
         "num": 15,
-        "clue": "Like pants in need of a belt, maybe",
-        "answer": "SAGGY",
+        "clue": "Style trendsetter, maybe",
+        "answer": "ICON",
         "row": 4,
-        "col": 0
+        "col": 7
       },
       {
         "num": 16,
-        "clue": "Blend into a mush",
-        "answer": "PUREE",
-        "row": 4,
-        "col": 1
-      },
-      {
-        "num": 18,
-        "clue": "Someone who's a lost cause",
-        "answer": "GONER",
+        "clue": "Install, as bricks",
+        "answer": "LAY",
         "row": 4,
         "col": 8
       },
       {
-        "num": 19,
-        "clue": "Uneasy feeling",
-        "answer": "ANGST",
-        "row": 4,
-        "col": 9
+        "num": 17,
+        "clue": "Sound of fright",
+        "answer": "GASP",
+        "row": 5,
+        "col": 0
       },
       {
-        "num": 21,
-        "clue": "Signal from a marooned boat",
-        "answer": "SOS",
+        "num": 18,
+        "clue": "Nose wrinkler",
+        "answer": "ODOR",
         "row": 5,
-        "col": 4
+        "col": 1
       },
       {
         "num": 22,
-        "clue": "Adjust, as a piano",
-        "answer": "TUNE",
-        "row": 5,
-        "col": 5
-      },
-      {
-        "num": 26,
-        "clue": "Extra cost on a receipt",
-        "answer": "TAX",
+        "clue": "Electrically charged atom",
+        "answer": "ION",
         "row": 6,
-        "col": 6
+        "col": 5
       }
     ]
   }

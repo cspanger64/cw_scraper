@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "I",
-      "F",
+      "B",
+      "A",
       "S",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "U",
+      "L",
       "O"
     ],
     [
-      null,
-      "V",
-      "I",
-      "E",
-      "W"
-    ],
-    [
-      "F",
-      "I",
-      "N",
       "A",
+      "B",
+      "D",
+      "U",
       "L"
     ],
     [
-      "D",
+      "W",
       "E",
-      "E",
+      "I",
       "R",
-      null
+      "D"
     ],
     [
-      "A",
-      "D",
-      "D",
       "S",
+      "L",
+      "O",
+      "P",
       null
     ]
   ],
@@ -44,36 +44,36 @@
     "across": [
       {
         "num": 1,
-        "clue": "\"Should that be the case ...\"",
-        "answer": "IFSO",
+        "clue": "Instrument you might \"slap\"",
+        "answer": "BASS",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "Two cents, so to speak",
-        "answer": "VIEW",
+        "clue": "SÃ£o ___, Brazil",
+        "answer": "PAULO",
         "row": 1,
-        "col": 1
+        "col": 0
       },
       {
         "num": 6,
-        "clue": "Culminating test",
-        "answer": "FINAL",
+        "clue": "Newly elected senator El-Sayed",
+        "answer": "ABDUL",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "A couple of bucks, perhaps",
-        "answer": "DEER",
+        "clue": "\"I don't know why it's doing that ...\"",
+        "answer": "WEIRD",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Throws into the mix",
-        "answer": "ADDS",
+        "clue": "Lazy A.I. content",
+        "answer": "SLOP",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Covered in vines, like old college buildings",
-        "answer": "IVIED",
+        "clue": "Biblical city with language problems",
+        "answer": "BABEL",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Punished for speeding",
-        "answer": "FINED",
+        "clue": "The \"A\" of A/V",
+        "answer": "AUDIO",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "In 1991, Walmart overtook this store as the nation's largest retailer",
-        "answer": "SEARS",
+        "clue": "Drink noisily",
+        "answer": "SLURP",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Bird that can hunt in total darkness",
-        "answer": "OWL",
+        "clue": "Word after \"Going once, going twice ...\"",
+        "answer": "SOLD",
         "row": 0,
         "col": 4
       },
       {
-        "num": 6,
-        "clue": "Medicine-approving org.",
-        "answer": "FDA",
-        "row": 2,
+        "num": 5,
+        "clue": "Mutt's \"mitts\"",
+        "answer": "PAWS",
+        "row": 1,
         "col": 0
       }
     ]
