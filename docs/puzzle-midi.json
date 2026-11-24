@@ -5,325 +5,318 @@
   ],
   "grid": [
     [
-      "M",
-      "I",
-      "R",
-      null,
-      null,
-      null,
-      "S",
-      "P",
-      "F"
-    ],
-    [
-      "A",
-      "G",
+      "H",
       "O",
+      "L",
+      "L",
+      "A",
       null,
-      null,
-      "F",
+      "D",
       "U",
-      "E",
-      "L"
+      "B"
     ],
     [
-      "N",
-      "O",
-      "M",
-      null,
-      "J",
-      "A",
-      "Z",
-      "Z",
-      "Y"
-    ],
-    [
-      "E",
-      "R",
-      "A",
       "S",
-      "U",
-      "R",
+      "H",
       "E",
-      null,
-      null
-    ],
-    [
-      null,
-      null,
-      "N",
-      "A",
-      "M",
-      null,
-      "O",
-      "I",
-      "L"
-    ],
-    [
-      "G",
-      "O",
-      "T",
-      "T",
-      "A",
+      "E",
+      "R",
       null,
       "R",
-      "C",
+      "N",
       "A"
     ],
     [
-      "A",
+      "N",
+      "O",
       "D",
       "A",
+      "T",
       null,
+      "A",
+      "P",
+      "T"
+    ],
+    [
+      null,
+      "H",
+      "A",
+      "S",
+      null,
+      "G",
       "N",
+      "C",
+      null
+    ],
+    [
+      null,
+      null,
+      "S",
+      "H",
+      "A",
+      "R",
+      "K",
+      null,
+      null
+    ],
+    [
+      null,
+      "S",
+      "T",
+      "L",
+      "O",
+      "U",
       "I",
+      "S",
+      null
+    ],
+    [
       "M",
       "O",
-      "Y"
-    ],
-    [
-      "S",
-      "O",
-      "S",
-      null,
-      "J",
-      "O",
-      "A",
-      "N",
-      null
-    ],
-    [
-      "P",
       "R",
-      "Y",
+      "A",
+      "L",
+      null,
+      "T",
+      "I",
+      "L"
+    ],
+    [
+      "I",
+      "S",
+      "A",
+      "W",
+      null,
       null,
       "I",
-      "N",
-      "N",
+      "R",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "Y",
       null,
-      null
+      null,
+      null,
+      "N",
+      "I",
+      "H"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Bygone space station whose name means \"peace\" in Russian",
-        "answer": "MIR",
+        "clue": "Say hi, slangily",
+        "answer": "HOLLA",
         "row": 0,
         "col": 0
       },
       {
-        "num": 4,
-        "clue": "Letters on a tanning lotion bottle",
-        "answer": "SPF",
+        "num": 6,
+        "clue": "Give a nickname",
+        "answer": "DUB",
         "row": 0,
         "col": 6
       },
       {
-        "num": 7,
-        "clue": "In the past",
-        "answer": "AGO",
-        "row": 1,
-        "col": 0
-      },
-      {
-        "num": 8,
-        "clue": "Auto tank filler",
-        "answer": "FUEL",
-        "row": 1,
-        "col": 5
-      },
-      {
         "num": 9,
-        "clue": "___ de plume",
-        "answer": "NOM",
-        "row": 2,
+        "clue": "See-through, as some fabric",
+        "answer": "SHEER",
+        "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Like the music of Mingus and Monk",
-        "answer": "JAZZY",
-        "row": 2,
-        "col": 4
+        "clue": "Molecule involved in protein synthesis",
+        "answer": "RNA",
+        "row": 1,
+        "col": 6
       },
       {
         "num": 11,
-        "clue": "Smudge on a test paper",
-        "answer": "ERASURE",
-        "row": 3,
+        "clue": "Say hi to, nonverbally",
+        "answer": "NODAT",
+        "row": 2,
         "col": 0
       },
       {
+        "num": 12,
+        "clue": "Like a barista named Bean or a fashionista named Jean",
+        "answer": "APT",
+        "row": 2,
+        "col": 6
+      },
+      {
         "num": 13,
-        "clue": "Setting for the war in \"Apocalypse Now,\" for short",
-        "answer": "NAM",
+        "clue": "Owns",
+        "answer": "HAS",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 14,
+        "clue": "Chain that sells creatine and probiotics",
+        "answer": "GNC",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "num": 15,
+        "clue": "Animal whose skin can feel similar to sandpaper",
+        "answer": "SHARK",
         "row": 4,
         "col": 2
       },
       {
-        "num": 14,
-        "clue": "Squeaky wheel's need",
-        "answer": "OIL",
-        "row": 4,
-        "col": 6
-      },
-      {
         "num": 17,
-        "clue": "\"She's ___ Have It\" (Spike Lee film)",
-        "answer": "GOTTA",
+        "clue": "Home to the monument suggested by this puzzle's circled squares, read clockwise from the lower left",
+        "answer": "STLOUIS",
         "row": 5,
-        "col": 0
+        "col": 1
       },
       {
         "num": 19,
-        "clue": "Color TV pioneer",
-        "answer": "RCA",
-        "row": 5,
-        "col": 6
+        "clue": "Story's lesson",
+        "answer": "MORAL",
+        "row": 6,
+        "col": 0
       },
       {
         "num": 20,
-        "clue": "Palindromic name hidden in \"headache\"",
-        "answer": "ADA",
+        "clue": "\"Fake it ___ you make it\"",
+        "answer": "TIL",
         "row": 6,
-        "col": 0
+        "col": 6
       },
       {
-        "num": 21,
-        "clue": "Leonard who played Mr. Spock",
-        "answer": "NIMOY",
-        "row": 6,
-        "col": 4
+        "num": 22,
+        "clue": "\"No need to fill me in\"",
+        "answer": "ISAW",
+        "row": 7,
+        "col": 0
       },
       {
         "num": 23,
-        "clue": "Boat's call for help",
-        "answer": "SOS",
+        "clue": "Pulitzer-winning Gershwin",
+        "answer": "IRA",
         "row": 7,
-        "col": 0
+        "col": 6
       },
       {
         "num": 24,
-        "clue": "___ of Arc (French saint)",
-        "answer": "JOAN",
-        "row": 7,
-        "col": 4
-      },
-      {
-        "num": 25,
-        "clue": "Act like a yenta",
-        "answer": "PRY",
+        "clue": "Small dog size",
+        "answer": "TOY",
         "row": 8,
         "col": 0
       },
       {
-        "num": 26,
-        "clue": "Bed-and-breakfast, e.g.",
-        "answer": "INN",
+        "num": 25,
+        "clue": "Org. with the Undiagnosed Diseases Program",
+        "answer": "NIH",
         "row": 8,
-        "col": 4
+        "col": 6
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Horse's hair",
-        "answer": "MANE",
+        "clue": "Channel akin to QVC",
+        "answer": "HSN",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Stravinsky or Sikorsky",
-        "answer": "IGOR",
+        "clue": "\"Over here! Call on me!\"",
+        "answer": "OHOH",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Portmanteau genre for a love story with centaurs, say",
-        "answer": "ROMANTASY",
+        "clue": "Misguided",
+        "answer": "LEDASTRAY",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Financial adviser who wrote \"The Road to Wealth\"",
-        "answer": "SUZEORMAN",
+        "clue": "Rule for dog walkers",
+        "answer": "LEASHLAW",
+        "row": 0,
+        "col": 3
+      },
+      {
+        "num": 5,
+        "clue": "It \"has no meaning because it has many meanings, infinite meanings,\" per graffitist Keith Haring",
+        "answer": "ART",
+        "row": 0,
+        "col": 4
+      },
+      {
+        "num": 6,
+        "clue": "Soaked up the moment",
+        "answer": "DRANKITIN",
         "row": 0,
         "col": 6
       },
       {
-        "num": 5,
-        "clue": "Candy that comes in a dispenser",
-        "answer": "PEZ",
+        "num": 7,
+        "clue": "Insensitive, as some language",
+        "answer": "UNPC",
         "row": 0,
         "col": 7
-      },
-      {
-        "num": 6,
-        "clue": "___ in the ointment",
-        "answer": "FLY",
-        "row": 0,
-        "col": 8
       },
       {
         "num": 8,
-        "clue": "A long distance away",
-        "answer": "FAR",
-        "row": 1,
-        "col": 5
-      },
-      {
-        "num": 10,
-        "clue": "1995 Robin Williams blockbuster with the tagline \"Roll the dice and unleash the excitement!\"",
-        "answer": "JUMANJI",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "num": 12,
-        "clue": "Used a chair",
-        "answer": "SAT",
-        "row": 3,
-        "col": 3
-      },
-      {
-        "num": 15,
-        "clue": "Style trendsetter, maybe",
-        "answer": "ICON",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 16,
-        "clue": "Install, as bricks",
-        "answer": "LAY",
-        "row": 4,
+        "clue": "Mammal that sleeps upside-down",
+        "answer": "BAT",
+        "row": 0,
         "col": 8
       },
       {
-        "num": 17,
-        "clue": "Sound of fright",
-        "answer": "GASP",
-        "row": 5,
-        "col": 0
+        "num": 14,
+        "clue": "Reformed supervillain in \"Despicable Me\"",
+        "answer": "GRU",
+        "row": 3,
+        "col": 5
       },
       {
-        "num": 18,
-        "clue": "Nose wrinkler",
-        "answer": "ODOR",
+        "num": 16,
+        "clue": "\"You've got mail\" co.",
+        "answer": "AOL",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "num": 17,
+        "clue": "Neither good nor bad",
+        "answer": "SOSO",
         "row": 5,
         "col": 1
       },
       {
-        "num": 22,
-        "clue": "Electrically charged atom",
-        "answer": "ION",
+        "num": 18,
+        "clue": "Whom you might ask to \"set a timer for 15 minutes\"",
+        "answer": "SIRI",
+        "row": 5,
+        "col": 7
+      },
+      {
+        "num": 19,
+        "clue": "Sch. with the annual Mystery Hunt, a days-long event for puzzle lovers",
+        "answer": "MIT",
         "row": 6,
-        "col": 5
+        "col": 0
+      },
+      {
+        "num": 21,
+        "clue": "\"Well, ___-di-dah!\"",
+        "answer": "LAH",
+        "row": 6,
+        "col": 8
       }
     ]
   }

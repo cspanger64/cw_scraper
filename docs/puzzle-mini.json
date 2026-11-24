@@ -6,74 +6,74 @@
   "grid": [
     [
       null,
-      "B",
-      "A",
       "S",
+      "I",
+      "L",
+      "K"
+    ],
+    [
+      null,
+      "T",
+      "H",
+      "A",
+      "I"
+    ],
+    [
+      "B",
+      "O",
+      "A",
+      "T",
       "S"
     ],
     [
-      "P",
-      "A",
-      "U",
-      "L",
-      "O"
-    ],
-    [
-      "A",
-      "B",
-      "D",
-      "U",
-      "L"
-    ],
-    [
-      "W",
       "E",
+      "L",
+      "V",
       "I",
-      "R",
-      "D"
+      "S"
     ],
     [
-      "S",
-      "L",
-      "O",
-      "P",
-      null
+      "T",
+      "E",
+      "E",
+      "N",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Instrument you might \"slap\"",
-        "answer": "BASS",
+        "clue": "Spiders spin it",
+        "answer": "SILK",
         "row": 0,
         "col": 1
       },
       {
         "num": 5,
-        "clue": "SÃ£o ___, Brazil",
-        "answer": "PAULO",
+        "clue": "Pad ___",
+        "answer": "THAI",
         "row": 1,
-        "col": 0
+        "col": 1
       },
       {
         "num": 6,
-        "clue": "Newly elected senator El-Sayed",
-        "answer": "ABDUL",
+        "clue": "They make wakes on a lake",
+        "answer": "BOATS",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "\"I don't know why it's doing that ...\"",
-        "answer": "WEIRD",
+        "clue": "Occupant of Graceland",
+        "answer": "ELVIS",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Lazy A.I. content",
-        "answer": "SLOP",
+        "clue": "Itsy-bitsy",
+        "answer": "TEENY",
         "row": 4,
         "col": 0
       }
@@ -81,37 +81,37 @@
     "down": [
       {
         "num": 1,
-        "clue": "Biblical city with language problems",
-        "answer": "BABEL",
+        "clue": "Robbed",
+        "answer": "STOLE",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "The \"A\" of A/V",
-        "answer": "AUDIO",
+        "clue": "Response to \"Who's seen this movie?\"",
+        "answer": "IHAVE",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "Drink noisily",
-        "answer": "SLURP",
+        "clue": "What you're mostly speaking when you say \"He's a bona fide persona non grata\"",
+        "answer": "LATIN",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Word after \"Going once, going twice ...\"",
-        "answer": "SOLD",
+        "clue": "Kind of face with puckered lips",
+        "answer": "KISSY",
         "row": 0,
         "col": 4
       },
       {
-        "num": 5,
-        "clue": "Mutt's \"mitts\"",
-        "answer": "PAWS",
-        "row": 1,
+        "num": 6,
+        "clue": "Vegas wager",
+        "answer": "BET",
+        "row": 2,
         "col": 0
       }
     ]
