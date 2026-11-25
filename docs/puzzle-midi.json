@@ -1,220 +1,236 @@
 {
   "size": [
     9,
-    9
+    10
   ],
   "grid": [
     [
-      "H",
-      "O",
-      "L",
-      "L",
-      "A",
-      null,
-      "D",
-      "U",
-      "B"
-    ],
-    [
-      "S",
-      "H",
-      "E",
-      "E",
-      "R",
-      null,
-      "R",
-      "N",
-      "A"
-    ],
-    [
-      "N",
-      "O",
-      "D",
-      "A",
       "T",
+      "E",
+      "M",
+      "P",
+      null,
+      null,
+      "R",
+      "O",
+      "A",
+      "D"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "A",
+      "L",
+      null,
+      "O",
+      "H",
+      "I",
+      "O"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "D",
+      "A",
+      null,
+      "O",
+      "S",
+      "L",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "I",
+      null,
+      "T",
+      "E",
+      "M",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      null,
+      null,
+      "O",
+      "P",
+      "E",
+      "D",
       null,
       "A",
+      "D",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "N",
+      "E",
+      null,
+      "A",
+      "I",
+      "R",
+      null,
+      null
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "T",
+      "E",
+      "M",
       "P",
+      "E",
+      "S",
       "T"
     ],
     [
-      null,
-      "H",
-      "A",
-      "S",
-      null,
-      "G",
-      "N",
-      "C",
-      null
-    ],
-    [
-      null,
-      null,
-      "S",
-      "H",
-      "A",
-      "R",
-      "K",
-      null,
-      null
-    ],
-    [
-      null,
-      "S",
-      "T",
-      "L",
-      "O",
-      "U",
-      "I",
-      "S",
-      null
-    ],
-    [
       "M",
-      "O",
-      "R",
-      "A",
-      "L",
-      null,
-      "T",
-      "I",
-      "L"
-    ],
-    [
-      "I",
+      "E",
       "S",
       "A",
-      "W",
+      "S",
       null,
-      null,
-      "I",
-      "R",
-      "A"
+      "O",
+      "M",
+      "A",
+      "R"
     ],
     [
-      "T",
-      "O",
-      "Y",
+      "S",
+      "M",
+      "E",
+      "L",
+      "L",
       null,
-      null,
-      null,
-      "N",
-      "I",
-      "H"
+      "D",
+      "E",
+      "W",
+      "Y"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Say hi, slangily",
-        "answer": "HOLLA",
+        "clue": "Thermostat reading, for short",
+        "answer": "TEMP",
         "row": 0,
         "col": 0
       },
       {
-        "num": 6,
-        "clue": "Give a nickname",
-        "answer": "DUB",
+        "num": 5,
+        "clue": "The Beatles' \"Abbey ___\"",
+        "answer": "ROAD",
         "row": 0,
         "col": 6
       },
       {
         "num": 9,
-        "clue": "See-through, as some fabric",
-        "answer": "SHEER",
+        "clue": "Common sans-serif font",
+        "answer": "ARIAL",
         "row": 1,
         "col": 0
-      },
-      {
-        "num": 10,
-        "clue": "Molecule involved in protein synthesis",
-        "answer": "RNA",
-        "row": 1,
-        "col": 6
       },
       {
         "num": 11,
-        "clue": "Say hi to, nonverbally",
-        "answer": "NODAT",
+        "clue": "U.S. state with the second-largest Amish population, after Pennsylvania",
+        "answer": "OHIO",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "num": 12,
+        "clue": "Grammy-winning singer Ronstadt",
+        "answer": "LINDA",
         "row": 2,
         "col": 0
       },
       {
-        "num": 12,
-        "clue": "Like a barista named Bean or a fashionista named Jean",
-        "answer": "APT",
+        "num": 13,
+        "clue": "Capital of Norway",
+        "answer": "OSLO",
         "row": 2,
         "col": 6
       },
       {
-        "num": 13,
-        "clue": "Owns",
-        "answer": "HAS",
-        "row": 3,
-        "col": 1
-      },
-      {
         "num": 14,
-        "clue": "Chain that sells creatine and probiotics",
-        "answer": "GNC",
+        "clue": "Aromatic Hawaiian neckwear",
+        "answer": "LEI",
         "row": 3,
-        "col": 5
+        "col": 0
       },
       {
         "num": 15,
-        "clue": "Animal whose skin can feel similar to sandpaper",
-        "answer": "SHARK",
+        "clue": "Tendency to become enraged ... or more 1-Across?",
+        "answer": "TEMPER",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "num": 17,
+        "clue": "Opinionated newspaper column",
+        "answer": "OPED",
         "row": 4,
         "col": 2
       },
       {
-        "num": 17,
-        "clue": "Home to the monument suggested by this puzzle's circled squares, read clockwise from the lower left",
-        "answer": "STLOUIS",
-        "row": 5,
-        "col": 1
-      },
-      {
         "num": 19,
-        "clue": "Story's lesson",
-        "answer": "MORAL",
-        "row": 6,
-        "col": 0
+        "clue": "Skippable YouTube interruptions",
+        "answer": "ADS",
+        "row": 4,
+        "col": 7
       },
       {
         "num": 20,
-        "clue": "\"Fake it ___ you make it\"",
-        "answer": "TIL",
-        "row": 6,
-        "col": 6
+        "clue": "Skin woe",
+        "answer": "ACNE",
+        "row": 5,
+        "col": 0
       },
       {
         "num": 22,
-        "clue": "\"No need to fill me in\"",
-        "answer": "ISAW",
+        "clue": "What a basketball is filled with",
+        "answer": "AIR",
+        "row": 5,
+        "col": 5
+      },
+      {
+        "num": 24,
+        "clue": "Shakespeare play about Prospero ... or even more 1-Across?",
+        "answer": "THETEMPEST",
+        "row": 6,
+        "col": 0
+      },
+      {
+        "num": 28,
+        "clue": "Flat-topped landforms",
+        "answer": "MESAS",
         "row": 7,
         "col": 0
       },
       {
-        "num": 23,
-        "clue": "Pulitzer-winning Gershwin",
-        "answer": "IRA",
+        "num": 29,
+        "clue": "Minnesota congresswoman Ilhan ___",
+        "answer": "OMAR",
         "row": 7,
         "col": 6
       },
       {
-        "num": 24,
-        "clue": "Small dog size",
-        "answer": "TOY",
+        "num": 30,
+        "clue": "Take a whiff of",
+        "answer": "SMELL",
         "row": 8,
         "col": 0
       },
       {
-        "num": 25,
-        "clue": "Org. with the Undiagnosed Diseases Program",
-        "answer": "NIH",
+        "num": 31,
+        "clue": "Wet, like grass in the morning",
+        "answer": "DEWY",
         "row": 8,
         "col": 6
       }
@@ -222,101 +238,122 @@
     "down": [
       {
         "num": 1,
-        "clue": "Channel akin to QVC",
-        "answer": "HSN",
+        "clue": "\"That's a ___ order!\"",
+        "answer": "TALL",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "\"Over here! Call on me!\"",
-        "answer": "OHOH",
+        "clue": "Spooky-sounding Great Lake",
+        "answer": "ERIE",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Misguided",
-        "answer": "LEDASTRAY",
+        "clue": "Fictional language heard in \"Despicable Me\"",
+        "answer": "MINIONESE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Rule for dog walkers",
-        "answer": "LEASHLAW",
+        "clue": "Bit of protective football gear",
+        "answer": "PAD",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "It \"has no meaning because it has many meanings, infinite meanings,\" per graffitist Keith Haring",
-        "answer": "ART",
-        "row": 0,
-        "col": 4
-      },
-      {
-        "num": 6,
-        "clue": "Soaked up the moment",
-        "answer": "DRANKITIN",
+        "clue": "Hotel booking",
+        "answer": "ROOM",
         "row": 0,
         "col": 6
       },
       {
-        "num": 7,
-        "clue": "Insensitive, as some language",
-        "answer": "UNPC",
+        "num": 6,
+        "clue": "\"I've heard enough of your excuses!\"",
+        "answer": "OHSPAREME",
         "row": 0,
         "col": 7
       },
       {
-        "num": 8,
-        "clue": "Mammal that sleeps upside-down",
-        "answer": "BAT",
+        "num": 7,
+        "clue": "Felt sick",
+        "answer": "AILED",
         "row": 0,
         "col": 8
       },
       {
-        "num": 14,
-        "clue": "Reformed supervillain in \"Despicable Me\"",
-        "answer": "GRU",
+        "num": 8,
+        "clue": "Opportunities, metaphorically",
+        "answer": "DOORS",
+        "row": 0,
+        "col": 9
+      },
+      {
+        "num": 10,
+        "clue": "Not on time",
+        "answer": "LATE",
+        "row": 1,
+        "col": 4
+      },
+      {
+        "num": 16,
+        "clue": "Answer to the riddle \"What cheese is made backwards?\"",
+        "answer": "EDAM",
         "row": 3,
         "col": 5
       },
       {
-        "num": 16,
-        "clue": "\"You've got mail\" co.",
-        "answer": "AOL",
-        "row": 4,
-        "col": 4
-      },
-      {
-        "num": 17,
-        "clue": "Neither good nor bad",
-        "answer": "SOSO",
-        "row": 5,
-        "col": 1
-      },
-      {
         "num": 18,
-        "clue": "Whom you might ask to \"set a timer for 15 minutes\"",
-        "answer": "SIRI",
-        "row": 5,
-        "col": 7
+        "clue": "Colorful part of a flower",
+        "answer": "PETAL",
+        "row": 4,
+        "col": 3
       },
       {
-        "num": 19,
-        "clue": "Sch. with the annual Mystery Hunt, a days-long event for puzzle lovers",
-        "answer": "MIT",
-        "row": 6,
+        "num": 20,
+        "clue": "Cash-dispensing devices",
+        "answer": "ATMS",
+        "row": 5,
         "col": 0
       },
       {
         "num": 21,
-        "clue": "\"Well, ___-di-dah!\"",
-        "answer": "LAH",
+        "clue": "H.S. class that discusses the periodic table",
+        "answer": "CHEM",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "num": 23,
+        "clue": "Bygone device with the tagline \"1,000 songs in your pocket\"",
+        "answer": "IPOD",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "num": 25,
+        "clue": "Night school subject for some prospective U.S. citizens",
+        "answer": "ESL",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "num": 26,
+        "clue": "Observed",
+        "answer": "SAW",
         "row": 6,
         "col": 8
+      },
+      {
+        "num": 27,
+        "clue": "Give it the old college ___",
+        "answer": "TRY",
+        "row": 6,
+        "col": 9
       }
     ]
   }

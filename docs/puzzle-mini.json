@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      null,
+      "M",
+      "A",
+      "C",
       "S",
-      "I",
-      "L",
-      "K"
+      null
+    ],
+    [
+      "C",
+      "R",
+      "A",
+      "P",
+      "S"
+    ],
+    [
+      "S",
+      "C",
+      "R",
+      "A",
+      "P"
     ],
     [
       null,
-      "T",
       "H",
-      "A",
-      "I"
-    ],
-    [
       "B",
+      "C",
+      "U"
+    ],
+    [
+      null,
+      null,
       "O",
-      "A",
-      "T",
-      "S"
-    ],
-    [
       "E",
-      "L",
-      "V",
-      "I",
-      "S"
-    ],
-    [
-      "T",
-      "E",
-      "E",
-      "N",
-      "Y"
+      "R"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Spiders spin it",
-        "answer": "SILK",
+        "clue": "Apples that are typically 14 to 16 inches wide?",
+        "answer": "MACS",
         "row": 0,
-        "col": 1
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Pad ___",
-        "answer": "THAI",
+        "clue": "Casino game with dice",
+        "answer": "CRAPS",
         "row": 1,
-        "col": 1
-      },
-      {
-        "num": 6,
-        "clue": "They make wakes on a lake",
-        "answer": "BOATS",
-        "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Occupant of Graceland",
-        "answer": "ELVIS",
-        "row": 3,
+        "clue": "Ditch, as plans",
+        "answer": "SCRAP",
+        "row": 2,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Itsy-bitsy",
-        "answer": "TEENY",
+        "clue": "School such as Howard or Tuskegee, for short",
+        "answer": "HBCU",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "num": 9,
+        "clue": "\"___ the ramparts we watched ...\"",
+        "answer": "OER",
         "row": 4,
-        "col": 0
+        "col": 2
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Robbed",
-        "answer": "STOLE",
+        "clue": "Hosts ... or rappers",
+        "answer": "MCS",
+        "row": 0,
+        "col": 0
+      },
+      {
+        "num": 2,
+        "clue": "Towering attraction in St. Louis",
+        "answer": "ARCH",
         "row": 0,
         "col": 1
       },
       {
-        "num": 2,
-        "clue": "Response to \"Who's seen this movie?\"",
-        "answer": "IHAVE",
+        "num": 3,
+        "clue": "___-loading (pre-marathon activity)",
+        "answer": "CARBO",
         "row": 0,
         "col": 2
       },
       {
-        "num": 3,
-        "clue": "What you're mostly speaking when you say \"He's a bona fide persona non grata\"",
-        "answer": "LATIN",
+        "num": 4,
+        "clue": "Low bar?",
+        "answer": "SPACE",
         "row": 0,
         "col": 3
       },
       {
-        "num": 4,
-        "clue": "Kind of face with puckered lips",
-        "answer": "KISSY",
-        "row": 0,
-        "col": 4
-      },
-      {
         "num": 6,
-        "clue": "Vegas wager",
-        "answer": "BET",
-        "row": 2,
-        "col": 0
+        "clue": "Spiky part of a cowboy boot",
+        "answer": "SPUR",
+        "row": 1,
+        "col": 4
       }
     ]
   }
