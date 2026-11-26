@@ -1,359 +1,329 @@
 {
   "size": [
     9,
-    10
+    9
   ],
   "grid": [
     [
-      "T",
+      "P",
       "E",
-      "M",
+      "R",
+      "K",
+      null,
+      "N",
+      "O",
+      "R",
+      "M"
+    ],
+    [
+      "E",
+      "V",
+      "A",
+      "N",
+      null,
+      "A",
+      "H",
+      "O",
+      "Y"
+    ],
+    [
+      "T",
+      "I",
+      "R",
+      "E",
+      "S",
+      "W",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "S",
+      "L",
+      "E",
+      "E",
       "P",
       null,
-      null,
-      "R",
-      "O",
+      "S",
       "A",
+      "O"
+    ],
+    [
+      null,
+      null,
+      null,
+      "L",
+      "E",
+      "G",
+      "E",
+      "N",
       "D"
     ],
     [
-      "A",
-      "R",
-      "I",
-      "A",
-      "L",
-      null,
-      "O",
-      "H",
-      "I",
-      "O"
-    ],
-    [
-      "L",
-      "I",
-      "N",
-      "D",
-      "A",
-      null,
-      "O",
       "S",
-      "L",
-      "O"
-    ],
-    [
-      "L",
-      "E",
-      "I",
-      null,
-      "T",
-      "E",
-      "M",
-      "P",
-      "E",
-      "R"
-    ],
-    [
-      null,
-      null,
-      "O",
-      "P",
-      "E",
-      "D",
-      null,
       "A",
-      "D",
-      "S"
-    ],
-    [
-      "A",
-      "C",
-      "N",
-      "E",
+      "W",
       null,
-      "A",
-      "I",
       "R",
+      "A",
+      "E",
       null,
       null
     ],
     [
       "T",
+      "R",
+      "I",
+      "M",
+      "M",
+      "I",
+      "N",
+      "G",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "R",
+      "E",
+      null,
+      "N",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "T",
       "H",
       "E",
-      "T",
-      "E",
-      "M",
-      "P",
-      "E",
-      "S",
-      "T"
-    ],
-    [
-      "M",
-      "E",
-      "S",
-      "A",
-      "S",
+      "N",
       null,
-      "O",
-      "M",
-      "A",
-      "R"
-    ],
-    [
       "S",
-      "M",
-      "E",
-      "L",
-      "L",
-      null,
-      "D",
-      "E",
       "W",
-      "Y"
+      "A",
+      "T"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Thermostat reading, for short",
-        "answer": "TEMP",
+        "clue": "Bonus",
+        "answer": "PERK",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "The Beatles' \"Abbey ___\"",
-        "answer": "ROAD",
+        "clue": "(The) usual",
+        "answer": "NORM",
         "row": 0,
-        "col": 6
+        "col": 5
       },
       {
         "num": 9,
-        "clue": "Common sans-serif font",
-        "answer": "ARIAL",
+        "clue": "___ Gershkovich, U.S. journalist who was imprisoned for 16 months in Russia",
+        "answer": "EVAN",
         "row": 1,
         "col": 0
       },
       {
-        "num": 11,
-        "clue": "U.S. state with the second-largest Amish population, after Pennsylvania",
-        "answer": "OHIO",
+        "num": 10,
+        "clue": "Nautical greeting",
+        "answer": "AHOY",
         "row": 1,
-        "col": 6
+        "col": 5
       },
       {
-        "num": 12,
-        "clue": "Grammy-winning singer Ronstadt",
-        "answer": "LINDA",
+        "num": 11,
+        "clue": "Starts to feel exhausted",
+        "answer": "TIRESWING",
         "row": 2,
         "col": 0
       },
       {
         "num": 13,
-        "clue": "Capital of Norway",
-        "answer": "OSLO",
-        "row": 2,
-        "col": 6
+        "clue": "Succumb to the effects of tryptophan",
+        "answer": "SLEEP",
+        "row": 3,
+        "col": 0
       },
       {
         "num": 14,
-        "clue": "Aromatic Hawaiian neckwear",
-        "answer": "LEI",
+        "clue": "___ Paulo, Brazil",
+        "answer": "SAO",
         "row": 3,
-        "col": 0
+        "col": 6
       },
       {
         "num": 15,
-        "clue": "Tendency to become enraged ... or more 1-Across?",
-        "answer": "TEMPER",
-        "row": 3,
-        "col": 4
+        "clue": "Conclude",
+        "answer": "LEGEND",
+        "row": 4,
+        "col": 3
       },
       {
         "num": 17,
-        "clue": "Opinionated newspaper column",
-        "answer": "OPED",
-        "row": 4,
-        "col": 2
-      },
-      {
-        "num": 19,
-        "clue": "Skippable YouTube interruptions",
-        "answer": "ADS",
-        "row": 4,
-        "col": 7
-      },
-      {
-        "num": 20,
-        "clue": "Skin woe",
-        "answer": "ACNE",
+        "clue": "Witnessed",
+        "answer": "SAW",
         "row": 5,
         "col": 0
       },
       {
-        "num": 22,
-        "clue": "What a basketball is filled with",
-        "answer": "AIR",
+        "num": 20,
+        "clue": "Actress/writer Issa",
+        "answer": "RAE",
         "row": 5,
-        "col": 5
+        "col": 4
       },
       {
-        "num": 24,
-        "clue": "Shakespeare play about Prospero ... or even more 1-Across?",
-        "answer": "THETEMPEST",
+        "num": 21,
+        "clue": "Thanksgiving side dishes ... or, interpreted differently, the shaded squares vis-Ã -vis their full entries",
+        "answer": "TRIMMINGS",
         "row": 6,
         "col": 0
       },
       {
+        "num": 25,
+        "clue": "Unit of farmland",
+        "answer": "ACRE",
+        "row": 7,
+        "col": 0
+      },
+      {
+        "num": 26,
+        "clue": "\"Ain't gonna happen\"",
+        "answer": "NOPE",
+        "row": 7,
+        "col": 5
+      },
+      {
+        "num": 27,
+        "clue": "\"That was ___, this is now!\"",
+        "answer": "THEN",
+        "row": 8,
+        "col": 0
+      },
+      {
         "num": 28,
-        "clue": "Flat-topped landforms",
-        "answer": "MESAS",
-        "row": 7,
-        "col": 0
-      },
-      {
-        "num": 29,
-        "clue": "Minnesota congresswoman Ilhan ___",
-        "answer": "OMAR",
-        "row": 7,
-        "col": 6
-      },
-      {
-        "num": 30,
-        "clue": "Take a whiff of",
-        "answer": "SMELL",
+        "clue": "Thwack, as a buzzing fly",
+        "answer": "SWAT",
         "row": 8,
-        "col": 0
-      },
-      {
-        "num": 31,
-        "clue": "Wet, like grass in the morning",
-        "answer": "DEWY",
-        "row": 8,
-        "col": 6
+        "col": 5
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "\"That's a ___ order!\"",
-        "answer": "TALL",
+        "clue": "Nonhuman family members in a Christmas card",
+        "answer": "PETS",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Spooky-sounding Great Lake",
-        "answer": "ERIE",
+        "clue": "Wicked",
+        "answer": "EVIL",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "Fictional language heard in \"Despicable Me\"",
-        "answer": "MINIONESE",
+        "clue": "\"Red\" steak option",
+        "answer": "RARE",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Bit of protective football gear",
-        "answer": "PAD",
+        "clue": "Show obeisance to a monarch, in a way",
+        "answer": "KNEEL",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Hotel booking",
-        "answer": "ROOM",
+        "clue": "Folksy denial",
+        "answer": "NAW",
+        "row": 0,
+        "col": 5
+      },
+      {
+        "num": 6,
+        "clue": "\"It finally makes sense!\"",
+        "answer": "OHISEENOW",
         "row": 0,
         "col": 6
       },
       {
-        "num": 6,
-        "clue": "\"I've heard enough of your excuses!\"",
-        "answer": "OHSPAREME",
+        "num": 7,
+        "clue": "\"Lady Bird\" star Saoirse",
+        "answer": "RONAN",
         "row": 0,
         "col": 7
       },
       {
-        "num": 7,
-        "clue": "Felt sick",
-        "answer": "AILED",
+        "num": 8,
+        "clue": "\"Jumping Jehoshaphat!\"",
+        "answer": "MYGOD",
         "row": 0,
         "col": 8
       },
       {
-        "num": 8,
-        "clue": "Opportunities, metaphorically",
-        "answer": "DOORS",
-        "row": 0,
-        "col": 9
-      },
-      {
-        "num": 10,
-        "clue": "Not on time",
-        "answer": "LATE",
-        "row": 1,
+        "num": 12,
+        "clue": "___ whale",
+        "answer": "SPERM",
+        "row": 2,
         "col": 4
       },
       {
         "num": 16,
-        "clue": "Answer to the riddle \"What cheese is made backwards?\"",
-        "answer": "EDAM",
-        "row": 3,
+        "clue": "Encouraging stock market moves",
+        "answer": "GAINS",
+        "row": 4,
         "col": 5
       },
       {
-        "num": 18,
-        "clue": "Colorful part of a flower",
-        "answer": "PETAL",
-        "row": 4,
-        "col": 3
-      },
-      {
-        "num": 20,
-        "clue": "Cash-dispensing devices",
-        "answer": "ATMS",
+        "num": 17,
+        "clue": "Earned run average, e.g.",
+        "answer": "STAT",
         "row": 5,
         "col": 0
       },
       {
-        "num": 21,
-        "clue": "H.S. class that discusses the periodic table",
-        "answer": "CHEM",
+        "num": 18,
+        "clue": "Delicate ___, iconic Utah geological structure with a 46-foot-high opening",
+        "answer": "ARCH",
         "row": 5,
         "col": 1
       },
       {
-        "num": 23,
-        "clue": "Bygone device with the tagline \"1,000 songs in your pocket\"",
-        "answer": "IPOD",
+        "num": 19,
+        "clue": "Part of a tangled mess behind a TV, maybe",
+        "answer": "WIRE",
         "row": 5,
-        "col": 6
+        "col": 2
       },
       {
-        "num": 25,
-        "clue": "Night school subject for some prospective U.S. citizens",
-        "answer": "ESL",
+        "num": 22,
+        "clue": "TV's \"Mad ___\"",
+        "answer": "MEN",
         "row": 6,
-        "col": 4
+        "col": 3
       },
       {
-        "num": 26,
-        "clue": "Observed",
-        "answer": "SAW",
+        "num": 23,
+        "clue": "Number between 0.0 and 4.0",
+        "answer": "GPA",
+        "row": 6,
+        "col": 7
+      },
+      {
+        "num": 24,
+        "clue": "Theater backdrop",
+        "answer": "SET",
         "row": 6,
         "col": 8
-      },
-      {
-        "num": 27,
-        "clue": "Give it the old college ___",
-        "answer": "TRY",
-        "row": 6,
-        "col": 9
       }
     ]
   }

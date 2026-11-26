@@ -5,114 +5,114 @@
   ],
   "grid": [
     [
-      "M",
+      null,
       "A",
+      "G",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "L",
+      "Y"
+    ],
+    [
       "C",
+      "R",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "H",
+      "O",
+      "P",
+      "E",
+      "D"
+    ],
+    [
+      "O",
+      "N",
+      "E",
       "S",
       null
-    ],
-    [
-      "C",
-      "R",
-      "A",
-      "P",
-      "S"
-    ],
-    [
-      "S",
-      "C",
-      "R",
-      "A",
-      "P"
-    ],
-    [
-      null,
-      "H",
-      "B",
-      "C",
-      "U"
-    ],
-    [
-      null,
-      null,
-      "O",
-      "E",
-      "R"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Apples that are typically 14 to 16 inches wide?",
-        "answer": "MACS",
+        "clue": "Seasoned by time",
+        "answer": "AGED",
         "row": 0,
-        "col": 0
+        "col": 1
       },
       {
         "num": 5,
-        "clue": "Casino game with dice",
-        "answer": "CRAPS",
+        "clue": "Word before \"bird\" or \"voting\"",
+        "answer": "EARLY",
         "row": 1,
         "col": 0
       },
       {
-        "num": 7,
-        "clue": "Ditch, as plans",
-        "answer": "SCRAP",
+        "num": 6,
+        "clue": "Really want to eat ... or, when the second and third letters are switched, another apt verb for Turkey Day",
+        "answer": "CRAVE",
         "row": 2,
         "col": 0
       },
       {
-        "num": 8,
-        "clue": "School such as Howard or Tuskegee, for short",
-        "answer": "HBCU",
+        "num": 7,
+        "clue": "Crossed one's fingers",
+        "answer": "HOPED",
         "row": 3,
-        "col": 1
+        "col": 0
       },
       {
-        "num": 9,
-        "clue": "\"___ the ramparts we watched ...\"",
-        "answer": "OER",
+        "num": 8,
+        "clue": "Leftmost bills in tills",
+        "answer": "ONES",
         "row": 4,
-        "col": 2
+        "col": 0
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "Hosts ... or rappers",
-        "answer": "MCS",
-        "row": 0,
-        "col": 0
-      },
-      {
-        "num": 2,
-        "clue": "Towering attraction in St. Louis",
-        "answer": "ARCH",
+        "clue": "\"The West Wing\" creator Sorkin",
+        "answer": "AARON",
         "row": 0,
         "col": 1
       },
       {
-        "num": 3,
-        "clue": "___-loading (pre-marathon activity)",
-        "answer": "CARBO",
+        "num": 2,
+        "clue": "Flavor of a purple popsicle",
+        "answer": "GRAPE",
         "row": 0,
         "col": 2
       },
       {
-        "num": 4,
-        "clue": "Low bar?",
-        "answer": "SPACE",
+        "num": 3,
+        "clue": "North Pole toymakers",
+        "answer": "ELVES",
         "row": 0,
         "col": 3
       },
       {
-        "num": 6,
-        "clue": "Spiky part of a cowboy boot",
-        "answer": "SPUR",
-        "row": 1,
+        "num": 4,
+        "clue": "Tinted",
+        "answer": "DYED",
+        "row": 0,
         "col": 4
+      },
+      {
+        "num": 5,
+        "clue": "Reverberation in a canyon",
+        "answer": "ECHO",
+        "row": 1,
+        "col": 0
       }
     ]
   }
