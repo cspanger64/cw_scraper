@@ -5,32 +5,32 @@
   ],
   "grid": [
     [
-      "P",
-      "E",
-      "R",
-      "K",
-      null,
-      "N",
-      "O",
-      "R",
-      "M"
-    ],
-    [
-      "E",
-      "V",
       "A",
-      "N",
+      "B",
+      "B",
+      "Y",
       null,
-      "A",
-      "H",
-      "O",
-      "Y"
-    ],
-    [
+      "J",
+      "E",
       "T",
-      "I",
-      "R",
-      "E",
+      "S"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "O",
+      null,
+      "A",
+      "L",
+      "O",
+      "O"
+    ],
+    [
+      "B",
+      "A",
+      "C",
+      "K",
       "S",
       "W",
       "I",
@@ -38,15 +38,15 @@
       "G"
     ],
     [
-      "S",
-      "L",
-      "E",
-      "E",
-      "P",
-      null,
-      "S",
       "A",
-      "O"
+      "S",
+      "S",
+      "E",
+      "T",
+      null,
+      "Z",
+      "I",
+      "G"
     ],
     [
       null,
@@ -55,159 +55,159 @@
       "L",
       "E",
       "G",
-      "E",
-      "N",
-      "D"
+      "A",
+      "C",
+      "Y"
     ],
     [
-      "S",
-      "A",
-      "W",
-      null,
+      "B",
       "R",
       "A",
-      "E",
+      null,
+      "N",
+      "I",
+      "B",
       null,
       null
     ],
     [
+      "L",
+      "E",
+      "F",
       "T",
+      "O",
+      "V",
+      "E",
       "R",
-      "I",
-      "M",
-      "M",
-      "I",
-      "N",
-      "G",
       "S"
     ],
     [
-      "A",
-      "C",
-      "R",
-      "E",
-      null,
-      "N",
       "O",
-      "P",
-      "E"
+      "A",
+      "R",
+      "S",
+      null,
+      "E",
+      "T",
+      "T",
+      "A"
     ],
     [
-      "T",
-      "H",
-      "E",
-      "N",
+      "G",
+      "R",
+      "O",
+      "K",
       null,
       "S",
-      "W",
-      "A",
-      "T"
+      "H",
+      "E",
+      "D"
     ]
   ],
   "clues": {
     "across": [
       {
         "num": 1,
-        "clue": "Bonus",
-        "answer": "PERK",
+        "clue": "\"Sesame Street\" character ___ Cadabby",
+        "answer": "ABBY",
         "row": 0,
         "col": 0
       },
       {
         "num": 5,
-        "clue": "(The) usual",
-        "answer": "NORM",
+        "clue": "Ones taxiing on a tarmac",
+        "answer": "JETS",
         "row": 0,
         "col": 5
       },
       {
         "num": 9,
-        "clue": "___ Gershkovich, U.S. journalist who was imprisoned for 16 months in Russia",
-        "answer": "EVAN",
+        "clue": "Cray cray",
+        "answer": "LOCO",
         "row": 1,
         "col": 0
       },
       {
         "num": 10,
-        "clue": "Nautical greeting",
-        "answer": "AHOY",
+        "clue": "___ tikki (Indian snack made with potatoes)",
+        "answer": "ALOO",
         "row": 1,
         "col": 5
       },
       {
         "num": 11,
-        "clue": "Starts to feel exhausted",
-        "answer": "TIRESWING",
+        "clue": "Golf coach's concern",
+        "answer": "BACKSWING",
         "row": 2,
         "col": 0
       },
       {
         "num": 13,
-        "clue": "Succumb to the effects of tryptophan",
-        "answer": "SLEEP",
+        "clue": "Plus",
+        "answer": "ASSET",
         "row": 3,
         "col": 0
       },
       {
         "num": 14,
-        "clue": "___ Paulo, Brazil",
-        "answer": "SAO",
+        "clue": "Counterpart of zag",
+        "answer": "ZIG",
         "row": 3,
         "col": 6
       },
       {
         "num": 15,
-        "clue": "Conclude",
-        "answer": "LEGEND",
+        "clue": "Long-lasting impact of one's life",
+        "answer": "LEGACY",
         "row": 4,
         "col": 3
       },
       {
         "num": 17,
-        "clue": "Witnessed",
-        "answer": "SAW",
+        "clue": "Undergarment with cups",
+        "answer": "BRA",
         "row": 5,
         "col": 0
       },
       {
         "num": 20,
-        "clue": "Actress/writer Issa",
-        "answer": "RAE",
+        "clue": "Pen point",
+        "answer": "NIB",
         "row": 5,
         "col": 4
       },
       {
         "num": 21,
-        "clue": "Thanksgiving side dishes ... or, interpreted differently, the shaded squares vis-Ã -vis their full entries",
-        "answer": "TRIMMINGS",
+        "clue": "Thanksgiving trimmings served the next day, e.g. ... like from yesterday's Midi?",
+        "answer": "LEFTOVERS",
         "row": 6,
         "col": 0
       },
       {
         "num": 25,
-        "clue": "Unit of farmland",
-        "answer": "ACRE",
+        "clue": "Propellers on a rowboat",
+        "answer": "OARS",
         "row": 7,
         "col": 0
       },
       {
         "num": 26,
-        "clue": "\"Ain't gonna happen\"",
-        "answer": "NOPE",
+        "clue": "James of jazz",
+        "answer": "ETTA",
         "row": 7,
         "col": 5
       },
       {
         "num": 27,
-        "clue": "\"That was ___, this is now!\"",
-        "answer": "THEN",
+        "clue": "A.I. chatbot on X",
+        "answer": "GROK",
         "row": 8,
         "col": 0
       },
       {
         "num": 28,
-        "clue": "Thwack, as a buzzing fly",
-        "answer": "SWAT",
+        "clue": "Where a lawn mower and leaf blower may be stored",
+        "answer": "SHED",
         "row": 8,
         "col": 5
       }
@@ -215,113 +215,113 @@
     "down": [
       {
         "num": 1,
-        "clue": "Nonhuman family members in a Christmas card",
-        "answer": "PETS",
+        "clue": "Actress/business mogul Jessica",
+        "answer": "ALBA",
         "row": 0,
         "col": 0
       },
       {
         "num": 2,
-        "clue": "Wicked",
-        "answer": "EVIL",
+        "clue": "Animals that can take your breath away?",
+        "answer": "BOAS",
         "row": 0,
         "col": 1
       },
       {
         "num": 3,
-        "clue": "\"Red\" steak option",
-        "answer": "RARE",
+        "clue": "Secretly loops into an email thread",
+        "answer": "BCCS",
         "row": 0,
         "col": 2
       },
       {
         "num": 4,
-        "clue": "Show obeisance to a monarch, in a way",
-        "answer": "KNEEL",
+        "clue": "Country bumpkin",
+        "answer": "YOKEL",
         "row": 0,
         "col": 3
       },
       {
         "num": 5,
-        "clue": "Folksy denial",
-        "answer": "NAW",
+        "clue": "Moose ___, Saskatchewan",
+        "answer": "JAW",
         "row": 0,
         "col": 5
       },
       {
         "num": 6,
-        "clue": "\"It finally makes sense!\"",
-        "answer": "OHISEENOW",
+        "clue": "Queen in \"The Crown\"",
+        "answer": "ELIZABETH",
         "row": 0,
         "col": 6
       },
       {
         "num": 7,
-        "clue": "\"Lady Bird\" star Saoirse",
-        "answer": "RONAN",
+        "clue": "The \"T\" in a mixologist's GT",
+        "answer": "TONIC",
         "row": 0,
         "col": 7
       },
       {
         "num": 8,
-        "clue": "\"Jumping Jehoshaphat!\"",
-        "answer": "MYGOD",
+        "clue": "Like breakfast cereal that's been sitting in milk",
+        "answer": "SOGGY",
         "row": 0,
         "col": 8
       },
       {
         "num": 12,
-        "clue": "___ whale",
-        "answer": "SPERM",
+        "clue": "Transcriber in a courtroom",
+        "answer": "STENO",
         "row": 2,
         "col": 4
       },
       {
         "num": 16,
-        "clue": "Encouraging stock market moves",
-        "answer": "GAINS",
+        "clue": "\"What ___?\" (\"Can you explain this?\")",
+        "answer": "GIVES",
         "row": 4,
         "col": 5
       },
       {
         "num": 17,
-        "clue": "Earned run average, e.g.",
-        "answer": "STAT",
+        "clue": "Online journal",
+        "answer": "BLOG",
         "row": 5,
         "col": 0
       },
       {
         "num": 18,
-        "clue": "Delicate ___, iconic Utah geological structure with a 46-foot-high opening",
-        "answer": "ARCH",
+        "clue": "Raise, as children",
+        "answer": "REAR",
         "row": 5,
         "col": 1
       },
       {
         "num": 19,
-        "clue": "Part of a tangled mess behind a TV, maybe",
-        "answer": "WIRE",
+        "clue": "Hairstyle once sported by Pam Grier",
+        "answer": "AFRO",
         "row": 5,
         "col": 2
       },
       {
         "num": 22,
-        "clue": "TV's \"Mad ___\"",
-        "answer": "MEN",
+        "clue": "Reprimanding cluck",
+        "answer": "TSK",
         "row": 6,
         "col": 3
       },
       {
         "num": 23,
-        "clue": "Number between 0.0 and 4.0",
-        "answer": "GPA",
+        "clue": "GPS suggestion: Abbr.",
+        "answer": "RTE",
         "row": 6,
         "col": 7
       },
       {
         "num": 24,
-        "clue": "Theater backdrop",
-        "answer": "SET",
+        "clue": "Feeling like this: :crying_face:",
+        "answer": "SAD",
         "row": 6,
         "col": 8
       }

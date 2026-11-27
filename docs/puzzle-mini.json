@@ -6,37 +6,37 @@
   "grid": [
     [
       null,
-      "A",
-      "G",
-      "E",
-      "D"
+      "T",
+      "U",
+      "T",
+      null
     ],
     [
+      "N",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "O",
+      "T",
+      "H",
       "E",
-      "A",
-      "R",
+      "R"
+    ],
+    [
+      "G",
       "L",
+      "O",
+      "R",
       "Y"
     ],
     [
-      "C",
-      "R",
-      "A",
-      "V",
-      "E"
-    ],
-    [
-      "H",
-      "O",
-      "P",
+      null,
       "E",
-      "D"
-    ],
-    [
-      "O",
-      "N",
+      "K",
       "E",
-      "S",
       null
     ]
   ],
@@ -44,75 +44,75 @@
     "across": [
       {
         "num": 1,
-        "clue": "Seasoned by time",
-        "answer": "AGED",
+        "clue": "When doubled, the sort of reprimand you might give an Egyptian king?",
+        "answer": "TUT",
         "row": 0,
         "col": 1
       },
       {
-        "num": 5,
-        "clue": "Word before \"bird\" or \"voting\"",
-        "answer": "EARLY",
+        "num": 4,
+        "clue": "When doubled, \"Sleep well!\"",
+        "answer": "NIGHT",
         "row": 1,
         "col": 0
       },
       {
         "num": 6,
-        "clue": "Really want to eat ... or, when the second and third letters are switched, another apt verb for Turkey Day",
-        "answer": "CRAVE",
+        "clue": "Not this or that, with \"the\"",
+        "answer": "OTHER",
         "row": 2,
         "col": 0
       },
       {
         "num": 7,
-        "clue": "Crossed one's fingers",
-        "answer": "HOPED",
+        "clue": "Hero's everlasting acclaim",
+        "answer": "GLORY",
         "row": 3,
         "col": 0
       },
       {
         "num": 8,
-        "clue": "Leftmost bills in tills",
-        "answer": "ONES",
+        "clue": "Barely ___ out",
+        "answer": "EKE",
         "row": 4,
-        "col": 0
+        "col": 1
       }
     ],
     "down": [
       {
         "num": 1,
-        "clue": "\"The West Wing\" creator Sorkin",
-        "answer": "AARON",
+        "clue": "It might change with a promotion",
+        "answer": "TITLE",
         "row": 0,
         "col": 1
       },
       {
         "num": 2,
-        "clue": "Flavor of a purple popsicle",
-        "answer": "GRAPE",
+        "clue": "\"Fine, if you must\"",
+        "answer": "UGHOK",
         "row": 0,
         "col": 2
       },
       {
         "num": 3,
-        "clue": "North Pole toymakers",
-        "answer": "ELVES",
+        "clue": "When doubled, consoling words",
+        "answer": "THERE",
         "row": 0,
         "col": 3
       },
       {
         "num": 4,
-        "clue": "Tinted",
-        "answer": "DYED",
-        "row": 0,
-        "col": 4
+        "clue": "Christmas drink",
+        "answer": "NOG",
+        "row": 1,
+        "col": 0
       },
       {
         "num": 5,
-        "clue": "Reverberation in a canyon",
-        "answer": "ECHO",
+        "clue": "Word that's doubled before \"again,\" in a phrase",
+        "answer": "TRY",
         "row": 1,
-        "col": 0
+        "col": 4
       }
     ]
   }
